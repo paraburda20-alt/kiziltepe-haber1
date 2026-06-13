@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Mardin'de otomobiller çarpıştı: 1 ölü 4 yaralı",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzJEM2NnWDUxaEpqVGV0VGdvRkx0clVraFJyRV9wVTVFWTF1QVdUbHg0Y2xpcVpYUnA1cnV1TmlES3VUdkxDNkV3M0w5LTgwWGJrTjJrM0MwYXRjclRVdG8xb18wVHVmLWJ0ZnBlVVlOakQzVHhPTGxpdW5FZXJoS1VqS2dKZ1BIS3FUTDdCWDRTTVlOSTZaMTJCWkZxQQ?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 06:45:21 GMT",
+      "guid": "CBMingFBVV95cUxNQzJEM2NnWDUxaEpqVGV0VGdvRkx0clVraFJyRV9wVTVFWTF1QVdUbHg0Y2xpcVpYUnA1cnV1TmlES3VUdkxDNkV3M0w5LTgwWGJrTjJrM0MwYXRjclRVdG8xb18wVHVmLWJ0ZnBlVVlOakQzVHhPTGxpdW5FZXJoS1VqS2dKZ1BIS3FUTDdCWDRTTVlOSTZaMTJCWkZxQQ",
+      "source": "Yeni Şafak",
+      "id": "CBMingFBVV95cUxNQzJEM2NnWDUxaEpqVGV0VGdvRkx0clVraFJyRV9wVTVFWTF1QVdUbHg0Y2xpcVpYUnA1cnV1TmlES3VUdkxDNkV3M0w5LTgwWGJrTjJrM0MwYXRjclRVdG8xb18wVHVmLWJ0ZnBlVVlOakQzVHhPTGxpdW5FZXJoS1VqS2dKZ1BIS3FUTDdCWDRTTVlOSTZaMTJCWkZxQQ",
+      "crawledAt": "2026-06-13T23:10:27.251Z"
+    },
+    {
+      "title": "Mardin'de otomobiller çarpıştı: 5 yaralı",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTm9hd0s3Z1NVY1c4V3BoemlXVVBUMjR4clRkejdFczFHMUlKZ05zVWZBMEpodGVmWjQ1X0MwTElGVk55R0JlaVdVX0pNT19FVkVpRllDY0NxSUQyRzgxU1RRYUtRaGVRMGk5T3ZyWHhNSF9nMzRIVG5ab3JmVG1lNy1yQ2dOTGM5bl82dG10aFpwR1BnMm1CSUp3VEVMOVdVeXJmMHQ4bWgzaTQ?oc=5",
+      "pubDate": "Sun, 14 Dec 2025 08:00:00 GMT",
+      "guid": "CBMiqwFBVV95cUxPTm9hd0s3Z1NVY1c4V3BoemlXVVBUMjR4clRkejdFczFHMUlKZ05zVWZBMEpodGVmWjQ1X0MwTElGVk55R0JlaVdVX0pNT19FVkVpRllDY0NxSUQyRzgxU1RRYUtRaGVRMGk5T3ZyWHhNSF9nMzRIVG5ab3JmVG1lNy1yQ2dOTGM5bl82dG10aFpwR1BnMm1CSUp3VEVMOVdVeXJmMHQ4bWgzaTQ",
+      "source": "Hürriyet",
+      "id": "CBMiqwFBVV95cUxPTm9hd0s3Z1NVY1c4V3BoemlXVVBUMjR4clRkejdFczFHMUlKZ05zVWZBMEpodGVmWjQ1X0MwTElGVk55R0JlaVdVX0pNT19FVkVpRllDY0NxSUQyRzgxU1RRYUtRaGVRMGk5T3ZyWHhNSF9nMzRIVG5ab3JmVG1lNy1yQ2dOTGM5bl82dG10aFpwR1BnMm1CSUp3VEVMOVdVeXJmMHQ4bWgzaTQ",
+      "crawledAt": "2026-06-13T23:10:27.251Z"
+    },
+    {
       "title": "Kızıltepe Haberleri - İki aile arasında silahlı, taşlı ve sopalı ‘yol verme’ kavgası: 2 ölü, 7 yaralı (2) - Mardin Haberleri",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGRSN25BOXl6aGcwazdOR3dPQzFYTG9ibGUtMWlUeENOQVVGQkZ2SkhxTUNaeXVVTjFEdVgxVlc4emZMZkZSTHBINW1TcDM5cHBHeENKYXdIWWxCLThfNWdpdWZjYVRDYXp5cHRPX2dVYkc3NkNua1JNUFhXYTh4ZFRmdExrbXR1eGlzQzBfUVI4dUlGMjlFaktYWVpnXzZld0ZHbFVmYlREbGc1Ym5sOEtRUmg?oc=5",
       "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
@@ -1172,6 +1190,48 @@
     "enableDiscord": false
   },
   "logs": [
+    {
+      "id": "bvmyh5lv1",
+      "timestamp": "2026-06-13T23:10:28.281Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'de otomobiller çarpıştı: 1 ölü 4 ...\"",
+      "type": "info"
+    },
+    {
+      "id": "7tcttiq4r",
+      "timestamp": "2026-06-13T23:10:27.611Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'de otomobiller çarpıştı: 5 yaralı...\"",
+      "type": "info"
+    },
+    {
+      "id": "jvqy9fauo",
+      "timestamp": "2026-06-13T23:10:27.255Z",
+      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "hsvyj8n8a",
+      "timestamp": "2026-06-13T23:10:27.253Z",
+      "message": "Veritabanına 2 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "uux6musnm",
+      "timestamp": "2026-06-13T23:10:27.247Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "0e276414k",
+      "timestamp": "2026-06-13T23:10:26.510Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "09wrhsy9y",
+      "timestamp": "2026-06-13T23:10:26.505Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "qz2tpfkmr",
       "timestamp": "2026-06-13T21:58:45.411Z",
