@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin'de iki otomobil çarpıştı: 1 kişi öldü, 4 kişi yaralandı",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXg0c0RWMDczNjlfTTg1OHB1ckMtUVdxTEx1RUU1djdrdVVXT01TQXMwMUJlX0pWeG91Z1VHQk5IT2RveVY4aUtfUkxTeWpxemdSeXI3Z0J6SEplalMtLVFXQzU4NkpjYmVfbFVONmdaR0lvT3NWcld0RDlHVkQ0MjctaG9rdXhEMm9tcUxWclN2T05ocHkyNkpOdHQwWnpMamRnUA?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 07:15:00 GMT",
+      "guid": "CBMipAFBVV95cUxNZXg0c0RWMDczNjlfTTg1OHB1ckMtUVdxTEx1RUU1djdrdVVXT01TQXMwMUJlX0pWeG91Z1VHQk5IT2RveVY4aUtfUkxTeWpxemdSeXI3Z0J6SEplalMtLVFXQzU4NkpjYmVfbFVONmdaR0lvT3NWcld0RDlHVkQ0MjctaG9rdXhEMm9tcUxWclN2T05ocHkyNkpOdHQwWnpMamRnUA",
+      "source": "Internet Haber",
+      "id": "CBMipAFBVV95cUxNZXg0c0RWMDczNjlfTTg1OHB1ckMtUVdxTEx1RUU1djdrdVVXT01TQXMwMUJlX0pWeG91Z1VHQk5IT2RveVY4aUtfUkxTeWpxemdSeXI3Z0J6SEplalMtLVFXQzU4NkpjYmVfbFVONmdaR0lvT3NWcld0RDlHVkQ0MjctaG9rdXhEMm9tcUxWclN2T05ocHkyNkpOdHQwWnpMamRnUA",
+      "crawledAt": "2026-06-13T17:52:07.537Z"
+    },
+    {
       "title": "Mardin'de halı motifli cadde ilgi görüyor",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFFqeUQ0Xzg4TXVpSUZORnhfckdGV0RqQXF4d0EweFltUUJoZEl3M2l3YlpuRkpwSnFPcmtwUEFVUmRJQ2YtODN3WktFMm9YRUoxZ0lmbkx1NkdtcDZEWThPMzJPNWROQXl4RXFqV1N0RXN4V2lYU1dIbEtJWTI2U0dRUTFFb3dheWfSAY8BQVVfeXFMT1dUc2h1UjhLU2Y0NEtMOTJWMVBXSjVrWjVleXVQVS12YVVTVkppQkdlLXBNOHVyUGhRVWpIWHNjT1lqc21aSXpiWGpLYW0yWlpQd3BiVmtfRVpWRzlEVkV2MTQ2eXpMNGgzNFFvVWtOc3hZNjZaLXpuWXl0S3VyRDBOb0loRzl3WkxGRWlwOG8?oc=5",
       "pubDate": "Fri, 12 Jun 2026 07:19:00 GMT",
@@ -929,6 +938,42 @@
     "enableDiscord": false
   },
   "logs": [
+    {
+      "id": "aq9j4fau4",
+      "timestamp": "2026-06-13T17:52:08.257Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'de iki otomobil çarpıştı: 1 kişi ...\"",
+      "type": "info"
+    },
+    {
+      "id": "40whelcwj",
+      "timestamp": "2026-06-13T17:52:07.540Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "ux91lbbjn",
+      "timestamp": "2026-06-13T17:52:07.538Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "8dvsetwz1",
+      "timestamp": "2026-06-13T17:52:07.533Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "hc4z4la9d",
+      "timestamp": "2026-06-13T17:52:06.943Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ye9iidg70",
+      "timestamp": "2026-06-13T17:52:06.939Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "m2m4bn48i",
       "timestamp": "2026-06-13T16:43:38.330Z",
