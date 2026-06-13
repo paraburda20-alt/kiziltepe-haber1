@@ -463,7 +463,7 @@ function App() {
                     <ShieldCheck size={16} />
                     <span>Telegram Kurulumu Nasıl Yapılır?</span>
                   </div>
-                  <ol style={{ fontSize: '0.75rem', color: var(--text-muted), paddingLeft: '1.2rem', lineHeight: '1.5' }}>
+                  <ol style={{ fontSize: '0.75rem', color: 'var(--text-muted)', paddingLeft: '1.2rem', lineHeight: '1.5' }}>
                     <li>Telegram'da <b>@BotFather</b> botuna gidin ve <code>/newbot</code> komutuyla yeni bir bot oluşturun.</li>
                     <li>Sırada verilen <b>HTTP API Token</b> değerini yukarıdaki "Bot Token" alanına yapıştırın.</li>
                     <li>Oluşturduğunuz botu başlatın (Start'a tıklayın).</li>
