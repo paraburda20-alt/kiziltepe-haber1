@@ -930,6 +930,12 @@
   },
   "logs": [
     {
+      "id": "m2m4bn48i",
+      "timestamp": "2026-06-13T16:43:38.330Z",
+      "message": "Telegram test bildirimi başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
       "id": "xo3pn0lz7",
       "timestamp": "2026-06-13T16:38:49.924Z",
       "message": "Telegram test bildirimi başarısız: Not Found",
