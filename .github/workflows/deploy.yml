@@ -1,0 +1,36 @@
+name: Arayuzu Github Pages'e Yukle
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'db.json' # Prevents rebuilding site every time news updates
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Required to push to gh-pages branch
+
+    steps:
+      - name: Depoyu Klonla (Checkout)
+        uses: actions/checkout@v4
+
+      - name: Node.js Kurulumu
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Bagimliliklari Yukle ve Derle (Build)
+        run: |
+          npm run setup
+          npm run build --prefix frontend
+
+      - name: Github Pages'e Yukle (Deploy)
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: frontend/dist
+          branch: gh-pages

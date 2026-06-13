@@ -1,0 +1,13 @@
+{
+  "articles": [],
+  "settings": {
+    "query": "Kızıltepe",
+    "intervalMinutes": 30,
+    "telegramToken": "",
+    "telegramChatId": "",
+    "enableTelegram": false,
+    "discordWebhook": "",
+    "enableDiscord": false
+  },
+  "logs": []
+}
