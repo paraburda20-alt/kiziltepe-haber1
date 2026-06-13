@@ -1,10 +1,13 @@
 import { notifications } from './backend/notifications.js';
+import { db } from './backend/db.js';
 
 const token = process.env.TELEGRAM_TOKEN;
 const chatId = process.env.TELEGRAM_CHAT_ID;
 
 if (!token || !chatId) {
-  console.error('Hata: TELEGRAM_TOKEN veya TELEGRAM_CHAT_ID ortam degiskenleri bulunamadi!');
+  const errorMsg = 'Hata: TELEGRAM_TOKEN veya TELEGRAM_CHAT_ID ortam degiskenleri GitHub Secrets kisminda bulunamadi!';
+  console.error(errorMsg);
+  db.addLog(errorMsg, 'error');
   process.exit(1);
 }
 
