@@ -1,0 +1,29 @@
+name: Telegram Baglanti Testi
+
+on:
+  workflow_dispatch:
+    # Allows manual trigger to test Telegram connection
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Depoyu Klonla (Checkout)
+        uses: actions/checkout@v4
+
+      - name: Node.js Kurulumu
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Bagimliliklari Yukle
+        run: |
+          npm install
+
+      - name: Test Mesajini Gonder
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          node test_telegram.js
