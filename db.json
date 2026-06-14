@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin'de buğday tarlaları alevlere teslim oldu: 230 dönüm zarar gördü",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHdJWGV0TW14MHg2VUhJczUxc2tzVnNrLUNXakk5YWh1eFNncFNlZnN0a2NfbkFFZi03R3U0NWVwSFEwVjE2WHJjc0tVZGRkN2ZMU0wzc1hOelY4U3NVcW14RFllZGZHUzdHQno2R2IzSVhfa1B1Y0NwY2p2ZGJQUTlWX2Uwci1IZURmTmRaSFQtd3E2MjFlMURUYzNQUmRoejdtWUMtVjVhRjBBdm05NU5CTQ?oc=5",
+      "pubDate": "Sun, 14 Jun 2026 13:32:03 GMT",
+      "guid": "CBMiswFBVV95cUxORHdJWGV0TW14MHg2VUhJczUxc2tzVnNrLUNXakk5YWh1eFNncFNlZnN0a2NfbkFFZi03R3U0NWVwSFEwVjE2WHJjc0tVZGRkN2ZMU0wzc1hOelY4U3NVcW14RFllZGZHUzdHQno2R2IzSVhfa1B1Y0NwY2p2ZGJQUTlWX2Uwci1IZURmTmRaSFQtd3E2MjFlMURUYzNQUmRoejdtWUMtVjVhRjBBdm05NU5CTQ",
+      "source": "Yeniçağ Gazetesi",
+      "id": "CBMiswFBVV95cUxORHdJWGV0TW14MHg2VUhJczUxc2tzVnNrLUNXakk5YWh1eFNncFNlZnN0a2NfbkFFZi03R3U0NWVwSFEwVjE2WHJjc0tVZGRkN2ZMU0wzc1hOelY4U3NVcW14RFllZGZHUzdHQno2R2IzSVhfa1B1Y0NwY2p2ZGJQUTlWX2Uwci1IZURmTmRaSFQtd3E2MjFlMURUYzNQUmRoejdtWUMtVjVhRjBBdm05NU5CTQ",
+      "crawledAt": "2026-06-14T20:46:30.748Z"
+    },
+    {
       "title": "Mardin'de iki otomobilin çarpıştığı kazada 1 kişi öldü, 4 kişi yaralandı",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWZuUVc0VFlGR0pjcGRvRDBQZktjai04a3pndVQxSzdzYkh4MkZvR0EwTGFDYnV2b204TEpmUjVvM0VDaU1xZDBFT2dGaXlLUndLa3FWMFNXVHJmSDJrYnNJUTl4enBfM2ZvOVZmLVRveUNjRHF5S3RZS3ZxZjdWanI1Zi1MbktXdWs5bDA0YmlMNEt1ZWk3dkRTVUNDVlFPNlVRdXJPNWhkNUVjUl9URHhYbUVmQdIBvgFBVV95cUxPLWtfSFlCLVByZjVYempCTWVRV092My02SzJGZVVsdjhSTmJxRDk1NTFVN2tzZXE0eDdLbDVjRWNTYl9Gb1JwSmtjenJsOWJJang5X2xJWW15d0tpOGxDWjRNaHB1YjNRYzA1SmNKVmZKcWFvNk9TbDdXYzgwdS00UGVmSUJIZlBnemRUZ2VuYjRoZVVtYlgwSE5QQXFvYTZyNFRWY1p5QVRNeGNTS3hBYUR2ak5Oa0tMT29ZQVhR?oc=5",
       "pubDate": "Fri, 12 Jun 2026 06:29:30 GMT",
@@ -1370,6 +1379,42 @@
     "enableDiscord": false
   },
   "logs": [
+    {
+      "id": "4bcs8vnvk",
+      "timestamp": "2026-06-14T20:46:31.614Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'de buğday tarlaları alevlere tesl...\"",
+      "type": "info"
+    },
+    {
+      "id": "vj4jpuqna",
+      "timestamp": "2026-06-14T20:46:30.752Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "756gzbd9q",
+      "timestamp": "2026-06-14T20:46:30.750Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "j9z6b2u9s",
+      "timestamp": "2026-06-14T20:46:30.744Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "zuxqwwc11",
+      "timestamp": "2026-06-14T20:46:30.069Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ykny1yg36",
+      "timestamp": "2026-06-14T20:46:30.063Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "1t6tdohbs",
       "timestamp": "2026-06-14T19:22:08.546Z",
