@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin'de Yangın: 230 Dönüm Buğday Alanı Zarar Gördü",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSFJFdlByaUxULU9rYUtMOG9Yc3pQbWtQZDNPZU44ZTdKNm00SFQ0cWJRTnE5OUxZamNDRjh0WjdlQmZpZHMxS0YtLXpSNVl0cG5XekI1QVVPRmg5aml4a1R1aFJCdzFvajNfN3QxaXhudFBTVTJrRXVqdmhFQ3BmTE9BM282QjlUb2I4cWd6SzM3ek9zYnJGcGdaZFc5dXVQ0gGcAUFVX3lxTE05VG9IS3NrTk0xN2lKd1ZZb29BNGxkcVZSMVJDSGlyUDFPT3JRV0lUUWVBek13aUtvWFdSLVY4WG9Ddm94RWRPLTNTM1NyV3VWVk93SnlNWmlRblFjQk1LRXNCM2tRNGwwX3JXaV95T3RqQWNNQWRVREFxMUUyM2ltYl9aelU0ZVV4d292Y0dzV0o3c3Jremx0Nlp4eQ?oc=5",
+      "pubDate": "Sun, 14 Jun 2026 13:27:02 GMT",
+      "guid": "CBMioAFBVV95cUxQSFJFdlByaUxULU9rYUtMOG9Yc3pQbWtQZDNPZU44ZTdKNm00SFQ0cWJRTnE5OUxZamNDRjh0WjdlQmZpZHMxS0YtLXpSNVl0cG5XekI1QVVPRmg5aml4a1R1aFJCdzFvajNfN3QxaXhudFBTVTJrRXVqdmhFQ3BmTE9BM282QjlUb2I4cWd6SzM3ek9zYnJGcGdaZFc5dXVQ0gGcAUFVX3lxTE05VG9IS3NrTk0xN2lKd1ZZb29BNGxkcVZSMVJDSGlyUDFPT3JRV0lUUWVBek13aUtvWFdSLVY4WG9Ddm94RWRPLTNTM1NyV3VWVk93SnlNWmlRblFjQk1LRXNCM2tRNGwwX3JXaV95T3RqQWNNQWRVREFxMUUyM2ltYl9aelU0ZVV4d292Y0dzV0o3c3Jremx0Nlp4eQ",
+      "source": "SonDakika",
+      "id": "CBMioAFBVV95cUxQSFJFdlByaUxULU9rYUtMOG9Yc3pQbWtQZDNPZU44ZTdKNm00SFQ0cWJRTnE5OUxZamNDRjh0WjdlQmZpZHMxS0YtLXpSNVl0cG5XekI1QVVPRmg5aml4a1R1aFJCdzFvajNfN3QxaXhudFBTVTJrRXVqdmhFQ3BmTE9BM282QjlUb2I4cWd6SzM3ek9zYnJGcGdaZFc5dXVQ0gGcAUFVX3lxTE05VG9IS3NrTk0xN2lKd1ZZb29BNGxkcVZSMVJDSGlyUDFPT3JRV0lUUWVBek13aUtvWFdSLVY4WG9Ddm94RWRPLTNTM1NyV3VWVk93SnlNWmlRblFjQk1LRXNCM2tRNGwwX3JXaV95T3RqQWNNQWRVREFxMUUyM2ltYl9aelU0ZVV4d292Y0dzV0o3c3Jremx0Nlp4eQ",
+      "crawledAt": "2026-06-14T23:45:08.079Z"
+    },
+    {
       "title": "Orçun Kızıltepe, sigortaladim.com Genel Müdürü Oldu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEo2UzZrUmdjd1d4SHZROXVJRHRhMXF0WjE4U2xOdF9fMDRhdGwtVmt1YVpUNllWY1E5V05US3RUZlFfR0lyZDdud19zamJSR2Q5MTZXU19hRjVfVk9qNDZKckdjbnJZa3dVQS1xQWpUdFVENng1MHNabmFyT1E1OUVzTHp3enlfQTdvQw?oc=5",
       "pubDate": "Thu, 11 Jun 2026 11:13:37 GMT",
@@ -1433,6 +1442,42 @@
     "enableDiscord": false
   },
   "logs": [
+    {
+      "id": "w989g86a9",
+      "timestamp": "2026-06-14T23:45:08.461Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'de Yangın: 230 Dönüm Buğday Alanı...\"",
+      "type": "info"
+    },
+    {
+      "id": "0vhrmuoqk",
+      "timestamp": "2026-06-14T23:45:08.083Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "v4yhfn2ui",
+      "timestamp": "2026-06-14T23:45:08.081Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "56qwclvj1",
+      "timestamp": "2026-06-14T23:45:08.074Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "j2l9z80te",
+      "timestamp": "2026-06-14T23:45:07.485Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "9cnonl9lu",
+      "timestamp": "2026-06-14T23:45:07.478Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "zc9xvt9iv",
       "timestamp": "2026-06-14T22:05:12.878Z",
