@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin'de iki otomobilin çarpıştığı kazada 1 kişi öldü, 4 kişi yaralandı",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWZuUVc0VFlGR0pjcGRvRDBQZktjai04a3pndVQxSzdzYkh4MkZvR0EwTGFDYnV2b204TEpmUjVvM0VDaU1xZDBFT2dGaXlLUndLa3FWMFNXVHJmSDJrYnNJUTl4enBfM2ZvOVZmLVRveUNjRHF5S3RZS3ZxZjdWanI1Zi1MbktXdWs5bDA0YmlMNEt1ZWk3dkRTVUNDVlFPNlVRdXJPNWhkNUVjUl9URHhYbUVmQdIBvgFBVV95cUxPLWtfSFlCLVByZjVYempCTWVRV092My02SzJGZVVsdjhSTmJxRDk1NTFVN2tzZXE0eDdLbDVjRWNTYl9Gb1JwSmtjenJsOWJJang5X2xJWW15d0tpOGxDWjRNaHB1YjNRYzA1SmNKVmZKcWFvNk9TbDdXYzgwdS00UGVmSUJIZlBnemRUZ2VuYjRoZVVtYlgwSE5QQXFvYTZyNFRWY1p5QVRNeGNTS3hBYUR2ak5Oa0tMT29ZQVhR?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 06:29:30 GMT",
+      "guid": "CBMitgFBVV95cUxQRWZuUVc0VFlGR0pjcGRvRDBQZktjai04a3pndVQxSzdzYkh4MkZvR0EwTGFDYnV2b204TEpmUjVvM0VDaU1xZDBFT2dGaXlLUndLa3FWMFNXVHJmSDJrYnNJUTl4enBfM2ZvOVZmLVRveUNjRHF5S3RZS3ZxZjdWanI1Zi1MbktXdWs5bDA0YmlMNEt1ZWk3dkRTVUNDVlFPNlVRdXJPNWhkNUVjUl9URHhYbUVmQdIBvgFBVV95cUxPLWtfSFlCLVByZjVYempCTWVRV092My02SzJGZVVsdjhSTmJxRDk1NTFVN2tzZXE0eDdLbDVjRWNTYl9Gb1JwSmtjenJsOWJJang5X2xJWW15d0tpOGxDWjRNaHB1YjNRYzA1SmNKVmZKcWFvNk9TbDdXYzgwdS00UGVmSUJIZlBnemRUZ2VuYjRoZVVtYlgwSE5QQXFvYTZyNFRWY1p5QVRNeGNTS3hBYUR2ak5Oa0tMT29ZQVhR",
+      "source": "Memurlar.Net",
+      "id": "CBMitgFBVV95cUxQRWZuUVc0VFlGR0pjcGRvRDBQZktjai04a3pndVQxSzdzYkh4MkZvR0EwTGFDYnV2b204TEpmUjVvM0VDaU1xZDBFT2dGaXlLUndLa3FWMFNXVHJmSDJrYnNJUTl4enBfM2ZvOVZmLVRveUNjRHF5S3RZS3ZxZjdWanI1Zi1MbktXdWs5bDA0YmlMNEt1ZWk3dkRTVUNDVlFPNlVRdXJPNWhkNUVjUl9URHhYbUVmQdIBvgFBVV95cUxPLWtfSFlCLVByZjVYempCTWVRV092My02SzJGZVVsdjhSTmJxRDk1NTFVN2tzZXE0eDdLbDVjRWNTYl9Gb1JwSmtjenJsOWJJang5X2xJWW15d0tpOGxDWjRNaHB1YjNRYzA1SmNKVmZKcWFvNk9TbDdXYzgwdS00UGVmSUJIZlBnemRUZ2VuYjRoZVVtYlgwSE5QQXFvYTZyNFRWY1p5QVRNeGNTS3hBYUR2ak5Oa0tMT29ZQVhR",
+      "crawledAt": "2026-06-14T17:56:02.386Z"
+    },
+    {
       "title": "Mardin'de buğday tarlalarında yangın: 230 dönüm zarar gördü",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQjk3OHU0eW8zX1VaaGlmcmJMMVpvekVQZnpYa2xyNDZwbjVTSVdfalNxbk83aWhYeWduQkt2MUtyTnpSdUpZak9nNHNObFBoeWotMzFpMF8zbHpiSXNVTFlyelZRajlZYjhLMUhhbVlGcVh6MzVQbHEwQUhNVkxJTXR6c2FQVWxkamRvUFpsZUlTa3ZFSmp1UmxKNjZVWDRpTV9EOVFR?oc=5",
       "pubDate": "Sun, 14 Jun 2026 12:53:13 GMT",
@@ -1361,6 +1370,42 @@
     "enableDiscord": false
   },
   "logs": [
+    {
+      "id": "7f3lydzf8",
+      "timestamp": "2026-06-14T17:56:02.900Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'de iki otomobilin çarpıştığı kaza...\"",
+      "type": "info"
+    },
+    {
+      "id": "mldt1q7sv",
+      "timestamp": "2026-06-14T17:56:02.391Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "7om4knxzx",
+      "timestamp": "2026-06-14T17:56:02.389Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "2xmy2mxrc",
+      "timestamp": "2026-06-14T17:56:02.381Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "2owkz10vq",
+      "timestamp": "2026-06-14T17:56:01.680Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ak65nhyd0",
+      "timestamp": "2026-06-14T17:56:01.674Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "amqc8cxv9",
       "timestamp": "2026-06-14T16:18:50.864Z",
