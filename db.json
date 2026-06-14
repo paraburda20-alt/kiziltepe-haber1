@@ -1371,6 +1371,30 @@
   },
   "logs": [
     {
+      "id": "1t6tdohbs",
+      "timestamp": "2026-06-14T19:22:08.546Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "613k4c7f9",
+      "timestamp": "2026-06-14T19:22:08.538Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "bkxk4odtc",
+      "timestamp": "2026-06-14T19:22:07.993Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "mdh1jckxy",
+      "timestamp": "2026-06-14T19:22:07.986Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "7f3lydzf8",
       "timestamp": "2026-06-14T17:56:02.900Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de iki otomobilin çarpıştığı kaza...\"",
