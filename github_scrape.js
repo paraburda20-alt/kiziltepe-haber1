@@ -1,5 +1,6 @@
 import { runScraper } from './backend/scraper.js';
 import { db } from './backend/db.js';
+import { runScheduledJobs } from './backend/scheduled_jobs.js';
 
 async function run() {
   db.addLog('GitHub Actions ortamında otomatik tarama başlatıldı.', 'info');
@@ -12,6 +13,9 @@ async function run() {
     console.log(`- Yeni Eklenen: ${result.newCount}`);
     console.log(`- Bildirim Durumu: ${result.notified ? 'Aktif' : 'Pasif (İlk Çalışma)'}`);
     
+    // Run daily scheduled jobs (Morning Report / Pharmacy Report)
+    await runScheduledJobs();
+    
     process.exit(0);
   } catch (error) {
     console.error('GitHub Actions Scraper hata verdi:', error);
@@ -21,3 +25,4 @@ async function run() {
 }
 
 run();
+

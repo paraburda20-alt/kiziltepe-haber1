@@ -7,6 +7,8 @@ import fs from 'fs';
 import { db } from './db.js';
 import { runScraper } from './scraper.js';
 import { notifications } from './notifications.js';
+import { runScheduledJobs } from './scheduled_jobs.js';
+
 
 dotenv.config();
 
@@ -166,6 +168,7 @@ function startScraperScheduler() {
     try {
       await runScraper();
       lastRunTime = new Date();
+      await runScheduledJobs();
     } catch (err) {
       db.addLog(`Planlanmış taramada hata oluştu: ${err.message}`, 'error');
     } finally {
@@ -186,6 +189,7 @@ app.listen(PORT, async () => {
   try {
     lastRunTime = new Date();
     await runScraper(false); // first run - don't notify to prevent spam
+    await runScheduledJobs();
   } catch (error) {
     db.addLog(`Açılış taramasında hata oluştu: ${error.message}`, 'error');
   } finally {

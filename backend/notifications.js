@@ -15,20 +15,26 @@ function escapeHtml(text) {
  * @param {string} chatId - Telegram Chat ID or Channel ID
  * @param {string} text - Message text in HTML format
  */
-async function sendTelegramMessage(token, chatId, text) {
+async function sendTelegramMessage(token, chatId, text, replyMarkup = null) {
   const url = `https://api.telegram.org/bot${token}/sendMessage`;
+  
+  const payload = {
+    chat_id: chatId,
+    text: text,
+    parse_mode: 'HTML',
+    disable_web_page_preview: false
+  };
+  
+  if (replyMarkup) {
+    payload.reply_markup = replyMarkup;
+  }
   
   const response = await fetch(url, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
     },
-    body: JSON.stringify({
-      chat_id: chatId,
-      text: text,
-      parse_mode: 'HTML',
-      disable_web_page_preview: false
-    })
+    body: JSON.stringify(payload)
   });
 
   const result = await response.json();
@@ -37,6 +43,7 @@ async function sendTelegramMessage(token, chatId, text) {
   }
   return result;
 }
+
 
 /**
  * Sends a notification to Discord Webhook.
@@ -61,6 +68,13 @@ async function sendDiscordMessage(webhookUrl, embed) {
 
 export const notifications = {
   /**
+   * Expose sendTelegramMessage directly for scheduled jobs
+   */
+  async sendDirectTelegram(token, chatId, text, replyMarkup = null) {
+    return sendTelegramMessage(token, chatId, text, replyMarkup);
+  },
+
+  /**
    * Send news notification to all enabled channels
    * @param {object} article - The article to notify about
    */
@@ -80,17 +94,26 @@ export const notifications = {
           `🔔 <b>YENİ HABER: Kızıltepe</b>\n`,
           `📰 <b>${title}</b>\n`,
           `🏢 <b>Kaynak:</b> ${source}`,
-          `📅 <b>Tarih:</b> ${pubDate}\n`,
-          `🔗 <a href="${link}">Haberi Okumak İçin Tıklayın</a>`
+          `📅 <b>Tarih:</b> ${pubDate}`
         ].join('\n');
 
-        await sendTelegramMessage(settings.telegramToken, settings.telegramChatId, message);
+        const replyMarkup = {
+          inline_keyboard: [
+            [
+              { text: '📰 Haberi Oku', url: link },
+              { text: '📢 Paylaş', url: `https://t.me/share/url?url=${encodeURIComponent(link)}` }
+            ]
+          ]
+        };
+
+        await sendTelegramMessage(settings.telegramToken, settings.telegramChatId, message, replyMarkup);
         db.addLog(`Telegram bildirimi gönderildi: "${article.title.slice(0, 40)}..."`, 'info');
         sentCount++;
       } catch (error) {
         db.addLog(`Telegram bildirimi başarısız: ${error.message}`, 'error');
       }
     }
+
 
     // 2. Discord Notification (Secondary channel)
     if (settings.enableDiscord && settings.discordWebhook) {

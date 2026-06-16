@@ -22,8 +22,11 @@ const DEFAULT_DB = {
     telegramChatId: '',
     enableTelegram: false,
     discordWebhook: '',
-    enableDiscord: false
+    enableDiscord: false,
+    lastMorningReportDate: '',
+    lastPharmaciesDate: ''
   },
+
   logs: []
 };
 
