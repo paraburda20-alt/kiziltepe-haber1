@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "İhale Dergisi | İhale Haberleri | İhale Sonuçları | İhale Bülteni",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWNxNEJjeXQ2VVJwMEZ5aWRuRHNPYlRGVXVybldEekx1c2drSW03MXdSb1JzaXNaNHZrTDZnejVRQ000Q1FVQnJKYTBXQ2tzY3NzLXEzcUYwdlN5YllCX3M3dkhOb212TzdjRDdkZGhzZnVTalFUSmM4NnFpLUd2OEFLMlQ3cER1dXY4R3JVQXlpdWJpSEdWeThfTkNuMDk2U2RQQm9meU5mckJfV2JWQWliTXg3aGZLZTcyWHd3NDAyQmM1?oc=5",
+      "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
+      "guid": "CBMixAFBVV95cUxOYWNxNEJjeXQ2VVJwMEZ5aWRuRHNPYlRGVXVybldEekx1c2drSW03MXdSb1JzaXNaNHZrTDZnejVRQ000Q1FVQnJKYTBXQ2tzY3NzLXEzcUYwdlN5YllCX3M3dkhOb212TzdjRDdkZGhzZnVTalFUSmM4NnFpLUd2OEFLMlQ3cER1dXY4R3JVQXlpdWJpSEdWeThfTkNuMDk2U2RQQm9meU5mckJfV2JWQWliTXg3aGZLZTcyWHd3NDAyQmM1",
+      "source": "Yatırımlar Dergisi",
+      "id": "CBMixAFBVV95cUxOYWNxNEJjeXQ2VVJwMEZ5aWRuRHNPYlRGVXVybldEekx1c2drSW03MXdSb1JzaXNaNHZrTDZnejVRQ000Q1FVQnJKYTBXQ2tzY3NzLXEzcUYwdlN5YllCX3M3dkhOb212TzdjRDdkZGhzZnVTalFUSmM4NnFpLUd2OEFLMlQ3cER1dXY4R3JVQXlpdWJpSEdWeThfTkNuMDk2U2RQQm9meU5mckJfV2JWQWliTXg3aGZLZTcyWHd3NDAyQmM1",
+      "crawledAt": "2026-06-17T03:32:25.004Z"
+    },
+    {
       "title": "Kızıltepe'de Kapı Zorlama Güvenlik Kamerasına Yansıdı",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREoxWVpkZ3pwTXY2bUQwek9rUFJxdTdWRmVDZU9LMHJwbHRoNmFpQjZSY0h4Zml0d3k0QUhzSFZsTjNfTWZrZFVfejFkZjhZaDM3R1Q5MUxWcjczd1k3Z3RQT1FSVHBKODBVbHRrSk04R01oVU41c2x1R1kwRUJGRDhLcW8xMng1ekpObl9wM2M2RVViSlc5X1JTTTPSAZwBQVVfeXFMTkRKMVlaZGd6cE12Nm1EMHpPa1BScXU3VkZlQ2VPSzBycGx0aDZhaUI2UmNIeGZpdHd5NEFIc0hWbE4zX01ma2RVX3oxZGY4WWgzN0dUOTFMVnI3M3dZN2d0UE9RUlRwSjgwVWx0a0pNOEdNaFVONXNsdUdZMEVCRkQ4S3FvMTJ4NXpKTm5fcDNjNkVVYkpXOV9SU00z?oc=5",
       "pubDate": "Tue, 16 Jun 2026 16:17:02 GMT",
@@ -2163,6 +2172,42 @@
   },
   "logs": [
     {
+      "id": "3aer2zmpw",
+      "timestamp": "2026-06-17T03:32:25.452Z",
+      "message": "Telegram bildirimi gönderildi: \"İhale Dergisi | İhale Haberleri | İhale ...\"",
+      "type": "info"
+    },
+    {
+      "id": "54xnhe1xu",
+      "timestamp": "2026-06-17T03:32:25.010Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "7a34n3mq0",
+      "timestamp": "2026-06-17T03:32:25.007Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "uz9rk8j2n",
+      "timestamp": "2026-06-17T03:32:24.997Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "cnuig7jsb",
+      "timestamp": "2026-06-17T03:32:24.368Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "7sxsdozbl",
+      "timestamp": "2026-06-17T03:32:24.360Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "c1581d6qp",
       "timestamp": "2026-06-16T23:54:31.374Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Kapı Zorlama Güvenlik Kamer...\"",
@@ -3024,42 +3069,6 @@
       "id": "j2l9z80te",
       "timestamp": "2026-06-14T23:45:07.485Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "9cnonl9lu",
-      "timestamp": "2026-06-14T23:45:07.478Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "zc9xvt9iv",
-      "timestamp": "2026-06-14T22:05:12.878Z",
-      "message": "Telegram bildirimi gönderildi: \"Orçun Kızıltepe, sigortaladim.com Genel ...\"",
-      "type": "info"
-    },
-    {
-      "id": "jbdx1pqsi",
-      "timestamp": "2026-06-14T22:05:12.200Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de tartıştığı kardeşini pompalı t...\"",
-      "type": "info"
-    },
-    {
-      "id": "qjsczw6a2",
-      "timestamp": "2026-06-14T22:05:11.478Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de hastane önünde silahlı kavga: ...\"",
-      "type": "info"
-    },
-    {
-      "id": "v5wm9901i",
-      "timestamp": "2026-06-14T22:05:10.811Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de ölümlü kuyumcu kavgası kame...\"",
-      "type": "info"
-    },
-    {
-      "id": "3er831mar",
-      "timestamp": "2026-06-14T22:05:10.121Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de hafif ticari aracın çarptığı y...\"",
       "type": "info"
     }
   ]
