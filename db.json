@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Düğünde tabancayla açılan ateşle 1 kişinin ölümüne ilişkin 2 şüpheli tutuklandı",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVhLSzk5dVUxMXVNU251dzhqZ2ZrbVZBYm81b09YbDJOTVc0ZC1UUmVvaXVrSkt0TnA2bVVpSDJjWEJaWHpoNEtuOUsyOVFTc2N1ZFRvRTVad3FCS09OV1dMdlVmbzR4aWhMVjhzY202SVlCdUs5Wi1RQk5kV3k2WWxLdUxTeTY0M1p6VU5sS3dzQWlydjdEUFZ5QUlCYUQ1cFBUR0xwekVkaGk0c05CNzRic2c0R1nSAbwBQVVfeXFMTWJJWEl6MWZvV2VmXzZQWWtzZFJYRk04X21hWEdfdGhfbGpmaUNTTE0xakpyTkhDdGxISVdHZUxpaml6R0x5OWQwbktrNlE1cGVyX01SNF9WeW9pR3ZxVlJHd3Jvc1pPWmZvMUNyRDhJMFFoRG9RLXFjd1dBdWN1cHpRcWtlVXdnN09HaHpiN0EwZ2JrWkN1WVd4a255MjM0Q0lGNE83SE5zSW9vOUJsXzZVdzFvZ1dsMEtGMzU?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 10:34:00 GMT",
+      "guid": "CBMitwFBVV95cUxPUVhLSzk5dVUxMXVNU251dzhqZ2ZrbVZBYm81b09YbDJOTVc0ZC1UUmVvaXVrSkt0TnA2bVVpSDJjWEJaWHpoNEtuOUsyOVFTc2N1ZFRvRTVad3FCS09OV1dMdlVmbzR4aWhMVjhzY202SVlCdUs5Wi1RQk5kV3k2WWxLdUxTeTY0M1p6VU5sS3dzQWlydjdEUFZ5QUlCYUQ1cFBUR0xwekVkaGk0c05CNzRic2c0R1nSAbwBQVVfeXFMTWJJWEl6MWZvV2VmXzZQWWtzZFJYRk04X21hWEdfdGhfbGpmaUNTTE0xakpyTkhDdGxISVdHZUxpaml6R0x5OWQwbktrNlE1cGVyX01SNF9WeW9pR3ZxVlJHd3Jvc1pPWmZvMUNyRDhJMFFoRG9RLXFjd1dBdWN1cHpRcWtlVXdnN09HaHpiN0EwZ2JrWkN1WVd4a255MjM0Q0lGNE83SE5zSW9vOUJsXzZVdzFvZ1dsMEtGMzU",
+      "source": "DHA | Demirören Haber Ajansı",
+      "id": "CBMitwFBVV95cUxPUVhLSzk5dVUxMXVNU251dzhqZ2ZrbVZBYm81b09YbDJOTVc0ZC1UUmVvaXVrSkt0TnA2bVVpSDJjWEJaWHpoNEtuOUsyOVFTc2N1ZFRvRTVad3FCS09OV1dMdlVmbzR4aWhMVjhzY202SVlCdUs5Wi1RQk5kV3k2WWxLdUxTeTY0M1p6VU5sS3dzQWlydjdEUFZ5QUlCYUQ1cFBUR0xwekVkaGk0c05CNzRic2c0R1nSAbwBQVVfeXFMTWJJWEl6MWZvV2VmXzZQWWtzZFJYRk04X21hWEdfdGhfbGpmaUNTTE0xakpyTkhDdGxISVdHZUxpaml6R0x5OWQwbktrNlE1cGVyX01SNF9WeW9pR3ZxVlJHd3Jvc1pPWmZvMUNyRDhJMFFoRG9RLXFjd1dBdWN1cHpRcWtlVXdnN09HaHpiN0EwZ2JrWkN1WVd4a255MjM0Q0lGNE83SE5zSW9vOUJsXzZVdzFvZ1dsMEtGMzU",
+      "crawledAt": "2026-06-18T18:40:51.780Z"
+    },
+    {
       "title": "Mardin’de silahlı kavgada kan aktı: 1 ölü, 3 yaralı - Son Dakika Siyaset Haberleri",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzd0aGNncGZRdjNVOTc2LXVXY2lSX2ZGYjlvTDMtRTFxWWMzTVl2TEpGZE14RHpsY2xITmk5NTN5UjRWcDYtMmRCVWlsVUJkY1NMclIyMW9lcUJJZ2hCVFdDS25MYmJpWk5IZ0R5Si1VZlJEbUloVDU2VHBURS1yaUExR0hfWWE4eDRfUU4weDM0bWRaLW5kOFJIbw?oc=5",
       "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
@@ -2759,6 +2768,42 @@
   },
   "logs": [
     {
+      "id": "nwcyy95st",
+      "timestamp": "2026-06-18T18:40:52.312Z",
+      "message": "Telegram bildirimi gönderildi: \"Düğünde tabancayla açılan ateşle 1 kişin...\"",
+      "type": "info"
+    },
+    {
+      "id": "62fgs0x4s",
+      "timestamp": "2026-06-18T18:40:51.791Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "7arpiczfo",
+      "timestamp": "2026-06-18T18:40:51.786Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "fmz1730xh",
+      "timestamp": "2026-06-18T18:40:51.771Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "bpu754ar3",
+      "timestamp": "2026-06-18T18:40:51.040Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "c4vrdkldh",
+      "timestamp": "2026-06-18T18:40:51.031Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "6pirbu4hq",
       "timestamp": "2026-06-18T16:24:50.032Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -3620,42 +3665,6 @@
       "id": "lgkykcayc",
       "timestamp": "2026-06-16T22:07:28.083Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "5btue0d1y",
-      "timestamp": "2026-06-16T19:54:51.027Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Düğünde Silahlı Saldırı: 77...\"",
-      "type": "info"
-    },
-    {
-      "id": "2lfz1snfs",
-      "timestamp": "2026-06-16T19:54:50.308Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Kapı Zorlama Güvenlik Kamer...\"",
-      "type": "info"
-    },
-    {
-      "id": "ue6rb504c",
-      "timestamp": "2026-06-16T19:54:49.629Z",
-      "message": "Telegram bildirimi gönderildi: \"Evinin balkonundayken düğünde açılan ate...\"",
-      "type": "info"
-    },
-    {
-      "id": "j3mx6drei",
-      "timestamp": "2026-06-16T19:54:48.935Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Apartmanın Giriş Kap...\"",
-      "type": "info"
-    },
-    {
-      "id": "urdyltctq",
-      "timestamp": "2026-06-16T19:54:48.216Z",
-      "message": "Telegram bildirimi gönderildi: \"Katil zanlısı, saldırı öncesi olay yerin...\"",
-      "type": "info"
-    },
-    {
-      "id": "fng6co09e",
-      "timestamp": "2026-06-16T19:54:47.497Z",
-      "message": "Telegram bildirimi gönderildi: \"Apartmanın giriş kapısını zorlayan iki ş...\"",
       "type": "info"
     }
   ]
