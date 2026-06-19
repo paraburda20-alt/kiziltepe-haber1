@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin'de evlere giren yılanlar itfaiye ekiplerince yakalandı",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemdWYnVtWW8tU0lXNldPSDFMcC1rTnAtcXdUMEx3N0JqSnZGZjZOSER5S21vcDNoTGhCOGVZZm9yMWVoOEdRNG03Z0doTy1EcGZaNGtCNkljU0tEWGhvQS1Yb016Y2M5blR2REROZDVPREhubUxERE4yeUtsV1ctempDUDZsdmlnNmtDcFFYbnkxUk1zVHQ3bG9jd3NGZVNKTGlWdlBDRno?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 22:58:15 GMT",
+      "guid": "CBMiqAFBVV95cUxNemdWYnVtWW8tU0lXNldPSDFMcC1rTnAtcXdUMEx3N0JqSnZGZjZOSER5S21vcDNoTGhCOGVZZm9yMWVoOEdRNG03Z0doTy1EcGZaNGtCNkljU0tEWGhvQS1Yb016Y2M5blR2REROZDVPREhubUxERE4yeUtsV1ctempDUDZsdmlnNmtDcFFYbnkxUk1zVHQ3bG9jd3NGZVNKTGlWdlBDRno",
+      "source": "Hürriyet",
+      "id": "CBMiqAFBVV95cUxNemdWYnVtWW8tU0lXNldPSDFMcC1rTnAtcXdUMEx3N0JqSnZGZjZOSER5S21vcDNoTGhCOGVZZm9yMWVoOEdRNG03Z0doTy1EcGZaNGtCNkljU0tEWGhvQS1Yb016Y2M5blR2REROZDVPREhubUxERE4yeUtsV1ctempDUDZsdmlnNmtDcFFYbnkxUk1zVHQ3bG9jd3NGZVNKTGlWdlBDRno",
+      "crawledAt": "2026-06-19T19:42:12.367Z"
+    },
+    {
       "title": "Evinin balkonundayken düğünde açılan ateşte göğsünden vurulan kadın öldü",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTZGLUY1M2pLblVMSE5rN3VpMkJqLTlmRnZ3Yk1lcVRlYlhmbnpyMkpQVTNReXU2YXJYNVNhUnNIb2tHaWpVTXc1N0ZEZ19zTk1JQ2NKYTgzQWNuUm9lUDVObUNaMElod1dHTTVHTXZzamViQmpkMG9YX0d0NmE5TjVMOEhSZ2RmMkZycFhqYlNDeGpVWDg2bjVUWHBwanBBNHlnTGhma0hReGE3NFVwUnFVcnpOdw?oc=5",
       "pubDate": "Mon, 15 Jun 2026 13:40:19 GMT",
@@ -2894,6 +2903,42 @@
   },
   "logs": [
     {
+      "id": "jn3kn3zwi",
+      "timestamp": "2026-06-19T19:42:12.779Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'de evlere giren yılanlar itfaiye ...\"",
+      "type": "info"
+    },
+    {
+      "id": "ecqdr3a71",
+      "timestamp": "2026-06-19T19:42:12.375Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "o6mdiilkx",
+      "timestamp": "2026-06-19T19:42:12.371Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "wo3cn5wfc",
+      "timestamp": "2026-06-19T19:42:12.361Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "r5f2a1yk0",
+      "timestamp": "2026-06-19T19:42:11.720Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "qe339gz0q",
+      "timestamp": "2026-06-19T19:42:11.711Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "zys0weu5c",
       "timestamp": "2026-06-19T17:51:32.756Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -3755,42 +3800,6 @@
       "id": "wgm35zphi",
       "timestamp": "2026-06-17T16:36:09.112Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Düğünde Açılan Ateş ...\"",
-      "type": "info"
-    },
-    {
-      "id": "12luqi9c9",
-      "timestamp": "2026-06-17T16:36:08.420Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Düğün Ateşinde 76 Yaşındaki...\"",
-      "type": "info"
-    },
-    {
-      "id": "8f2zmfhd9",
-      "timestamp": "2026-06-17T16:36:07.785Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Buğday Ekili Alan Ya...\"",
-      "type": "info"
-    },
-    {
-      "id": "pwx9z8z5z",
-      "timestamp": "2026-06-17T16:36:07.128Z",
-      "message": "Telegram bildirimi gönderildi: \"Sokaktaki çöpleri toplayıp kutuya atan m...\"",
-      "type": "info"
-    },
-    {
-      "id": "humf9ek8j",
-      "timestamp": "2026-06-17T16:36:05.713Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de alevlere karşi traktörlü siper...\"",
-      "type": "info"
-    },
-    {
-      "id": "qahlwy7f4",
-      "timestamp": "2026-06-17T16:36:05.049Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de 40 dönüm buğday ekili alan yan...\"",
-      "type": "info"
-    },
-    {
-      "id": "dczkiy39w",
-      "timestamp": "2026-06-17T16:36:04.646Z",
-      "message": "15 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
