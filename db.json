@@ -2903,6 +2903,30 @@
   },
   "logs": [
     {
+      "id": "cymv5cfcm",
+      "timestamp": "2026-06-19T23:40:01.583Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "2o8vmjs57",
+      "timestamp": "2026-06-19T23:40:01.574Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "1ifvytz13",
+      "timestamp": "2026-06-19T23:40:01.023Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "o12mj424s",
+      "timestamp": "2026-06-19T23:40:01.013Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "jmeb1bug4",
       "timestamp": "2026-06-19T22:30:03.329Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -3776,30 +3800,6 @@
       "id": "f5a14yk3t",
       "timestamp": "2026-06-17T19:22:03.235Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "j1hbjgli8",
-      "timestamp": "2026-06-17T16:36:17.320Z",
-      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "hx5c1rmpv",
-      "timestamp": "2026-06-17T16:36:15.644Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "8h2wjru3v",
-      "timestamp": "2026-06-17T16:36:15.137Z",
-      "message": "Telegram bildirimi gönderildi: \"Yer: Mardin! Evinin balkonunda göğsünden...\"",
-      "type": "info"
-    },
-    {
-      "id": "c1uxt25xv",
-      "timestamp": "2026-06-17T16:36:14.472Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Düğünde Ateş Açılması: 1 Öl...\"",
       "type": "info"
     }
   ]
