@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Evinin balkonundayken düğünde açılan ateşte göğsünden vurulan kadın öldü",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTZGLUY1M2pLblVMSE5rN3VpMkJqLTlmRnZ3Yk1lcVRlYlhmbnpyMkpQVTNReXU2YXJYNVNhUnNIb2tHaWpVTXc1N0ZEZ19zTk1JQ2NKYTgzQWNuUm9lUDVObUNaMElod1dHTTVHTXZzamViQmpkMG9YX0d0NmE5TjVMOEhSZ2RmMkZycFhqYlNDeGpVWDg2bjVUWHBwanBBNHlnTGhma0hReGE3NFVwUnFVcnpOdw?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 13:40:19 GMT",
+      "guid": "CBMitgFBVV95cUxQMTZGLUY1M2pLblVMSE5rN3VpMkJqLTlmRnZ3Yk1lcVRlYlhmbnpyMkpQVTNReXU2YXJYNVNhUnNIb2tHaWpVTXc1N0ZEZ19zTk1JQ2NKYTgzQWNuUm9lUDVObUNaMElod1dHTTVHTXZzamViQmpkMG9YX0d0NmE5TjVMOEhSZ2RmMkZycFhqYlNDeGpVWDg2bjVUWHBwanBBNHlnTGhma0hReGE3NFVwUnFVcnpOdw",
+      "source": "Milliyet",
+      "id": "CBMitgFBVV95cUxQMTZGLUY1M2pLblVMSE5rN3VpMkJqLTlmRnZ3Yk1lcVRlYlhmbnpyMkpQVTNReXU2YXJYNVNhUnNIb2tHaWpVTXc1N0ZEZ19zTk1JQ2NKYTgzQWNuUm9lUDVObUNaMElod1dHTTVHTXZzamViQmpkMG9YX0d0NmE5TjVMOEhSZ2RmMkZycFhqYlNDeGpVWDg2bjVUWHBwanBBNHlnTGhma0hReGE3NFVwUnFVcnpOdw",
+      "crawledAt": "2026-06-19T17:51:29.710Z"
+    },
+    {
       "title": "Kızıltepe'de Yangın Paniği",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YZ2R4UTJHWVN2MTZWRFV4ZWJZaTdPR2dpNXo0QU43MU9rSmU4TkpuQkFTcjJObVhsNnVPTzQ4b3N6bU5TTlNkN2ZwaG94ejJPRlhDMC1rVTB5WlhnN2ljNGw0T1huX0FpanBhTWh0bXp2T1FXcUhYQlpSVFPSAXxBVV95cUxNWGdkeFEyR1lTdjE2VkRVeGViWWk3T0dnaTV6NEFONzFPa0plOE5KbkJBU3IyTm1YbDZ1T080OG9zem1OU05TZDdmcGhveHoyT0ZYQzAta1UweVpYZzdpYzRsNE9Ybl9BaWpwYU1odG16dk9RV3FIWEJaUlRT?oc=5",
       "pubDate": "Thu, 18 Jun 2026 07:25:02 GMT",
@@ -2881,9 +2890,57 @@
     "discordWebhook": "",
     "enableDiscord": false,
     "lastMorningReportDate": "2026-06-19",
-    "lastPharmaciesDate": "2026-06-18"
+    "lastPharmaciesDate": "2026-06-19"
   },
   "logs": [
+    {
+      "id": "zys0weu5c",
+      "timestamp": "2026-06-19T17:51:32.756Z",
+      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "tdfu4jhas",
+      "timestamp": "2026-06-19T17:51:30.754Z",
+      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "9e78z8pdd",
+      "timestamp": "2026-06-19T17:51:30.248Z",
+      "message": "Telegram bildirimi gönderildi: \"Evinin balkonundayken düğünde açılan ate...\"",
+      "type": "info"
+    },
+    {
+      "id": "qi5yz1i5n",
+      "timestamp": "2026-06-19T17:51:29.717Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "w5o5vh6ph",
+      "timestamp": "2026-06-19T17:51:29.714Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "fcd5w3rgz",
+      "timestamp": "2026-06-19T17:51:29.703Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ubmvkg9pi",
+      "timestamp": "2026-06-19T17:51:29.071Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ta7t6y15j",
+      "timestamp": "2026-06-19T17:51:29.062Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "p3kzw8nnb",
       "timestamp": "2026-06-19T15:47:01.930Z",
@@ -3734,54 +3791,6 @@
       "id": "dczkiy39w",
       "timestamp": "2026-06-17T16:36:04.646Z",
       "message": "15 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "vyifoevtu",
-      "timestamp": "2026-06-17T16:36:04.643Z",
-      "message": "Veritabanına 15 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "zwkcz9pd4",
-      "timestamp": "2026-06-17T16:36:04.633Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "nus0u0356",
-      "timestamp": "2026-06-17T16:36:04.059Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "nrxzrn4ud",
-      "timestamp": "2026-06-17T16:36:04.050Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "g0acxx9p3",
-      "timestamp": "2026-06-17T12:51:35.659Z",
-      "message": "Telegram bildirimi gönderildi: \"Düğünde tabancayla açılan ateşle 1 kişin...\"",
-      "type": "info"
-    },
-    {
-      "id": "x0uegpx6l",
-      "timestamp": "2026-06-17T12:51:35.007Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Düğün Ateşinde 76 Yaşındaki...\"",
-      "type": "info"
-    },
-    {
-      "id": "b7bj1huz4",
-      "timestamp": "2026-06-17T12:51:34.339Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de düğünde havaya ateş edip ölüme...\"",
-      "type": "info"
-    },
-    {
-      "id": "vbmm3mcja",
-      "timestamp": "2026-06-17T12:51:33.601Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de düğünde vurulan 77 yaşındaki k...\"",
       "type": "info"
     }
   ]
