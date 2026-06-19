@@ -2903,6 +2903,30 @@
   },
   "logs": [
     {
+      "id": "jmeb1bug4",
+      "timestamp": "2026-06-19T22:30:03.329Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "e74cvel6z",
+      "timestamp": "2026-06-19T22:30:03.320Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "k6il9j0ab",
+      "timestamp": "2026-06-19T22:30:02.791Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "5uzlcmz2p",
+      "timestamp": "2026-06-19T22:30:02.782Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "nebwplrwc",
       "timestamp": "2026-06-19T21:05:12.897Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -3776,30 +3800,6 @@
       "id": "c1uxt25xv",
       "timestamp": "2026-06-17T16:36:14.472Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Düğünde Ateş Açılması: 1 Öl...\"",
-      "type": "info"
-    },
-    {
-      "id": "fa35jhvew",
-      "timestamp": "2026-06-17T16:36:13.830Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Yangın: 40 Dönüm Buğday Zar...\"",
-      "type": "info"
-    },
-    {
-      "id": "5c2nf144a",
-      "timestamp": "2026-06-17T16:36:13.157Z",
-      "message": "Telegram bildirimi gönderildi: \"Evinin balkonundayken düğünde açılan ate...\"",
-      "type": "info"
-    },
-    {
-      "id": "3jcjulci7",
-      "timestamp": "2026-06-17T16:36:12.499Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Tır Dorsesinde Yangın...\"",
-      "type": "info"
-    },
-    {
-      "id": "goe6rz4pt",
-      "timestamp": "2026-06-17T16:36:11.836Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Buğday Tarlasında Yangın...\"",
       "type": "info"
     }
   ]
