@@ -2903,6 +2903,30 @@
   },
   "logs": [
     {
+      "id": "nebwplrwc",
+      "timestamp": "2026-06-19T21:05:12.897Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "de6bz15of",
+      "timestamp": "2026-06-19T21:05:12.887Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "q7792d6dn",
+      "timestamp": "2026-06-19T21:05:11.892Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "7l5wqvqqj",
+      "timestamp": "2026-06-19T21:05:11.882Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "jn3kn3zwi",
       "timestamp": "2026-06-19T19:42:12.779Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de evlere giren yılanlar itfaiye ...\"",
@@ -3776,30 +3800,6 @@
       "id": "goe6rz4pt",
       "timestamp": "2026-06-17T16:36:11.836Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Buğday Tarlasında Yangın...\"",
-      "type": "info"
-    },
-    {
-      "id": "xny7h8gim",
-      "timestamp": "2026-06-17T16:36:11.131Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Yangın: 40 Dönüm Arazi Zara...\"",
-      "type": "info"
-    },
-    {
-      "id": "a5400v3hn",
-      "timestamp": "2026-06-17T16:36:10.469Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Buğday Tarlasında Yangın...\"",
-      "type": "info"
-    },
-    {
-      "id": "1c413ws8o",
-      "timestamp": "2026-06-17T16:36:09.806Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Yangın: 40 Dönüm Arazi Zara...\"",
-      "type": "info"
-    },
-    {
-      "id": "wgm35zphi",
-      "timestamp": "2026-06-17T16:36:09.112Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Düğünde Açılan Ateş ...\"",
       "type": "info"
     }
   ]
