@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kızıltepe'de Kaza: 1 Ölü, 4 Yaralı",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkYta1NWRFJiWmR4cGVIY3FKSlBhTkpBenc1Vnp6MC1TRHhSMDdhbXljdnBYX1RBbjN0eTA2ZGVYeUJhS3JFUGtTN3pjSjI0ZUdoaWNRS3lVY2pDRWdUWTJIakw4aGh4T29fRmpWaFM4bVhjdk1BT3FKRUVrWDlQeVFRTzg0bW5h0gGEAUFVX3lxTFBkY1doZU8tUXF0UkRoeUZPV19hWlpFcm8tN2Yyek9tc21Wcl9LZ0ktcmZGMk9RM25iN21fN0JRc1loeFFwS0R3a19tZkZORjZJdVNvaEd6ZEJ3MUlPUExFbEFrYkNRcFphZUhzZFRVaFlVMmJEWnFTNlYxZFZ5X0QydTU3LQ?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 06:41:12 GMT",
+      "guid": "CBMiiAFBVV95cUxNVkYta1NWRFJiWmR4cGVIY3FKSlBhTkpBenc1Vnp6MC1TRHhSMDdhbXljdnBYX1RBbjN0eTA2ZGVYeUJhS3JFUGtTN3pjSjI0ZUdoaWNRS3lVY2pDRWdUWTJIakw4aGh4T29fRmpWaFM4bVhjdk1BT3FKRUVrWDlQeVFRTzg0bW5h0gGEAUFVX3lxTFBkY1doZU8tUXF0UkRoeUZPV19hWlpFcm8tN2Yyek9tc21Wcl9LZ0ktcmZGMk9RM25iN21fN0JRc1loeFFwS0R3a19tZkZORjZJdVNvaEd6ZEJ3MUlPUExFbEFrYkNRcFphZUhzZFRVaFlVMmJEWnFTNlYxZFZ5X0QydTU3LQ",
+      "source": "Son Dakika",
+      "id": "CBMiiAFBVV95cUxNVkYta1NWRFJiWmR4cGVIY3FKSlBhTkpBenc1Vnp6MC1TRHhSMDdhbXljdnBYX1RBbjN0eTA2ZGVYeUJhS3JFUGtTN3pjSjI0ZUdoaWNRS3lVY2pDRWdUWTJIakw4aGh4T29fRmpWaFM4bVhjdk1BT3FKRUVrWDlQeVFRTzg0bW5h0gGEAUFVX3lxTFBkY1doZU8tUXF0UkRoeUZPV19hWlpFcm8tN2Yyek9tc21Wcl9LZ0ktcmZGMk9RM25iN21fN0JRc1loeFFwS0R3a19tZkZORjZJdVNvaEd6ZEJ3MUlPUExFbEFrYkNRcFphZUhzZFRVaFlVMmJEWnFTNlYxZFZ5X0QydTU3LQ",
+      "crawledAt": "2026-06-19T07:37:06.296Z"
+    },
+    {
       "title": "Sokaktaki çöpleri toplayıp kutuya atan minik Aras'a belediyeden hediye",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcEtrQm8xU3lvSTVkN3JrdGQ5Q2dQQ0tpLXk3djR1YTVmakx2aVh4QWtQNDlqS3BuUi1GMzl0ZkZYU2tCLTBUVE1HVFFqOGh6bGJ2a0pYeWJ2b0VLdm1oTDlveU8tbzljM1BiX3ItQi12a2dMMWhiVU5nbk9YQWZ0YXN5TGxTOEtfcUZWR0V3OExUNEs4TjdHWllzYVpHbjRUX0dRNVd2WGZJZGpMN05TctIBtgFBVV95cUxOSUhjaEdLSjgtM0hCdjZydEJrX2NqdVB3TDIyV0pDOEtuSGowbWtreDFNWUlJLTBYZVNCc3U0Wk1IR0pKQzZiRHUwbm5CY0ZhOFZGY3dhaG5oUXF0UEc4UDI0VEJwU1JkY1dPMmMxX0FSTHhYOHhDemEyUV9HMnFiNHc2LUdKcm5HZXNLaXE2N0VxZW9zbl9jcnZOLWJKbjVKVVFXb05sTTRsa2NvT2xMYVJTQTltQQ?oc=5",
       "pubDate": "Wed, 17 Jun 2026 11:51:00 GMT",
@@ -2826,10 +2835,58 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-06-18",
+    "lastMorningReportDate": "2026-06-19",
     "lastPharmaciesDate": "2026-06-18"
   },
   "logs": [
+    {
+      "id": "ues4e73fc",
+      "timestamp": "2026-06-19T07:37:08.569Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "7v1vbteef",
+      "timestamp": "2026-06-19T07:37:07.324Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "gbu5f8m3o",
+      "timestamp": "2026-06-19T07:37:06.817Z",
+      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Kaza: 1 Ölü, 4 Yaralı...\"",
+      "type": "info"
+    },
+    {
+      "id": "nu3u2pc4y",
+      "timestamp": "2026-06-19T07:37:06.304Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "245pakcyc",
+      "timestamp": "2026-06-19T07:37:06.301Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "fknscm5xf",
+      "timestamp": "2026-06-19T07:37:06.289Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "qfdce1k55",
+      "timestamp": "2026-06-19T07:37:05.628Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "r07ukkn0r",
+      "timestamp": "2026-06-19T07:37:05.619Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "o6naet6jo",
       "timestamp": "2026-06-19T02:14:46.464Z",
@@ -3680,54 +3737,6 @@
       "id": "c3uskgowt",
       "timestamp": "2026-06-17T12:51:23.732Z",
       "message": "18 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "23c94jqs1",
-      "timestamp": "2026-06-17T12:51:23.729Z",
-      "message": "Veritabanına 18 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "1puqw66ti",
-      "timestamp": "2026-06-17T12:51:23.719Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "zghl6m0y5",
-      "timestamp": "2026-06-17T12:51:23.046Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "l4budfata",
-      "timestamp": "2026-06-17T12:51:23.038Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "j18vlaw5o",
-      "timestamp": "2026-06-17T08:57:00.763Z",
-      "message": "Günlük sabah raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "2u2emtjmg",
-      "timestamp": "2026-06-17T08:57:00.091Z",
-      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "6qhpm3nw0",
-      "timestamp": "2026-06-17T08:56:59.585Z",
-      "message": "Telegram bildirimi gönderildi: \"SON DAKİKA: Mülki İdari Amirleri atama k...\"",
-      "type": "info"
-    },
-    {
-      "id": "18vleuews",
-      "timestamp": "2026-06-17T08:56:58.943Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de apartmanlarda hırsızlık girişi...\"",
       "type": "info"
     }
   ]
