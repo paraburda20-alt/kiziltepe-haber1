@@ -3209,6 +3209,30 @@
   },
   "logs": [
     {
+      "id": "oj4pqvjlq",
+      "timestamp": "2026-06-20T17:53:13.746Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "c7g4yus3j",
+      "timestamp": "2026-06-20T17:53:13.734Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ruxzhs4al",
+      "timestamp": "2026-06-20T17:53:13.170Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "iey1pukrk",
+      "timestamp": "2026-06-20T17:53:13.160Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "wrpryh680",
       "timestamp": "2026-06-20T16:14:13.190Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -4082,30 +4106,6 @@
       "id": "piz9kco5a",
       "timestamp": "2026-06-18T16:24:47.476Z",
       "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "wvylmbg3o",
-      "timestamp": "2026-06-18T16:24:46.969Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de silahlı kavgada kan aktı: 1 öl...\"",
-      "type": "info"
-    },
-    {
-      "id": "1adwpmc3m",
-      "timestamp": "2026-06-18T16:24:46.281Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de sağanak; yollar göle döndü...\"",
-      "type": "info"
-    },
-    {
-      "id": "2ptu94rkd",
-      "timestamp": "2026-06-18T16:24:45.782Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "kt4hndc8w",
-      "timestamp": "2026-06-18T16:24:45.778Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
