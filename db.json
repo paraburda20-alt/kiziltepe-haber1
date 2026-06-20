@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin’de yangın faciası: 1 çocuk hayatını kaybetti İhlas Haber Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQnpqSXpWYUZkVE50TWRIM1VLQmxWVEc2c3ROR25HX09pb2NNMldObDd3MmZRbDg2M0ZSSTNWRUhOT0J6NUdzR2RsWm53NGFsdUhGU0FKcmZza2I4elZfWi1LR2taUmdxbHcyeUJMdXh6dGxnaFN2YTE5WndDOUVac0pFcHlMQ0Z0bDNjMG1mbGh2eWZzOTl2S0o5WjJBek5a?oc=5",
+      "pubDate": "Sat, 20 Jun 2026 07:53:55 GMT",
+      "guid": "CBMioAFBVV95cUxNQnpqSXpWYUZkVE50TWRIM1VLQmxWVEc2c3ROR25HX09pb2NNMldObDd3MmZRbDg2M0ZSSTNWRUhOT0J6NUdzR2RsWm53NGFsdUhGU0FKcmZza2I4elZfWi1LR2taUmdxbHcyeUJMdXh6dGxnaFN2YTE5WndDOUVac0pFcHlMQ0Z0bDNjMG1mbGh2eWZzOTl2S0o5WjJBek5a",
+      "source": "IHA",
+      "id": "CBMioAFBVV95cUxNQnpqSXpWYUZkVE50TWRIM1VLQmxWVEc2c3ROR25HX09pb2NNMldObDd3MmZRbDg2M0ZSSTNWRUhOT0J6NUdzR2RsWm53NGFsdUhGU0FKcmZza2I4elZfWi1LR2taUmdxbHcyeUJMdXh6dGxnaFN2YTE5WndDOUVac0pFcHlMQ0Z0bDNjMG1mbGh2eWZzOTl2S0o5WjJBek5a",
+      "crawledAt": "2026-06-20T20:48:58.178Z"
+    },
+    {
       "title": "Yangında 7 Yaşındaki Kız Hayatını Kaybetti",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbzhvVnEtM3NOT0syem1PQjZvOVI3REF1OGR0bFR5QzlLTnF3RW9YVUVONGhGSE5LNHVZVVRyeFg4QnNyMEZyZXhFVW1VRUJvUks4TlhHRVBkdGl3OGVjRnE3blJraUJ4REstakowX2d0bTNIUF9yMXlESlJoeldkYy11OW91eVhkUWNvZU01Q0FERW9kUmfSAZIBQVVfeXFMTmJnQWVLRzdZeWcwcER6NXFhZEk2aVFOVnN3WlRMVU1SSi10NHRGQTBhZ2ZxclctbDNJYy1qMXNBQlNhSl96TEo2MkZTc1hIaDFzN1B2WE56c0dCT3FhYzJKbkx3dlYybTR3THJKRlhyeVpNQVN6VGM5WEJKcFNUSXA2WEhkVURSd0l6UktEYUNkTWc?oc=5",
       "pubDate": "Sat, 20 Jun 2026 09:21:13 GMT",
@@ -3218,6 +3227,42 @@
   },
   "logs": [
     {
+      "id": "e4mfuykcl",
+      "timestamp": "2026-06-20T20:48:58.587Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin’de yangın faciası: 1 çocuk hayatı...\"",
+      "type": "info"
+    },
+    {
+      "id": "7cd3hu7c8",
+      "timestamp": "2026-06-20T20:48:58.188Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "n4qe5j1rn",
+      "timestamp": "2026-06-20T20:48:58.184Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "rutiddfjt",
+      "timestamp": "2026-06-20T20:48:58.167Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "zkjijml6d",
+      "timestamp": "2026-06-20T20:48:57.497Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "mplg61k7z",
+      "timestamp": "2026-06-20T20:48:57.487Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "ztsrz6fnw",
       "timestamp": "2026-06-20T19:17:09.144Z",
       "message": "Telegram bildirimi gönderildi: \"Yangında 7 Yaşındaki Kız Hayatını Kaybet...\"",
@@ -4079,42 +4124,6 @@
       "id": "vu8bh9qnn",
       "timestamp": "2026-06-18T21:21:19.754Z",
       "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "e8df68xyk",
-      "timestamp": "2026-06-18T21:21:19.750Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "iyh70ldp8",
-      "timestamp": "2026-06-18T21:21:19.739Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "zobc2a5jk",
-      "timestamp": "2026-06-18T21:21:18.978Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "duh14k1oq",
-      "timestamp": "2026-06-18T21:21:18.969Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "nwcyy95st",
-      "timestamp": "2026-06-18T18:40:52.312Z",
-      "message": "Telegram bildirimi gönderildi: \"Düğünde tabancayla açılan ateşle 1 kişin...\"",
-      "type": "info"
-    },
-    {
-      "id": "62fgs0x4s",
-      "timestamp": "2026-06-18T18:40:51.791Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
