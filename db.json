@@ -3227,6 +3227,30 @@
   },
   "logs": [
     {
+      "id": "kmwr1qm9f",
+      "timestamp": "2026-06-20T22:02:21.256Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ta10afcp7",
+      "timestamp": "2026-06-20T22:02:21.245Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "u3ot7buh7",
+      "timestamp": "2026-06-20T22:02:20.556Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "wtpq1esd7",
+      "timestamp": "2026-06-20T22:02:20.546Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "e4mfuykcl",
       "timestamp": "2026-06-20T20:48:58.587Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de yangın faciası: 1 çocuk hayatı...\"",
@@ -4100,30 +4124,6 @@
       "id": "6gpy9skj7",
       "timestamp": "2026-06-18T23:16:20.639Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "t0obje428",
-      "timestamp": "2026-06-18T23:16:20.630Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "t09deq357",
-      "timestamp": "2026-06-18T21:21:20.794Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Düğünde Ateş Açılması: 1 Öl...\"",
-      "type": "info"
-    },
-    {
-      "id": "s2q8nttoq",
-      "timestamp": "2026-06-18T21:21:20.135Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Buğday Tarlasında Yangın...\"",
-      "type": "info"
-    },
-    {
-      "id": "vu8bh9qnn",
-      "timestamp": "2026-06-18T21:21:19.754Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
