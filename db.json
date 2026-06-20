@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Yangında 7 Yaşındaki Kız Hayatını Kaybetti",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbzhvVnEtM3NOT0syem1PQjZvOVI3REF1OGR0bFR5QzlLTnF3RW9YVUVONGhGSE5LNHVZVVRyeFg4QnNyMEZyZXhFVW1VRUJvUks4TlhHRVBkdGl3OGVjRnE3blJraUJ4REstakowX2d0bTNIUF9yMXlESlJoeldkYy11OW91eVhkUWNvZU01Q0FERW9kUmfSAZIBQVVfeXFMTmJnQWVLRzdZeWcwcER6NXFhZEk2aVFOVnN3WlRMVU1SSi10NHRGQTBhZ2ZxclctbDNJYy1qMXNBQlNhSl96TEo2MkZTc1hIaDFzN1B2WE56c0dCT3FhYzJKbkx3dlYybTR3THJKRlhyeVpNQVN6VGM5WEJKcFNUSXA2WEhkVURSd0l6UktEYUNkTWc?oc=5",
+      "pubDate": "Sat, 20 Jun 2026 09:21:13 GMT",
+      "guid": "CBMilgFBVV95cUxNbzhvVnEtM3NOT0syem1PQjZvOVI3REF1OGR0bFR5QzlLTnF3RW9YVUVONGhGSE5LNHVZVVRyeFg4QnNyMEZyZXhFVW1VRUJvUks4TlhHRVBkdGl3OGVjRnE3blJraUJ4REstakowX2d0bTNIUF9yMXlESlJoeldkYy11OW91eVhkUWNvZU01Q0FERW9kUmfSAZIBQVVfeXFMTmJnQWVLRzdZeWcwcER6NXFhZEk2aVFOVnN3WlRMVU1SSi10NHRGQTBhZ2ZxclctbDNJYy1qMXNBQlNhSl96TEo2MkZTc1hIaDFzN1B2WE56c0dCT3FhYzJKbkx3dlYybTR3THJKRlhyeVpNQVN6VGM5WEJKcFNUSXA2WEhkVURSd0l6UktEYUNkTWc",
+      "source": "Son Dakika",
+      "id": "CBMilgFBVV95cUxNbzhvVnEtM3NOT0syem1PQjZvOVI3REF1OGR0bFR5QzlLTnF3RW9YVUVONGhGSE5LNHVZVVRyeFg4QnNyMEZyZXhFVW1VRUJvUks4TlhHRVBkdGl3OGVjRnE3blJraUJ4REstakowX2d0bTNIUF9yMXlESlJoeldkYy11OW91eVhkUWNvZU01Q0FERW9kUmfSAZIBQVVfeXFMTmJnQWVLRzdZeWcwcER6NXFhZEk2aVFOVnN3WlRMVU1SSi10NHRGQTBhZ2ZxclctbDNJYy1qMXNBQlNhSl96TEo2MkZTc1hIaDFzN1B2WE56c0dCT3FhYzJKbkx3dlYybTR3THJKRlhyeVpNQVN6VGM5WEJKcFNUSXA2WEhkVURSd0l6UktEYUNkTWc",
+      "crawledAt": "2026-06-20T19:17:08.632Z"
+    },
+    {
       "title": "Mardin’de yanlış okula alınan YKS adayı sınavı kaçırdı, aileden ihmal iddiası",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTl96MzQzS3BsOElPM09oWF9yRUFqajVCSDJBUXI5Ul9YVHZnMUJxUDYtNmZkTHZxZTVWUEYxTUxqVTJBZmV6U0taTEdVMXdYOXJPYlZBQUYtOEQwSFVpbWw0WE5ZOTZhTFJqQjE2blVqeTJKTTBJcXJxY1F2OGx1aTloT3AwRm01SlhFUlBFQ1pqaGhWTnNTb2VVZzMySjh0S3hINFZUVTN6SVZ4?oc=5",
       "pubDate": "Sat, 20 Jun 2026 15:25:15 GMT",
@@ -3209,6 +3218,42 @@
   },
   "logs": [
     {
+      "id": "ztsrz6fnw",
+      "timestamp": "2026-06-20T19:17:09.144Z",
+      "message": "Telegram bildirimi gönderildi: \"Yangında 7 Yaşındaki Kız Hayatını Kaybet...\"",
+      "type": "info"
+    },
+    {
+      "id": "pd871v4lm",
+      "timestamp": "2026-06-20T19:17:08.640Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "huc5zzz2u",
+      "timestamp": "2026-06-20T19:17:08.636Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "0n7dwt0o3",
+      "timestamp": "2026-06-20T19:17:08.625Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "3wjy6nycn",
+      "timestamp": "2026-06-20T19:17:08.065Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "wx21b3ywg",
+      "timestamp": "2026-06-20T19:17:08.055Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "oj4pqvjlq",
       "timestamp": "2026-06-20T17:53:13.746Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -4070,42 +4115,6 @@
       "id": "62fgs0x4s",
       "timestamp": "2026-06-18T18:40:51.791Z",
       "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "7arpiczfo",
-      "timestamp": "2026-06-18T18:40:51.786Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "fmz1730xh",
-      "timestamp": "2026-06-18T18:40:51.771Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "bpu754ar3",
-      "timestamp": "2026-06-18T18:40:51.040Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "c4vrdkldh",
-      "timestamp": "2026-06-18T18:40:51.031Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "6pirbu4hq",
-      "timestamp": "2026-06-18T16:24:50.032Z",
-      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "piz9kco5a",
-      "timestamp": "2026-06-18T16:24:47.476Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
       "type": "info"
     }
   ]
