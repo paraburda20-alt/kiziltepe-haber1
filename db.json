@@ -3542,6 +3542,24 @@
   },
   "logs": [
     {
+      "id": "dqma6s662",
+      "timestamp": "2026-06-21T18:58:05.053Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 0 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "0luw65j9d",
+      "timestamp": "2026-06-21T18:58:04.646Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "l8ry74ejs",
+      "timestamp": "2026-06-21T18:58:04.635Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "grcc6b0jx",
       "timestamp": "2026-06-21T17:02:02.922Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -4421,24 +4439,6 @@
       "id": "jtpk0go4x",
       "timestamp": "2026-06-20T06:58:14.326Z",
       "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "li101de24",
-      "timestamp": "2026-06-20T06:58:13.818Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Yangın Paniği...\"",
-      "type": "info"
-    },
-    {
-      "id": "rmcx926ug",
-      "timestamp": "2026-06-20T06:58:13.101Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Buğday Tarlasında Yangın...\"",
-      "type": "info"
-    },
-    {
-      "id": "9t1ghqozj",
-      "timestamp": "2026-06-20T06:58:12.378Z",
-      "message": "Telegram bildirimi gönderildi: \"Etiket: Prof. Dr. Uğursay Kızıltepe...\"",
       "type": "info"
     }
   ]
