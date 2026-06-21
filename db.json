@@ -2,6 +2,15 @@
   "articles": [
     {
       "title": "Mardin’de park halindeki TIR’ın dorsesinde yangın",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWdzMzZpa3pEZ3RnbUhUMktVMC1QSTBac05aMGxST2MtUER0b3Ruc0Z1VThua3hEMnRTc2dMX21iUHJVYjlnVHhNOVctNjdBN2JDRW9BSHBYTHlPU3BPUWJIOHB2TElablBnX2RiLXBiMURhbUFsSkZ6RmN3LWVXUUxld2xDOHFqcWZWamZvNS14WEdQdGJlWFBlaXQtaWtkZHFBS1VGQlMxbXNo0gGwAUFVX3lxTE1nS3B2cWdZek1oSjhmVnh5TWFFa0g0RElNTV9VQ3Uzb1JWbjJLRVpFVTIxZWwza09nLTZjcmlNYU9mMXZpS1ZGaU5Ec2wwZFUyNTZRT2RjYjBHcERXNFFwOHRZQm52b2ZFZVBuaVR1TndScGIyM1hyZElZUnlvRTlCQ0U3VWxIYXhubjhpNzBhLU5iOWZQUG1Oc1ZneXRIZUxxSFZQZ29SbmduY2c5TTdr?oc=5",
+      "pubDate": "Sun, 21 Jun 2026 08:37:54 GMT",
+      "guid": "CBMirAFBVV95cUxPOWdzMzZpa3pEZ3RnbUhUMktVMC1QSTBac05aMGxST2MtUER0b3Ruc0Z1VThua3hEMnRTc2dMX21iUHJVYjlnVHhNOVctNjdBN2JDRW9BSHBYTHlPU3BPUWJIOHB2TElablBnX2RiLXBiMURhbUFsSkZ6RmN3LWVXUUxld2xDOHFqcWZWamZvNS14WEdQdGJlWFBlaXQtaWtkZHFBS1VGQlMxbXNo0gGwAUFVX3lxTE1nS3B2cWdZek1oSjhmVnh5TWFFa0g0RElNTV9VQ3Uzb1JWbjJLRVpFVTIxZWwza09nLTZjcmlNYU9mMXZpS1ZGaU5Ec2wwZFUyNTZRT2RjYjBHcERXNFFwOHRZQm52b2ZFZVBuaVR1TndScGIyM1hyZElZUnlvRTlCQ0U3VWxIYXhubjhpNzBhLU5iOWZQUG1Oc1ZneXRIZUxxSFZQZ29SbmduY2c5TTdr",
+      "source": "DHA | Demirören Haber Ajansı",
+      "id": "CBMirAFBVV95cUxPOWdzMzZpa3pEZ3RnbUhUMktVMC1QSTBac05aMGxST2MtUER0b3Ruc0Z1VThua3hEMnRTc2dMX21iUHJVYjlnVHhNOVctNjdBN2JDRW9BSHBYTHlPU3BPUWJIOHB2TElablBnX2RiLXBiMURhbUFsSkZ6RmN3LWVXUUxld2xDOHFqcWZWamZvNS14WEdQdGJlWFBlaXQtaWtkZHFBS1VGQlMxbXNo0gGwAUFVX3lxTE1nS3B2cWdZek1oSjhmVnh5TWFFa0g0RElNTV9VQ3Uzb1JWbjJLRVpFVTIxZWwza09nLTZjcmlNYU9mMXZpS1ZGaU5Ec2wwZFUyNTZRT2RjYjBHcERXNFFwOHRZQm52b2ZFZVBuaVR1TndScGIyM1hyZElZUnlvRTlCQ0U3VWxIYXhubjhpNzBhLU5iOWZQUG1Oc1ZneXRIZUxxSFZQZ29SbmduY2c5TTdr",
+      "crawledAt": "2026-06-21T13:22:13.093Z"
+    },
+    {
+      "title": "Mardin’de park halindeki TIR’ın dorsesinde yangın",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTVITGR0Q195UFdnaGNXWmJ6NTFKZno3czZYLW92Q19USV9FdVd2VE1aWXNKMnVaWVdJYlE0ZVNHcW1zTkF5SVo3dGpmUi11LXM5blVxaGF2alJOSXZ3V203Y2RleEpEWjdITzQ4c05oUWtacVN0cGs4X2VIdmktenlNMFNVaTJjLTBIVkF3RkoySmstSFBhX2hhR2w2VHpXaWJtclFvQlYxNERrejVzTkl0M28?oc=5",
       "pubDate": "Sun, 21 Jun 2026 08:42:43 GMT",
       "guid": "CBMitAFBVV95cUxQbTVITGR0Q195UFdnaGNXWmJ6NTFKZno3czZYLW92Q19USV9FdVd2VE1aWXNKMnVaWVdJYlE0ZVNHcW1zTkF5SVo3dGpmUi11LXM5blVxaGF2alJOSXZ3V203Y2RleEpEWjdITzQ4c05oUWtacVN0cGs4X2VIdmktenlNMFNVaTJjLTBIVkF3RkoySmstSFBhX2hhR2w2VHpXaWJtclFvQlYxNERrejVzTkl0M28",
@@ -3380,6 +3389,42 @@
   },
   "logs": [
     {
+      "id": "zf4mc2m6v",
+      "timestamp": "2026-06-21T13:22:13.477Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin’de park halindeki TIR’ın dorsesin...\"",
+      "type": "info"
+    },
+    {
+      "id": "bu5z38fah",
+      "timestamp": "2026-06-21T13:22:13.105Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "lbb6dscox",
+      "timestamp": "2026-06-21T13:22:13.100Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "0cvy5alv8",
+      "timestamp": "2026-06-21T13:22:13.082Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "hz001ibpq",
+      "timestamp": "2026-06-21T13:22:12.475Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "yq314quox",
+      "timestamp": "2026-06-21T13:22:12.464Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "bl0p5h9gz",
       "timestamp": "2026-06-21T11:28:19.816Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de park halindeki TIR’ın dorsesin...\"",
@@ -4241,42 +4286,6 @@
       "id": "zys0weu5c",
       "timestamp": "2026-06-19T17:51:32.756Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "tdfu4jhas",
-      "timestamp": "2026-06-19T17:51:30.754Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "9e78z8pdd",
-      "timestamp": "2026-06-19T17:51:30.248Z",
-      "message": "Telegram bildirimi gönderildi: \"Evinin balkonundayken düğünde açılan ate...\"",
-      "type": "info"
-    },
-    {
-      "id": "qi5yz1i5n",
-      "timestamp": "2026-06-19T17:51:29.717Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "w5o5vh6ph",
-      "timestamp": "2026-06-19T17:51:29.714Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "fcd5w3rgz",
-      "timestamp": "2026-06-19T17:51:29.703Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ubmvkg9pi",
-      "timestamp": "2026-06-19T17:51:29.071Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
