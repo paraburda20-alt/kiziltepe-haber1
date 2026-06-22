@@ -4217,6 +4217,30 @@
   },
   "logs": [
     {
+      "id": "7fe02y7cd",
+      "timestamp": "2026-06-22T21:29:47.584Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "dbadddhu7",
+      "timestamp": "2026-06-22T21:29:47.571Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 104 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "9db6d7wx8",
+      "timestamp": "2026-06-22T21:29:46.784Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "yja8ojptp",
+      "timestamp": "2026-06-22T21:29:46.771Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "nc0iteyiw",
       "timestamp": "2026-06-22T18:43:22.292Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5090,30 +5114,6 @@
       "id": "wamcc1czh",
       "timestamp": "2026-06-21T15:22:35.719Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "zf4mc2m6v",
-      "timestamp": "2026-06-21T13:22:13.477Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de park halindeki TIR’ın dorsesin...\"",
-      "type": "info"
-    },
-    {
-      "id": "bu5z38fah",
-      "timestamp": "2026-06-21T13:22:13.105Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "lbb6dscox",
-      "timestamp": "2026-06-21T13:22:13.100Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "0cvy5alv8",
-      "timestamp": "2026-06-21T13:22:13.082Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
