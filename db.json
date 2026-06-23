@@ -4244,6 +4244,30 @@
   },
   "logs": [
     {
+      "id": "772z614lv",
+      "timestamp": "2026-06-23T12:21:58.551Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "tjf4tcy94",
+      "timestamp": "2026-06-23T12:21:58.538Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "o00c5mosv",
+      "timestamp": "2026-06-23T12:21:57.989Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "kr7hvc73b",
+      "timestamp": "2026-06-23T12:21:57.975Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "ekmz606et",
       "timestamp": "2026-06-23T09:29:40.957Z",
       "message": "Telegram bildirimi gönderildi: \"Çarptığı yaya öldü, arkasına bakmadan ka...\"",
@@ -5117,30 +5141,6 @@
       "id": "0s221f58f",
       "timestamp": "2026-06-21T17:02:00.345Z",
       "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "6robvicq9",
-      "timestamp": "2026-06-21T17:01:59.838Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de 3’üncü kattan düşen çocuk öldü...\"",
-      "type": "info"
-    },
-    {
-      "id": "38426z9vd",
-      "timestamp": "2026-06-21T17:01:59.166Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de saman balyaları yandı...\"",
-      "type": "info"
-    },
-    {
-      "id": "a9w0iig0l",
-      "timestamp": "2026-06-21T17:01:58.532Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de 3. kattan düşen 2 yaşındaki ço...\"",
-      "type": "info"
-    },
-    {
-      "id": "1640xy5vm",
-      "timestamp": "2026-06-21T17:01:57.899Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de 3’üncü kattan düşen çocuk ağır...\"",
       "type": "info"
     }
   ]
