@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Pencereden düşen çocuk hayatını kaybetti",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXJhUnlKQmZBWWhxMkRJQXhMeXNfN1kwLXR5bWhCampFMFY3R204VmRmVWd1ZzZObndWRUpUWDJjYVN3NThFRUMyZ2ltR0xwSU1fMlJWQzd1cW9tai1zVmJ6dktoQlFvZUVNX1RmcVhhLVZxX3RtTmljN0tZVURWbDlmUHgxWXc?oc=5",
+      "pubDate": "Sun, 21 Jun 2026 20:35:00 GMT",
+      "guid": "CBMihwFBVV95cUxNcXJhUnlKQmZBWWhxMkRJQXhMeXNfN1kwLXR5bWhCampFMFY3R204VmRmVWd1ZzZObndWRUpUWDJjYVN3NThFRUMyZ2ltR0xwSU1fMlJWQzd1cW9tai1zVmJ6dktoQlFvZUVNX1RmcVhhLVZxX3RtTmljN0tZVURWbDlmUHgxWXc",
+      "source": "Tigris Haber",
+      "id": "CBMihwFBVV95cUxNcXJhUnlKQmZBWWhxMkRJQXhMeXNfN1kwLXR5bWhCampFMFY3R204VmRmVWd1ZzZObndWRUpUWDJjYVN3NThFRUMyZ2ltR0xwSU1fMlJWQzd1cW9tai1zVmJ6dktoQlFvZUVNX1RmcVhhLVZxX3RtTmljN0tZVURWbDlmUHgxWXc",
+      "crawledAt": "2026-06-23T05:44:07.362Z"
+    },
+    {
       "title": "Mardin’de otomobilin çarptığı yaya öldü",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYnVJNTRVSGxiMWRJUUdpeGtBc3JIX3NTcnNkQVpmUHFnajhUVVJDM2hYeWhXbEZxakRtOUpMN0dNcVIxTzByQld5aXBURWhvS0s2X0NJam82Q21LVEh1V0dxTHN5dzJfaW9PS1ZEd0pndU1sTkEzY2hxZkhRSzZCTEd5NU1admlOeEVj0gGbAUFVX3lxTE94TXZBcnZxVnZEUjR1OFRhNUZLTlJBRjFUYmQ5Z0I5aEo3MGJXYnR0N2xuSlU2TUJIRGRWV1l4TjhoeUU0ZVdfbVZwTUhYOTBHcll1MlhqbS1fUWkwQW80ZkZKYlV2YVdjUVkzNHZtWTlWT2ZxaHBVN1JFcTNWZWktZzI3WFZnM3Y3QmlOVlE5S2lmSjEwVWxOampZ?oc=5",
       "pubDate": "Mon, 22 Jun 2026 12:28:00 GMT",
@@ -4212,10 +4221,58 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-06-22",
+    "lastMorningReportDate": "2026-06-23",
     "lastPharmaciesDate": "2026-06-22"
   },
   "logs": [
+    {
+      "id": "pn3j8v1at",
+      "timestamp": "2026-06-23T05:44:08.923Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "9n9ldnnjf",
+      "timestamp": "2026-06-23T05:44:08.236Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "b9yhjfp3s",
+      "timestamp": "2026-06-23T05:44:07.727Z",
+      "message": "Telegram bildirimi gönderildi: \"Pencereden düşen çocuk hayatını kaybetti...\"",
+      "type": "info"
+    },
+    {
+      "id": "stxn7wn9c",
+      "timestamp": "2026-06-23T05:44:07.374Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "6p1qzsk4r",
+      "timestamp": "2026-06-23T05:44:07.368Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "u49wxd6tb",
+      "timestamp": "2026-06-23T05:44:07.344Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "racugasof",
+      "timestamp": "2026-06-23T05:44:06.819Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "3ljdmxjqa",
+      "timestamp": "2026-06-23T05:44:06.807Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "jfjri177z",
       "timestamp": "2026-06-23T01:28:45.180Z",
@@ -5066,54 +5123,6 @@
       "id": "rb7fn1bjw",
       "timestamp": "2026-06-21T17:01:53.359Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de 3. katta düşen çocuğun durumu ...\"",
-      "type": "info"
-    },
-    {
-      "id": "dxqlzwe90",
-      "timestamp": "2026-06-21T17:01:52.717Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de 3’üncü kattan düşen 2 yaşındak...\"",
-      "type": "info"
-    },
-    {
-      "id": "wzu2212o7",
-      "timestamp": "2026-06-21T17:01:51.956Z",
-      "message": "Telegram bildirimi gönderildi: \"2 Yaşındaki Çocuk Pencereden Düştü...\"",
-      "type": "info"
-    },
-    {
-      "id": "hnno17jjx",
-      "timestamp": "2026-06-21T17:01:51.245Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de 3'üncü kattan düşen çocuk öldü...\"",
-      "type": "info"
-    },
-    {
-      "id": "9rkvzkv9a",
-      "timestamp": "2026-06-21T17:01:50.539Z",
-      "message": "14 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "ci0x1d4cs",
-      "timestamp": "2026-06-21T17:01:50.534Z",
-      "message": "Veritabanına 14 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "9hqbeshlt",
-      "timestamp": "2026-06-21T17:01:50.515Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "0v5diqi6l",
-      "timestamp": "2026-06-21T17:01:49.939Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "77w5iz6xm",
-      "timestamp": "2026-06-21T17:01:49.929Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
