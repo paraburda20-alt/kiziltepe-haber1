@@ -4217,6 +4217,30 @@
   },
   "logs": [
     {
+      "id": "jfjri177z",
+      "timestamp": "2026-06-23T01:28:45.180Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "eshyljc01",
+      "timestamp": "2026-06-23T01:28:45.163Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 104 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "4z1t69w94",
+      "timestamp": "2026-06-23T01:28:44.512Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "fpvn5e7g1",
+      "timestamp": "2026-06-23T01:28:44.499Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "kkblz1ioo",
       "timestamp": "2026-06-22T23:03:52.612Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5090,30 +5114,6 @@
       "id": "77w5iz6xm",
       "timestamp": "2026-06-21T17:01:49.929Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "2gtlsw4wa",
-      "timestamp": "2026-06-21T15:22:37.914Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Park Halindeki TIR'da Yangı...\"",
-      "type": "info"
-    },
-    {
-      "id": "4lc1wocmt",
-      "timestamp": "2026-06-21T15:22:37.264Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Saman Balyalarında Yangın...\"",
-      "type": "info"
-    },
-    {
-      "id": "wfmj3lrcr",
-      "timestamp": "2026-06-21T15:22:36.612Z",
-      "message": "Telegram bildirimi gönderildi: \"Sıcak hava, susuzluk ve hareketsizlik pı...\"",
-      "type": "info"
-    },
-    {
-      "id": "x8d0asnb0",
-      "timestamp": "2026-06-21T15:22:36.290Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
