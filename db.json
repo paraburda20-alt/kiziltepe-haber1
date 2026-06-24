@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "oppd6cp5v",
+      "timestamp": "2026-06-24T02:44:46.804Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "8egqy1vn3",
+      "timestamp": "2026-06-24T02:44:46.789Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "swom9zgxv",
+      "timestamp": "2026-06-24T02:44:46.047Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "wpqo84jn4",
+      "timestamp": "2026-06-24T02:44:46.033Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "0d7qn8uru",
       "timestamp": "2026-06-23T23:52:20.967Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin - Kızıltepe’de anız yangınında tr...\"",
@@ -5387,30 +5411,6 @@
       "id": "y4v9ngdsl",
       "timestamp": "2026-06-22T14:32:30.408Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de 2 Yaşındaki Çocuk Pencerede...\"",
-      "type": "info"
-    },
-    {
-      "id": "xkfdh0jbj",
-      "timestamp": "2026-06-22T14:32:29.756Z",
-      "message": "Telegram bildirimi gönderildi: \"Aracın çarptığı 78 yaşındaki kadın hayat...\"",
-      "type": "info"
-    },
-    {
-      "id": "z48kiaxwp",
-      "timestamp": "2026-06-22T14:32:29.102Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de Yangınlar Kontrol Altına Alınd...\"",
-      "type": "info"
-    },
-    {
-      "id": "frb6qvuwe",
-      "timestamp": "2026-06-22T14:32:28.426Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardinde otomobilin çarptığı yaya öldü...\"",
-      "type": "info"
-    },
-    {
-      "id": "549ng0h0b",
-      "timestamp": "2026-06-22T14:32:27.775Z",
-      "message": "Telegram bildirimi gönderildi: \"Üçüncü kattan düşen bebek yaşamını yitir...\"",
       "type": "info"
     }
   ]
