@@ -4514,6 +4514,24 @@
   },
   "logs": [
     {
+      "id": "0nm4v5xrr",
+      "timestamp": "2026-06-25T18:31:14.565Z",
+      "message": "Tarama hatası: Google News RSS feed error: Status 503",
+      "type": "error"
+    },
+    {
+      "id": "4hdidjhlk",
+      "timestamp": "2026-06-25T18:31:06.713Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "niawh13pf",
+      "timestamp": "2026-06-25T18:31:06.700Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "z4i9d6z15",
       "timestamp": "2026-06-25T16:19:40.752Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5393,24 +5411,6 @@
       "id": "4z8fn5q24",
       "timestamp": "2026-06-23T22:45:19.557Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’deki örtü yangınları ekiplerin mü...\"",
-      "type": "info"
-    },
-    {
-      "id": "mu9i4ne47",
-      "timestamp": "2026-06-23T22:45:18.811Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de anız yangını, yerleşim yerine ...\"",
-      "type": "info"
-    },
-    {
-      "id": "r44npdokw",
-      "timestamp": "2026-06-23T22:45:18.100Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de anız yangını, yerleşim yerine ...\"",
-      "type": "info"
-    },
-    {
-      "id": "ds2819iyb",
-      "timestamp": "2026-06-23T22:45:17.585Z",
-      "message": "9 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
