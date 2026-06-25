@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin'in 3 ilçesinde çıkan yangınlar söndürüldü",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTFRHNzBMbmRZdHduc2U5aVdvbGdvTGlBUlNGR3Y2N2RXdllZSUxONDcxaDlZeUJHTWVvSXlSZ1YzZEVlSXFoSHREajZlenB6eHVwN0xoWWRiT2M4b1lndlBLVnZmRU0yZzV3aFVJbXNRVGhkVm9ZcGlXLXplRXRhbzQ1RVdMZTRXRW5UbklR0gGeAUFVX3lxTE5ESThST0swVUtCOEVmY2tLOTVMZGJYZlY2X0k0bGpRc0NSck1uWnFqYVNSakpvME9US0JpdE0yeU5CWTNGMFV1c1hzRXl4Y05Wd3FkUEg4Z1psZmtMZjRtbUxGM0VBRUdPUnoyaFMxSjNnVXlKMTJNOFp2aEFoUk9FcXY3ZHh3dmtJWWcxbVEzMmZZSHhUQlZ4bUFJMmxR?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 06:00:24 GMT",
+      "guid": "CBMijgFBVV95cUxQTFRHNzBMbmRZdHduc2U5aVdvbGdvTGlBUlNGR3Y2N2RXdllZSUxONDcxaDlZeUJHTWVvSXlSZ1YzZEVlSXFoSHREajZlenB6eHVwN0xoWWRiT2M4b1lndlBLVnZmRU0yZzV3aFVJbXNRVGhkVm9ZcGlXLXplRXRhbzQ1RVdMZTRXRW5UbklR0gGeAUFVX3lxTE5ESThST0swVUtCOEVmY2tLOTVMZGJYZlY2X0k0bGpRc0NSck1uWnFqYVNSakpvME9US0JpdE0yeU5CWTNGMFV1c1hzRXl4Y05Wd3FkUEg4Z1psZmtMZjRtbUxGM0VBRUdPUnoyaFMxSjNnVXlKMTJNOFp2aEFoUk9FcXY3ZHh3dmtJWWcxbVEzMmZZSHhUQlZ4bUFJMmxR",
+      "source": "Bizim Tv",
+      "id": "CBMijgFBVV95cUxQTFRHNzBMbmRZdHduc2U5aVdvbGdvTGlBUlNGR3Y2N2RXdllZSUxONDcxaDlZeUJHTWVvSXlSZ1YzZEVlSXFoSHREajZlenB6eHVwN0xoWWRiT2M4b1lndlBLVnZmRU0yZzV3aFVJbXNRVGhkVm9ZcGlXLXplRXRhbzQ1RVdMZTRXRW5UbklR0gGeAUFVX3lxTE5ESThST0swVUtCOEVmY2tLOTVMZGJYZlY2X0k0bGpRc0NSck1uWnFqYVNSakpvME9US0JpdE0yeU5CWTNGMFV1c1hzRXl4Y05Wd3FkUEg4Z1psZmtMZjRtbUxGM0VBRUdPUnoyaFMxSjNnVXlKMTJNOFp2aEFoUk9FcXY3ZHh3dmtJWWcxbVEzMmZZSHhUQlZ4bUFJMmxR",
+      "crawledAt": "2026-06-25T11:13:08.169Z"
+    },
+    {
       "title": "Viranşehir–Kızıltepe Yolunda Yenileme Çalışmaları Başladı",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjhWOHA4OTlQdy1Id2czYnlIX211VG5zazdUcWVpNVZubGZxTGQ0ck11czFXcTZNMjdQbnlkRzVkV1pSRFJteHlOLVN6dUpfUm5raTV5d2RfWW5TTWhSbklYbW1VWTRNdEJfdnNTN2g2bjdaQmNTaTJsajhWR21GZDFzblNBSEtOd0N5Z09KRFF6Tno1NW1YX1g5TdIBqAFBVV95cUxOWVUtUTlPRl9BU1NzYkJRZjRha3lTZjJrMUxORmxrelhPRUJINEpucTFWRVIxcThJQTRybW03UmZLaFg3cnhMZ1hSZVg4LWxDanlRYVduNzFvUjUxWHJ6YTN1cVB0TXloRkdyQUJ6ZTNwaTJqcDZGVkNVV3dSSlRveVNGcG1iaHYydlp5Y05tai1IZVhVOTZ4Rm1aZWVNbWk4ZlJLNHZubnE?oc=5",
       "pubDate": "Wed, 24 Jun 2026 06:01:51 GMT",
@@ -4490,15 +4499,6 @@
       "source": "SonDakika",
       "id": "CBMilAFBVV95cUxPUXRzUWRwb0cyRHFZeTZfdWt5clIxOW5wclFwT1JieDhJZVd4Tzdia2tIa3hXSnRfa211QUI0NWc5OU1zY0NEUFRMcXU3ZXNsSF9uWHV0VmhmNGk1VWJHTkVKaktrN1QzM1J1bldnZ0xJOVpENkZTZUlHcTk3dmFDTUpqdHo0aC1pU0s5M2tNdERTWFN50gGPAUFVX3lxTE5zZ1lLM3QwZmRIdGFkS0lmZ1NSNHVreDlYbmJuWGkwYkdUQk40V0J0NHNWVGlXYlZ0Uk82Z1hKcUlsZWlYTmlwQjhzSFI2ZlNvaFpMcjBxY2E5QjFLYVRLd3JCQmx5b0VOQ0gtRWpEMFVual91S2UwbUNmR2RMbzR3bWcyTlpxd3NEUjVDN3U4",
       "crawledAt": "2026-06-13T16:31:00.919Z"
-    },
-    {
-      "title": "Kızıltepe'de Buğday Alanında Yangın",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRHVGMTYtSkNNSmZERzlReTc4V2ZfNzZkaDdXejdSdGUwVEsxSkZkMXRSWTZRSmNGdVU0cmh0UTRmWllDUjlCMmh5SnpqbU5jZEVVbkNFWnZJTFdTaWwxbVpkbVdYT3huVFRpbnc5bWFHQjR4blY1d3RVaElQWTkwbEpDd243eFNBV3JhMNIBiAFBVV95cUxPZm5WRm9FUWRiYzUxZFliM09NS0ktSVByVzZVRzVySm90ZWxmLWJ4Qm4yMUVnU21hNE9jWll0c1RBTnF5SFN2SEZkVmtQSTFRZ3NrWlZVZHRrZktuTzJhSGJueEdRSTI3R3kyc1pnT1ZoTnl6ODVTVzBBV0xiUjFCRDRqYTFtaDdR?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 14:42:03 GMT",
-      "guid": "CBMijAFBVV95cUxNRHVGMTYtSkNNSmZERzlReTc4V2ZfNzZkaDdXejdSdGUwVEsxSkZkMXRSWTZRSmNGdVU0cmh0UTRmWllDUjlCMmh5SnpqbU5jZEVVbkNFWnZJTFdTaWwxbVpkbVdYT3huVFRpbnc5bWFHQjR4blY1d3RVaElQWTkwbEpDd243eFNBV3JhMNIBiAFBVV95cUxPZm5WRm9FUWRiYzUxZFliM09NS0ktSVByVzZVRzVySm90ZWxmLWJ4Qm4yMUVnU21hNE9jWll0c1RBTnF5SFN2SEZkVmtQSTFRZ3NrWlZVZHRrZktuTzJhSGJueEdRSTI3R3kyc1pnT1ZoTnl6ODVTVzBBV0xiUjFCRDRqYTFtaDdR",
-      "source": "SonDakika",
-      "id": "CBMijAFBVV95cUxNRHVGMTYtSkNNSmZERzlReTc4V2ZfNzZkaDdXejdSdGUwVEsxSkZkMXRSWTZRSmNGdVU0cmh0UTRmWllDUjlCMmh5SnpqbU5jZEVVbkNFWnZJTFdTaWwxbVpkbVdYT3huVFRpbnc5bWFHQjR4blY1d3RVaElQWTkwbEpDd243eFNBV3JhMNIBiAFBVV95cUxPZm5WRm9FUWRiYzUxZFliM09NS0ktSVByVzZVRzVySm90ZWxmLWJ4Qm4yMUVnU21hNE9jWll0c1RBTnF5SFN2SEZkVmtQSTFRZ3NrWlZVZHRrZktuTzJhSGJueEdRSTI3R3kyc1pnT1ZoTnl6ODVTVzBBV0xiUjFCRDRqYTFtaDdR",
-      "crawledAt": "2026-06-13T16:31:00.919Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-06-24"
   },
   "logs": [
+    {
+      "id": "9j2vfv74c",
+      "timestamp": "2026-06-25T11:13:08.787Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'in 3 ilçesinde çıkan yangınlar sö...\"",
+      "type": "info"
+    },
+    {
+      "id": "5r1ir2vae",
+      "timestamp": "2026-06-25T11:13:08.179Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "o05f9fau3",
+      "timestamp": "2026-06-25T11:13:08.174Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "2l9gdoua8",
+      "timestamp": "2026-06-25T11:13:08.157Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "72rihmmgh",
+      "timestamp": "2026-06-25T11:13:07.456Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "eho94e8df",
+      "timestamp": "2026-06-25T11:13:07.443Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "qbtda3m96",
       "timestamp": "2026-06-25T08:19:50.028Z",
@@ -5375,42 +5411,6 @@
       "id": "og5ci4xpm",
       "timestamp": "2026-06-23T21:17:10.917Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "un3mtdgwe",
-      "timestamp": "2026-06-23T21:17:10.909Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "rrr2mks4f",
-      "timestamp": "2026-06-23T19:27:06.827Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin - Kızıltepe’de anız yangınında tr...\"",
-      "type": "info"
-    },
-    {
-      "id": "jfecas0hi",
-      "timestamp": "2026-06-23T19:27:06.116Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de Kızıltepe'de Yangın Sona Erdir...\"",
-      "type": "info"
-    },
-    {
-      "id": "052mrcx5z",
-      "timestamp": "2026-06-23T19:27:05.424Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Çıkan Yangına Havada...\"",
-      "type": "info"
-    },
-    {
-      "id": "boswmu1sy",
-      "timestamp": "2026-06-23T19:27:04.651Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Anız Yangını...\"",
-      "type": "info"
-    },
-    {
-      "id": "x1kqbzdk8",
-      "timestamp": "2026-06-23T19:27:03.971Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Anız Yangını Yerleşimi Tehd...\"",
       "type": "info"
     }
   ]
