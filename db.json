@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kızıltepe’de kavga: 1 kişi öldü, 11 kişi yaralandı",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41OUJ2UGh2b0tRcks0VVdGXzMzc1VTQ0wzUzdmNGZabWJNNlJkOGtkbnZMS3ZMN0VqYzIxR2NPc3JqdnhPbWdDemFqa2JzX3ZrbDU5VVlaY1EyV0Q4TDdnWU1QNDVQUQ?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 20:04:15 GMT",
+      "guid": "CBMiZkFVX3lxTE41OUJ2UGh2b0tRcks0VVdGXzMzc1VTQ0wzUzdmNGZabWJNNlJkOGtkbnZMS3ZMN0VqYzIxR2NPc3JqdnhPbWdDemFqa2JzX3ZrbDU5VVlaY1EyV0Q4TDdnWU1QNDVQUQ",
+      "source": "Rudaw",
+      "id": "CBMiZkFVX3lxTE41OUJ2UGh2b0tRcks0VVdGXzMzc1VTQ0wzUzdmNGZabWJNNlJkOGtkbnZMS3ZMN0VqYzIxR2NPc3JqdnhPbWdDemFqa2JzX3ZrbDU5VVlaY1EyV0Q4TDdnWU1QNDVQUQ",
+      "crawledAt": "2026-06-28T18:01:23.507Z"
+    },
+    {
       "title": "Amca çocukları arasında çıkan silahlı kavgada 1 kişi yaralandı",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3NUdWxRQjV5aGc4U00yaXVNblVqYS1tR3M4U0dGMWZqWV9jeGhtY2wzR1pCdzhhdFNMYWJGZ21TOW9fQjVxbzdxOC11YVdxYTRheHZ3bUdVa0VUcmcxT3ZpRE8tS0k1QS1UZjBZLTVWLVVUV2U5d1lLM2RKT29uZ21yaExabW5jYTE5TVAwMEV5aUxEdVZMS2gyNlQycG0yUGow?oc=5",
       "pubDate": "Sun, 28 Jun 2026 16:09:42 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Kurdistan24",
       "id": "CBMikAFBVV95cUxORnFuOUM1RFZVVVVfa1YyOHN5elJkLUIxdzdsMlNfbmtkN1U0allRbTA4N0tGbFdVUk82aGVibXUwcUdmYm5ua0g5YXZQbHVjN1c1NEE0MWZIR2lhZEhDakItSkVXNmd2eDNHc2tSa09oM2FuWW5ZaW40bG1HaE04X3hlRVdmQWhKeUcwcXV4ZUs",
       "crawledAt": "2026-06-15T15:47:00.880Z"
-    },
-    {
-      "title": "Mardin Kızıltepe’de buğday yüklü tır alev aldı: Araç kullanılamaz hale geldi",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDBLN1M3dmQxcHR4VEoyRmhKdENWYmxlb05aSUZ0eHdkYVJRWjIxYzVIZ2gySTRSWWxSUm5UQnBPN2xjNUxCQjZOYTZ4RS10N2NKcnFRRWk2MjlGLXdjVE1XUnphUmh0UjdWVE1NbllLaHJSWXhXLXZ4aWVMUG1SeUxZN2pmal91OGdrNmROZXN0VzE1WVVROWhzdHdubjVtMFM4ekU5ZDc?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 14:32:00 GMT",
-      "guid": "CBMiqAFBVV95cUxNNDBLN1M3dmQxcHR4VEoyRmhKdENWYmxlb05aSUZ0eHdkYVJRWjIxYzVIZ2gySTRSWWxSUm5UQnBPN2xjNUxCQjZOYTZ4RS10N2NKcnFRRWk2MjlGLXdjVE1XUnphUmh0UjdWVE1NbllLaHJSWXhXLXZ4aWVMUG1SeUxZN2pmal91OGdrNmROZXN0VzE1WVVROWhzdHdubjVtMFM4ekU5ZDc",
-      "source": "24 Saat Gazetesi Ankara",
-      "id": "CBMiqAFBVV95cUxNNDBLN1M3dmQxcHR4VEoyRmhKdENWYmxlb05aSUZ0eHdkYVJRWjIxYzVIZ2gySTRSWWxSUm5UQnBPN2xjNUxCQjZOYTZ4RS10N2NKcnFRRWk2MjlGLXdjVE1XUnphUmh0UjdWVE1NbllLaHJSWXhXLXZ4aWVMUG1SeUxZN2pmal91OGdrNmROZXN0VzE1WVVROWhzdHdubjVtMFM4ekU5ZDc",
-      "crawledAt": "2026-06-15T15:47:00.880Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-06-28"
   },
   "logs": [
+    {
+      "id": "rnqa2i2j5",
+      "timestamp": "2026-06-28T18:01:24.036Z",
+      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de kavga: 1 kişi öldü, 11 kişi...\"",
+      "type": "info"
+    },
+    {
+      "id": "jofjtzarh",
+      "timestamp": "2026-06-28T18:01:23.518Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "nfexqqjd6",
+      "timestamp": "2026-06-28T18:01:23.513Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "bbbk7rorq",
+      "timestamp": "2026-06-28T18:01:23.494Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "j4misjplf",
+      "timestamp": "2026-06-28T18:01:22.869Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "rpyi620wb",
+      "timestamp": "2026-06-28T18:01:22.856Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "ij0wjf6qo",
       "timestamp": "2026-06-28T16:42:09.198Z",
@@ -5374,42 +5410,6 @@
     {
       "id": "f1nijumkq",
       "timestamp": "2026-06-27T07:44:59.585Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "clfthyemv",
-      "timestamp": "2026-06-27T07:44:59.124Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "743lebg6t",
-      "timestamp": "2026-06-27T07:44:59.111Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "u3ooij36i",
-      "timestamp": "2026-06-27T04:32:03.669Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Yangın: 80 Dönüm Buğday Ala...\"",
-      "type": "info"
-    },
-    {
-      "id": "wvvys0h5u",
-      "timestamp": "2026-06-27T04:32:03.210Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "g38dfc73g",
-      "timestamp": "2026-06-27T04:32:03.205Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "v0x3xn46m",
-      "timestamp": "2026-06-27T04:32:03.188Z",
       "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
