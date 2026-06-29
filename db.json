@@ -4514,6 +4514,24 @@
   },
   "logs": [
     {
+      "id": "nd6fkkybo",
+      "timestamp": "2026-06-29T20:25:37.189Z",
+      "message": "Tarama hatası: Google News RSS feed error: Status 503",
+      "type": "error"
+    },
+    {
+      "id": "9en5casiv",
+      "timestamp": "2026-06-29T20:25:31.648Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "3hrhaupc3",
+      "timestamp": "2026-06-29T20:25:31.635Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "d79do44ud",
       "timestamp": "2026-06-29T18:28:16.553Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de motosiklet kazası: Bebek ağ...\"",
@@ -5393,24 +5411,6 @@
       "id": "ashpdhvy5",
       "timestamp": "2026-06-28T06:13:05.666Z",
       "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "v8org6hai",
-      "timestamp": "2026-06-28T06:13:05.152Z",
-      "message": "Telegram bildirimi gönderildi: \"Yangında ölen Melike'nin karnesi, okul s...\"",
-      "type": "info"
-    },
-    {
-      "id": "2voeb7wmz",
-      "timestamp": "2026-06-28T06:13:04.410Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de çıkan anız yangınına müdahale ...\"",
-      "type": "info"
-    },
-    {
-      "id": "ikxrwgnxe",
-      "timestamp": "2026-06-28T06:13:03.672Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe’de havaya ateş açılması...\"",
       "type": "info"
     }
   ]
