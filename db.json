@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "7q3o0yjdu",
+      "timestamp": "2026-06-30T23:07:14.045Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "k6tn11abh",
+      "timestamp": "2026-06-30T23:07:14.032Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "6o41boybl",
+      "timestamp": "2026-06-30T23:07:13.326Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "oerzscahv",
+      "timestamp": "2026-06-30T23:07:13.313Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "54quidmfa",
       "timestamp": "2026-06-30T21:55:39.177Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Silahlı Saldırı: Bir Kişi H...\"",
@@ -5387,30 +5411,6 @@
       "id": "u1kqe2dj8",
       "timestamp": "2026-06-29T16:23:12.167Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Üç Cinayet Davası Devam Edi...\"",
-      "type": "info"
-    },
-    {
-      "id": "diezo02bh",
-      "timestamp": "2026-06-29T16:23:11.504Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Üç Kişinin Cinayeti: Komşud...\"",
-      "type": "info"
-    },
-    {
-      "id": "ooo443t4z",
-      "timestamp": "2026-06-29T16:23:10.803Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Düğün Kurşunuyla 77 Yaşında...\"",
-      "type": "info"
-    },
-    {
-      "id": "itixzpr8c",
-      "timestamp": "2026-06-29T16:23:10.139Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de bir kadın katledildi...\"",
-      "type": "info"
-    },
-    {
-      "id": "pao5o6kve",
-      "timestamp": "2026-06-29T16:23:09.401Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Silahlı Saldırı: 3 Şüpheli ...\"",
       "type": "info"
     }
   ]
