@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "jz266164a",
+      "timestamp": "2026-07-01T20:21:43.253Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "9pa00ufc2",
+      "timestamp": "2026-07-01T20:21:43.235Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ox3lyyw2m",
+      "timestamp": "2026-07-01T20:21:42.621Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "o2nqs4m5q",
+      "timestamp": "2026-07-01T20:21:42.608Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "g3a32vce6",
       "timestamp": "2026-07-01T18:23:06.234Z",
       "message": "Telegram bildirimi gönderildi: \"MARDİN KIZILTEPE ÖZEL EĞİTİM ANAOKULU \"D...\"",
@@ -5387,30 +5411,6 @@
       "id": "esz8qlhmf",
       "timestamp": "2026-06-29T22:51:12.757Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de Kaya ailesinin 3 ferdinin ö...\"",
-      "type": "info"
-    },
-    {
-      "id": "ujh0thnje",
-      "timestamp": "2026-06-29T22:51:12.100Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de sağanak etkili oldu: Kızıltepe...\"",
-      "type": "info"
-    },
-    {
-      "id": "whx265go5",
-      "timestamp": "2026-06-29T22:51:11.640Z",
-      "message": "7 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "b6981gsmt",
-      "timestamp": "2026-06-29T22:51:11.634Z",
-      "message": "Veritabanına 7 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "zxe6tr1al",
-      "timestamp": "2026-06-29T22:51:11.618Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
