@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "tfgaedzer",
+      "timestamp": "2026-07-01T13:17:29.276Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "30607owth",
+      "timestamp": "2026-07-01T13:17:29.263Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "2nrvd61rp",
+      "timestamp": "2026-07-01T13:17:28.744Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "iipwufec9",
+      "timestamp": "2026-07-01T13:17:28.732Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "jr0ec4bcr",
       "timestamp": "2026-07-01T10:28:24.515Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de ihraç edilen İpek’in istifa...\"",
@@ -5387,30 +5411,6 @@
       "id": "9vv5uw3m5",
       "timestamp": "2026-06-29T21:50:49.753Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "arzauuhw9",
-      "timestamp": "2026-06-29T21:50:49.739Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "nd6fkkybo",
-      "timestamp": "2026-06-29T20:25:37.189Z",
-      "message": "Tarama hatası: Google News RSS feed error: Status 503",
-      "type": "error"
-    },
-    {
-      "id": "9en5casiv",
-      "timestamp": "2026-06-29T20:25:31.648Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "3hrhaupc3",
-      "timestamp": "2026-06-29T20:25:31.635Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
