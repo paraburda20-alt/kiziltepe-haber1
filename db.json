@@ -4510,9 +4510,39 @@
     "discordWebhook": "",
     "enableDiscord": false,
     "lastMorningReportDate": "2026-07-02",
-    "lastPharmaciesDate": "2026-07-01"
+    "lastPharmaciesDate": "2026-07-02"
   },
   "logs": [
+    {
+      "id": "i3v08ubsd",
+      "timestamp": "2026-07-02T17:41:03.938Z",
+      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "38bily9x2",
+      "timestamp": "2026-07-02T17:41:01.684Z",
+      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "lcwsnvgiy",
+      "timestamp": "2026-07-02T17:41:01.673Z",
+      "message": "Tarama hatası: Google News RSS feed error: Status 503",
+      "type": "error"
+    },
+    {
+      "id": "euook4mn8",
+      "timestamp": "2026-07-02T17:40:56.124Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "dl7qziyyw",
+      "timestamp": "2026-07-02T17:40:56.110Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "g92az8ch4",
       "timestamp": "2026-07-02T15:39:19.971Z",
@@ -5381,36 +5411,6 @@
       "id": "m4898cxy3",
       "timestamp": "2026-06-30T16:00:38.145Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "elfwx0z0h",
-      "timestamp": "2026-06-30T16:00:38.132Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "tnqeg4acf",
-      "timestamp": "2026-06-30T13:20:51.124Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de 2 ilçede çıkan saman ve ot yan...\"",
-      "type": "info"
-    },
-    {
-      "id": "8xvcvt2j5",
-      "timestamp": "2026-06-30T13:20:50.461Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de ısı yalıtım atölyesinde çıkan ...\"",
-      "type": "info"
-    },
-    {
-      "id": "e0qcfynrj",
-      "timestamp": "2026-06-30T13:20:49.793Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de 4 Yangın Kontrol Altına Alındı...\"",
-      "type": "info"
-    },
-    {
-      "id": "nd03mqwvr",
-      "timestamp": "2026-06-30T13:20:49.129Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de Yangınlar Söndürüldü...\"",
       "type": "info"
     }
   ]
