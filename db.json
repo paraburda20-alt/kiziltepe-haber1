@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "y6yu5qgms",
+      "timestamp": "2026-07-02T13:19:21.862Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "dik8at7vy",
+      "timestamp": "2026-07-02T13:19:21.841Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "jkfjo8z7e",
+      "timestamp": "2026-07-02T13:19:21.322Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "k7sm0v8sf",
+      "timestamp": "2026-07-02T13:19:21.310Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "mn0mba74r",
       "timestamp": "2026-07-02T11:29:40.923Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'deki aynı aileden 3 kişinin öldüğ...\"",
@@ -5387,30 +5411,6 @@
       "id": "udql6qk89",
       "timestamp": "2026-06-30T13:20:44.541Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "ug076kbx6",
-      "timestamp": "2026-06-30T11:25:20.558Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de ısı yalıtım malzemesi atölyesi...\"",
-      "type": "info"
-    },
-    {
-      "id": "6gstfymqy",
-      "timestamp": "2026-06-30T11:25:19.887Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de silahlı kavgada 1 kişi öldü, 3...\"",
-      "type": "info"
-    },
-    {
-      "id": "f6saq8u23",
-      "timestamp": "2026-06-30T11:25:19.492Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "ifk5hw460",
-      "timestamp": "2026-06-30T11:25:19.483Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
