@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin’de otomobil ile hafif ticari araç çarpıştı: 2 yaralı",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZzBNV2lYaWwybktfclhiNFRldy1yXzJqaW9aOFg1a2VyV0FiOWk0ZGFPdlpYMEM1dDZ6cUlJM0hKMHVscVpKbEJBQ2t0RXlnUi1GUWVSbXd6V2ZfVnBtS0xfck80RC1HT2ZDUUdpWGlXX3hISmc1dnFDU205SHhERkt6c016cmNkY0pIaXlmUmFzXzdnZUNwaGpfTDhjMFhQWHdZeG5aOG9TSWI4NHRGTlpjeVo0UQ?oc=5",
+      "pubDate": "Fri, 01 May 2026 07:00:00 GMT",
+      "guid": "CBMitgFBVV95cUxNZzBNV2lYaWwybktfclhiNFRldy1yXzJqaW9aOFg1a2VyV0FiOWk0ZGFPdlpYMEM1dDZ6cUlJM0hKMHVscVpKbEJBQ2t0RXlnUi1GUWVSbXd6V2ZfVnBtS0xfck80RC1HT2ZDUUdpWGlXX3hISmc1dnFDU205SHhERkt6c016cmNkY0pIaXlmUmFzXzdnZUNwaGpfTDhjMFhQWHdZeG5aOG9TSWI4NHRGTlpjeVo0UQ",
+      "source": "Hürriyet",
+      "id": "CBMitgFBVV95cUxNZzBNV2lYaWwybktfclhiNFRldy1yXzJqaW9aOFg1a2VyV0FiOWk0ZGFPdlpYMEM1dDZ6cUlJM0hKMHVscVpKbEJBQ2t0RXlnUi1GUWVSbXd6V2ZfVnBtS0xfck80RC1HT2ZDUUdpWGlXX3hISmc1dnFDU205SHhERkt6c016cmNkY0pIaXlmUmFzXzdnZUNwaGpfTDhjMFhQWHdZeG5aOG9TSWI4NHRGTlpjeVo0UQ",
+      "crawledAt": "2026-07-03T19:15:56.819Z"
+    },
+    {
       "title": "Mardin'in 3 ilçesinde çıkan ot ve anız yangınları söndürüldü",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWXJBRUdQNW52cjRBNi1Yd00wZmR6SUJ2b1prcmtnLURMa0VUc1hZcUh6bDZvbVFBZEEzVm1KTXVtSk90WmFPbUJVdHlqdHg0czVZMWlDWFczX0hYSE5ZMHlVUGwyM0ZaemREb3RIVFRiR0taeEItSlpCb3pKSVgxa2Fva0Q1VXdiSlU5bkg4RkNQMWd6Njk0dTRtWEM4TXFfalNLVUNoZw?oc=5",
       "pubDate": "Fri, 03 Jul 2026 14:00:14 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Anka Haber",
       "id": "CBMihgFBVV95cUxQaWMtV2RfXzR3OHI4ZkNfLWxWWnVlc3U0VDBfNFBqV0RqRFpTc1IyX1NJZ3dXTDI0eTFTX2xhRXNfOFE2bkVDN0JIcFZlRWNMcFV4dF9oYXo1UVlSUjgtcEtWOTVrdS1SakpocGFoU3VQS0NzN2k4UGdOWVoxdG5VS18xV0p3UQ",
       "crawledAt": "2026-06-20T10:10:07.942Z"
-    },
-    {
-      "title": "Qoser’de yangın: 1 çocuk yaşamını yitirdi",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qSUpSUklYajIyRlNUMVNNSjlwRFc4M3FDM1piWVVqQVZ0VXdaRzJDaldwSFBMNTl6XzkwX2lZc1ZYQWdfYUYzQWt0WWtqbVBTUVU0ZGZsU0pJWlRLY3VZZVlRSmV4NE1DYTJNUDVVMVhQSlo1ZU82cTlNRQ?oc=5",
-      "pubDate": "Sat, 20 Jun 2026 07:22:22 GMT",
-      "guid": "CBMie0FVX3lxTE1qSUpSUklYajIyRlNUMVNNSjlwRFc4M3FDM1piWVVqQVZ0VXdaRzJDaldwSFBMNTl6XzkwX2lZc1ZYQWdfYUYzQWt0WWtqbVBTUVU0ZGZsU0pJWlRLY3VZZVlRSmV4NE1DYTJNUDVVMVhQSlo1ZU82cTlNRQ",
-      "source": "Yeni Yaşam Gazetesi",
-      "id": "CBMie0FVX3lxTE1qSUpSUklYajIyRlNUMVNNSjlwRFc4M3FDM1piWVVqQVZ0VXdaRzJDaldwSFBMNTl6XzkwX2lZc1ZYQWdfYUYzQWt0WWtqbVBTUVU0ZGZsU0pJWlRLY3VZZVlRSmV4NE1DYTJNUDVVMVhQSlo1ZU82cTlNRQ",
-      "crawledAt": "2026-06-20T10:10:07.942Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-07-03"
   },
   "logs": [
+    {
+      "id": "clxs20mqb",
+      "timestamp": "2026-07-03T19:15:57.400Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin’de otomobil ile hafif ticari araç...\"",
+      "type": "info"
+    },
+    {
+      "id": "so81f0ufq",
+      "timestamp": "2026-07-03T19:15:56.829Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "1dg977uij",
+      "timestamp": "2026-07-03T19:15:56.824Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "6fgdmxc79",
+      "timestamp": "2026-07-03T19:15:56.808Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "osia40qd6",
+      "timestamp": "2026-07-03T19:15:56.225Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "1yqhovuee",
+      "timestamp": "2026-07-03T19:15:56.212Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "yoz658eih",
       "timestamp": "2026-07-03T17:55:59.971Z",
@@ -5375,42 +5411,6 @@
       "id": "g3a32vce6",
       "timestamp": "2026-07-01T18:23:06.234Z",
       "message": "Telegram bildirimi gönderildi: \"MARDİN KIZILTEPE ÖZEL EĞİTİM ANAOKULU \"D...\"",
-      "type": "info"
-    },
-    {
-      "id": "zwsv5jo1p",
-      "timestamp": "2026-07-01T18:23:05.780Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "5pallktnb",
-      "timestamp": "2026-07-01T18:23:05.775Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "y5ej0c06n",
-      "timestamp": "2026-07-01T18:23:05.754Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "a7miafoqr",
-      "timestamp": "2026-07-01T18:23:05.062Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "hk20b1l77",
-      "timestamp": "2026-07-01T18:23:05.049Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "0qb5wdvq7",
-      "timestamp": "2026-07-01T16:03:30.739Z",
-      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
       "type": "info"
     }
   ]
