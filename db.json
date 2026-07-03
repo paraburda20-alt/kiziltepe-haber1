@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "8o8k072ie",
+      "timestamp": "2026-07-03T20:36:51.275Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ovuld85c9",
+      "timestamp": "2026-07-03T20:36:51.261Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "g74myyeog",
+      "timestamp": "2026-07-03T20:36:50.613Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "nm1kh2ybw",
+      "timestamp": "2026-07-03T20:36:50.601Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "clxs20mqb",
       "timestamp": "2026-07-03T19:15:57.400Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de otomobil ile hafif ticari araç...\"",
@@ -5387,30 +5411,6 @@
       "id": "jz266164a",
       "timestamp": "2026-07-01T20:21:43.253Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "9pa00ufc2",
-      "timestamp": "2026-07-01T20:21:43.235Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ox3lyyw2m",
-      "timestamp": "2026-07-01T20:21:42.621Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "o2nqs4m5q",
-      "timestamp": "2026-07-01T20:21:42.608Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "g3a32vce6",
-      "timestamp": "2026-07-01T18:23:06.234Z",
-      "message": "Telegram bildirimi gönderildi: \"MARDİN KIZILTEPE ÖZEL EĞİTİM ANAOKULU \"D...\"",
       "type": "info"
     }
   ]
