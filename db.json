@@ -4514,6 +4514,24 @@
   },
   "logs": [
     {
+      "id": "d13kagrvt",
+      "timestamp": "2026-07-03T02:27:27.866Z",
+      "message": "Tarama hatası: Google News RSS feed error: Status 503",
+      "type": "error"
+    },
+    {
+      "id": "7v52r3set",
+      "timestamp": "2026-07-03T02:27:19.578Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "kfvnvnbbq",
+      "timestamp": "2026-07-03T02:27:19.565Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "zqxr6jqur",
       "timestamp": "2026-07-02T23:35:12.042Z",
       "message": "Telegram bildirimi gönderildi: \"Ağır yaralanan otomobil sürücüsü Timur h...\"",
@@ -5393,24 +5411,6 @@
       "id": "g5n7ge769",
       "timestamp": "2026-06-30T20:27:11.584Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de ısı yalıtım atölyesinde korkut...\"",
-      "type": "info"
-    },
-    {
-      "id": "6f446h34k",
-      "timestamp": "2026-06-30T20:27:10.860Z",
-      "message": "Telegram bildirimi gönderildi: \"Evinde silahla vurulmuş halde bulundu...\"",
-      "type": "info"
-    },
-    {
-      "id": "drdaaie5k",
-      "timestamp": "2026-06-30T20:27:10.396Z",
-      "message": "5 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "j4ui37ssw",
-      "timestamp": "2026-06-30T20:27:10.391Z",
-      "message": "Veritabanına 5 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
