@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin Kızıltepe’de buğday yüklü tır alev aldı: Araç kullanılamaz hale geldi",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDBLN1M3dmQxcHR4VEoyRmhKdENWYmxlb05aSUZ0eHdkYVJRWjIxYzVIZ2gySTRSWWxSUm5UQnBPN2xjNUxCQjZOYTZ4RS10N2NKcnFRRWk2MjlGLXdjVE1XUnphUmh0UjdWVE1NbllLaHJSWXhXLXZ4aWVMUG1SeUxZN2pmal91OGdrNmROZXN0VzE1WVVROWhzdHdubjVtMFM4ekU5ZDc?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
+      "guid": "CBMiqAFBVV95cUxNNDBLN1M3dmQxcHR4VEoyRmhKdENWYmxlb05aSUZ0eHdkYVJRWjIxYzVIZ2gySTRSWWxSUm5UQnBPN2xjNUxCQjZOYTZ4RS10N2NKcnFRRWk2MjlGLXdjVE1XUnphUmh0UjdWVE1NbllLaHJSWXhXLXZ4aWVMUG1SeUxZN2pmal91OGdrNmROZXN0VzE1WVVROWhzdHdubjVtMFM4ekU5ZDc",
+      "source": "24 Saat Gazetesi Ankara",
+      "id": "CBMiqAFBVV95cUxNNDBLN1M3dmQxcHR4VEoyRmhKdENWYmxlb05aSUZ0eHdkYVJRWjIxYzVIZ2gySTRSWWxSUm5UQnBPN2xjNUxCQjZOYTZ4RS10N2NKcnFRRWk2MjlGLXdjVE1XUnphUmh0UjdWVE1NbllLaHJSWXhXLXZ4aWVMUG1SeUxZN2pmal91OGdrNmROZXN0VzE1WVVROWhzdHdubjVtMFM4ekU5ZDc",
+      "crawledAt": "2026-07-04T14:07:58.373Z"
+    },
+    {
       "title": "Mardin'de 220 metre uzunluğundaki halı motifli cadde ilgi görüyor",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMm1FM1kwRV9TNURBUmJvekp3cTVsWEIxbnkxTnVzSHVNUW9WWmZIaGIwY0V4bW9fQWN4cElnM3BCSmU1NWFZbHpDampzNXJWLV9ua1N6M3ZUV2VIVC0yN2N3VFhFTDZmcGhpeFg2NDdKLVNMTlh3VTdqNngxeDVEV1Ytc1VMVU9QSGo5aWQ4Mm9qSm50SFBtNU1iejJSb3BsaE5ObzRkS3R5Q2l3?oc=5",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Mersin Haber",
       "id": "CBMilAFBVV95cUxPT1hjcWRZTmlwTTlwc0gxLWwtRm9wa0tRMzhHVjR5aGhDeUxmeDlVZ3kzeGNpTDdBVlgxN0lnbEpGZmhqeGtOTVAyNnFIbjZQem1ETVBFUEhtS284LTVRVzNRT0d2LUtVbGxEcW9LYkVoZjktazEtcHo2Wk9BMXBQQWIxREI1YjU5NHBaREhYVVF3Rk9T0gFXQVVfeXFMT3JGdVVocDRvem5zUWFibk82MURLWTQwUVVvcmJjWnNrQlk1Tk9NYVV4dE1acnB1UlZqNkk1dmIxUy1XYm5OblhDOWIyWnJTd0RBWkowLTFv",
       "crawledAt": "2026-06-20T10:10:07.942Z"
-    },
-    {
-      "title": "Mardin'de evde çıkan yangın can aldı: 1 çocuk öldü, 5 kişi yaralandı",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0dU82c2Zod3V6OXBLMXNNd09nQ3ZRZnhoMFJuV1pEZ1ZKV3lJcC1EQUY4ODB1Y1hsM01USlY4cHZySlhjTGNmV0VsMkl3QWNPdXBfMDQ3RkhwSGNHU2hwSTFWdGFvQQ?oc=5",
-      "pubDate": "Sat, 20 Jun 2026 07:45:49 GMT",
-      "guid": "CBMiZkFVX3lxTFB0dU82c2Zod3V6OXBLMXNNd09nQ3ZRZnhoMFJuV1pEZ1ZKV3lJcC1EQUY4ODB1Y1hsM01USlY4cHZySlhjTGNmV0VsMkl3QWNPdXBfMDQ3RkhwSGNHU2hwSTFWdGFvQQ",
-      "source": "Rudaw",
-      "id": "CBMiZkFVX3lxTFB0dU82c2Zod3V6OXBLMXNNd09nQ3ZRZnhoMFJuV1pEZ1ZKV3lJcC1EQUY4ODB1Y1hsM01USlY4cHZySlhjTGNmV0VsMkl3QWNPdXBfMDQ3RkhwSGNHU2hwSTFWdGFvQQ",
-      "crawledAt": "2026-06-20T10:10:07.942Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-07-03"
   },
   "logs": [
+    {
+      "id": "yu5998mgb",
+      "timestamp": "2026-07-04T14:07:58.743Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe’de buğday yüklü tır ale...\"",
+      "type": "info"
+    },
+    {
+      "id": "i7ktqg177",
+      "timestamp": "2026-07-04T14:07:58.389Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "csx9c6bq7",
+      "timestamp": "2026-07-04T14:07:58.382Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "kmdf0vu4y",
+      "timestamp": "2026-07-04T14:07:58.357Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "8v2zgi665",
+      "timestamp": "2026-07-04T14:07:57.825Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "t5iqquqk4",
+      "timestamp": "2026-07-04T14:07:57.812Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "7ry7exflt",
       "timestamp": "2026-07-04T12:02:49.603Z",
@@ -5375,42 +5411,6 @@
       "id": "y6yu5qgms",
       "timestamp": "2026-07-02T13:19:21.862Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "dik8at7vy",
-      "timestamp": "2026-07-02T13:19:21.841Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "jkfjo8z7e",
-      "timestamp": "2026-07-02T13:19:21.322Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "k7sm0v8sf",
-      "timestamp": "2026-07-02T13:19:21.310Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "mn0mba74r",
-      "timestamp": "2026-07-02T11:29:40.923Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'deki aynı aileden 3 kişinin öldüğ...\"",
-      "type": "info"
-    },
-    {
-      "id": "b8oy5m9ok",
-      "timestamp": "2026-07-02T11:29:40.261Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Ay ve Venüs aynı hiz...\"",
-      "type": "info"
-    },
-    {
-      "id": "1j5xw60fc",
-      "timestamp": "2026-07-02T11:29:39.585Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe’de bir ailenin katledil...\"",
       "type": "info"
     }
   ]
