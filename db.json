@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "2rds3387h",
+      "timestamp": "2026-07-04T10:51:17.791Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "gbsi5ygtb",
+      "timestamp": "2026-07-04T10:51:17.778Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "gfa2b92zj",
+      "timestamp": "2026-07-04T10:51:16.995Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "vbxsqdjs8",
+      "timestamp": "2026-07-04T10:51:16.983Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "272cpabxf",
       "timestamp": "2026-07-04T08:41:36.757Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "wsefdc223",
       "timestamp": "2026-07-02T11:29:38.651Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "ml6qt9hue",
-      "timestamp": "2026-07-02T11:29:38.638Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "wrrsnamxg",
-      "timestamp": "2026-07-02T08:47:56.004Z",
-      "message": "Telegram bildirimi gönderildi: \"DEM Partililer ihraç edilen başkanlarını...\"",
-      "type": "info"
-    },
-    {
-      "id": "tdx50zsp1",
-      "timestamp": "2026-07-02T08:47:55.323Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Haberleri - Oto yıkamacıda ele...\"",
-      "type": "info"
-    },
-    {
-      "id": "jyirpq4ji",
-      "timestamp": "2026-07-02T08:47:54.672Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de anız yangını, yerleşim yerine ...\"",
       "type": "info"
     }
   ]
