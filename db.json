@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "cp6ula7re",
+      "timestamp": "2026-07-05T03:24:16.323Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "722jajri7",
+      "timestamp": "2026-07-05T03:24:16.308Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "x98mkzdgz",
+      "timestamp": "2026-07-05T03:24:15.646Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "bbc516184",
+      "timestamp": "2026-07-05T03:24:15.634Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "pmmid59jz",
       "timestamp": "2026-07-04T23:57:08.674Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "fh39k0ae1",
       "timestamp": "2026-07-03T12:05:33.162Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "gpata6tz5",
-      "timestamp": "2026-07-03T09:41:24.383Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin- Tankerin çarpıp sürüklediği otom...\"",
-      "type": "info"
-    },
-    {
-      "id": "d02v5upte",
-      "timestamp": "2026-07-03T09:41:23.618Z",
-      "message": "Telegram bildirimi gönderildi: \"Tankerle otobmobil çarpıştı: Feci şekild...\"",
-      "type": "info"
-    },
-    {
-      "id": "kpsypfamq",
-      "timestamp": "2026-07-03T09:41:22.899Z",
-      "message": "Telegram bildirimi gönderildi: \"Ak Parti Afyonkarahisar Milletvekili Has...\"",
-      "type": "info"
-    },
-    {
-      "id": "0vpb3h8od",
-      "timestamp": "2026-07-03T09:41:22.174Z",
-      "message": "Telegram bildirimi gönderildi: \"İhale Dergisi | İhale Haberleri | İhale ...\"",
       "type": "info"
     }
   ]
