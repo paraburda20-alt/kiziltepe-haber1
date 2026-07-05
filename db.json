@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "y5xfy8kvr",
+      "timestamp": "2026-07-05T22:57:15.870Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ve8z4rqti",
+      "timestamp": "2026-07-05T22:57:15.855Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "j7p357gch",
+      "timestamp": "2026-07-05T22:57:15.116Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "9od25v5tm",
+      "timestamp": "2026-07-05T22:57:15.102Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "t9hakv5t9",
       "timestamp": "2026-07-05T21:33:18.582Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe Haberleri - İki aile arasında ...\"",
@@ -5387,30 +5411,6 @@
       "id": "r9oo5y4dt",
       "timestamp": "2026-07-04T02:25:33.111Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de 220 metre uzunluğundaki halı m...\"",
-      "type": "info"
-    },
-    {
-      "id": "7ywpofwbn",
-      "timestamp": "2026-07-04T02:25:32.412Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Yangın: 40 Dönüm Arazi Zara...\"",
-      "type": "info"
-    },
-    {
-      "id": "y87pr9xoq",
-      "timestamp": "2026-07-04T02:25:31.863Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "otmwk387m",
-      "timestamp": "2026-07-04T02:25:31.858Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "q80hkx0ag",
-      "timestamp": "2026-07-04T02:25:31.841Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
