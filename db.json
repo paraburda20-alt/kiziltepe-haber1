@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "4tzxzzka2",
+      "timestamp": "2026-07-05T14:27:31.953Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "np3fwcn73",
+      "timestamp": "2026-07-05T14:27:31.939Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "rn5tq46p0",
+      "timestamp": "2026-07-05T14:27:31.279Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "wvm6xoym0",
+      "timestamp": "2026-07-05T14:27:31.266Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "jlia4p9xy",
       "timestamp": "2026-07-05T12:48:07.396Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "dgp4emknb",
       "timestamp": "2026-07-03T16:21:41.015Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "xei746h7h",
-      "timestamp": "2026-07-03T16:21:39.684Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "8rnui1y3h",
-      "timestamp": "2026-07-03T16:21:39.175Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'in 3 ilçesinde çıkan ot ve anız y...\"",
-      "type": "info"
-    },
-    {
-      "id": "7kgrrkg5r",
-      "timestamp": "2026-07-03T16:21:38.514Z",
-      "message": "Telegram bildirimi gönderildi: \"AK Parti Afyonkarahisar İl Yönetim Kurul...\"",
-      "type": "info"
-    },
-    {
-      "id": "h6fu2xxg8",
-      "timestamp": "2026-07-03T16:21:37.852Z",
-      "message": "Telegram bildirimi gönderildi: \"AK Parti Afyonkarahisar İl Yönetim Kurul...\"",
       "type": "info"
     }
   ]
