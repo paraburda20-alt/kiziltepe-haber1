@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "jlia4p9xy",
+      "timestamp": "2026-07-05T12:48:07.396Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "h8uqsm4r4",
+      "timestamp": "2026-07-05T12:48:07.382Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "npsqx66t8",
+      "timestamp": "2026-07-05T12:48:06.721Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "jybfbj5g4",
+      "timestamp": "2026-07-05T12:48:06.707Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "fba7gu85o",
       "timestamp": "2026-07-05T11:26:52.489Z",
       "message": "Telegram bildirimi gönderildi: \"TIR devrildi: Sürücü yaralandı...\"",
@@ -5387,30 +5411,6 @@
       "id": "h6fu2xxg8",
       "timestamp": "2026-07-03T16:21:37.852Z",
       "message": "Telegram bildirimi gönderildi: \"AK Parti Afyonkarahisar İl Yönetim Kurul...\"",
-      "type": "info"
-    },
-    {
-      "id": "7pdjlw3gx",
-      "timestamp": "2026-07-03T16:21:37.188Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de meydanlara yerleştirilen cihaz...\"",
-      "type": "info"
-    },
-    {
-      "id": "8vgwvjlqz",
-      "timestamp": "2026-07-03T16:21:36.783Z",
-      "message": "4 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "rb1djxizw",
-      "timestamp": "2026-07-03T16:21:36.778Z",
-      "message": "Veritabanına 4 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "i3e7yaxmw",
-      "timestamp": "2026-07-03T16:21:36.761Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
