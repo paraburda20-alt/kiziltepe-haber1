@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin’de iki yaşındaki çocuk üçüncü kattan düşerek hayatını kaybetti",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQjNHb0VKVVNncHg0Wm5VNEhDQVNiY2NLcXNWdG00MHYzU3AyWlROUkEwLWpXdlp1cXR4WlNURm9HX2JyREtiNGNUUy1FeThXLW9pYW1CcDJUUDRycGtzUjZfMG5iZTd1TXZtR0FTY1B4YWZoYWljWTRRTFZvRXltWlBJTnVZalNDM1hpOXY5c3NCVDJzYjIwWkwwVEplbmVjVVdhMnkxRmlMQQ?oc=5",
+      "pubDate": "Sun, 21 Jun 2026 07:00:00 GMT",
+      "guid": "CBMiqgFBVV95cUxPQjNHb0VKVVNncHg0Wm5VNEhDQVNiY2NLcXNWdG00MHYzU3AyWlROUkEwLWpXdlp1cXR4WlNURm9HX2JyREtiNGNUUy1FeThXLW9pYW1CcDJUUDRycGtzUjZfMG5iZTd1TXZtR0FTY1B4YWZoYWljWTRRTFZvRXltWlBJTnVZalNDM1hpOXY5c3NCVDJzYjIwWkwwVEplbmVjVVdhMnkxRmlMQQ",
+      "source": "Anka Haber",
+      "id": "CBMiqgFBVV95cUxPQjNHb0VKVVNncHg0Wm5VNEhDQVNiY2NLcXNWdG00MHYzU3AyWlROUkEwLWpXdlp1cXR4WlNURm9HX2JyREtiNGNUUy1FeThXLW9pYW1CcDJUUDRycGtzUjZfMG5iZTd1TXZtR0FTY1B4YWZoYWljWTRRTFZvRXltWlBJTnVZalNDM1hpOXY5c3NCVDJzYjIwWkwwVEplbmVjVVdhMnkxRmlMQQ",
+      "crawledAt": "2026-07-06T20:21:46.040Z"
+    },
+    {
       "title": "Mardin'de tankerin çarparak sürüklediği otomobilin sürücüsü yaralandı",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdU5aNXM3TFN6d3oya1o0bjFrdS1qeUdfU0plMS14YVZ2YXpla1B4aFFLMS1LMUY5N2ZJOXZadGFJMktRdDVVN0tMSzNUaEEzUm5HZ1R4ZjFfS2hvR3NFUWtVRGFqQUNhZWJLMUhNajVuY19NWnhnQkJERWJEVmZUSzNiREdmQlZPX0hiZEpENnJfX2d1eWVCbFI2RXFiaGowdVVxb0J0QU00aUFx0gGyAUFVX3lxTE9Jd3NISDhlV1A1dXJDdTRaeDI4elAybWpwUXlmR0NfY2F4Y2VzX0k2LUlUcnllcXFJbXJZZjBNMnA0YlpxT1Fncm9QaFlNRTI3SnRTdEh3SWlUVW9BOXlOX25iVWlGaU1PRE9zYzdLZnkwem94anRkSUtQQXRXU0FaRUVBQnVuSG5Xbnl5Wlh2TTZZc09mY1hQZjZMRjdETUlCV3M2XzJ5NTN2YU5HY2s0dmc?oc=5",
       "pubDate": "Thu, 02 Jul 2026 13:41:33 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Yeni Akit Gazetesi",
       "id": "CBMiiAFBVV95cUxQM3lVbFVxQ2dQMWhsQ1JnQmpBUlR3aVNyM2JRMWxUa3MtY0FXZkhGWUdqX1FleDVlaVAyYmhxd041Z1FnTGVoanNjTG15cG1TOUtBTHEyOHpjWE92YkkxdkZtME5EX0RlY1d5R0tNRzhmUnBKRk9DaVdlS0dGV1RZaF9acDV1bHpu0gGEAUFVX3lxTFBZeC1lVy1Db2JZbnpVQ09tbmdoeTN6LTlNOWQ0NzEzcXFQSUlqNkwzaDVERHJ3ZEpoVnJmZjJxTThRMG5MSUc1TmNoT0c5WWxHUjNVeFN6LThHUzZDUGtoMG44X3BYVUJMNmo1cEZ4c05qQm1hVmpqTHhRY3RBQ0tjVU1YbQ",
       "crawledAt": "2026-06-21T20:26:33.598Z"
-    },
-    {
-      "title": "Kızıltepe'de arazilerde çıkan yangın söndürüldü",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUxiWUR3V0ppUTlXNFBLRzJHS0dpTmFkQi1ZNThaUW5VaW9VQzN2bER2V3U3NEtNZFFzRjdheDNtZmcyblBvamdWQUZVdTF5V2kyRXpVaXY4YTdybFFOMlZ0RDVzeGtxOWpyVVFhNnBxblRVaU5KRG0zZ19NXzlWWktwbGZmWG5GVEE4UnBiRlFadnlHZXdlWtIBlAFBVV95cUxPT1AzMmNLeWFwbWlMV1B2VWxDRFY5dzIyREdjOXpMa1NMOTJRNnJPM3NGRHpFM0xtZVBTUEN5XzIxWTZzZHJvWHhmMUQyMEpPM1BVdHpxVDBVRXhFRXltZF9GbTdMU0w0dnRKTjVZa1IwVFFGeC00ZXFpbWdFd3JxUHFsQVBZRWJJbnRXbGtsY21BWE1n?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 17:51:31 GMT",
-      "guid": "CBMimAFBVV95cUxPdUxiWUR3V0ppUTlXNFBLRzJHS0dpTmFkQi1ZNThaUW5VaW9VQzN2bER2V3U3NEtNZFFzRjdheDNtZmcyblBvamdWQUZVdTF5V2kyRXpVaXY4YTdybFFOMlZ0RDVzeGtxOWpyVVFhNnBxblRVaU5KRG0zZ19NXzlWWktwbGZmWG5GVEE4UnBiRlFadnlHZXdlWtIBlAFBVV95cUxPT1AzMmNLeWFwbWlMV1B2VWxDRFY5dzIyREdjOXpMa1NMOTJRNnJPM3NGRHpFM0xtZVBTUEN5XzIxWTZzZHJvWHhmMUQyMEpPM1BVdHpxVDBVRXhFRXltZF9GbTdMU0w0dnRKTjVZa1IwVFFGeC00ZXFpbWdFd3JxUHFsQVBZRWJJbnRXbGtsY21BWE1n",
-      "source": "Haberler",
-      "id": "CBMimAFBVV95cUxPdUxiWUR3V0ppUTlXNFBLRzJHS0dpTmFkQi1ZNThaUW5VaW9VQzN2bER2V3U3NEtNZFFzRjdheDNtZmcyblBvamdWQUZVdTF5V2kyRXpVaXY4YTdybFFOMlZ0RDVzeGtxOWpyVVFhNnBxblRVaU5KRG0zZ19NXzlWWktwbGZmWG5GVEE4UnBiRlFadnlHZXdlWtIBlAFBVV95cUxPT1AzMmNLeWFwbWlMV1B2VWxDRFY5dzIyREdjOXpMa1NMOTJRNnJPM3NGRHpFM0xtZVBTUEN5XzIxWTZzZHJvWHhmMUQyMEpPM1BVdHpxVDBVRXhFRXltZF9GbTdMU0w0dnRKTjVZa1IwVFFGeC00ZXFpbWdFd3JxUHFsQVBZRWJJbnRXbGtsY21BWE1n",
-      "crawledAt": "2026-06-21T20:26:33.598Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-07-06"
   },
   "logs": [
+    {
+      "id": "gws60x1u0",
+      "timestamp": "2026-07-06T20:21:46.510Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin’de iki yaşındaki çocuk üçüncü kat...\"",
+      "type": "info"
+    },
+    {
+      "id": "r0f3rzx1q",
+      "timestamp": "2026-07-06T20:21:46.049Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "h2hchemz0",
+      "timestamp": "2026-07-06T20:21:46.045Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "f27oq7ayt",
+      "timestamp": "2026-07-06T20:21:46.032Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "fzumu9rpq",
+      "timestamp": "2026-07-06T20:21:45.317Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ti6pc4vpr",
+      "timestamp": "2026-07-06T20:21:45.307Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "7t1l65ioq",
       "timestamp": "2026-07-06T18:25:17.213Z",
@@ -5375,42 +5411,6 @@
       "id": "vqm8om1pd",
       "timestamp": "2026-07-04T21:53:24.921Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "u8s1u8673",
-      "timestamp": "2026-07-04T21:53:24.908Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "rls1uxn9s",
-      "timestamp": "2026-07-04T20:49:54.964Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de yaşlı kadının ölümüne ilişkin ...\"",
-      "type": "info"
-    },
-    {
-      "id": "56ezwczq9",
-      "timestamp": "2026-07-04T20:49:54.025Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Buğday Yüklü Tırda Yangın...\"",
-      "type": "info"
-    },
-    {
-      "id": "zqnjk1g2y",
-      "timestamp": "2026-07-04T20:49:53.595Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "t9urxy0oy",
-      "timestamp": "2026-07-04T20:49:53.590Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "80mwknpm5",
-      "timestamp": "2026-07-04T20:49:53.567Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
