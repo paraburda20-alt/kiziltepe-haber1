@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "kf4fzcxyu",
+      "timestamp": "2026-07-06T00:05:46.353Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "mxltfbyhf",
+      "timestamp": "2026-07-06T00:05:46.340Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "3nxz1ruln",
+      "timestamp": "2026-07-06T00:05:45.749Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "o1v30ye1m",
+      "timestamp": "2026-07-06T00:05:45.736Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "y5xfy8kvr",
       "timestamp": "2026-07-05T22:57:15.870Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "ikv0rpaon",
       "timestamp": "2026-07-04T05:58:21.988Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "mma0uf41k",
-      "timestamp": "2026-07-04T05:58:21.974Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "9nzguf73e",
-      "timestamp": "2026-07-04T05:58:21.406Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "2dzopko7n",
-      "timestamp": "2026-07-04T05:58:21.393Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "r9oo5y4dt",
-      "timestamp": "2026-07-04T02:25:33.111Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de 220 metre uzunluğundaki halı m...\"",
       "type": "info"
     }
   ]
