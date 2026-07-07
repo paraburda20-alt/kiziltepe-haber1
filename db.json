@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin'de Yangınlar Kontrol Altına Alındı",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGw1ZURqRnFLdEJQNlZFLUx4cVVoYXZXT0Nld1N6bFBiNFY3Y1pySVRyamdOa0sybThfUzF6dFZ3dFN0SFpRaEVhcVg5ZFI0YWM0NE1mU3lfcUV5VkZnT24zY29rOWRVNHZ6eUxLSWJXc1ZTczFzWjhwcVhpaFI4UVlDMURYUXlSc2kweFhmdU1qd1HSAZABQVVfeXFMT0VITWJYeGtad2VjNWJPV3Vkd2JLMzNrVFFDZS1UVURMSEs4MVF5NzRJS2gyZi1zZnk2bmJJSldDQ3h0ekR2bGVnY2N5UVhtaTZpWG12ZXMyOXpCRkdqMnB6Yjc0NmZ3UEJsQU5LZ0xuNThEdE5Rc2QwNmU3SXhPUWNiLXBuLXB0Z1dORkFpQXlL?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 14:31:34 GMT",
+      "guid": "CBMikwFBVV95cUxQRGw1ZURqRnFLdEJQNlZFLUx4cVVoYXZXT0Nld1N6bFBiNFY3Y1pySVRyamdOa0sybThfUzF6dFZ3dFN0SFpRaEVhcVg5ZFI0YWM0NE1mU3lfcUV5VkZnT24zY29rOWRVNHZ6eUxLSWJXc1ZTczFzWjhwcVhpaFI4UVlDMURYUXlSc2kweFhmdU1qd1HSAZABQVVfeXFMT0VITWJYeGtad2VjNWJPV3Vkd2JLMzNrVFFDZS1UVURMSEs4MVF5NzRJS2gyZi1zZnk2bmJJSldDQ3h0ekR2bGVnY2N5UVhtaTZpWG12ZXMyOXpCRkdqMnB6Yjc0NmZ3UEJsQU5LZ0xuNThEdE5Rc2QwNmU3SXhPUWNiLXBuLXB0Z1dORkFpQXlL",
+      "source": "Son Dakika",
+      "id": "CBMikwFBVV95cUxQRGw1ZURqRnFLdEJQNlZFLUx4cVVoYXZXT0Nld1N6bFBiNFY3Y1pySVRyamdOa0sybThfUzF6dFZ3dFN0SFpRaEVhcVg5ZFI0YWM0NE1mU3lfcUV5VkZnT24zY29rOWRVNHZ6eUxLSWJXc1ZTczFzWjhwcVhpaFI4UVlDMURYUXlSc2kweFhmdU1qd1HSAZABQVVfeXFMT0VITWJYeGtad2VjNWJPV3Vkd2JLMzNrVFFDZS1UVURMSEs4MVF5NzRJS2gyZi1zZnk2bmJJSldDQ3h0ekR2bGVnY2N5UVhtaTZpWG12ZXMyOXpCRkdqMnB6Yjc0NmZ3UEJsQU5LZ0xuNThEdE5Rc2QwNmU3SXhPUWNiLXBuLXB0Z1dORkFpQXlL",
+      "crawledAt": "2026-07-07T22:35:51.161Z"
+    },
+    {
       "title": "T.C. KIZILTEPE İCRA DAİRESİ",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3hadVZoaEJjWkdwa1p2X2ZuaGVla3NvcWhTZHQ4S1JNLUpxTXZOemswMGFBLXZpN1RGaXlXdkFvblFDSy1YNzA0U1Z4Vmk0YTVBRUlwcG1PX2RkTUMtdWFmbXU1ZFNTZnZXZlJZVmlMZ1RySFZhRGVBemVjMWZFS0tsUkNJTGhxN09Pck02dElQY00zZ2Q5MGRPV3psR3hZOTdkdHNWZ1kwdGtsRXBOXzRGZGdQRm0yeFd0X1ZobjFacUJSSlg1SNIBxAFBVV95cUxNQXdNTzZJLVU3MVNGQXhDWWpmc3FSXzd2aE9faTUxRWFwTnRyaEpXZ1lTTjRkZjhNRlY4LXJVbEZicUVSM3lBaDllMUhGX1RydWluWjk1NTFTb2hSNHNIZUk4MnNXT0hNNm9lam1oRFA1a050cGdXMmlaY1Q1MnJiMXJRc2t0OFRuT0ZEMm9XTnFuenFCMmFRc0ZKVjRWODdZejR6TkZhSGxhQ205eFhneGVnMGxLTmVkZk1jZDB6OEFuUkZF?oc=5",
       "pubDate": "Tue, 07 Jul 2026 21:01:59 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Haberler",
       "id": "CBMilAFBVV95cUxPT1AzMmNLeWFwbWlMV1B2VWxDRFY5dzIyREdjOXpMa1NMOTJRNnJPM3NGRHpFM0xtZVBTUEN5XzIxWTZzZHJvWHhmMUQyMEpPM1BVdHpxVDBVRXhFRXltZF9GbTdMU0w0dnRKTjVZa1IwVFFGeC00ZXFpbWdFd3JxUHFsQVBZRWJJbnRXbGtsY21BWE1n0gGUAUFVX3lxTE9PUDMyY0t5YXBtaUxXUHZVbENEVjl3MjJER2M5ekxrU0w5MlE2ck8zc0ZEekUzTG1lUFNQQ3lfMjFZNnNkcm9YeGYxRDIwSk8zUFV0enFUMFVFeEVFeW1kX0ZtN0xTTDR2dEpONVlrUjBUUUZ4LTRlcWltZ0V3cnFQcWxBUFlFYkludFdsa2xjbUFYTWc",
       "crawledAt": "2026-06-21T21:53:41.660Z"
-    },
-    {
-      "title": "Mardin Kızıltepe'de Yaşanan Trafik Kazasında 78 Yaşındaki Kadın Ağır Yaralandı",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0k1dmthalpMQUxtcnVEY25vVEVZWnhpb3c3Mzgyd3ItWWxhQ3JtY2N5blNUMEl2WDVkQkJ6WXFTSXJnNXlrZU1BclF5enRfdEhMNGNsVkJBWUpEQTZTXy1kd0Fwd1dkaTRwbW1QVFoyRm9aVHNSaHJybTRLWGhPQjYxSnRzSWg2MHB5RlBXbFlYMnh0a1E1WkxxOV9nc0pzRC1yMW80Z3EtUGs2cWVGdmlhUnQ2MVVMN0HSAVdBVV95cUxNc0lDdF92U2Y3MzR5dnhzTnQ5TkVKMmdsR3VOMGpScmFkakhLQkZOYzh2R19ZN3lnLWN1dUVqVG90WDhnUkQzSmM0R3EzZ1NUVnFEUkhKaTg?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 21:17:00 GMT",
-      "guid": "CBMiugFBVV95cUxOX0k1dmthalpMQUxtcnVEY25vVEVZWnhpb3c3Mzgyd3ItWWxhQ3JtY2N5blNUMEl2WDVkQkJ6WXFTSXJnNXlrZU1BclF5enRfdEhMNGNsVkJBWUpEQTZTXy1kd0Fwd1dkaTRwbW1QVFoyRm9aVHNSaHJybTRLWGhPQjYxSnRzSWg2MHB5RlBXbFlYMnh0a1E1WkxxOV9nc0pzRC1yMW80Z3EtUGs2cWVGdmlhUnQ2MVVMN0HSAVdBVV95cUxNc0lDdF92U2Y3MzR5dnhzTnQ5TkVKMmdsR3VOMGpScmFkakhLQkZOYzh2R19ZN3lnLWN1dUVqVG90WDhnUkQzSmM0R3EzZ1NUVnFEUkhKaTg",
-      "source": "Mersin Haber",
-      "id": "CBMiugFBVV95cUxOX0k1dmthalpMQUxtcnVEY25vVEVZWnhpb3c3Mzgyd3ItWWxhQ3JtY2N5blNUMEl2WDVkQkJ6WXFTSXJnNXlrZU1BclF5enRfdEhMNGNsVkJBWUpEQTZTXy1kd0Fwd1dkaTRwbW1QVFoyRm9aVHNSaHJybTRLWGhPQjYxSnRzSWg2MHB5RlBXbFlYMnh0a1E1WkxxOV9nc0pzRC1yMW80Z3EtUGs2cWVGdmlhUnQ2MVVMN0HSAVdBVV95cUxNc0lDdF92U2Y3MzR5dnhzTnQ5TkVKMmdsR3VOMGpScmFkakhLQkZOYzh2R19ZN3lnLWN1dUVqVG90WDhnUkQzSmM0R3EzZ1NUVnFEUkhKaTg",
-      "crawledAt": "2026-06-21T21:53:41.660Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-07-07"
   },
   "logs": [
+    {
+      "id": "avgigjqot",
+      "timestamp": "2026-07-07T22:35:51.780Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'de Yangınlar Kontrol Altına Alınd...\"",
+      "type": "info"
+    },
+    {
+      "id": "8druuudjs",
+      "timestamp": "2026-07-07T22:35:51.172Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "743cxs74d",
+      "timestamp": "2026-07-07T22:35:51.167Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "p74k67xkp",
+      "timestamp": "2026-07-07T22:35:51.151Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "hu2g31j0l",
+      "timestamp": "2026-07-07T22:35:50.479Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "71epyty88",
+      "timestamp": "2026-07-07T22:35:50.467Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "hgn270dy1",
       "timestamp": "2026-07-07T21:18:28.157Z",
@@ -5375,42 +5411,6 @@
       "id": "qwpk97tbj",
       "timestamp": "2026-07-05T20:10:10.742Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de kamyon ile çarpışan otomobilin...\"",
-      "type": "info"
-    },
-    {
-      "id": "9ldplwt4c",
-      "timestamp": "2026-07-05T20:10:10.179Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "no6ogk3ck",
-      "timestamp": "2026-07-05T20:10:10.173Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "63jsl51oq",
-      "timestamp": "2026-07-05T20:10:10.153Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "gw0u3ofma",
-      "timestamp": "2026-07-05T20:10:09.497Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "02ckzjmpr",
-      "timestamp": "2026-07-05T20:10:09.484Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "ms5ia9p40",
-      "timestamp": "2026-07-05T18:35:31.572Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
