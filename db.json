@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Vefat: Şemsettin YILMAZ",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sQThVOHRucGhQRTNtZjFWNWtLanltUjVrZno3RFN5cnJwVFNQb3pydWl1UkxJTm5odmRPaFNsbmN4RHhOajFKTGtNU2tscHZSZEhRbzZXVUd6b2tUMnVRSlZlWnlweklyR01abUs2UQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 17:22:56 GMT",
+      "guid": "CBMib0FVX3lxTE1sQThVOHRucGhQRTNtZjFWNWtLanltUjVrZno3RFN5cnJwVFNQb3pydWl1UkxJTm5odmRPaFNsbmN4RHhOajFKTGtNU2tscHZSZEhRbzZXVUd6b2tUMnVRSlZlWnlweklyR01abUs2UQ",
+      "source": "Kızıltepe Ekspres Haber",
+      "id": "CBMib0FVX3lxTE1sQThVOHRucGhQRTNtZjFWNWtLanltUjVrZno3RFN5cnJwVFNQb3pydWl1UkxJTm5odmRPaFNsbmN4RHhOajFKTGtNU2tscHZSZEhRbzZXVUd6b2tUMnVRSlZlWnlweklyR01abUs2UQ",
+      "crawledAt": "2026-07-08T08:17:00.481Z"
+    },
+    {
       "title": "Mardin Kızıltepe’de ev yangını: 7 yaşındaki çocuk öldü, 3’ü çocuk 5 yaralı",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFRVY2g4aDlfQXN0WUZpaktXRmo4T2NxVzNrRTlGQ1JpeGZoZlh1a3VlTnE0TDRzT2h5VVFFbERXbDdERDVVVExIcWlPdVRfOXpVbk9fR2JxZHJIYV9nYmFRa3RfRldNeEk1cUxnVlduWGlvNFgzbEdQRXJ6aFp0dW9lUnJZeHExMk1RVVU2S2lrS2k0bTdnTg?oc=5",
       "pubDate": "Sat, 20 Jun 2026 09:17:07 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Son Dakika",
       "id": "CBMijAFBVV95cUxPWFE2dHZpVTViSjMxZHhyczROY1FGUmRhVnRSWm55ZUxpVThQUV9ybUk1bVdKLU45blFWOTNRVEZPS0gzUzZ0bjFGOWtuZlZRQnU1eUtmUmEtRS05cF9KalY5Z1U0RWpwaTBUNU84aVdIb05CX2hTNnhlUF83YWhzaUFvenkyaGk3ODlxZtIBiAFBVV95cUxObW4zb3ItUlZXc1NCN1Y4TFNKczVjcnNWbjlJcXZTWGVpXzdDOVk0ekl5SDcwU3ZYb0QtdDFjNmRMUjVGdDRCWVpwNGFzTUg1OURKX0JuSHY4VmZyNXF2NGZIaXJjNGEyNTZBajlEWkh5XzFQMHhqVi0tRUpqTXc2ejZYZ1loRHZI",
       "crawledAt": "2026-06-21T21:53:41.660Z"
-    },
-    {
-      "title": "Kızıltepe'de 2 Yaşındaki Çocuk Pencereden Düştü",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOVdHZmFwZk1OMERjVkM5V2x0YlZGTkNyOWVXS1BLdkdQUUZlNEdJQkc3amMyMEtGa2QxSkV6a0dJajZOTzhOR0M3dndTbzBQb2ZZdEYxTi1ZeTBHekhOMjRrOEljUE82SkJVbVdibkxqaFFFbk1yMHEyVDJlVVBweTg2V0lPWW0zdjQ5SHRMUEFmdmgzZDM3MXlEeGFLd9IBmAFBVV95cUxNc1VoMFh5V2tpSTZ2M2pfOXVYWC1IS3pTWDVqcXRwS1k0MEdrZUY5dHBFcjA1ay1jZktzU2pyNWdVTWJJQlp0TzBYZUYwdm5JczcwLW1fM2hBZmRfZjhMUjZJdk9Za3ZqcWFjZ0Ryc01fRS1hT3d2YTdfMC1aeDBYRXBKanBDMU1iZ1lpOFJ2NHlkZVlIOGg5UQ?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 20:20:01 GMT",
-      "guid": "CBMingFBVV95cUxPOVdHZmFwZk1OMERjVkM5V2x0YlZGTkNyOWVXS1BLdkdQUUZlNEdJQkc3amMyMEtGa2QxSkV6a0dJajZOTzhOR0M3dndTbzBQb2ZZdEYxTi1ZeTBHekhOMjRrOEljUE82SkJVbVdibkxqaFFFbk1yMHEyVDJlVVBweTg2V0lPWW0zdjQ5SHRMUEFmdmgzZDM3MXlEeGFLd9IBmAFBVV95cUxNc1VoMFh5V2tpSTZ2M2pfOXVYWC1IS3pTWDVqcXRwS1k0MEdrZUY5dHBFcjA1ay1jZktzU2pyNWdVTWJJQlp0TzBYZUYwdm5JczcwLW1fM2hBZmRfZjhMUjZJdk9Za3ZqcWFjZ0Ryc01fRS1hT3d2YTdfMC1aeDBYRXBKanBDMU1iZ1lpOFJ2NHlkZVlIOGg5UQ",
-      "source": "Son Dakika",
-      "id": "CBMingFBVV95cUxPOVdHZmFwZk1OMERjVkM5V2x0YlZGTkNyOWVXS1BLdkdQUUZlNEdJQkc3amMyMEtGa2QxSkV6a0dJajZOTzhOR0M3dndTbzBQb2ZZdEYxTi1ZeTBHekhOMjRrOEljUE82SkJVbVdibkxqaFFFbk1yMHEyVDJlVVBweTg2V0lPWW0zdjQ5SHRMUEFmdmgzZDM3MXlEeGFLd9IBmAFBVV95cUxNc1VoMFh5V2tpSTZ2M2pfOXVYWC1IS3pTWDVqcXRwS1k0MEdrZUY5dHBFcjA1ay1jZktzU2pyNWdVTWJJQlp0TzBYZUYwdm5JczcwLW1fM2hBZmRfZjhMUjZJdk9Za3ZqcWFjZ0Ryc01fRS1hT3d2YTdfMC1aeDBYRXBKanBDMU1iZ1lpOFJ2NHlkZVlIOGg5UQ",
-      "crawledAt": "2026-06-21T21:53:41.660Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-07-07"
   },
   "logs": [
+    {
+      "id": "4q7cygr1h",
+      "timestamp": "2026-07-08T08:17:01.042Z",
+      "message": "Telegram bildirimi gönderildi: \"Vefat: Şemsettin YILMAZ...\"",
+      "type": "info"
+    },
+    {
+      "id": "ku26l3c2k",
+      "timestamp": "2026-07-08T08:17:00.494Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "ejhim1phf",
+      "timestamp": "2026-07-08T08:17:00.489Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "y3cq5xbdi",
+      "timestamp": "2026-07-08T08:17:00.463Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ifq5h85ob",
+      "timestamp": "2026-07-08T08:16:59.668Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "yxyvmytub",
+      "timestamp": "2026-07-08T08:16:59.655Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "iuwxa5ifl",
       "timestamp": "2026-07-08T05:34:56.888Z",
@@ -5375,42 +5411,6 @@
       "id": "791215pln",
       "timestamp": "2026-07-06T08:57:05.498Z",
       "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "3zer49yo9",
-      "timestamp": "2026-07-06T08:57:05.472Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "anqv0n7tr",
-      "timestamp": "2026-07-06T08:57:04.981Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "4nka003gv",
-      "timestamp": "2026-07-06T08:57:04.968Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "dkfo6dql9",
-      "timestamp": "2026-07-06T04:49:22.917Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "loqaxdrmu",
-      "timestamp": "2026-07-06T04:49:22.902Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "x7o3cwxto",
-      "timestamp": "2026-07-06T04:49:22.331Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
