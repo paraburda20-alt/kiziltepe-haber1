@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "7pew5s3n9",
+      "timestamp": "2026-07-09T20:43:13.622Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "urwvv9jw4",
+      "timestamp": "2026-07-09T20:43:13.609Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "n7fcrx0ai",
+      "timestamp": "2026-07-09T20:43:12.946Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "i00vys6qu",
+      "timestamp": "2026-07-09T20:43:12.933Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "sxrldusv3",
       "timestamp": "2026-07-09T18:52:58.904Z",
       "message": "Telegram bildirimi gönderildi: \"Murat Acar kimdir kaymakam? Kızıltepe Ka...\"",
@@ -5387,30 +5411,6 @@
       "id": "8druuudjs",
       "timestamp": "2026-07-07T22:35:51.172Z",
       "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "743cxs74d",
-      "timestamp": "2026-07-07T22:35:51.167Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "p74k67xkp",
-      "timestamp": "2026-07-07T22:35:51.151Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "hu2g31j0l",
-      "timestamp": "2026-07-07T22:35:50.479Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "71epyty88",
-      "timestamp": "2026-07-07T22:35:50.467Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
