@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "uaaomqs9p",
+      "timestamp": "2026-07-10T02:29:04.377Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "6m736iudk",
+      "timestamp": "2026-07-10T02:29:04.362Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "eva7lx82e",
+      "timestamp": "2026-07-10T02:29:03.833Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "9l30ob5mf",
+      "timestamp": "2026-07-10T02:29:03.820Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "a3m2hgg6l",
       "timestamp": "2026-07-09T23:44:25.413Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "v3xcbx0l3",
       "timestamp": "2026-07-08T05:34:55.273Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "sd0k0gl6q",
-      "timestamp": "2026-07-08T02:09:00.169Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe’de ev yangını: 7 yaşınd...\"",
-      "type": "info"
-    },
-    {
-      "id": "du618obcn",
-      "timestamp": "2026-07-08T02:08:59.469Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "gwcpafk7s",
-      "timestamp": "2026-07-08T02:08:59.464Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "d28tp3gmm",
-      "timestamp": "2026-07-08T02:08:59.446Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
