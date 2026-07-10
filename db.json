@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "b10ent1gf",
+      "timestamp": "2026-07-10T20:22:35.032Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "1ikxsm1m7",
+      "timestamp": "2026-07-10T20:22:35.019Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "yk3y61hhx",
+      "timestamp": "2026-07-10T20:22:34.435Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "xy1elpf4y",
+      "timestamp": "2026-07-10T20:22:34.422Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "b5zypx00c",
       "timestamp": "2026-07-10T18:56:57.443Z",
       "message": "Telegram bildirimi gönderildi: \"Vefat: Emine Yalçınkaya...\"",
@@ -5387,30 +5411,6 @@
       "id": "kwaw7rvjl",
       "timestamp": "2026-07-08T16:26:54.251Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "5dylu8it5",
-      "timestamp": "2026-07-08T16:26:51.688Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "gm98w0gh1",
-      "timestamp": "2026-07-08T16:26:51.179Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de boğazına şeker kaçan 2 yaşında...\"",
-      "type": "info"
-    },
-    {
-      "id": "slplswv1k",
-      "timestamp": "2026-07-08T16:26:50.606Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "qkz5wwdkh",
-      "timestamp": "2026-07-08T16:26:50.600Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
