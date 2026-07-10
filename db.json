@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "tmuvw5g54",
+      "timestamp": "2026-07-10T22:55:49.626Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ong7xqkpz",
+      "timestamp": "2026-07-10T22:55:49.613Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 8 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "bp9y7xk0j",
+      "timestamp": "2026-07-10T22:55:45.988Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "d2c13x6rw",
+      "timestamp": "2026-07-10T22:55:45.975Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "7j47zslbv",
       "timestamp": "2026-07-10T21:33:34.107Z",
       "message": "Telegram bildirimi gönderildi: \"Müstehcen görüntülerin ortaya çıkmasının...\"",
@@ -5387,30 +5411,6 @@
       "id": "umlicae2o",
       "timestamp": "2026-07-08T17:59:19.423Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de boğazına şeker kaçan Efe bebek...\"",
-      "type": "info"
-    },
-    {
-      "id": "kib47ww9r",
-      "timestamp": "2026-07-08T17:59:18.694Z",
-      "message": "Telegram bildirimi gönderildi: \"Kahreden ölüm: Boğazına şeker kaçan 2 ya...\"",
-      "type": "info"
-    },
-    {
-      "id": "hx6al7a17",
-      "timestamp": "2026-07-08T17:59:17.966Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Ot Yangını Söndürüldü...\"",
-      "type": "info"
-    },
-    {
-      "id": "zu994fsqv",
-      "timestamp": "2026-07-08T17:59:17.233Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Bebek Şekerle Boğuldu...\"",
-      "type": "info"
-    },
-    {
-      "id": "35gvukefw",
-      "timestamp": "2026-07-08T17:59:16.502Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de boğazına şeker kaçtı, Batman'd...\"",
       "type": "info"
     }
   ]
