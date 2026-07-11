@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "puy3yfh4h",
+      "timestamp": "2026-07-11T02:06:42.230Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "512zlr3sq",
+      "timestamp": "2026-07-11T02:06:42.216Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "9taouki3u",
+      "timestamp": "2026-07-11T02:06:41.549Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "x0vae6uds",
+      "timestamp": "2026-07-11T02:06:41.535Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "kokrtqlym",
       "timestamp": "2026-07-10T23:54:56.987Z",
       "message": "Telegram bildirimi gönderildi: \"Müstehcen görüntülerinin ortaya çıkmasın...\"",
@@ -5387,30 +5411,6 @@
       "id": "2o6oiclr8",
       "timestamp": "2026-07-08T21:01:06.927Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "xbpwwtked",
-      "timestamp": "2026-07-08T19:41:56.776Z",
-      "message": "Telegram bildirimi gönderildi: \"BOĞAZINA ŞEKER KAÇAN ÇOCUK HAYATINI KAYB...\"",
-      "type": "info"
-    },
-    {
-      "id": "o43mmec49",
-      "timestamp": "2026-07-08T19:41:55.986Z",
-      "message": "Telegram bildirimi gönderildi: \"Kahreden olay… Boğazına şeker kaçan Efe ...\"",
-      "type": "info"
-    },
-    {
-      "id": "heyv1uhe0",
-      "timestamp": "2026-07-08T19:41:55.288Z",
-      "message": "Telegram bildirimi gönderildi: \"Şeker Boğazına Kaçan Çocuk Hayatını Kayb...\"",
-      "type": "info"
-    },
-    {
-      "id": "nv4zwfy6c",
-      "timestamp": "2026-07-08T19:41:54.502Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de 3’üncü kattan düşen çocuk ağır...\"",
       "type": "info"
     }
   ]
