@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "rrbdip0sv",
+      "timestamp": "2026-07-11T15:49:52.601Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "q640f3p0h",
+      "timestamp": "2026-07-11T15:49:52.588Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "jlf8g5kcj",
+      "timestamp": "2026-07-11T15:49:51.937Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "qdm7bs6d0",
+      "timestamp": "2026-07-11T15:49:51.924Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "jz8p5kgvo",
       "timestamp": "2026-07-11T14:34:46.285Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "4buf5p8ko",
       "timestamp": "2026-07-09T14:02:25.044Z",
       "message": "Telegram bildirimi gönderildi: \"Feci kaza: 16 yaşındaki motosiklet sürüc...\"",
-      "type": "info"
-    },
-    {
-      "id": "1kslp8su1",
-      "timestamp": "2026-07-09T14:02:24.393Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de boğazına şeker kaçan Efe bebek...\"",
-      "type": "info"
-    },
-    {
-      "id": "tpk915oma",
-      "timestamp": "2026-07-09T14:02:23.751Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Yaşlı Kadına Araç Çarptı...\"",
-      "type": "info"
-    },
-    {
-      "id": "p1vru9v30",
-      "timestamp": "2026-07-09T14:02:23.402Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "hlauile6d",
-      "timestamp": "2026-07-09T14:02:23.393Z",
-      "message": "Veritabanına 3 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
