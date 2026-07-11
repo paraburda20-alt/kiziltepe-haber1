@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "kx6853ue8",
+      "timestamp": "2026-07-11T13:06:04.997Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "wqpy5533a",
+      "timestamp": "2026-07-11T13:06:04.980Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "gjjc3n359",
+      "timestamp": "2026-07-11T13:06:04.309Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "944gkn9d9",
+      "timestamp": "2026-07-11T13:06:04.295Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "nzjpaitxk",
       "timestamp": "2026-07-11T11:48:02.887Z",
       "message": "Telegram bildirimi gönderildi: \"Qoser’de Bahar Bilge’nin taziyesine kitl...\"",
@@ -5387,30 +5411,6 @@
       "id": "2lpnl22p8",
       "timestamp": "2026-07-09T11:29:10.852Z",
       "message": "Telegram bildirimi gönderildi: \"Kaymakam Acar göreve başladı...\"",
-      "type": "info"
-    },
-    {
-      "id": "014j5ym39",
-      "timestamp": "2026-07-09T11:29:10.118Z",
-      "message": "Telegram bildirimi gönderildi: \"Hafif ticari araçla çarpışan motosikleti...\"",
-      "type": "info"
-    },
-    {
-      "id": "2gvlr7pj4",
-      "timestamp": "2026-07-09T11:29:09.558Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "j8nw0kxr4",
-      "timestamp": "2026-07-09T11:29:09.553Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "nzvx42zr8",
-      "timestamp": "2026-07-09T11:29:09.524Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
