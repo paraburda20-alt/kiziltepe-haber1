@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "6tel3nufh",
+      "timestamp": "2026-07-11T17:50:47.425Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "8qz8qz5b6",
+      "timestamp": "2026-07-11T17:50:47.410Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "vjn2y83ze",
+      "timestamp": "2026-07-11T17:50:46.780Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "gb442vvxk",
+      "timestamp": "2026-07-11T17:50:46.767Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "6tlzbbn0j",
       "timestamp": "2026-07-11T16:50:34.069Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "1uo2ki4zs",
       "timestamp": "2026-07-09T18:52:57.686Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "obcx0ok2t",
-      "timestamp": "2026-07-09T17:00:03.906Z",
-      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "1y32141r6",
-      "timestamp": "2026-07-09T17:00:00.689Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "s5ehdpjot",
-      "timestamp": "2026-07-09T17:00:00.179Z",
-      "message": "Telegram bildirimi gönderildi: \"Hafif ticari araçla çarpışan motosikleti...\"",
-      "type": "info"
-    },
-    {
-      "id": "5n6vq7ujg",
-      "timestamp": "2026-07-09T16:59:59.517Z",
-      "message": "Telegram bildirimi gönderildi: \"ŞEKER FACİASI!...\"",
       "type": "info"
     }
   ]
