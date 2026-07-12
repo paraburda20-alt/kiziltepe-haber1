@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "7ai70a24j",
+      "timestamp": "2026-07-12T23:23:58.596Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "5rwr8x0x5",
+      "timestamp": "2026-07-12T23:23:58.580Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "drc93kble",
+      "timestamp": "2026-07-12T23:23:57.940Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "zelj3pyw5",
+      "timestamp": "2026-07-12T23:23:57.927Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "hk7yjmhu6",
       "timestamp": "2026-07-12T22:13:35.504Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "0l5lwxj4x",
       "timestamp": "2026-07-11T10:40:14.643Z",
       "message": "Telegram bildirimi gönderildi: \"Belediye toplantısında müstehcen görüntü...\"",
-      "type": "info"
-    },
-    {
-      "id": "i3woxeaqt",
-      "timestamp": "2026-07-11T10:40:13.705Z",
-      "message": "Telegram bildirimi gönderildi: \"DEM Parti'den ihraç edilen Zeyni İpek'e ...\"",
-      "type": "info"
-    },
-    {
-      "id": "fv0b0pn0p",
-      "timestamp": "2026-07-11T10:40:12.941Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "vyhh4z58m",
-      "timestamp": "2026-07-11T10:40:12.935Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "dc3uxzkxf",
-      "timestamp": "2026-07-11T10:40:12.907Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
