@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "p7v1stuqf",
+      "timestamp": "2026-07-13T19:59:48.595Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "x5ypiuy3z",
+      "timestamp": "2026-07-13T19:59:48.581Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "lvmoqxbxs",
+      "timestamp": "2026-07-13T19:59:48.038Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "6a217xbsi",
+      "timestamp": "2026-07-13T19:59:48.025Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "vz1xrllg2",
       "timestamp": "2026-07-13T18:29:14.643Z",
       "message": "Telegram bildirimi gönderildi: \"Vefat: Tekin Demircan...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "n4se1rmso",
       "timestamp": "2026-07-11T23:23:52.202Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "veuv1tmhe",
-      "timestamp": "2026-07-11T22:12:20.410Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "3cei97i3l",
-      "timestamp": "2026-07-11T22:12:20.390Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "xtby6l0qk",
-      "timestamp": "2026-07-11T22:12:19.758Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "o86gi3j9v",
-      "timestamp": "2026-07-11T22:12:19.745Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
