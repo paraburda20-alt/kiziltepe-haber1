@@ -4510,9 +4510,45 @@
     "discordWebhook": "",
     "enableDiscord": false,
     "lastMorningReportDate": "2026-07-13",
-    "lastPharmaciesDate": "2026-07-12"
+    "lastPharmaciesDate": "2026-07-13"
   },
   "logs": [
+    {
+      "id": "ydxwgtewh",
+      "timestamp": "2026-07-13T16:55:10.321Z",
+      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "9gv0qzkh1",
+      "timestamp": "2026-07-13T16:55:06.723Z",
+      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "4a2ldw7ck",
+      "timestamp": "2026-07-13T16:55:06.715Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "v8hgprhcz",
+      "timestamp": "2026-07-13T16:55:06.702Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "4e6x3mvo8",
+      "timestamp": "2026-07-13T16:55:06.063Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "verov90i7",
+      "timestamp": "2026-07-13T16:55:06.053Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "kd0sfl2e1",
       "timestamp": "2026-07-13T14:21:15.179Z",
@@ -5375,42 +5411,6 @@
       "id": "hyuujo89p",
       "timestamp": "2026-07-11T20:03:02.677Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "3w611qeei",
-      "timestamp": "2026-07-11T20:03:02.664Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "hzevtpe74",
-      "timestamp": "2026-07-11T18:53:26.980Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "mwd82m6oq",
-      "timestamp": "2026-07-11T18:53:26.959Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "pe3po6n4d",
-      "timestamp": "2026-07-11T18:53:26.341Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "axud95y4z",
-      "timestamp": "2026-07-11T18:53:26.329Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "6tel3nufh",
-      "timestamp": "2026-07-11T17:50:47.425Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
