@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "lf0ggvlcj",
+      "timestamp": "2026-07-14T12:06:57.844Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "1z3fck2e7",
+      "timestamp": "2026-07-14T12:06:57.823Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 2 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "vfos4csa6",
+      "timestamp": "2026-07-14T12:06:56.498Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "y6cq2etn5",
+      "timestamp": "2026-07-14T12:06:56.484Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "w5fonqxtn",
       "timestamp": "2026-07-14T10:40:25.087Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "t2qk4yx9z",
       "timestamp": "2026-07-12T13:06:59.654Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "3e5yvdzx0",
-      "timestamp": "2026-07-12T13:06:59.641Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "imw91htyy",
-      "timestamp": "2026-07-12T11:54:34.375Z",
-      "message": "Telegram bildirimi gönderildi: \"Vefat: Şehriban Çetin...\"",
-      "type": "info"
-    },
-    {
-      "id": "1idy7a6ku",
-      "timestamp": "2026-07-12T11:54:33.698Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de anız yangını, yerleşim yerine ...\"",
-      "type": "info"
-    },
-    {
-      "id": "bblflu5lk",
-      "timestamp": "2026-07-12T11:54:33.300Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
