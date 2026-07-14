@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "75ntz0i9l",
+      "timestamp": "2026-07-14T18:36:14.991Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ylwfz3ozb",
+      "timestamp": "2026-07-14T18:36:14.976Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "fve9f0prr",
+      "timestamp": "2026-07-14T18:36:14.414Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "i6l81a86m",
+      "timestamp": "2026-07-14T18:36:14.399Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "lebl5t3eq",
       "timestamp": "2026-07-14T17:08:19.268Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "ba6mv52fw",
       "timestamp": "2026-07-12T15:54:25.852Z",
       "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "r1hegn85j",
-      "timestamp": "2026-07-12T15:54:25.234Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "8blmm8cel",
-      "timestamp": "2026-07-12T15:54:25.220Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "q041uwmke",
-      "timestamp": "2026-07-12T14:39:54.969Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de apartman dairesinde çıkan yang...\"",
-      "type": "info"
-    },
-    {
-      "id": "b2sivurvc",
-      "timestamp": "2026-07-12T14:39:54.294Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Apartman Yangını...\"",
       "type": "info"
     }
   ]
