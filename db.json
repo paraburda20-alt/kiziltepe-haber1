@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "8nm1kuaxi",
+      "timestamp": "2026-07-14T08:33:35.824Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "xptyromci",
+      "timestamp": "2026-07-14T08:33:35.809Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "qjuj2cvvr",
+      "timestamp": "2026-07-14T08:33:35.166Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "7b55wqx2v",
+      "timestamp": "2026-07-14T08:33:35.153Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "vroakz0lu",
       "timestamp": "2026-07-14T06:06:11.683Z",
       "message": "Günlük sabah raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "xgjqaq0f9",
       "timestamp": "2026-07-12T11:54:32.560Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "1xh8fmi36",
-      "timestamp": "2026-07-12T10:52:12.793Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de 3’üncü kattan düşen çocuk öldü...\"",
-      "type": "info"
-    },
-    {
-      "id": "kkvxn0y6l",
-      "timestamp": "2026-07-12T10:52:12.129Z",
-      "message": "Telegram bildirimi gönderildi: \"Ceylanpınar-Kızıltepe yolunda feci kaza!...\"",
-      "type": "info"
-    },
-    {
-      "id": "r0magm0i0",
-      "timestamp": "2026-07-12T10:52:11.694Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "0i9lc2v26",
-      "timestamp": "2026-07-12T10:52:11.689Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
