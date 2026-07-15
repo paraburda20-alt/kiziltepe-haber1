@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "0o9slku7k",
+      "timestamp": "2026-07-15T14:44:21.084Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "tntfiu00g",
+      "timestamp": "2026-07-15T14:44:21.068Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "b81ayh5vc",
+      "timestamp": "2026-07-15T14:44:20.410Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "stm0kefug",
+      "timestamp": "2026-07-15T14:44:20.397Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "ty4j15u51",
       "timestamp": "2026-07-15T12:49:39.904Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "ccgherijf",
       "timestamp": "2026-07-13T08:14:18.247Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "koj64w3de",
-      "timestamp": "2026-07-13T08:14:18.234Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "ka12hvws1",
-      "timestamp": "2026-07-13T04:56:01.315Z",
-      "message": "Telegram bildirimi gönderildi: \"EMEP Mardin Kızıltepe Yerel Seçim Beledi...\"",
-      "type": "info"
-    },
-    {
-      "id": "yrfpamz8o",
-      "timestamp": "2026-07-13T04:56:00.914Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "kkwd30gho",
-      "timestamp": "2026-07-13T04:56:00.909Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
