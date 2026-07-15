@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "ty4j15u51",
+      "timestamp": "2026-07-15T12:49:39.904Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "os3ofz1in",
+      "timestamp": "2026-07-15T12:49:39.890Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "vu3u71yt8",
+      "timestamp": "2026-07-15T12:49:39.302Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "hfbr4eit5",
+      "timestamp": "2026-07-15T12:49:39.289Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "do8cnaoj7",
       "timestamp": "2026-07-15T11:08:51.106Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de tarlaya devrilen hafif ticari ...\"",
@@ -5387,30 +5411,6 @@
       "id": "kkwd30gho",
       "timestamp": "2026-07-13T04:56:00.909Z",
       "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "a8sxwemkr",
-      "timestamp": "2026-07-13T04:56:00.891Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "nty3lirlg",
-      "timestamp": "2026-07-13T04:56:00.355Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "wxbg7b7ty",
-      "timestamp": "2026-07-13T04:56:00.341Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "37547oqni",
-      "timestamp": "2026-07-13T01:02:15.237Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
