@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "pogpq75dn",
+      "timestamp": "2026-07-15T01:53:58.031Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "l16z46jcb",
+      "timestamp": "2026-07-15T01:53:58.015Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "68tvd79nn",
+      "timestamp": "2026-07-15T01:53:57.422Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "8gt3z2xfm",
+      "timestamp": "2026-07-15T01:53:57.408Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "n2z7t6rad",
       "timestamp": "2026-07-14T23:47:34.360Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "libyxisgg",
       "timestamp": "2026-07-12T20:12:15.470Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "gnz9nn28x",
-      "timestamp": "2026-07-12T19:00:17.499Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Anız Yangını: 3 Milyon Lira...\"",
-      "type": "info"
-    },
-    {
-      "id": "g506pi4tl",
-      "timestamp": "2026-07-12T19:00:16.904Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "8csgbh034",
-      "timestamp": "2026-07-12T19:00:16.899Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "ejb6p3fep",
-      "timestamp": "2026-07-12T19:00:16.882Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
