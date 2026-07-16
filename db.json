@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "vtezgq1dm",
+      "timestamp": "2026-07-16T15:53:38.754Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "xdyu1w5wx",
+      "timestamp": "2026-07-16T15:53:38.742Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "xejnp363j",
+      "timestamp": "2026-07-16T15:53:38.082Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ijuyn34tc",
+      "timestamp": "2026-07-16T15:53:38.069Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "60q1z270z",
       "timestamp": "2026-07-16T14:01:45.787Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe de 15 Temmuz Proğramı Gerçekle...\"",
@@ -5387,30 +5411,6 @@
       "id": "7b55wqx2v",
       "timestamp": "2026-07-14T08:33:35.153Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "vroakz0lu",
-      "timestamp": "2026-07-14T06:06:11.683Z",
-      "message": "Günlük sabah raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "35bfp6p4u",
-      "timestamp": "2026-07-14T06:06:10.899Z",
-      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "rmpm0wdqa",
-      "timestamp": "2026-07-14T06:06:10.388Z",
-      "message": "Telegram bildirimi gönderildi: \"Mustehcen goruntulerinin ortaya cıkmasın...\"",
-      "type": "info"
-    },
-    {
-      "id": "mb1s28l8e",
-      "timestamp": "2026-07-14T06:06:09.876Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
