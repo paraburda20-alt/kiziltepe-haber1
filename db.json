@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "czhvgzr1r",
+      "timestamp": "2026-07-16T21:04:44.113Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ef68pd8bz",
+      "timestamp": "2026-07-16T21:04:44.099Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "mvctqjse2",
+      "timestamp": "2026-07-16T21:04:43.457Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "u3llo5nxe",
+      "timestamp": "2026-07-16T21:04:43.445Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "8ueq6uspk",
       "timestamp": "2026-07-16T19:58:44.113Z",
       "message": "Telegram bildirimi gönderildi: \"Vefat: Gurbet Karkuş...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "rk8cdsor3",
       "timestamp": "2026-07-14T17:08:16.504Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "l8gfbk5rk",
-      "timestamp": "2026-07-14T17:08:15.792Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "cf9f14fth",
-      "timestamp": "2026-07-14T17:08:15.779Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "uoirke2hf",
-      "timestamp": "2026-07-14T15:54:49.880Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "ca54dmo8f",
-      "timestamp": "2026-07-14T15:54:49.859Z",
       "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
