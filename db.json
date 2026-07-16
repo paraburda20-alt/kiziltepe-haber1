@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin'de apartman dairesinde çıkan yangın söndürüldü",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeV9kMDJVaW9pWVlOZGl0eV8tVGNQLTZHUkFxWU1kX1lqRG1hdjNuN3M4VHFZN3VlYmIwUV91YjVHamJrNGtudllkUERfbE5ISTc3WjdLa21BUFdTTEJVc2FWblJwWm52SVduQkJOYy1Zdk1POVR1d0diR09DMTdtMzQwOWZDdG9QVDJIadIBkgFBVV95cUxNWWFKdHNWUmNLMUNNcFpOWlA0VjVfVGg3ZHhXNVRBNzlSZXYwaHZjTG5LVUhYbEtjTnJUMTFUMFFfX2RBLWdQYUtuM05DUmZ5djlxdGE5UmxyMWhqb2ctOHpWRzB0OTNoUzFFamI5bkoyZlFBQTJUaTJoU0hmUW9xVTNGUExDMklnS0otUW4zWG9XUQ?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 13:35:20 GMT",
+      "guid": "CBMijAFBVV95cUxPeV9kMDJVaW9pWVlOZGl0eV8tVGNQLTZHUkFxWU1kX1lqRG1hdjNuN3M4VHFZN3VlYmIwUV91YjVHamJrNGtudllkUERfbE5ISTc3WjdLa21BUFdTTEJVc2FWblJwWm52SVduQkJOYy1Zdk1POVR1d0diR09DMTdtMzQwOWZDdG9QVDJIadIBkgFBVV95cUxNWWFKdHNWUmNLMUNNcFpOWlA0VjVfVGg3ZHhXNVRBNzlSZXYwaHZjTG5LVUhYbEtjTnJUMTFUMFFfX2RBLWdQYUtuM05DUmZ5djlxdGE5UmxyMWhqb2ctOHpWRzB0OTNoUzFFamI5bkoyZlFBQTJUaTJoU0hmUW9xVTNGUExDMklnS0otUW4zWG9XUQ",
+      "source": "Bursa Saati",
+      "id": "CBMijAFBVV95cUxPeV9kMDJVaW9pWVlOZGl0eV8tVGNQLTZHUkFxWU1kX1lqRG1hdjNuN3M4VHFZN3VlYmIwUV91YjVHamJrNGtudllkUERfbE5ISTc3WjdLa21BUFdTTEJVc2FWblJwWm52SVduQkJOYy1Zdk1POVR1d0diR09DMTdtMzQwOWZDdG9QVDJIadIBkgFBVV95cUxNWWFKdHNWUmNLMUNNcFpOWlA0VjVfVGg3ZHhXNVRBNzlSZXYwaHZjTG5LVUhYbEtjTnJUMTFUMFFfX2RBLWdQYUtuM05DUmZ5djlxdGE5UmxyMWhqb2ctOHpWRzB0OTNoUzFFamI5bkoyZlFBQTJUaTJoU0hmUW9xVTNGUExDMklnS0otUW4zWG9XUQ",
+      "crawledAt": "2026-07-16T22:27:20.860Z"
+    },
+    {
       "title": "Vefat: Gurbet Karkuş",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2NmsycXBwckpfdVlqdGo3SXpub3NmQ0FlUDZwSklVRlZkWkJobWhfNnRsSzhkV2IwWHBtWFVoRFlORlpwNDZYSkNjZ29Fbk01U1o2QVFpUmZTSUN2a1k1NEpzX1dZRVFyVFlv?oc=5",
       "pubDate": "Thu, 16 Jul 2026 12:15:53 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Son Dakika",
       "id": "CBMilwFBVV95cUxPWGc1SXJZWUVwV1hPM3pzeExpWmw5UlR1ZmdBS2FiN3A0MEY2RURpM0FXeG1DODlfLTF0WkJaMUlCLUEycDduVGxtU1RfbkhJWXlfN0VxNndpYlp4RVR1UXZncU1XWDc1aFRMSzJkMkJldWpqaXFpU3hDTXVTWTY4M3Q0RWVsamR6TXFiYkx2WFZhTjVBalF3",
       "crawledAt": "2026-06-23T22:45:17.576Z"
-    },
-    {
-      "title": "Mardin'de Yangın Kontrol Altına Alındı",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGd6Yy14eFRvQkYySkVNcjJfd0EzSkZJRmZ6ZmxDYTFpcldmUnJLSTRfVlNXUGNTUjFDRFhUd2ctMEtBMWtWaDNfc213d3UtazZqSGxMamowRnhLdGNOWHpDMTNQOTJUQm5yYlRhV2lNc01Ba21RTXNTSTQ5SndPbENnRjdOLVJWSUZWVkpNWkhnQdIBjAFBVV95cUxPSXIyVzY2V043TEhqc1otaVExdDBzcTM1V1R0bUVadUYyeHlJNjBuYVhSTW9zbTYwUk5jNUcxZzMxbXJKVlZFaGZwMHdwTVpxRS1oZGpFUEZydXQxYTM5OVRibXRSQUJkSHZCcElEeTRxSFYycWQ5NlRQWWJmeDkzY2lmaVRxbjV0U1pJag?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 21:23:01 GMT",
-      "guid": "CBMikgFBVV95cUxPWGd6Yy14eFRvQkYySkVNcjJfd0EzSkZJRmZ6ZmxDYTFpcldmUnJLSTRfVlNXUGNTUjFDRFhUd2ctMEtBMWtWaDNfc213d3UtazZqSGxMamowRnhLdGNOWHpDMTNQOTJUQm5yYlRhV2lNc01Ba21RTXNTSTQ5SndPbENnRjdOLVJWSUZWVkpNWkhnQdIBjAFBVV95cUxPSXIyVzY2V043TEhqc1otaVExdDBzcTM1V1R0bUVadUYyeHlJNjBuYVhSTW9zbTYwUk5jNUcxZzMxbXJKVlZFaGZwMHdwTVpxRS1oZGpFUEZydXQxYTM5OVRibXRSQUJkSHZCcElEeTRxSFYycWQ5NlRQWWJmeDkzY2lmaVRxbjV0U1pJag",
-      "source": "Son Dakika",
-      "id": "CBMikgFBVV95cUxPWGd6Yy14eFRvQkYySkVNcjJfd0EzSkZJRmZ6ZmxDYTFpcldmUnJLSTRfVlNXUGNTUjFDRFhUd2ctMEtBMWtWaDNfc213d3UtazZqSGxMamowRnhLdGNOWHpDMTNQOTJUQm5yYlRhV2lNc01Ba21RTXNTSTQ5SndPbENnRjdOLVJWSUZWVkpNWkhnQdIBjAFBVV95cUxPSXIyVzY2V043TEhqc1otaVExdDBzcTM1V1R0bUVadUYyeHlJNjBuYVhSTW9zbTYwUk5jNUcxZzMxbXJKVlZFaGZwMHdwTVpxRS1oZGpFUEZydXQxYTM5OVRibXRSQUJkSHZCcElEeTRxSFYycWQ5NlRQWWJmeDkzY2lmaVRxbjV0U1pJag",
-      "crawledAt": "2026-06-23T22:45:17.576Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-07-16"
   },
   "logs": [
+    {
+      "id": "mq8bx0vax",
+      "timestamp": "2026-07-16T22:27:21.473Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'de apartman dairesinde çıkan yang...\"",
+      "type": "info"
+    },
+    {
+      "id": "w2munbevd",
+      "timestamp": "2026-07-16T22:27:20.871Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "5ptzk33s1",
+      "timestamp": "2026-07-16T22:27:20.866Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "mpykctmcn",
+      "timestamp": "2026-07-16T22:27:20.849Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "wi3lxt2rr",
+      "timestamp": "2026-07-16T22:27:20.223Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "v1wp7yegy",
+      "timestamp": "2026-07-16T22:27:20.210Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "czhvgzr1r",
       "timestamp": "2026-07-16T21:04:44.113Z",
@@ -5375,42 +5411,6 @@
       "id": "i6l81a86m",
       "timestamp": "2026-07-14T18:36:14.399Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "lebl5t3eq",
-      "timestamp": "2026-07-14T17:08:19.268Z",
-      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "dp1nhcnp1",
-      "timestamp": "2026-07-14T17:08:17.419Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "7j5np3g4j",
-      "timestamp": "2026-07-14T17:08:16.909Z",
-      "message": "Telegram bildirimi gönderildi: \"Şeyhan Tanışma ve istişare toplantısı so...\"",
-      "type": "info"
-    },
-    {
-      "id": "ql9y4toad",
-      "timestamp": "2026-07-14T17:08:16.526Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "81yt4zn3j",
-      "timestamp": "2026-07-14T17:08:16.521Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "rk8cdsor3",
-      "timestamp": "2026-07-14T17:08:16.504Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
