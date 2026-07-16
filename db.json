@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "7rxsfjlq5",
+      "timestamp": "2026-07-16T11:58:39.065Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "l21g5msyl",
+      "timestamp": "2026-07-16T11:58:39.052Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "knsx4tce3",
+      "timestamp": "2026-07-16T11:58:38.514Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "k3q1l1wks",
+      "timestamp": "2026-07-16T11:58:38.501Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "b9h4z4gr8",
       "timestamp": "2026-07-16T10:02:54.329Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Yaya Kazası: Bir Kişi Hayat...\"",
@@ -5387,30 +5411,6 @@
       "id": "hcr7v49nx",
       "timestamp": "2026-07-14T03:43:17.726Z",
       "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "mjo25ggka",
-      "timestamp": "2026-07-14T03:43:17.172Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "xmnbz4dq7",
-      "timestamp": "2026-07-14T03:43:17.159Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "5vun59kib",
-      "timestamp": "2026-07-14T00:13:34.179Z",
-      "message": "Telegram bildirimi gönderildi: \"Uğur Kaymaz’ın 12 yaşında 13 kurşunla öl...\"",
-      "type": "info"
-    },
-    {
-      "id": "gmepfigkm",
-      "timestamp": "2026-07-14T00:13:33.726Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
