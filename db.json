@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "0808pdpzr",
+      "timestamp": "2026-07-17T12:41:16.820Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "2ipvd1089",
+      "timestamp": "2026-07-17T12:41:16.807Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "2hq0i9zfc",
+      "timestamp": "2026-07-17T12:41:16.123Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "s3l083f54",
+      "timestamp": "2026-07-17T12:41:16.110Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "uciiopg80",
       "timestamp": "2026-07-17T11:04:16.878Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe Ziraat Odası’ndan Elektrik Kes...\"",
@@ -5387,30 +5411,6 @@
       "id": "dv9gfqhaf",
       "timestamp": "2026-07-15T07:11:04.401Z",
       "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "09q3yn0s9",
-      "timestamp": "2026-07-15T07:11:04.396Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "50ejx0whh",
-      "timestamp": "2026-07-15T07:11:04.381Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "lmktk5khl",
-      "timestamp": "2026-07-15T07:11:03.742Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "nviy1w5pa",
-      "timestamp": "2026-07-15T07:11:03.730Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
