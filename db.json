@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "İnşaattan düşen 60 Yaşındaki işçi hayatını kaybetti",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ1JZQUJPOHZWam01NE5jQ0pWd25xeGdtS0dSaEVRVDYybmNJemMtQlZuMm5XbjJaNVZnOUxqbVN4Rk54WlppVXRKMS1WdGhtUW9HV191cmpBVDVGa052Y3lOUlJyQUhoNWZWeXpWTy1uaWRjNUVGNzBJc2haRnNZaFZhallxTndfYXdhUmRkd05TNXBMTWc?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 16:00:35 GMT",
+      "guid": "CBMilgFBVV95cUxNQ1JZQUJPOHZWam01NE5jQ0pWd25xeGdtS0dSaEVRVDYybmNJemMtQlZuMm5XbjJaNVZnOUxqbVN4Rk54WlppVXRKMS1WdGhtUW9HV191cmpBVDVGa052Y3lOUlJyQUhoNWZWeXpWTy1uaWRjNUVGNzBJc2haRnNZaFZhallxTndfYXdhUmRkd05TNXBMTWc",
+      "source": "Kızıltepe Ekspres Haber",
+      "id": "CBMilgFBVV95cUxNQ1JZQUJPOHZWam01NE5jQ0pWd25xeGdtS0dSaEVRVDYybmNJemMtQlZuMm5XbjJaNVZnOUxqbVN4Rk54WlppVXRKMS1WdGhtUW9HV191cmpBVDVGa052Y3lOUlJyQUhoNWZWeXpWTy1uaWRjNUVGNzBJc2haRnNZaFZhallxTndfYXdhUmRkd05TNXBMTWc",
+      "crawledAt": "2026-07-18T16:51:03.250Z"
+    },
+    {
       "title": "Vefat: Celal Çeçen",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45a01waVIxLXhvZFdHcm5ZYmVlcjFvM2VLUDhSNk5kNDloN2lQR0Y3Zzc1aExGSGt6TU9uQUlBbHlldnExRXVaYjZma1VRTTNPbTZGWWk3VDFFNnZMSEtRN25RbjFyY09U?oc=5",
       "pubDate": "Sat, 18 Jul 2026 04:46:09 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Gazete Vatan",
       "id": "CBMipwFBVV95cUxQOTBBOGtCSEg3MWE2RDFhcEpIcTA0YVRBbXBmUDlILWZnY0ZVa2trVkx6VkJuQUtMdDQ0LUE3cFpZZEdHNFpaeXNTdU4tc3hkRnJKMTdldHlGUVZhNi00alpON0RScjRKYXYwNnpWcFVhUmo0SmlPUUNhWk5ubXpSb1RSZy1iRm5oOEJYcjh3UzZzYkM3dTAtTmhEenNrRW1LdEZOSnpZYw",
       "crawledAt": "2026-06-23T23:52:19.185Z"
-    },
-    {
-      "title": "Kızıltepe’de anız yangınında traktör ve ekipmanları yandı",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUlvOU5PemozcHZtbl85RS12akk2alpFR1BBTjZjTlNUckVoaUZ2ZHlDN2pBZFNDLWhDT2ttUWVaQ0VLZTZwcnlLbnAwUVlkV2VvbHlZSnBmUVF4ZXdDc1lnbjc1ZktaMl9POG1EUnJhVmxQeXNEWGJmcFAxYkc5T0hLUUhLSkpIclNJdWhLdDZSWlFKN0I5ejZRSkJjOU81QlJLYllQaw?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 22:53:42 GMT",
-      "guid": "CBMipwFBVV95cUxQOUlvOU5PemozcHZtbl85RS12akk2alpFR1BBTjZjTlNUckVoaUZ2ZHlDN2pBZFNDLWhDT2ttUWVaQ0VLZTZwcnlLbnAwUVlkV2VvbHlZSnBmUVF4ZXdDc1lnbjc1ZktaMl9POG1EUnJhVmxQeXNEWGJmcFAxYkc5T0hLUUhLSkpIclNJdWhLdDZSWlFKN0I5ejZRSkJjOU81QlJLYllQaw",
-      "source": "Milliyet",
-      "id": "CBMipwFBVV95cUxQOUlvOU5PemozcHZtbl85RS12akk2alpFR1BBTjZjTlNUckVoaUZ2ZHlDN2pBZFNDLWhDT2ttUWVaQ0VLZTZwcnlLbnAwUVlkV2VvbHlZSnBmUVF4ZXdDc1lnbjc1ZktaMl9POG1EUnJhVmxQeXNEWGJmcFAxYkc5T0hLUUhLSkpIclNJdWhLdDZSWlFKN0I5ejZRSkJjOU81QlJLYllQaw",
-      "crawledAt": "2026-06-23T23:52:19.185Z"
     }
   ],
   "settings": {
@@ -4510,9 +4510,57 @@
     "discordWebhook": "",
     "enableDiscord": false,
     "lastMorningReportDate": "2026-07-18",
-    "lastPharmaciesDate": "2026-07-17"
+    "lastPharmaciesDate": "2026-07-18"
   },
   "logs": [
+    {
+      "id": "aembomedm",
+      "timestamp": "2026-07-18T16:51:05.754Z",
+      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "q0jm8gyjn",
+      "timestamp": "2026-07-18T16:51:04.225Z",
+      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "is8hur0jn",
+      "timestamp": "2026-07-18T16:51:03.715Z",
+      "message": "Telegram bildirimi gönderildi: \"İnşaattan düşen 60 Yaşındaki işçi hayatı...\"",
+      "type": "info"
+    },
+    {
+      "id": "g85x1k90p",
+      "timestamp": "2026-07-18T16:51:03.261Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "2gn0u4fpt",
+      "timestamp": "2026-07-18T16:51:03.256Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "nd4xhpcc3",
+      "timestamp": "2026-07-18T16:51:03.239Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "xksq7folt",
+      "timestamp": "2026-07-18T16:51:02.678Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "o2tju1p7a",
+      "timestamp": "2026-07-18T16:51:02.665Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "sm83xy0yg",
       "timestamp": "2026-07-18T15:51:03.067Z",
@@ -5363,54 +5411,6 @@
       "id": "xdyu1w5wx",
       "timestamp": "2026-07-16T15:53:38.742Z",
       "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "xejnp363j",
-      "timestamp": "2026-07-16T15:53:38.082Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "ijuyn34tc",
-      "timestamp": "2026-07-16T15:53:38.069Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "60q1z270z",
-      "timestamp": "2026-07-16T14:01:45.787Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe de 15 Temmuz Proğramı Gerçekle...\"",
-      "type": "info"
-    },
-    {
-      "id": "wlsj1b7as",
-      "timestamp": "2026-07-16T14:01:45.398Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "56lpmgqzj",
-      "timestamp": "2026-07-16T14:01:45.393Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "lkpq1zzhx",
-      "timestamp": "2026-07-16T14:01:45.376Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "y9xopauzq",
-      "timestamp": "2026-07-16T14:01:44.804Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "wds4g942u",
-      "timestamp": "2026-07-16T14:01:44.791Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
