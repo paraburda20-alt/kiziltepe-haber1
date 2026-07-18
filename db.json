@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "p65pxhaxb",
+      "timestamp": "2026-07-18T14:33:33.698Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "2dq359yvy",
+      "timestamp": "2026-07-18T14:33:33.682Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "h504diy1u",
+      "timestamp": "2026-07-18T14:33:33.009Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "cr4eb2g90",
+      "timestamp": "2026-07-18T14:33:32.996Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "ukst46v6s",
       "timestamp": "2026-07-18T13:01:41.098Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "k3q1l1wks",
       "timestamp": "2026-07-16T11:58:38.501Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "b9h4z4gr8",
-      "timestamp": "2026-07-16T10:02:54.329Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Yaya Kazası: Bir Kişi Hayat...\"",
-      "type": "info"
-    },
-    {
-      "id": "6vm9v1rcr",
-      "timestamp": "2026-07-16T10:02:53.895Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "0yjkn0m4w",
-      "timestamp": "2026-07-16T10:02:53.890Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "pxzg1a1x3",
-      "timestamp": "2026-07-16T10:02:53.873Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
