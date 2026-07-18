@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "ujh1oqvak",
+      "timestamp": "2026-07-18T00:52:40.108Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "qve4ef1v2",
+      "timestamp": "2026-07-18T00:52:40.094Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "mp8ceu9xw",
+      "timestamp": "2026-07-18T00:52:39.500Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "pa50hmtuz",
+      "timestamp": "2026-07-18T00:52:39.486Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "s6rwb2750",
       "timestamp": "2026-07-17T23:21:19.261Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "8xc5ejbyn",
       "timestamp": "2026-07-15T20:30:57.253Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "evyxfu40m",
-      "timestamp": "2026-07-15T19:02:32.979Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe de 15 Temmuz Resim Sergisi etk...\"",
-      "type": "info"
-    },
-    {
-      "id": "7xyrk78nx",
-      "timestamp": "2026-07-15T19:02:32.471Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "ofkex48qx",
-      "timestamp": "2026-07-15T19:02:32.465Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "d3hi1br6m",
-      "timestamp": "2026-07-15T19:02:32.448Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
