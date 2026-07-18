@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "ukst46v6s",
+      "timestamp": "2026-07-18T13:01:41.098Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "634di2pg1",
+      "timestamp": "2026-07-18T13:01:41.080Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "s4us59dja",
+      "timestamp": "2026-07-18T13:01:40.492Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "w6clpaltn",
+      "timestamp": "2026-07-18T13:01:40.479Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "xhagl7pu5",
       "timestamp": "2026-07-18T11:53:23.946Z",
       "message": "Telegram bildirimi gönderildi: \"Vefat: Celal Çeçen...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "pxzg1a1x3",
       "timestamp": "2026-07-16T10:02:53.873Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "0kvjiybgd",
-      "timestamp": "2026-07-16T10:02:52.661Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "pyrea1913",
-      "timestamp": "2026-07-16T10:02:52.649Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "wvwvqdq92",
-      "timestamp": "2026-07-16T07:34:42.710Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "y4ssj9y5c",
-      "timestamp": "2026-07-16T07:34:42.695Z",
       "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
