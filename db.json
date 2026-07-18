@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Vefat: Celal Çeçen",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45a01waVIxLXhvZFdHcm5ZYmVlcjFvM2VLUDhSNk5kNDloN2lQR0Y3Zzc1aExGSGt6TU9uQUlBbHlldnExRXVaYjZma1VRTTNPbTZGWWk3VDFFNnZMSEtRN25RbjFyY09U?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 04:46:09 GMT",
+      "guid": "CBMiaEFVX3lxTE45a01waVIxLXhvZFdHcm5ZYmVlcjFvM2VLUDhSNk5kNDloN2lQR0Y3Zzc1aExGSGt6TU9uQUlBbHlldnExRXVaYjZma1VRTTNPbTZGWWk3VDFFNnZMSEtRN25RbjFyY09U",
+      "source": "Kızıltepe Ekspres Haber",
+      "id": "CBMiaEFVX3lxTE45a01waVIxLXhvZFdHcm5ZYmVlcjFvM2VLUDhSNk5kNDloN2lQR0Y3Zzc1aExGSGt6TU9uQUlBbHlldnExRXVaYjZma1VRTTNPbTZGWWk3VDFFNnZMSEtRN25RbjFyY09U",
+      "crawledAt": "2026-07-18T11:53:23.582Z"
+    },
+    {
       "title": "Kızıltepe Ziraat Odası’ndan Elektrik Kesintilerine Sert Tepki",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEpkYUZBbm1ab0FBRldBLUZQb1V1V3ZTVk54TGlBVF9kaXdoMy1Lb1Y4VXVSZVp5cnlFdk1fVm5rc0lSMTJMalk2YWt0aUctbVFXTW8yU0VrRTR5U3BYQU01aXg4Tk1yZWFHUC1iQm5jNkY2V2o0THVyUmRuck1fNXZBal84V194eGtlNjYwdC0?oc=5",
       "pubDate": "Fri, 17 Jul 2026 09:09:16 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Milliyet",
       "id": "CBMipwFBVV95cUxQOUlvOU5PemozcHZtbl85RS12akk2alpFR1BBTjZjTlNUckVoaUZ2ZHlDN2pBZFNDLWhDT2ttUWVaQ0VLZTZwcnlLbnAwUVlkV2VvbHlZSnBmUVF4ZXdDc1lnbjc1ZktaMl9POG1EUnJhVmxQeXNEWGJmcFAxYkc5T0hLUUhLSkpIclNJdWhLdDZSWlFKN0I5ejZRSkJjOU81QlJLYllQaw",
       "crawledAt": "2026-06-23T23:52:19.185Z"
-    },
-    {
-      "title": "Mardin Kızıltepe'de Çıkan Yangın Ekipler Tarafından Kontrol Altına Alındı",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUtzSUNfU0VDRmpsT2x5ZUFBcld4OXBJXzF2S2VSYXY0LVhwMDNmSHF6cFl2ZklZTXFzZXhSOFhBc1lvU1lrSmdEel9zZmpjbnczeFZQNkdXNmJtZTJEdDZTR2RaeDhSa202NV92Zl9FQWRjbFo4b1RMMU1iZUFNaUFjWDNzR2hXMGhiQzhiVkVqV3Bnc1RjbnhKZ2R3ZzlrdWQwMjlYcnZUWXp5MjdaQm1GONIBV0FVX3lxTE1CMWJ2RmZtY3NqR1Q1T2pNTGdTelh3Q3Z2OEhVVlBjRVFWYUNvZVhTbWRqblJ0b0dSanA5VlRJSDYtNUdqcGc5SUFZbkpWaDF0UlJvdTFEaw?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 21:11:00 GMT",
-      "guid": "CBMiswFBVV95cUxOQUtzSUNfU0VDRmpsT2x5ZUFBcld4OXBJXzF2S2VSYXY0LVhwMDNmSHF6cFl2ZklZTXFzZXhSOFhBc1lvU1lrSmdEel9zZmpjbnczeFZQNkdXNmJtZTJEdDZTR2RaeDhSa202NV92Zl9FQWRjbFo4b1RMMU1iZUFNaUFjWDNzR2hXMGhiQzhiVkVqV3Bnc1RjbnhKZ2R3ZzlrdWQwMjlYcnZUWXp5MjdaQm1GONIBV0FVX3lxTE1CMWJ2RmZtY3NqR1Q1T2pNTGdTelh3Q3Z2OEhVVlBjRVFWYUNvZVhTbWRqblJ0b0dSanA5VlRJSDYtNUdqcGc5SUFZbkpWaDF0UlJvdTFEaw",
-      "source": "Mersin Haber",
-      "id": "CBMiswFBVV95cUxOQUtzSUNfU0VDRmpsT2x5ZUFBcld4OXBJXzF2S2VSYXY0LVhwMDNmSHF6cFl2ZklZTXFzZXhSOFhBc1lvU1lrSmdEel9zZmpjbnczeFZQNkdXNmJtZTJEdDZTR2RaeDhSa202NV92Zl9FQWRjbFo4b1RMMU1iZUFNaUFjWDNzR2hXMGhiQzhiVkVqV3Bnc1RjbnhKZ2R3ZzlrdWQwMjlYcnZUWXp5MjdaQm1GONIBV0FVX3lxTE1CMWJ2RmZtY3NqR1Q1T2pNTGdTelh3Q3Z2OEhVVlBjRVFWYUNvZVhTbWRqblJ0b0dSanA5VlRJSDYtNUdqcGc5SUFZbkpWaDF0UlJvdTFEaw",
-      "crawledAt": "2026-06-23T22:45:17.576Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-07-17"
   },
   "logs": [
+    {
+      "id": "xhagl7pu5",
+      "timestamp": "2026-07-18T11:53:23.946Z",
+      "message": "Telegram bildirimi gönderildi: \"Vefat: Celal Çeçen...\"",
+      "type": "info"
+    },
+    {
+      "id": "esiv23fqt",
+      "timestamp": "2026-07-18T11:53:23.595Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "foys019r7",
+      "timestamp": "2026-07-18T11:53:23.588Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "9qamfmnry",
+      "timestamp": "2026-07-18T11:53:23.569Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "yd8ap54ci",
+      "timestamp": "2026-07-18T11:53:23.041Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ap40c5f2s",
+      "timestamp": "2026-07-18T11:53:23.028Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "fcaur1gjb",
       "timestamp": "2026-07-18T10:57:47.327Z",
@@ -5374,42 +5410,6 @@
     {
       "id": "y4ssj9y5c",
       "timestamp": "2026-07-16T07:34:42.695Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ruqv9y229",
-      "timestamp": "2026-07-16T07:34:42.039Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "w98za8acw",
-      "timestamp": "2026-07-16T07:34:42.026Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "f09uj08fr",
-      "timestamp": "2026-07-16T05:23:36.943Z",
-      "message": "Günlük sabah raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "gbtw08cji",
-      "timestamp": "2026-07-16T05:23:36.064Z",
-      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "wm5805i49",
-      "timestamp": "2026-07-16T05:23:36.055Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "ckkbgmbzd",
-      "timestamp": "2026-07-16T05:23:36.041Z",
       "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
