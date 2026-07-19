@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kızıltepe’de Nevruz kutlaması",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWZHlRTFNEQVdYcXZDVmhKMG1RRHhJbkNUTHVmMjBaYlp0NGcyT1VRdHdZOEZwQk5DU0NZWUIwSk9IMGZxOHRyNndoRlBhNnlGeFFaNjA4bHM5NHM3NmRXSHFrWWNsVUR4YVc5anhqRUE3VzRiZm9xNQ?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "guid": "CBMieEFVX3lxTFBWZHlRTFNEQVdYcXZDVmhKMG1RRHhJbkNUTHVmMjBaYlp0NGcyT1VRdHdZOEZwQk5DU0NZWUIwSk9IMGZxOHRyNndoRlBhNnlGeFFaNjA4bHM5NHM3NmRXSHFrWWNsVUR4YVc5anhqRUE3VzRiZm9xNQ",
+      "source": "Anka Haber",
+      "id": "CBMieEFVX3lxTFBWZHlRTFNEQVdYcXZDVmhKMG1RRHhJbkNUTHVmMjBaYlp0NGcyT1VRdHdZOEZwQk5DU0NZWUIwSk9IMGZxOHRyNndoRlBhNnlGeFFaNjA4bHM5NHM3NmRXSHFrWWNsVUR4YVc5anhqRUE3VzRiZm9xNQ",
+      "crawledAt": "2026-07-19T07:03:35.602Z"
+    },
+    {
       "title": "Kızıltepe'de Pikap Devrildi: 3 Yaralı",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQjFxYkNvdHk4Wi00YVZFcVZnVUwzNmp0ZVQwdFpIQ25UTmFCVk1Qc3BpRWFmWmZUaGRkMW9HaG5QQmhHNHlWT1RkRVE5WDBvaTBGQU1oX080MWFsdjhEQVRTY0UtT0luVl9KMldwb3dBeHJkcVh2Q3lvU0hoZ0ZsY1BKMFdJU2l0eVFZOUR30gGKAUFVX3lxTE9HbXVYSFE1cmlsREdkWXZheS1QN25VWTNLMHhPWjBFZloxUUp5QnJ5bnpyM2lyQndBQTE0WDNJY0hIb21vRDVYYWlZclM5YUxhSkVlcThPWG42YmtncngxdFVWSDh2UE94Y091SEM1NVpSaXRtNnRmWndEeG1ZZkZRMEVRUElMT2c4Zw?oc=5",
       "pubDate": "Sat, 18 Jul 2026 18:16:22 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Yeni Akit Gazetesi",
       "id": "CBMi6gFBVV95cUxNbGZjZmNGWnhJRTN1NEt2aUFWYl9BNXR3XzBTcHBNcHNkTXBTY05UbTV6SEJCSDlHLW1uenpnYzNBcjhZc3JHMWIyeE0wYlJLcjJTUGRhbUhTcDI3UUhnWFZiZEVEVnIzWE1kd21xRWJNaGt0b2xKdXBCUldSbklJVlVPcXZGNWhPc08ycjZpNEEtZWJVcEJDVjdmRGVGU1JlS01fSTZDNnhUa2taamJxd1hQdzZyLVQxOEpRb09nbTNGY3hfb3JzNzNham56bGVPSk5nQWxrYzF5bG95RnRQNTE0QzBVZV82SWfSAeYBQVVfeXFMUEFvdUVDOTAtSk9JX0dFRVFQM3Q4dmgzNjNUclNScHF5TFU4TXJ5NVRmZmVnRkJBY2NxOFpMem5nWTkwdnhwS0pKd3BZLWtsWlVWbkktelNlOFBLOFRiRm83eF9NNHJjVDVaTVpHQV8xU2VRa0VrdEZ3aXQ2OTg4aE04TU5vQVppbTZPR3A2cmtmbXhjTUcyTzBPUVk0cnlEOFlpcGUzdTl6cnBjcVJnQjZHN0oxQ3lBdXZUYWx6ZWtSWWdScDBXMlM2b2FUQVdZY1g2Z0VZRU4tRDZuNW1VR3dMOXdEaWc",
       "crawledAt": "2026-06-24T19:38:49.968Z"
-    },
-    {
-      "title": "Mardin'de 8 ayrı noktada yangın alarmı: Ekipler söndürmek için seferber oldu",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNME81Q2FfZWtBeUlvVV90ZUFsMkJOZnM5OVZIcWRHVTFGd2E2MzNqdTdYV1VIdEgydGJITnRQNG5PZFF6VzR0VGs3cDhjNmpaUGhLZnRlb0x1UjlNd2xrT25mRTh5NDZRREl5U2hFd1FlM2ZsZ0dpOFJRVE9vUTB3TE90c3lTRG1DcG9NSnJ3Z1Mxb2MyRnJkNDUzX1VnZlVzeGlydWFZSDhVN0dlNkN3cnU4T0NmMFY0bk15NtIBvwFBVV95cUxQcGpUT2IyN0ZoYWJmd0diUnlTTTdteTVhQlpPM0ZmaEZ3S1IzbXVTZHR5dExqcWZSU244bjEzXzQ4eU9xbjVSMXI2Vmt3TWdsOTVEZHMtQlFxVkk4bFZqSTU5V0VZM1RuTkh5ZHA1czl3RlNDS2xhdUJnYU1wTmRLN2EwY2F4VVZZMEZFbG9OUTJkdUl4am9iTGJSam9CSk9UQzVDZjNFQ01UYzE4RWVmYnQtcWh4QXUzcUlEbmFCNA?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 18:20:00 GMT",
-      "guid": "CBMivAFBVV95cUxNME81Q2FfZWtBeUlvVV90ZUFsMkJOZnM5OVZIcWRHVTFGd2E2MzNqdTdYV1VIdEgydGJITnRQNG5PZFF6VzR0VGs3cDhjNmpaUGhLZnRlb0x1UjlNd2xrT25mRTh5NDZRREl5U2hFd1FlM2ZsZ0dpOFJRVE9vUTB3TE90c3lTRG1DcG9NSnJ3Z1Mxb2MyRnJkNDUzX1VnZlVzeGlydWFZSDhVN0dlNkN3cnU4T0NmMFY0bk15NtIBvwFBVV95cUxQcGpUT2IyN0ZoYWJmd0diUnlTTTdteTVhQlpPM0ZmaEZ3S1IzbXVTZHR5dExqcWZSU244bjEzXzQ4eU9xbjVSMXI2Vmt3TWdsOTVEZHMtQlFxVkk4bFZqSTU5V0VZM1RuTkh5ZHA1czl3RlNDS2xhdUJnYU1wTmRLN2EwY2F4VVZZMEZFbG9OUTJkdUl4am9iTGJSam9CSk9UQzVDZjNFQ01UYzE4RWVmYnQtcWh4QXUzcUlEbmFCNA",
-      "source": "AKŞAM",
-      "id": "CBMivAFBVV95cUxNME81Q2FfZWtBeUlvVV90ZUFsMkJOZnM5OVZIcWRHVTFGd2E2MzNqdTdYV1VIdEgydGJITnRQNG5PZFF6VzR0VGs3cDhjNmpaUGhLZnRlb0x1UjlNd2xrT25mRTh5NDZRREl5U2hFd1FlM2ZsZ0dpOFJRVE9vUTB3TE90c3lTRG1DcG9NSnJ3Z1Mxb2MyRnJkNDUzX1VnZlVzeGlydWFZSDhVN0dlNkN3cnU4T0NmMFY0bk15NtIBvwFBVV95cUxQcGpUT2IyN0ZoYWJmd0diUnlTTTdteTVhQlpPM0ZmaEZ3S1IzbXVTZHR5dExqcWZSU244bjEzXzQ4eU9xbjVSMXI2Vmt3TWdsOTVEZHMtQlFxVkk4bFZqSTU5V0VZM1RuTkh5ZHA1czl3RlNDS2xhdUJnYU1wTmRLN2EwY2F4VVZZMEZFbG9OUTJkdUl4am9iTGJSam9CSk9UQzVDZjNFQ01UYzE4RWVmYnQtcWh4QXUzcUlEbmFCNA",
-      "crawledAt": "2026-06-24T19:38:49.968Z"
     }
   ],
   "settings": {
@@ -4509,10 +4509,58 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-07-18",
+    "lastMorningReportDate": "2026-07-19",
     "lastPharmaciesDate": "2026-07-18"
   },
   "logs": [
+    {
+      "id": "lsjuicyg4",
+      "timestamp": "2026-07-19T07:03:37.852Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "lg0by4qie",
+      "timestamp": "2026-07-19T07:03:36.643Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "j9vwi3dnx",
+      "timestamp": "2026-07-19T07:03:36.132Z",
+      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de Nevruz kutlaması...\"",
+      "type": "info"
+    },
+    {
+      "id": "gtr3mcj84",
+      "timestamp": "2026-07-19T07:03:35.617Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "usqc709tb",
+      "timestamp": "2026-07-19T07:03:35.610Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "g675p64th",
+      "timestamp": "2026-07-19T07:03:35.590Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "21teiz0gy",
+      "timestamp": "2026-07-19T07:03:34.877Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "2u5kaqyrm",
+      "timestamp": "2026-07-19T07:03:34.864Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "m1nssunrb",
       "timestamp": "2026-07-19T04:21:56.272Z",
@@ -5362,54 +5410,6 @@
     {
       "id": "38azfo0xq",
       "timestamp": "2026-07-17T15:56:05.263Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "h328lwleu",
-      "timestamp": "2026-07-17T15:56:05.250Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "btyztm8js",
-      "timestamp": "2026-07-17T14:28:07.185Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "7sf43y6ck",
-      "timestamp": "2026-07-17T14:28:07.170Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "phtaryokh",
-      "timestamp": "2026-07-17T14:28:06.406Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "jvom0h2l8",
-      "timestamp": "2026-07-17T14:28:06.393Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "0808pdpzr",
-      "timestamp": "2026-07-17T12:41:16.820Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "2ipvd1089",
-      "timestamp": "2026-07-17T12:41:16.807Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "2hq0i9zfc",
-      "timestamp": "2026-07-17T12:41:16.123Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
