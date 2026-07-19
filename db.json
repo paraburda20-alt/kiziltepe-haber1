@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "v52zsye2b",
+      "timestamp": "2026-07-19T23:26:37.938Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "kofdywcxs",
+      "timestamp": "2026-07-19T23:26:37.924Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "4zge0mbib",
+      "timestamp": "2026-07-19T23:26:37.243Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "nkf0kr8bx",
+      "timestamp": "2026-07-19T23:26:37.230Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "jn3m5lrvo",
       "timestamp": "2026-07-19T22:23:29.860Z",
       "message": "Telegram bildirimi gönderildi: \"Damda uyuyan 12 yaşındaki kız çocuğu sil...\"",
@@ -5387,30 +5411,6 @@
       "id": "tnpznea4c",
       "timestamp": "2026-07-18T21:12:01.151Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "qmsn2eaas",
-      "timestamp": "2026-07-18T20:01:53.618Z",
-      "message": "Telegram bildirimi gönderildi: \"Şarampole yuvarlanan araçta 3 kişi yaral...\"",
-      "type": "info"
-    },
-    {
-      "id": "tx0i6ae8v",
-      "timestamp": "2026-07-18T20:01:52.930Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de inşattan düşen sıva ustası, ha...\"",
-      "type": "info"
-    },
-    {
-      "id": "qv27zsksg",
-      "timestamp": "2026-07-18T20:01:52.214Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Pikap Devrildi: 3 Yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "7opmfpit5",
-      "timestamp": "2026-07-18T20:01:51.483Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de inşattan düşen sıva ustası, ha...\"",
       "type": "info"
     }
   ]
