@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "la4hahtwe",
+      "timestamp": "2026-07-19T21:14:01.983Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "tdixeoedg",
+      "timestamp": "2026-07-19T21:14:01.969Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ejk26uikq",
+      "timestamp": "2026-07-19T21:14:01.411Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "983462p6s",
+      "timestamp": "2026-07-19T21:14:01.397Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "ebv0puair",
       "timestamp": "2026-07-19T20:07:43.023Z",
       "message": "Telegram bildirimi gönderildi: \"İnşaattan düşen işçi hayatını kaybetti...\"",
@@ -5387,30 +5411,6 @@
       "id": "rzed4p3xc",
       "timestamp": "2026-07-18T20:01:49.662Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "cbg0zma4f",
-      "timestamp": "2026-07-18T18:55:08.718Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de inşattan düşen sıva ustası, ha...\"",
-      "type": "info"
-    },
-    {
-      "id": "l9p9szrfa",
-      "timestamp": "2026-07-18T18:55:07.902Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de hafif ticari araç şarampole de...\"",
-      "type": "info"
-    },
-    {
-      "id": "7n5rkhp35",
-      "timestamp": "2026-07-18T18:55:07.091Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardinde inşattan düşen sıva ustası, has...\"",
-      "type": "info"
-    },
-    {
-      "id": "euhf89wof",
-      "timestamp": "2026-07-18T18:55:06.351Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de iş cinayeti: İnşaattan düşen u...\"",
       "type": "info"
     }
   ]
