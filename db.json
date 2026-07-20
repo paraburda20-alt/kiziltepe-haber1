@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "8yim2vicl",
+      "timestamp": "2026-07-20T11:20:13.001Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "5kerwcdeo",
+      "timestamp": "2026-07-20T11:20:12.987Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "578tj6w1t",
+      "timestamp": "2026-07-20T11:20:12.490Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "r3yqaxt72",
+      "timestamp": "2026-07-20T11:20:12.477Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "s8ld095t9",
       "timestamp": "2026-07-20T08:22:16.519Z",
       "message": "Telegram bildirimi gönderildi: \"Oğuzhan Uğur gözaltına alındı, Jitemci B...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "qqszjdz6c",
       "timestamp": "2026-07-19T00:58:10.211Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "r3wqguw8p",
-      "timestamp": "2026-07-19T00:58:10.198Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "gv75rdbdq",
-      "timestamp": "2026-07-18T23:24:08.557Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "5m5z27k0i",
-      "timestamp": "2026-07-18T23:24:08.536Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "bbzqewd80",
-      "timestamp": "2026-07-18T23:24:07.890Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
