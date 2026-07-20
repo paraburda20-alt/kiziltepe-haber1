@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "q43sladp1",
+      "timestamp": "2026-07-20T15:26:44.822Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "52cumxykb",
+      "timestamp": "2026-07-20T15:26:44.805Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "jx57uu0iq",
+      "timestamp": "2026-07-20T15:26:44.087Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "szu5rgwmk",
+      "timestamp": "2026-07-20T15:26:44.074Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "c02kuk8jp",
       "timestamp": "2026-07-20T13:23:54.904Z",
       "message": "Telegram bildirimi gönderildi: \"DEM Parti'den ihraç edilen Kızıltepe Bel...\"",
@@ -5387,30 +5411,6 @@
       "id": "m1nssunrb",
       "timestamp": "2026-07-19T04:21:56.272Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Pikap Devrildi: 3 Yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "uoaqyco9q",
-      "timestamp": "2026-07-19T04:21:55.620Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin - Kızıltepe’de anız yangınında tr...\"",
-      "type": "info"
-    },
-    {
-      "id": "61nu5if0m",
-      "timestamp": "2026-07-19T04:21:54.995Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de anız yangınında traktör ve ...\"",
-      "type": "info"
-    },
-    {
-      "id": "5wmfwl21h",
-      "timestamp": "2026-07-19T04:21:54.614Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "xsy1x61ui",
-      "timestamp": "2026-07-19T04:21:54.609Z",
-      "message": "Veritabanına 3 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
