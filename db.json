@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "bb9ahgakd",
+      "timestamp": "2026-07-20T22:53:48.276Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "pcg25klga",
+      "timestamp": "2026-07-20T22:53:48.261Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "282px8x1e",
+      "timestamp": "2026-07-20T22:53:47.609Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "pakbo1jzg",
+      "timestamp": "2026-07-20T22:53:47.596Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "s2jq3zr0i",
       "timestamp": "2026-07-20T21:39:47.010Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "hg32w8gtr",
       "timestamp": "2026-07-19T10:50:50.241Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de 1 kişinin öldüğü silahlı kavga...\"",
-      "type": "info"
-    },
-    {
-      "id": "gl7z0t2rw",
-      "timestamp": "2026-07-19T10:50:49.544Z",
-      "message": "Telegram bildirimi gönderildi: \"KIZILTEPE İLÇEMİZİ ZİYARET ETTİK...\"",
-      "type": "info"
-    },
-    {
-      "id": "275oe8msy",
-      "timestamp": "2026-07-19T10:50:49.150Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "988dejp7b",
-      "timestamp": "2026-07-19T10:50:49.142Z",
-      "message": "Veritabanına 3 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "8w5tbx7oz",
-      "timestamp": "2026-07-19T10:50:49.122Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
