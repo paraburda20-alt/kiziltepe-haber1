@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "tww039isf",
+      "timestamp": "2026-07-21T08:16:33.031Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "4q379hsci",
+      "timestamp": "2026-07-21T08:16:33.018Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "6k8bcyghg",
+      "timestamp": "2026-07-21T08:16:32.521Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "8gdwo0563",
+      "timestamp": "2026-07-21T08:16:32.507Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "ftuhza1pq",
       "timestamp": "2026-07-21T05:34:12.656Z",
       "message": "Günlük sabah raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "y10exf7lr",
       "timestamp": "2026-07-19T13:04:06.584Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de Galericiler Sitesinde silah...\"",
-      "type": "info"
-    },
-    {
-      "id": "1yh2fajtj",
-      "timestamp": "2026-07-19T13:04:05.908Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Haberleri - Otomobil tarlaya y...\"",
-      "type": "info"
-    },
-    {
-      "id": "io1jvvjzg",
-      "timestamp": "2026-07-19T13:04:05.228Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de piknik tüpü patladı: 3 kişi...\"",
-      "type": "info"
-    },
-    {
-      "id": "in2ikpzh7",
-      "timestamp": "2026-07-19T13:04:04.870Z",
-      "message": "8 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "pczveioac",
-      "timestamp": "2026-07-19T13:04:04.861Z",
-      "message": "Veritabanına 8 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
