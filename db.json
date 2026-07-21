@@ -4509,10 +4509,46 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-07-20",
+    "lastMorningReportDate": "2026-07-21",
     "lastPharmaciesDate": "2026-07-20"
   },
   "logs": [
+    {
+      "id": "ftuhza1pq",
+      "timestamp": "2026-07-21T05:34:12.656Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "8nujbkr2i",
+      "timestamp": "2026-07-21T05:34:10.880Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "cobzbm5qt",
+      "timestamp": "2026-07-21T05:34:10.871Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "1owy24odv",
+      "timestamp": "2026-07-21T05:34:10.859Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "5f1r49bt2",
+      "timestamp": "2026-07-21T05:34:10.141Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "8gz1xk5nq",
+      "timestamp": "2026-07-21T05:34:10.128Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "n54gfyynh",
       "timestamp": "2026-07-21T02:07:04.726Z",
@@ -5375,42 +5411,6 @@
       "id": "pczveioac",
       "timestamp": "2026-07-19T13:04:04.861Z",
       "message": "Veritabanına 8 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "gddy1lnyx",
-      "timestamp": "2026-07-19T13:04:04.836Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "i37exmw5k",
-      "timestamp": "2026-07-19T13:04:04.301Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "fcpukl9wy",
-      "timestamp": "2026-07-19T13:04:04.288Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "6i4dmylh1",
-      "timestamp": "2026-07-19T11:52:06.227Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de otomobiller çarpıştı: 3 yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "4qt85c4z9",
-      "timestamp": "2026-07-19T11:52:05.464Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de iki otomobilin çarpıştığı kaza...\"",
-      "type": "info"
-    },
-    {
-      "id": "3zxz9ckp6",
-      "timestamp": "2026-07-19T11:52:04.767Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de 1 kişinin öldüğü silahlı kavga...\"",
       "type": "info"
     }
   ]
