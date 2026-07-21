@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kızıltepe’de sağanak ve dolu yolları göle çevirdi",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05c3lXUkdacnRmbzU4SVhIa3pMOEVHSGJlUGFGMkR5OUpiQ0VfN011dWRLQTNhakFsdnFNd0UtMFJFOFhHay1wdDdKcm82MDlzVkI2MXpUOFdjaVBWOGUwemh5S3E?oc=5",
+      "pubDate": "Mon, 25 May 2026 19:17:33 GMT",
+      "guid": "CBMiZEFVX3lxTE05c3lXUkdacnRmbzU4SVhIa3pMOEVHSGJlUGFGMkR5OUpiQ0VfN011dWRLQTNhakFsdnFNd0UtMFJFOFhHay1wdDdKcm82MDlzVkI2MXpUOFdjaVBWOGUwemh5S3E",
+      "source": "Rudaw",
+      "id": "CBMiZEFVX3lxTE05c3lXUkdacnRmbzU4SVhIa3pMOEVHSGJlUGFGMkR5OUpiQ0VfN011dWRLQTNhakFsdnFNd0UtMFJFOFhHay1wdDdKcm82MDlzVkI2MXpUOFdjaVBWOGUwemh5S3E",
+      "crawledAt": "2026-07-21T10:36:41.275Z"
+    },
+    {
       "title": "SON DAKİKA: Mardin Kızıltepe'de cinayet... Silahlı kavgada 1 ölü, 3 yaralı",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYzl4cGpwdFFBSU02VUIzT3hsNVROdDVnMWhIQV9CSkgwZ1V2WUpxYTdncTE3UUJOc1B1MGxLQzloNUhLdkNzMEZPNnhwZUJvRmUxYTU3VnNqV2RwM3B2cUYxWFpySlMtcGpZWWFKODFUbzRxWTFUdDBNTnJxUmFLVzRqZmxYSkhQQzVnbmlIQ3YxcnVZWXU5Wm44bTVMamRp?oc=5",
       "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Son Dakika",
       "id": "CBMihwFBVV95cUxQSFoyblJfaU42VHJrX0J5ODRvcXBWb0xNb0VuZjlQaGJGWWxBMEhnWTFNOWx1cXhmRnFBSFJRMEpkaFgyaTd2aHVIUmttYUZHY3NnUzdfSzREb2RINFpMSVM0NHg4eTI0eGZvTzZleWYyY1l2ak1CMW1vc3pSMExQaVZLbHVwbXPSAYMBQVVfeXFMTVJfb1lHYjNSalRBdXZnWXI2QVkwS0E3a2V6VXdiSFNULW55UlVfWjdQNVI0NnBWWmx2MnVRZVFiQmgtU0dMTzBaYmdpSzFJQjdCN2FpMm40bDItczNVWjlYbHA5RFNFeDRjU2lxaFhTRTV2Y0FteU0xT1daUUNtcHYtUDg",
       "crawledAt": "2026-06-26T12:30:25.133Z"
-    },
-    {
-      "title": "Viranşehir-Kızıltepe-Nusaybin yolunda çalışmalar başladı",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUNrQ3lraXM0TjBacExLanlXN3BLNTNWVkhkX0RJenlRUjdFMVR3Ti1NVFptT0FDaWY5SGNjME05bS10TVNTM255N1ZTQlQ0QXZxZUZUVGFDdGJRQXFGaDBMVUJyZHAzQk5rOGU4eDRJbVFTOVhqemtyXzhiSzlZQk9wSUc0bGx3QkVvVG1NazNVejFIRFlhcExR0gGaAUFVX3lxTE5hQ2tDeWtpczROMFpwTEtqeVc3cEs1M1ZWSGRfREl6eVFSN0UxVHdOLU1UWm1PQUNpZjlIY2MwTTltLXRNU1Mzbnk3VlNCVDRBdnFlRlRUYUN0YlFBcUZoMExVQnJkcDNCTms4ZTh4NEltUVM5WGp6a3JfOGJLOVlCT3BJRzRsbHdCRW9UbU1rM1V6MUhEWWFwTFE?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 06:24:54 GMT",
-      "guid": "CBMimgFBVV95cUxOYUNrQ3lraXM0TjBacExLanlXN3BLNTNWVkhkX0RJenlRUjdFMVR3Ti1NVFptT0FDaWY5SGNjME05bS10TVNTM255N1ZTQlQ0QXZxZUZUVGFDdGJRQXFGaDBMVUJyZHAzQk5rOGU4eDRJbVFTOVhqemtyXzhiSzlZQk9wSUc0bGx3QkVvVG1NazNVejFIRFlhcExR0gGaAUFVX3lxTE5hQ2tDeWtpczROMFpwTEtqeVc3cEs1M1ZWSGRfREl6eVFSN0UxVHdOLU1UWm1PQUNpZjlIY2MwTTltLXRNU1Mzbnk3VlNCVDRBdnFlRlRUYUN0YlFBcUZoMExVQnJkcDNCTms4ZTh4NEltUVM5WGp6a3JfOGJLOVlCT3BJRzRsbHdCRW9UbU1rM1V6MUhEWWFwTFE",
-      "source": "Haberler",
-      "id": "CBMimgFBVV95cUxOYUNrQ3lraXM0TjBacExLanlXN3BLNTNWVkhkX0RJenlRUjdFMVR3Ti1NVFptT0FDaWY5SGNjME05bS10TVNTM255N1ZTQlQ0QXZxZUZUVGFDdGJRQXFGaDBMVUJyZHAzQk5rOGU4eDRJbVFTOVhqemtyXzhiSzlZQk9wSUc0bGx3QkVvVG1NazNVejFIRFlhcExR0gGaAUFVX3lxTE5hQ2tDeWtpczROMFpwTEtqeVc3cEs1M1ZWSGRfREl6eVFSN0UxVHdOLU1UWm1PQUNpZjlIY2MwTTltLXRNU1Mzbnk3VlNCVDRBdnFlRlRUYUN0YlFBcUZoMExVQnJkcDNCTms4ZTh4NEltUVM5WGp6a3JfOGJLOVlCT3BJRzRsbHdCRW9UbU1rM1V6MUhEWWFwTFE",
-      "crawledAt": "2026-06-26T12:30:25.133Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-07-20"
   },
   "logs": [
+    {
+      "id": "f16fq2icb",
+      "timestamp": "2026-07-21T10:36:41.773Z",
+      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de sağanak ve dolu yolları göl...\"",
+      "type": "info"
+    },
+    {
+      "id": "anptbebw0",
+      "timestamp": "2026-07-21T10:36:41.283Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "gtgfrl8ht",
+      "timestamp": "2026-07-21T10:36:41.279Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "46fcgqvx9",
+      "timestamp": "2026-07-21T10:36:41.266Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ogw3yz4mu",
+      "timestamp": "2026-07-21T10:36:40.512Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "cm76yhw1c",
+      "timestamp": "2026-07-21T10:36:40.503Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "tww039isf",
       "timestamp": "2026-07-21T08:16:33.031Z",
@@ -5375,42 +5411,6 @@
       "id": "jwmmk742m",
       "timestamp": "2026-07-19T14:37:29.724Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "3g4evro70",
-      "timestamp": "2026-07-19T13:04:09.969Z",
-      "message": "Telegram bildirimi gönderildi: \"Hasan Atilla Uğur'dan gözaltındaki oğlu ...\"",
-      "type": "info"
-    },
-    {
-      "id": "4c8vk2s4p",
-      "timestamp": "2026-07-19T13:04:09.327Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de iş cinayeti: İnşaattan düşe...\"",
-      "type": "info"
-    },
-    {
-      "id": "80i0o1bbk",
-      "timestamp": "2026-07-19T13:04:08.655Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Kaza: 3 Yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "xuln9lxqd",
-      "timestamp": "2026-07-19T13:04:07.995Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de İki Otomobil Çarpıştı: 3 Yaral...\"",
-      "type": "info"
-    },
-    {
-      "id": "0e9r9c6i7",
-      "timestamp": "2026-07-19T13:04:07.328Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'in Kızıltepe ilçesindeki \"Emrud t...\"",
-      "type": "info"
-    },
-    {
-      "id": "y10exf7lr",
-      "timestamp": "2026-07-19T13:04:06.584Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de Galericiler Sitesinde silah...\"",
       "type": "info"
     }
   ]
