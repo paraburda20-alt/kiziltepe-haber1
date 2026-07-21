@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "68pzteicy",
+      "timestamp": "2026-07-21T23:04:17.417Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ynqp4u8xu",
+      "timestamp": "2026-07-21T23:04:17.405Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "fzm9fogl0",
+      "timestamp": "2026-07-21T23:04:16.803Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "wlyvls7m0",
+      "timestamp": "2026-07-21T23:04:16.794Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "46awyl8be",
       "timestamp": "2026-07-21T22:00:03.114Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de traktörle çarpışan otomobildek...\"",
@@ -5387,30 +5411,6 @@
       "id": "76jtdtb3u",
       "timestamp": "2026-07-19T18:57:54.172Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de silahlı alacak kavgası: 1 ölü,...\"",
-      "type": "info"
-    },
-    {
-      "id": "kq2kswa9e",
-      "timestamp": "2026-07-19T18:57:53.456Z",
-      "message": "Telegram bildirimi gönderildi: \"19 Temmuz Mardin Kızıltepe Hava Durumu...\"",
-      "type": "info"
-    },
-    {
-      "id": "w4047wzuu",
-      "timestamp": "2026-07-19T18:57:52.805Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "aayhixwoz",
-      "timestamp": "2026-07-19T18:57:52.799Z",
-      "message": "Veritabanına 3 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "w2bgeotka",
-      "timestamp": "2026-07-19T18:57:52.725Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
