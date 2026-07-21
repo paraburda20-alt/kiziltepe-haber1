@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "3vr2735hd",
+      "timestamp": "2026-07-21T14:32:23.997Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "i69u4s6wu",
+      "timestamp": "2026-07-21T14:32:23.979Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "1r8be3d3q",
+      "timestamp": "2026-07-21T14:32:23.332Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "d7td2h3le",
+      "timestamp": "2026-07-21T14:32:23.320Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "0oclfc373",
       "timestamp": "2026-07-21T12:20:49.546Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "ee4axw4i1",
       "timestamp": "2026-07-19T15:52:28.659Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "1op6sttev",
-      "timestamp": "2026-07-19T15:52:28.645Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "q1wmihx7e",
-      "timestamp": "2026-07-19T14:37:31.759Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de damda uyuyan 12 yaşındaki kız ...\"",
-      "type": "info"
-    },
-    {
-      "id": "kslw24ocr",
-      "timestamp": "2026-07-19T14:37:31.055Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de polisin yere fırlattığı çoc...\"",
-      "type": "info"
-    },
-    {
-      "id": "kywuuzoc1",
-      "timestamp": "2026-07-19T14:37:30.465Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
