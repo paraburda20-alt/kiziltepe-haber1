@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "jj498oai8",
+      "timestamp": "2026-07-21T19:11:17.482Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "4uax0bhom",
+      "timestamp": "2026-07-21T19:11:17.458Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ygjofb71b",
+      "timestamp": "2026-07-21T19:11:16.873Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "s84v8y4ap",
+      "timestamp": "2026-07-21T19:11:16.860Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "daaoy7sld",
       "timestamp": "2026-07-21T17:51:48.986Z",
       "message": "Telegram bildirimi gönderildi: \"Derik ve Kızıltepe'de Yangınlar...\"",
@@ -5387,30 +5411,6 @@
       "id": "bhcnbjb82",
       "timestamp": "2026-07-19T17:53:59.778Z",
       "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ms2f3rj9v",
-      "timestamp": "2026-07-19T17:53:54.918Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "dmiktmb76",
-      "timestamp": "2026-07-19T17:53:54.905Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "i6zbav0cu",
-      "timestamp": "2026-07-19T16:51:54.232Z",
-      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "zmimd3ukg",
-      "timestamp": "2026-07-19T16:51:51.785Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
       "type": "info"
     }
   ]
