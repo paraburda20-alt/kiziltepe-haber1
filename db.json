@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "h4x4i2p8u",
+      "timestamp": "2026-07-24T00:54:30.521Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "82lyh37gp",
+      "timestamp": "2026-07-24T00:54:30.504Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "wvflgdwn8",
+      "timestamp": "2026-07-24T00:54:29.729Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "pxrh243m8",
+      "timestamp": "2026-07-24T00:54:29.716Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "08ppwpist",
       "timestamp": "2026-07-23T23:25:56.486Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "5axofbnht",
       "timestamp": "2026-07-22T06:25:25.887Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "akhkw187w",
-      "timestamp": "2026-07-22T06:25:25.873Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "1wrnfnuyf",
-      "timestamp": "2026-07-22T03:56:01.328Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de feci kaza: Araçlar h...\"",
-      "type": "info"
-    },
-    {
-      "id": "u5hewtf1g",
-      "timestamp": "2026-07-22T03:56:00.942Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "a9pz6c73i",
-      "timestamp": "2026-07-22T03:56:00.937Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
