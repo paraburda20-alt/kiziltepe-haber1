@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "pcdu6cf9v",
+      "timestamp": "2026-07-24T11:37:56.632Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "sxdgd021e",
+      "timestamp": "2026-07-24T11:37:56.618Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "xkcjof3ds",
+      "timestamp": "2026-07-24T11:37:55.976Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "w38ng9whi",
+      "timestamp": "2026-07-24T11:37:55.963Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "5s594v4ht",
       "timestamp": "2026-07-24T09:42:12.180Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "kt8tzu44e",
       "timestamp": "2026-07-22T11:24:19.041Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de traktörle çarpışan otomobildek...\"",
-      "type": "info"
-    },
-    {
-      "id": "v94lyqo3z",
-      "timestamp": "2026-07-22T11:24:18.373Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Trafik Kazası: 4 Yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "b4hiyrx2n",
-      "timestamp": "2026-07-22T11:24:17.730Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de traktör ile otomobil...\"",
-      "type": "info"
-    },
-    {
-      "id": "8dqdmmrcs",
-      "timestamp": "2026-07-22T11:24:17.094Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de otomobil ile traktör çarpıştı:...\"",
-      "type": "info"
-    },
-    {
-      "id": "n2ujeskax",
-      "timestamp": "2026-07-22T11:24:16.651Z",
-      "message": "7 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
