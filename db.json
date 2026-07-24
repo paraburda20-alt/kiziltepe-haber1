@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "ov6cpmz0r",
+      "timestamp": "2026-07-24T20:15:55.731Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ol744da7v",
+      "timestamp": "2026-07-24T20:15:55.708Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "3ab610n6b",
+      "timestamp": "2026-07-24T20:15:55.108Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "q6iicdt3c",
+      "timestamp": "2026-07-24T20:15:55.096Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "w1o69qttw",
       "timestamp": "2026-07-24T18:55:19.488Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Depoda Yangın...\"",
@@ -5387,30 +5411,6 @@
       "id": "qdurxku2m",
       "timestamp": "2026-07-22T16:55:02.141Z",
       "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "b6wbgz9lm",
-      "timestamp": "2026-07-22T16:55:01.627Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de otomobil ile traktör çarpıştı:...\"",
-      "type": "info"
-    },
-    {
-      "id": "gt29ik469",
-      "timestamp": "2026-07-22T16:55:01.241Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "i54zdb6gn",
-      "timestamp": "2026-07-22T16:55:01.236Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "kz9o3swhd",
-      "timestamp": "2026-07-22T16:55:01.220Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
