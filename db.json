@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "z0pqfoc6p",
+      "timestamp": "2026-07-24T15:11:50.298Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "xyvx052ri",
+      "timestamp": "2026-07-24T15:11:50.284Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "3hwzv9gud",
+      "timestamp": "2026-07-24T15:11:49.726Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "j6pzd0kiz",
+      "timestamp": "2026-07-24T15:11:49.713Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "knw4r7zj7",
       "timestamp": "2026-07-24T13:25:09.418Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de otomobilin takla attığı kaz...\"",
@@ -5387,30 +5411,6 @@
       "id": "xz8fhhpon",
       "timestamp": "2026-07-22T12:55:13.742Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de ömrünü tamamlayan içme suyu an...\"",
-      "type": "info"
-    },
-    {
-      "id": "z4cur5kfc",
-      "timestamp": "2026-07-22T12:55:13.072Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de otomobiller çarpıştı: 1 ölü, 4...\"",
-      "type": "info"
-    },
-    {
-      "id": "7tu45i52f",
-      "timestamp": "2026-07-22T12:55:12.567Z",
-      "message": "5 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "s3d6mt6a6",
-      "timestamp": "2026-07-22T12:55:12.563Z",
-      "message": "Veritabanına 5 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "3znuaejtq",
-      "timestamp": "2026-07-22T12:55:12.532Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
