@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "5v389je84",
+      "timestamp": "2026-07-25T21:49:19.720Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "94zol717w",
+      "timestamp": "2026-07-25T21:49:19.706Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "vx4nxnagj",
+      "timestamp": "2026-07-25T21:49:18.834Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "tygun66ae",
+      "timestamp": "2026-07-25T21:49:18.820Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "foub93zp5",
       "timestamp": "2026-07-25T20:42:52.256Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de otomobil ile traktör çarpıştı:...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "u900iq2oy",
       "timestamp": "2026-07-23T22:00:19.740Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "zfru6wav1",
-      "timestamp": "2026-07-23T22:00:19.677Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "xv23lg8qo",
-      "timestamp": "2026-07-23T20:34:46.453Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "wlv4ykp9r",
-      "timestamp": "2026-07-23T20:34:46.437Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "9xda80h6a",
-      "timestamp": "2026-07-23T20:34:45.810Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
