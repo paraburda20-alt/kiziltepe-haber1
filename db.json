@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "96drlyuq2",
+      "timestamp": "2026-07-25T23:55:01.113Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "0t83xmrqc",
+      "timestamp": "2026-07-25T23:55:01.099Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "4x9vfiy6x",
+      "timestamp": "2026-07-25T23:55:00.507Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "7k4duheue",
+      "timestamp": "2026-07-25T23:55:00.493Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "f0528fki8",
       "timestamp": "2026-07-25T22:48:35.101Z",
       "message": "Telegram bildirimi gönderildi: \"Refüje çarparak takla atan otomobilin sü...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "h4x4i2p8u",
       "timestamp": "2026-07-24T00:54:30.521Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "82lyh37gp",
-      "timestamp": "2026-07-24T00:54:30.504Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "wvflgdwn8",
-      "timestamp": "2026-07-24T00:54:29.729Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "pxrh243m8",
-      "timestamp": "2026-07-24T00:54:29.716Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "08ppwpist",
-      "timestamp": "2026-07-23T23:25:56.486Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
       "type": "info"
     }
