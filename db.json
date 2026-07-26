@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "ifpcrzt1b",
+      "timestamp": "2026-07-26T21:54:10.969Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "me36225dp",
+      "timestamp": "2026-07-26T21:54:10.955Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "01hn7cbec",
+      "timestamp": "2026-07-26T21:54:10.391Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "hzoeenypa",
+      "timestamp": "2026-07-26T21:54:10.378Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "a5df1cb2b",
       "timestamp": "2026-07-26T20:51:21.988Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe’de iş cinayeti: İnşaatı...\"",
@@ -5387,30 +5411,6 @@
       "id": "9i5cihnwe",
       "timestamp": "2026-07-25T08:29:05.472Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de, buğday deposundaki iş makines...\"",
-      "type": "info"
-    },
-    {
-      "id": "6923nvuhh",
-      "timestamp": "2026-07-25T08:29:04.786Z",
-      "message": "4 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "idi59n9hk",
-      "timestamp": "2026-07-25T08:29:04.779Z",
-      "message": "Veritabanına 4 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "v2b1vflve",
-      "timestamp": "2026-07-25T08:29:04.753Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "zajph6yvf",
-      "timestamp": "2026-07-25T08:29:04.152Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
