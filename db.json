@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "403t8f80l",
+      "timestamp": "2026-07-26T23:56:07.391Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "q8dqxst06",
+      "timestamp": "2026-07-26T23:56:07.378Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "c0dmtxs80",
+      "timestamp": "2026-07-26T23:56:06.155Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "e4oqo1clb",
+      "timestamp": "2026-07-26T23:56:06.054Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "ikfao0sdq",
       "timestamp": "2026-07-26T22:54:38.347Z",
       "message": "Telegram bildirimi gönderildi: \"O anlar kamerada: Papağanı çaldılar...\"",
@@ -5387,30 +5411,6 @@
       "id": "yhz1k5dhm",
       "timestamp": "2026-07-25T11:41:25.852Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "75ki8dfia",
-      "timestamp": "2026-07-25T10:08:23.347Z",
-      "message": "Telegram bildirimi gönderildi: \"Cumartesi Anneleri 1113. haftada: Kızılt...\"",
-      "type": "info"
-    },
-    {
-      "id": "v2yxj6uti",
-      "timestamp": "2026-07-25T10:08:23.007Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "9au70g6ni",
-      "timestamp": "2026-07-25T10:08:23.002Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "3yjjbrh93",
-      "timestamp": "2026-07-25T10:08:22.985Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
