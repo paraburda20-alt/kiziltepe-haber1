@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "7q0kfjk8g",
+      "timestamp": "2026-07-28T02:01:20.667Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "a7h7afprf",
+      "timestamp": "2026-07-28T02:01:20.645Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "9j3hvuzvh",
+      "timestamp": "2026-07-28T02:01:20.030Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "n35z904k1",
+      "timestamp": "2026-07-28T02:01:20.018Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "bxwg5ww80",
       "timestamp": "2026-07-27T23:32:40.314Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5388,30 +5412,6 @@
       "timestamp": "2026-07-26T08:16:43.629Z",
       "message": "Tarama hatası: Google News RSS feed error: Status 503",
       "type": "error"
-    },
-    {
-      "id": "b9afu3wdg",
-      "timestamp": "2026-07-26T08:16:37.112Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "gio7s4pq4",
-      "timestamp": "2026-07-26T08:16:37.099Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "ujeyrc7sp",
-      "timestamp": "2026-07-26T05:44:25.387Z",
-      "message": "Günlük sabah raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "p24hrkos3",
-      "timestamp": "2026-07-26T05:44:24.146Z",
-      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
     }
   ]
 }
