@@ -4514,6 +4514,24 @@
   },
   "logs": [
     {
+      "id": "3aglucb1f",
+      "timestamp": "2026-07-29T11:04:26.600Z",
+      "message": "Tarama hatası: Google News RSS feed error: Status 503",
+      "type": "error"
+    },
+    {
+      "id": "q81koj6ci",
+      "timestamp": "2026-07-29T11:04:16.928Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "r6timn2hm",
+      "timestamp": "2026-07-29T11:04:16.915Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "a47dzpt7r",
       "timestamp": "2026-07-29T08:30:24.425Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de 2 aile arasında kavga: 8 yaral...\"",
@@ -5393,24 +5411,6 @@
       "id": "t50i0ntsi",
       "timestamp": "2026-07-27T13:24:08.660Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de parkta silahlı saldırı: 1 ölü...\"",
-      "type": "info"
-    },
-    {
-      "id": "xk6n00guh",
-      "timestamp": "2026-07-27T13:24:07.955Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin- Kızıltepe'de evin odunluğu ve da...\"",
-      "type": "info"
-    },
-    {
-      "id": "3dighwx4j",
-      "timestamp": "2026-07-27T13:24:07.203Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de sağanak nedeniyle cadde ve ...\"",
-      "type": "info"
-    },
-    {
-      "id": "5d4i5arin",
-      "timestamp": "2026-07-27T13:24:06.588Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
