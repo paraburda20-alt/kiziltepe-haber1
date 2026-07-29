@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "s82225t99",
+      "timestamp": "2026-07-29T23:57:46.347Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "jrt72r6p0",
+      "timestamp": "2026-07-29T23:57:46.333Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "1b1ejbtuw",
+      "timestamp": "2026-07-29T23:57:45.665Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "iztl7djg9",
+      "timestamp": "2026-07-29T23:57:45.655Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "xttr0n5ni",
       "timestamp": "2026-07-29T22:56:08.633Z",
       "message": "Telegram bildirimi gönderildi: \"Sokaktaki kavga hastaneye taşındı! 8 yar...\"",
@@ -5387,30 +5411,6 @@
       "id": "5j4qmpeo4",
       "timestamp": "2026-07-28T16:57:13.060Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "y5sb5j3mr",
-      "timestamp": "2026-07-28T15:15:26.184Z",
-      "message": "Telegram bildirimi gönderildi: \"Vefat: İsmail Kılınç...\"",
-      "type": "info"
-    },
-    {
-      "id": "u73vfs876",
-      "timestamp": "2026-07-28T15:15:25.457Z",
-      "message": "Telegram bildirimi gönderildi: \"İki aile arasında çıkan 'yol verme' kavg...\"",
-      "type": "info"
-    },
-    {
-      "id": "laro9mhpz",
-      "timestamp": "2026-07-28T15:15:25.039Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "nq3c38mg1",
-      "timestamp": "2026-07-28T15:15:24.990Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
