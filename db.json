@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "0k74maumz",
+      "timestamp": "2026-07-30T23:31:08.861Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "5tfy8m11m",
+      "timestamp": "2026-07-30T23:31:08.847Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "bbybmmni5",
+      "timestamp": "2026-07-30T23:31:08.046Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "1g7ngw07j",
+      "timestamp": "2026-07-30T23:31:08.033Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "s9lc9tn8y",
       "timestamp": "2026-07-30T22:07:45.639Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Silahlı Saldırı: Bir Kişi H...\"",
@@ -5387,30 +5411,6 @@
       "id": "km7oyn28u",
       "timestamp": "2026-07-29T08:30:18.794Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "55rig49j9",
-      "timestamp": "2026-07-29T08:30:18.781Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "9439yq3qa",
-      "timestamp": "2026-07-29T05:35:49.469Z",
-      "message": "Günlük sabah raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "tfy9vqan3",
-      "timestamp": "2026-07-29T05:35:48.280Z",
-      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "hom49fcgi",
-      "timestamp": "2026-07-29T05:35:47.769Z",
-      "message": "Telegram bildirimi gönderildi: \"Mahalle kavgası hastaneye taşındı: 8 yar...\"",
       "type": "info"
     }
   ]
