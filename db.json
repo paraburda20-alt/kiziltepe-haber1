@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "lsasnas0e",
+      "timestamp": "2026-07-30T19:16:37.967Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "io21oi767",
+      "timestamp": "2026-07-30T19:16:37.953Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 105 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "26ksicd64",
+      "timestamp": "2026-07-30T19:16:37.391Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "4hi2tvepg",
+      "timestamp": "2026-07-30T19:16:37.378Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "nw356dvzr",
       "timestamp": "2026-07-30T17:55:01.696Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de sokaktaki kavga hastaneye taşı...\"",
@@ -5387,30 +5411,6 @@
       "id": "mtvqv0fnb",
       "timestamp": "2026-07-29T02:03:50.250Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "amtt6jine",
-      "timestamp": "2026-07-29T02:03:50.236Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "uvsb2j4sl",
-      "timestamp": "2026-07-28T23:54:55.136Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Aile Kavgası: 8 Yaralı, 9 G...\"",
-      "type": "info"
-    },
-    {
-      "id": "qnmbbv98s",
-      "timestamp": "2026-07-28T23:54:54.472Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Aileler Arasında Kavga: 8 Y...\"",
-      "type": "info"
-    },
-    {
-      "id": "tj8diuint",
-      "timestamp": "2026-07-28T23:54:53.807Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de yangında yaralandı, 7 ay sonra...\"",
       "type": "info"
     }
   ]
