@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "bcey621rb",
+      "timestamp": "2026-07-30T14:40:02.070Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "6j1x6m0a8",
+      "timestamp": "2026-07-30T14:40:02.047Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 105 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "mg5s0o7vm",
+      "timestamp": "2026-07-30T14:40:01.350Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "b1jeffixq",
+      "timestamp": "2026-07-30T14:40:01.336Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "1d5bhq4xb",
       "timestamp": "2026-07-30T12:10:48.565Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "enkxov8rb",
       "timestamp": "2026-07-28T22:32:31.225Z",
       "message": "Telegram bildirimi gönderildi: \"İki aile arasında kavga çıktı: 8 kişi ya...\"",
-      "type": "info"
-    },
-    {
-      "id": "53zalj2kr",
-      "timestamp": "2026-07-28T22:32:30.561Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de 'yol verme' kavgasında ölü say...\"",
-      "type": "info"
-    },
-    {
-      "id": "r4xmdgdr5",
-      "timestamp": "2026-07-28T22:32:30.214Z",
-      "message": "7 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "p7n3lvf1t",
-      "timestamp": "2026-07-28T22:32:30.208Z",
-      "message": "Veritabanına 7 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "qm70q6fci",
-      "timestamp": "2026-07-28T22:32:30.192Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
