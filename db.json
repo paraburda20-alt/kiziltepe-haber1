@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "1d5bhq4xb",
+      "timestamp": "2026-07-30T12:10:48.565Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "t65g9tia0",
+      "timestamp": "2026-07-30T12:10:48.551Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 106 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "iova8j5x5",
+      "timestamp": "2026-07-30T12:10:47.968Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "e8zx2hc5v",
+      "timestamp": "2026-07-30T12:10:47.955Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "wo4q2cvje",
       "timestamp": "2026-07-30T10:19:13.126Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Aileler Arasında Kavga...\"",
@@ -5387,30 +5411,6 @@
       "id": "qm70q6fci",
       "timestamp": "2026-07-28T22:32:30.192Z",
       "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "egt1udxo6",
-      "timestamp": "2026-07-28T22:32:29.424Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "bryhtz5qy",
-      "timestamp": "2026-07-28T22:32:29.411Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "uqn24w1x9",
-      "timestamp": "2026-07-28T21:12:47.142Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'deki Yangında 1 Kişi Hayatını ...\"",
-      "type": "info"
-    },
-    {
-      "id": "r0iusgbfn",
-      "timestamp": "2026-07-28T21:12:46.408Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'deki Yangında 1 Kişi Hayatını ...\"",
       "type": "info"
     }
   ]
