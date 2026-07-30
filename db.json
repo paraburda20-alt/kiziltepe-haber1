@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "05ka2i2ap",
+      "timestamp": "2026-07-30T07:53:12.086Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "c0gr4f63b",
+      "timestamp": "2026-07-30T07:53:12.072Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 106 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "zdlelb1wa",
+      "timestamp": "2026-07-30T07:53:11.413Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "b8814gyb6",
+      "timestamp": "2026-07-30T07:53:11.400Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "50uxa5ucp",
       "timestamp": "2026-07-30T05:24:07.849Z",
       "message": "Günlük sabah raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "to05ap3gj",
       "timestamp": "2026-07-28T19:59:20.978Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "1z0055vji",
-      "timestamp": "2026-07-28T19:59:20.965Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "z0tbjcqyj",
-      "timestamp": "2026-07-28T18:14:04.896Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de yangında yaralandı, 7 ay sonra...\"",
-      "type": "info"
-    },
-    {
-      "id": "0omtcueip",
-      "timestamp": "2026-07-28T18:14:04.185Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Yangın Faciası: Hüseyin Kuz...\"",
-      "type": "info"
-    },
-    {
-      "id": "59g4swgqo",
-      "timestamp": "2026-07-28T18:14:03.451Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Motosiklet Hırsızlığı...\"",
       "type": "info"
     }
   ]
