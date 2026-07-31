@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "ral54fe7n",
+      "timestamp": "2026-07-31T18:51:16.242Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "23gcp9vmf",
+      "timestamp": "2026-07-31T18:51:16.227Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "xtr7zkywb",
+      "timestamp": "2026-07-31T18:51:15.606Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "yf0v6gvll",
+      "timestamp": "2026-07-31T18:51:15.593Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "5pmqjbshw",
       "timestamp": "2026-07-31T17:24:13.761Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "oepz191bu",
       "timestamp": "2026-07-29T19:51:18.866Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "qy2pkreep",
-      "timestamp": "2026-07-29T19:51:18.853Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "66rkldxr5",
-      "timestamp": "2026-07-29T18:03:06.476Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de hafif ticari araç şarampole de...\"",
-      "type": "info"
-    },
-    {
-      "id": "qp6wpnavn",
-      "timestamp": "2026-07-29T18:03:05.967Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "alvjlbfx4",
-      "timestamp": "2026-07-29T18:03:05.961Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
