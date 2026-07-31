@@ -4509,10 +4509,46 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-07-30",
+    "lastMorningReportDate": "2026-07-31",
     "lastPharmaciesDate": "2026-07-30"
   },
   "logs": [
+    {
+      "id": "u269h8phr",
+      "timestamp": "2026-07-31T05:48:44.476Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "cbeq8ed7s",
+      "timestamp": "2026-07-31T05:48:43.162Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "ojefkkj0u",
+      "timestamp": "2026-07-31T05:48:43.100Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "jl1rftkiu",
+      "timestamp": "2026-07-31T05:48:43.085Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "91r1lfvzs",
+      "timestamp": "2026-07-31T05:48:42.432Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ybyagj6lp",
+      "timestamp": "2026-07-31T05:48:42.418Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "b3c9sha86",
       "timestamp": "2026-07-31T02:12:42.227Z",
@@ -5375,42 +5411,6 @@
       "id": "a47dzpt7r",
       "timestamp": "2026-07-29T08:30:24.425Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de 2 aile arasında kavga: 8 yaral...\"",
-      "type": "info"
-    },
-    {
-      "id": "i9en74aye",
-      "timestamp": "2026-07-29T08:30:23.705Z",
-      "message": "Telegram bildirimi gönderildi: \"Ormana girişler yasak ama Kızıltepe çöpl...\"",
-      "type": "info"
-    },
-    {
-      "id": "uu2isro7w",
-      "timestamp": "2026-07-29T08:30:22.947Z",
-      "message": "Telegram bildirimi gönderildi: \"Yasağa Rağmen Çöplüğe Döndü: Kızıltepe O...\"",
-      "type": "info"
-    },
-    {
-      "id": "eemrp5cvn",
-      "timestamp": "2026-07-29T08:30:22.214Z",
-      "message": "Telegram bildirimi gönderildi: \"İstanbul Arnavutköy Kızıltepe Ormanı'nda...\"",
-      "type": "info"
-    },
-    {
-      "id": "cjhmccwj5",
-      "timestamp": "2026-07-29T08:30:21.512Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de aile kavgası hastaneye taşındı...\"",
-      "type": "info"
-    },
-    {
-      "id": "r67mnmtuh",
-      "timestamp": "2026-07-29T08:30:20.806Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Ormanı Çöplüğe Döndü...\"",
-      "type": "info"
-    },
-    {
-      "id": "es24tzsjt",
-      "timestamp": "2026-07-29T08:30:20.088Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de silahlı kavga: 1 ölü, 2 yaralı...\"",
       "type": "info"
     }
   ]
