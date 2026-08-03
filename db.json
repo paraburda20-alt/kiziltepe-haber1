@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "1ngt32g0b",
+      "timestamp": "2026-08-03T01:06:51.250Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "d46ff2epc",
+      "timestamp": "2026-08-03T01:06:51.240Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ltrzw44vt",
+      "timestamp": "2026-08-03T01:06:50.604Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "v6ghhwdhd",
+      "timestamp": "2026-08-03T01:06:50.595Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "plw5gfdp1",
       "timestamp": "2026-08-02T23:28:22.835Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Kaza: 72 Yaşındaki Sürücü A...\"",
@@ -5387,30 +5411,6 @@
       "id": "lqtmrdeqs",
       "timestamp": "2026-08-01T11:40:13.144Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de Planlı Elektrik Kesintisi...\"",
-      "type": "info"
-    },
-    {
-      "id": "s3lxlav3e",
-      "timestamp": "2026-08-01T11:40:12.381Z",
-      "message": "Telegram bildirimi gönderildi: \"TBMM Gündeminde Ceylanpınar-Kızıltepe yo...\"",
-      "type": "info"
-    },
-    {
-      "id": "6vv42acn2",
-      "timestamp": "2026-08-01T11:40:11.768Z",
-      "message": "7 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "i4awnkhi6",
-      "timestamp": "2026-08-01T11:40:11.761Z",
-      "message": "Veritabanına 7 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "gdbq5qfqe",
-      "timestamp": "2026-08-01T11:40:11.743Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
