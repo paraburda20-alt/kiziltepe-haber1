@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "aaaqtmjtx",
+      "timestamp": "2026-08-03T04:59:55.518Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "p18a1i90b",
+      "timestamp": "2026-08-03T04:59:55.503Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "a1x9lrhmg",
+      "timestamp": "2026-08-03T04:59:54.997Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ilxtrqnlz",
+      "timestamp": "2026-08-03T04:59:54.984Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "1ngt32g0b",
       "timestamp": "2026-08-03T01:06:51.250Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "cdxbs4kj6",
       "timestamp": "2026-08-01T11:40:16.193Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Zabıta Memuru Şemsettin Dem...\"",
-      "type": "info"
-    },
-    {
-      "id": "qyma6syq2",
-      "timestamp": "2026-08-01T11:40:15.442Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Meydana Gelen Trafik...\"",
-      "type": "info"
-    },
-    {
-      "id": "6b051wp1t",
-      "timestamp": "2026-08-01T11:40:14.675Z",
-      "message": "Telegram bildirimi gönderildi: \"Arnavutköy Kızıltepe Ormanı’nda Yasak Di...\"",
-      "type": "info"
-    },
-    {
-      "id": "lr8kfqpyy",
-      "timestamp": "2026-08-01T11:40:13.938Z",
-      "message": "Telegram bildirimi gönderildi: \"Ali Özkaya'dan Yavuz Selim Kızıltepe'ye ...\"",
-      "type": "info"
-    },
-    {
-      "id": "lqtmrdeqs",
-      "timestamp": "2026-08-01T11:40:13.144Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de Planlı Elektrik Kesintisi...\"",
       "type": "info"
     }
   ]
