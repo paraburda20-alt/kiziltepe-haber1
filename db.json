@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "6mep1wbz6",
+      "timestamp": "2026-08-04T23:31:10.346Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "oxwhflhqd",
+      "timestamp": "2026-08-04T23:31:10.332Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "arksoriug",
+      "timestamp": "2026-08-04T23:31:09.703Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "9trxgtu0d",
+      "timestamp": "2026-08-04T23:31:09.689Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "va5spd0cw",
       "timestamp": "2026-08-04T22:06:44.792Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "v6ghhwdhd",
       "timestamp": "2026-08-03T01:06:50.595Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "plw5gfdp1",
-      "timestamp": "2026-08-02T23:28:22.835Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Kaza: 72 Yaşındaki Sürücü A...\"",
-      "type": "info"
-    },
-    {
-      "id": "cxsb3wkru",
-      "timestamp": "2026-08-02T23:28:22.482Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "kwp0rv7nf",
-      "timestamp": "2026-08-02T23:28:22.476Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "k1b51zq64",
-      "timestamp": "2026-08-02T23:28:22.461Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
