@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "va5spd0cw",
+      "timestamp": "2026-08-04T22:06:44.792Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "hb8u6bhrl",
+      "timestamp": "2026-08-04T22:06:44.777Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "gkvs6i2pq",
+      "timestamp": "2026-08-04T22:06:44.163Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "rbyw0fkjm",
+      "timestamp": "2026-08-04T22:06:44.150Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "btho7u389",
       "timestamp": "2026-08-04T20:49:35.801Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "k1b51zq64",
       "timestamp": "2026-08-02T23:28:22.461Z",
       "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "o5obru7gr",
-      "timestamp": "2026-08-02T23:28:21.939Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "d97g1z8cn",
-      "timestamp": "2026-08-02T23:28:21.927Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "72mqc6l18",
-      "timestamp": "2026-08-02T22:25:53.549Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de boğazına şeker kaçan Efe bebek...\"",
-      "type": "info"
-    },
-    {
-      "id": "0liox4c4i",
-      "timestamp": "2026-08-02T22:25:53.020Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
