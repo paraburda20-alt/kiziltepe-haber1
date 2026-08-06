@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "x8dwellx5",
+      "timestamp": "2026-08-06T10:59:34.385Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "z81ai2ng2",
+      "timestamp": "2026-08-06T10:59:34.371Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "13d73tgls",
+      "timestamp": "2026-08-06T10:59:33.736Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "49ztjfwo5",
+      "timestamp": "2026-08-06T10:59:33.723Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "9q1ok9e8m",
       "timestamp": "2026-08-06T08:24:43.608Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de park halindeki otomobil yandı...\"",
@@ -5387,30 +5411,6 @@
       "id": "0oqaltu7c",
       "timestamp": "2026-08-04T07:59:13.441Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Yüzme Havuzunda Trajik Ölüm...\"",
-      "type": "info"
-    },
-    {
-      "id": "geecfb4ma",
-      "timestamp": "2026-08-04T07:59:12.754Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Havuzda Boğulma: 13 Yaşında...\"",
-      "type": "info"
-    },
-    {
-      "id": "81u5el6i2",
-      "timestamp": "2026-08-04T07:59:12.253Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "bc825uubx",
-      "timestamp": "2026-08-04T07:59:12.247Z",
-      "message": "Veritabanına 3 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "v1ne27w2c",
-      "timestamp": "2026-08-04T07:59:12.225Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
