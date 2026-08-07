@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "an93qx6de",
+      "timestamp": "2026-08-07T17:20:56.479Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ydu5dgz8g",
+      "timestamp": "2026-08-07T17:20:56.464Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "2g3q93c1t",
+      "timestamp": "2026-08-07T17:20:55.945Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "29wakv1yb",
+      "timestamp": "2026-08-07T17:20:55.933Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "3sugi002y",
       "timestamp": "2026-08-07T16:21:41.224Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "l0rmbie35",
       "timestamp": "2026-08-05T10:58:20.131Z",
       "message": "Telegram bildirimi gönderildi: \"Ormana girişler yasak ama Kızıltepe'yi ç...\"",
-      "type": "info"
-    },
-    {
-      "id": "3p5lb97ue",
-      "timestamp": "2026-08-05T10:58:19.708Z",
-      "message": "4 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "5isk7iw6q",
-      "timestamp": "2026-08-05T10:58:19.702Z",
-      "message": "Veritabanına 4 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "d7qf3p4to",
-      "timestamp": "2026-08-05T10:58:19.683Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "cdso7oikw",
-      "timestamp": "2026-08-05T10:58:19.093Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
