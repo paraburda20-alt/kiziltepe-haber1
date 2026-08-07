@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "otfos2oy6",
+      "timestamp": "2026-08-07T03:45:35.448Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "109lfjr5s",
+      "timestamp": "2026-08-07T03:45:35.427Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "oohvgkwft",
+      "timestamp": "2026-08-07T03:45:34.707Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "owm95pagm",
+      "timestamp": "2026-08-07T03:45:34.694Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "qj1i4yvsb",
       "timestamp": "2026-08-07T00:37:55.845Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "j5e834n7m",
       "timestamp": "2026-08-04T15:21:58.982Z",
       "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "i8jzjxh0q",
-      "timestamp": "2026-08-04T15:21:58.962Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "xgf29brg9",
-      "timestamp": "2026-08-04T15:21:58.291Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "bircu5lf9",
-      "timestamp": "2026-08-04T15:21:58.278Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "mf3ebemtm",
-      "timestamp": "2026-08-04T12:55:50.153Z",
-      "message": "Telegram bildirimi gönderildi: \"Havuzda boğulan 13 yaşındaki Orhan'la il...\"",
       "type": "info"
     }
   ]
