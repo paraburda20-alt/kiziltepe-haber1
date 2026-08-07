@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "0emk09nq5",
+      "timestamp": "2026-08-07T20:04:49.375Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "biabvabja",
+      "timestamp": "2026-08-07T20:04:49.359Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "frmvi1efb",
+      "timestamp": "2026-08-07T20:04:48.780Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "cl6tgejwq",
+      "timestamp": "2026-08-07T20:04:48.767Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "5ow6qe2se",
       "timestamp": "2026-08-07T19:26:38.789Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "xhep72v0l",
       "timestamp": "2026-08-05T15:10:32.235Z",
       "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ycm0zbcig",
-      "timestamp": "2026-08-05T15:10:31.581Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "26lkqnxi2",
-      "timestamp": "2026-08-05T15:10:31.567Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "ojh6jaucu",
-      "timestamp": "2026-08-05T12:55:13.109Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Haberleri - Evinin balkonunday...\"",
-      "type": "info"
-    },
-    {
-      "id": "7h79sc1of",
-      "timestamp": "2026-08-05T12:55:12.664Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
