@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "6n44emg81",
+      "timestamp": "2026-08-07T07:05:44.555Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "czzza4sqj",
+      "timestamp": "2026-08-07T07:05:44.540Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "4cqijo43p",
+      "timestamp": "2026-08-07T07:05:43.961Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "pgiandcgr",
+      "timestamp": "2026-08-07T07:05:43.948Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "6t09hfu3d",
       "timestamp": "2026-08-07T05:35:46.441Z",
       "message": "Günlük sabah raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "bp9q3okkl",
       "timestamp": "2026-08-04T17:11:01.764Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "80ck3cnbm",
-      "timestamp": "2026-08-04T17:10:59.397Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "y3ycxb2m6",
-      "timestamp": "2026-08-04T17:10:58.887Z",
-      "message": "Telegram bildirimi gönderildi: \"LGS'yi Kazanan 13 Yaşındaki Orhan'dan ka...\"",
-      "type": "info"
-    },
-    {
-      "id": "srqai512e",
-      "timestamp": "2026-08-04T17:10:58.197Z",
-      "message": "Telegram bildirimi gönderildi: \"Vefat: Yusuf Acar...\"",
-      "type": "info"
-    },
-    {
-      "id": "sr86nig2n",
-      "timestamp": "2026-08-04T17:10:57.643Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
