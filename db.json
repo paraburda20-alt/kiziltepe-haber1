@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "znaqhth7z",
+      "timestamp": "2026-08-07T18:08:48.233Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "9cjsu5047",
+      "timestamp": "2026-08-07T18:08:48.215Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "xzq11jzj6",
+      "timestamp": "2026-08-07T18:08:47.532Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "rsdhoar2o",
+      "timestamp": "2026-08-07T18:08:47.519Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "an93qx6de",
       "timestamp": "2026-08-07T17:20:56.479Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "gapic4fok",
       "timestamp": "2026-08-05T12:55:12.026Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "db4j2b4nm",
-      "timestamp": "2026-08-05T10:58:22.132Z",
-      "message": "Telegram bildirimi gönderildi: \"İstifası istenen Kızıltepe Belediye Başk...\"",
-      "type": "info"
-    },
-    {
-      "id": "21wzwdcw2",
-      "timestamp": "2026-08-05T10:58:21.465Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Belediyesi’nde yumurtalı prote...\"",
-      "type": "info"
-    },
-    {
-      "id": "vhwhx5i7i",
-      "timestamp": "2026-08-05T10:58:20.787Z",
-      "message": "Telegram bildirimi gönderildi: \"Tam puanla Galatasaray Lisesi'ne yerleşe...\"",
-      "type": "info"
-    },
-    {
-      "id": "l0rmbie35",
-      "timestamp": "2026-08-05T10:58:20.131Z",
-      "message": "Telegram bildirimi gönderildi: \"Ormana girişler yasak ama Kızıltepe'yi ç...\"",
       "type": "info"
     }
   ]
