@@ -4514,6 +4514,24 @@
   },
   "logs": [
     {
+      "id": "h43jwobdr",
+      "timestamp": "2026-08-08T04:33:48.281Z",
+      "message": "Tarama hatası: Google News RSS feed error: Status 503",
+      "type": "error"
+    },
+    {
+      "id": "wpwi3w0bf",
+      "timestamp": "2026-08-08T04:33:38.347Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "4l142xja2",
+      "timestamp": "2026-08-08T04:33:38.335Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "u9h9z4vk3",
       "timestamp": "2026-08-08T03:06:50.308Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5393,24 +5411,6 @@
       "id": "grwoxze4g",
       "timestamp": "2026-08-05T21:43:23.222Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Hafif Ticari Araç Devrildi:...\"",
-      "type": "info"
-    },
-    {
-      "id": "xhhl59ajy",
-      "timestamp": "2026-08-05T21:43:22.547Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Hafif Ticari Araç Devrildi:...\"",
-      "type": "info"
-    },
-    {
-      "id": "drjx61dma",
-      "timestamp": "2026-08-05T21:43:21.881Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Park Halindeki Araçta Yangı...\"",
-      "type": "info"
-    },
-    {
-      "id": "ovx6y0m7f",
-      "timestamp": "2026-08-05T21:43:21.428Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
