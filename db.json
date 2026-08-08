@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "j0wdy9a5p",
+      "timestamp": "2026-08-08T17:54:56.002Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "fn0588213",
+      "timestamp": "2026-08-08T17:54:55.990Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "z6d5rhh8v",
+      "timestamp": "2026-08-08T17:54:55.470Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "syph0n7tw",
+      "timestamp": "2026-08-08T17:54:55.459Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "1q6mlkp3s",
       "timestamp": "2026-08-08T17:23:36.249Z",
       "message": "Telegram bildirimi gönderildi: \"Muş, Ağrı, Kızıltepe ve Savur’daki Newro...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "chvax19gt",
       "timestamp": "2026-08-07T09:55:21.739Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "5jx00q3gf",
-      "timestamp": "2026-08-07T09:55:21.727Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "k5720ul5x",
-      "timestamp": "2026-08-07T08:33:28.729Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "ysijpy6jf",
-      "timestamp": "2026-08-07T08:33:28.714Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ksbpp0hq6",
-      "timestamp": "2026-08-07T08:33:28.137Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
