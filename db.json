@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "rh86oenrc",
+      "timestamp": "2026-08-08T13:40:20.537Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "hxge266sm",
+      "timestamp": "2026-08-08T13:40:20.521Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "s0iigpzh2",
+      "timestamp": "2026-08-08T13:40:19.840Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "d8tn2lvya",
+      "timestamp": "2026-08-08T13:40:19.827Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "3ggcd7ihb",
       "timestamp": "2026-08-08T12:35:31.243Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de dört kardeş aynı salonda evlen...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "rbxysztiq",
       "timestamp": "2026-08-06T13:00:00.291Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "y85shkl9z",
-      "timestamp": "2026-08-06T12:59:59.667Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "jvbonkb64",
-      "timestamp": "2026-08-06T12:59:59.655Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "x8dwellx5",
-      "timestamp": "2026-08-06T10:59:34.385Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "z81ai2ng2",
-      "timestamp": "2026-08-06T10:59:34.371Z",
       "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
       "type": "info"
     }
