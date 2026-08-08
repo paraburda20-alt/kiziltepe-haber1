@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "6gx1skhnp",
+      "timestamp": "2026-08-08T14:57:30.587Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "caujaunl3",
+      "timestamp": "2026-08-08T14:57:30.569Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "v98smko07",
+      "timestamp": "2026-08-08T14:57:29.954Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "eypv1v0qt",
+      "timestamp": "2026-08-08T14:57:29.942Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "b2be5m6qe",
       "timestamp": "2026-08-08T14:26:06.715Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "87ikk0zvz",
       "timestamp": "2026-08-06T15:20:22.520Z",
       "message": "Telegram bildirimi gönderildi: \"Tam puanla Galatasaray Lisesi’ne yerleşe...\"",
-      "type": "info"
-    },
-    {
-      "id": "whc5qks8p",
-      "timestamp": "2026-08-06T15:20:21.851Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Büyükşehir Belediyesi, okulları y...\"",
-      "type": "info"
-    },
-    {
-      "id": "6128h87sb",
-      "timestamp": "2026-08-06T15:20:21.507Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "nk9qanoxm",
-      "timestamp": "2026-08-06T15:20:21.501Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "hf3dm211b",
-      "timestamp": "2026-08-06T15:20:21.485Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
