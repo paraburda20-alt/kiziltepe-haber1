@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Vefat: Burhan Tutal",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSNFBQaVRVQkc1Qkt3UDZmYVg4U2wyYkw3X1RONk9weHNMdlV5TlplYWs4QW02SGU1Yk5Ua3B5R3pFNXhoOU82MGdWS1NzYll4RVZTX1dnTG5JaVZDaTdYSEllQXdzZTRKT3c?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 10:18:10 GMT",
+      "guid": "CBMiakFVX3lxTFBSNFBQaVRVQkc1Qkt3UDZmYVg4U2wyYkw3X1RONk9weHNMdlV5TlplYWs4QW02SGU1Yk5Ua3B5R3pFNXhoOU82MGdWS1NzYll4RVZTX1dnTG5JaVZDaTdYSEllQXdzZTRKT3c",
+      "source": "Kızıltepe Ekspres Haber",
+      "id": "CBMiakFVX3lxTFBSNFBQaVRVQkc1Qkt3UDZmYVg4U2wyYkw3X1RONk9weHNMdlV5TlplYWs4QW02SGU1Yk5Ua3B5R3pFNXhoOU82MGdWS1NzYll4RVZTX1dnTG5JaVZDaTdYSEllQXdzZTRKT3c",
+      "crawledAt": "2026-08-08T16:33:24.987Z"
+    },
+    {
       "title": "Mardin’de dört kardeş aynı salonda evlendi",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVJURUc3Y3RwQW8zXy1QME1wX09sZGxIdi1TTVJDa1VDa0RVMEdRSlM0eDBXLW0zNVJWVE53TmFtVmtfUWtpOGpzWUUtYlBZdDRqeUZhVThiLWlpRWthb3FscnFlYXBlSlZjbzM1OWZrWDJCdjNmSVZJcTlJeENyaVRqcW5Rdw?oc=5",
       "pubDate": "Sat, 08 Aug 2026 08:53:03 GMT",
@@ -4490,15 +4499,6 @@
       "source": "DHA | Demirören Haber Ajansı",
       "id": "CBMikAFBVV95cUxPU3liZDR2dldhNl8tT3ZPZ0lmQV8wN3dfQTVqRFA3bUNSMVFvMHdORDZETjNzdEVIblpnSnNTdTNlMDUycVQ2MjNTVWR4Z2xYTE9ocFRRcWlISGtNdXBMR1IyS1NQeGdxX2dpX1dnd29TQkFLZjRaOFhEdlV4RVJGMVJOZTFTYTNhOGd6YS1CRHnSAZYBQVVfeXFMUE41NzZHQXNMLVlsM2k1dWEwdDBoQ3gzMmdPSWRuUzJHQkpFaUNwWnQxN2lYb2p6R1hJbHRCQlpHaVlzSVFNaWZDMFNsUHRTcXVEZ1REVWJlNDBBbVVQaWNTRi1KUHVXVzVLRzRjRWNBcWZDYWt0WVlhTkFoYWFjMlZQNkhkRVBiUWRfa0hRTXByeVdHSjRn",
       "crawledAt": "2026-07-06T18:25:07.604Z"
-    },
-    {
-      "title": "Muş, Ağrı, Kızıltepe ve Savur’daki Newroz kutlamaları ertelendi",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0prdnJqTjhEcDk0eUpvQ3NrOU92aDQ0UDUyTGFiTFgyX1hIYjA1a0pyUkRuNzZBRDhqTU91YmhHcjVoT2xfRTJxdXpJTUNqZEttWVI3UkFxcnktREpjM1J0RVZoSmhvUTVERGVBYWNfNHNiWU5xR3JyR3NCem9ZWGZvaGNTWWZVZUNB?oc=5",
-      "pubDate": "Sun, 15 Mar 2026 07:50:15 GMT",
-      "guid": "CBMiiwFBVV95cUxPb0prdnJqTjhEcDk0eUpvQ3NrOU92aDQ0UDUyTGFiTFgyX1hIYjA1a0pyUkRuNzZBRDhqTU91YmhHcjVoT2xfRTJxdXpJTUNqZEttWVI3UkFxcnktREpjM1J0RVZoSmhvUTVERGVBYWNfNHNiWU5xR3JyR3NCem9ZWGZvaGNTWWZVZUNB",
-      "source": "İlke TV",
-      "id": "CBMiiwFBVV95cUxPb0prdnJqTjhEcDk0eUpvQ3NrOU92aDQ0UDUyTGFiTFgyX1hIYjA1a0pyUkRuNzZBRDhqTU91YmhHcjVoT2xfRTJxdXpJTUNqZEttWVI3UkFxcnktREpjM1J0RVZoSmhvUTVERGVBYWNfNHNiWU5xR3JyR3NCem9ZWGZvaGNTWWZVZUNB",
-      "crawledAt": "2026-07-06T18:25:07.604Z"
     }
   ],
   "settings": {
@@ -4510,9 +4510,57 @@
     "discordWebhook": "",
     "enableDiscord": false,
     "lastMorningReportDate": "2026-08-08",
-    "lastPharmaciesDate": "2026-08-07"
+    "lastPharmaciesDate": "2026-08-08"
   },
   "logs": [
+    {
+      "id": "2e8alhi86",
+      "timestamp": "2026-08-08T16:33:28.761Z",
+      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "e8nj6fr3i",
+      "timestamp": "2026-08-08T16:33:26.097Z",
+      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "pjdppfrsu",
+      "timestamp": "2026-08-08T16:33:25.585Z",
+      "message": "Telegram bildirimi gönderildi: \"Vefat: Burhan Tutal...\"",
+      "type": "info"
+    },
+    {
+      "id": "s1916iqbz",
+      "timestamp": "2026-08-08T16:33:25.001Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "euoifey96",
+      "timestamp": "2026-08-08T16:33:24.994Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "15e3nah1f",
+      "timestamp": "2026-08-08T16:33:24.971Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "7wr6oknbj",
+      "timestamp": "2026-08-08T16:33:24.261Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "j2vpwe6oj",
+      "timestamp": "2026-08-08T16:33:24.248Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "51nehcben",
       "timestamp": "2026-08-08T15:57:32.419Z",
@@ -5363,54 +5411,6 @@
       "id": "6t09hfu3d",
       "timestamp": "2026-08-07T05:35:46.441Z",
       "message": "Günlük sabah raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "tlj90siff",
-      "timestamp": "2026-08-07T05:35:45.218Z",
-      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "4tfnj5tdy",
-      "timestamp": "2026-08-07T05:35:44.707Z",
-      "message": "Telegram bildirimi gönderildi: \"Hayalini kurduğu fen lisesini kazandı, h...\"",
-      "type": "info"
-    },
-    {
-      "id": "k7lwqv5yy",
-      "timestamp": "2026-08-07T05:35:44.206Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "qcmdhzkce",
-      "timestamp": "2026-08-07T05:35:44.200Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "tkt79ajue",
-      "timestamp": "2026-08-07T05:35:44.184Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "7kf7pyltr",
-      "timestamp": "2026-08-07T05:35:43.602Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "290i2kwhf",
-      "timestamp": "2026-08-07T05:35:43.589Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "otfos2oy6",
-      "timestamp": "2026-08-07T03:45:35.448Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
