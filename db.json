@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "gbjp18vj3",
+      "timestamp": "2026-08-08T21:56:31.786Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "02rkr9y3l",
+      "timestamp": "2026-08-08T21:56:31.763Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "gg0b5qbsu",
+      "timestamp": "2026-08-08T21:56:31.243Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "wgzsz9xe1",
+      "timestamp": "2026-08-08T21:56:31.229Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "o2uer819d",
       "timestamp": "2026-08-08T21:29:44.579Z",
       "message": "Tarama hatası: Google News RSS feed error: Status 503",
@@ -5386,30 +5410,6 @@
     {
       "id": "znaqhth7z",
       "timestamp": "2026-08-07T18:08:48.233Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "9cjsu5047",
-      "timestamp": "2026-08-07T18:08:48.215Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "xzq11jzj6",
-      "timestamp": "2026-08-07T18:08:47.532Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "rsdhoar2o",
-      "timestamp": "2026-08-07T18:08:47.519Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "an93qx6de",
-      "timestamp": "2026-08-07T17:20:56.479Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
       "type": "info"
     }
