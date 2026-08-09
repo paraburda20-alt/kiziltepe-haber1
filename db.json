@@ -4514,6 +4514,24 @@
   },
   "logs": [
     {
+      "id": "ssyrjufqu",
+      "timestamp": "2026-08-09T18:38:48.352Z",
+      "message": "Tarama hatası: Google News RSS feed error: Status 503",
+      "type": "error"
+    },
+    {
+      "id": "hic5tv5rs",
+      "timestamp": "2026-08-09T18:38:42.254Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "98gmbpckw",
+      "timestamp": "2026-08-09T18:38:42.232Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "rn57ioait",
       "timestamp": "2026-08-09T17:56:56.224Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5393,24 +5411,6 @@
       "id": "l25v4ycuz",
       "timestamp": "2026-08-08T20:57:09.600Z",
       "message": "Telegram bildirimi gönderildi: \"Nevşehir'de traktör devrildi: Bir kişi h...\"",
-      "type": "info"
-    },
-    {
-      "id": "3a3adb9qi",
-      "timestamp": "2026-08-08T20:57:08.940Z",
-      "message": "Telegram bildirimi gönderildi: \"Soğuk hava nedeniyle ertelenmişti: Kızıl...\"",
-      "type": "info"
-    },
-    {
-      "id": "1bnxrky46",
-      "timestamp": "2026-08-08T20:57:08.461Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "v3zrkqffi",
-      "timestamp": "2026-08-08T20:57:08.456Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
