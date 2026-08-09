@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "kjtggr038",
+      "timestamp": "2026-08-09T03:13:31.360Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "0lhqci95t",
+      "timestamp": "2026-08-09T03:13:31.346Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "tvb3szeev",
+      "timestamp": "2026-08-09T03:13:30.662Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "gt6qkz207",
+      "timestamp": "2026-08-09T03:13:30.649Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "i4zdtc0z0",
       "timestamp": "2026-08-09T01:14:37.019Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de iki yaşındaki çocuk üçüncü kat...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "4l142xja2",
       "timestamp": "2026-08-08T04:33:38.335Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "u9h9z4vk3",
-      "timestamp": "2026-08-08T03:06:50.308Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "emqrscexq",
-      "timestamp": "2026-08-08T03:06:50.295Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "zp4cm761m",
-      "timestamp": "2026-08-08T03:06:49.695Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "p2cn8silh",
-      "timestamp": "2026-08-08T03:06:49.682Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
