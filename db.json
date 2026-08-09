@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "kvzn4xhyw",
+      "timestamp": "2026-08-09T20:33:23.611Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "8puhr95kb",
+      "timestamp": "2026-08-09T20:33:23.596Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "09qbggwb0",
+      "timestamp": "2026-08-09T20:33:23.107Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "r6mv9003l",
+      "timestamp": "2026-08-09T20:33:23.094Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "thfgpk8pg",
       "timestamp": "2026-08-09T19:57:49.101Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "39d244h33",
       "timestamp": "2026-08-08T22:56:55.698Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "uuxl5zg32",
-      "timestamp": "2026-08-08T22:26:07.751Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Park Halindeki Araçta Yangı...\"",
-      "type": "info"
-    },
-    {
-      "id": "v26aw0lms",
-      "timestamp": "2026-08-08T22:26:07.185Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "fak0vfny6",
-      "timestamp": "2026-08-08T22:26:07.179Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "o29bf4ypd",
-      "timestamp": "2026-08-08T22:26:07.159Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
