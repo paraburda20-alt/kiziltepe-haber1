@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "3env13zwo",
+      "timestamp": "2026-08-09T21:56:46.414Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "grnk7b7ul",
+      "timestamp": "2026-08-09T21:56:46.400Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "s8oj9fhny",
+      "timestamp": "2026-08-09T21:56:45.713Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "mnf89tvwo",
+      "timestamp": "2026-08-09T21:56:45.701Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "rqu8fflfm",
       "timestamp": "2026-08-09T21:25:11.704Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "3df20y855",
       "timestamp": "2026-08-08T23:27:24.115Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "yjqwv1ibz",
-      "timestamp": "2026-08-08T23:27:24.101Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "gykp6hz6x",
-      "timestamp": "2026-08-08T22:56:57.592Z",
-      "message": "Telegram bildirimi gönderildi: \"Vefat: Mehmet Aksoy...\"",
-      "type": "info"
-    },
-    {
-      "id": "wddz5vdg4",
-      "timestamp": "2026-08-08T22:56:56.882Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe Meclis Platformu’ndan '...\"",
-      "type": "info"
-    },
-    {
-      "id": "y89os9aho",
-      "timestamp": "2026-08-08T22:56:56.384Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
