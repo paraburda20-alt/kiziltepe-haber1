@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "rn57ioait",
+      "timestamp": "2026-08-09T17:56:56.224Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "1smntdzp7",
+      "timestamp": "2026-08-09T17:56:56.206Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "nktzu2lfg",
+      "timestamp": "2026-08-09T17:56:55.688Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "2f38zz8de",
+      "timestamp": "2026-08-09T17:56:55.674Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "8838ofwhw",
       "timestamp": "2026-08-09T17:05:29.329Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "v3zrkqffi",
       "timestamp": "2026-08-08T20:57:08.456Z",
       "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "mvlonh3eo",
-      "timestamp": "2026-08-08T20:57:08.440Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "90hc1hi9f",
-      "timestamp": "2026-08-08T20:57:07.716Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "89n2668o6",
-      "timestamp": "2026-08-08T20:57:07.705Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "k5wecdty7",
-      "timestamp": "2026-08-08T20:21:52.409Z",
-      "message": "Telegram bildirimi gönderildi: \"Traktör Devrildi: Bir Kişi Hayatını Kayb...\"",
       "type": "info"
     }
   ]
