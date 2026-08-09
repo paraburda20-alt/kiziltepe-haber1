@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "8838ofwhw",
+      "timestamp": "2026-08-09T17:05:29.329Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "q5jh0wauj",
+      "timestamp": "2026-08-09T17:05:29.316Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "vzjim6n2a",
+      "timestamp": "2026-08-09T17:05:28.715Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "wl206zai7",
+      "timestamp": "2026-08-09T17:05:28.702Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "rs4bb5e0r",
       "timestamp": "2026-08-09T16:28:56.913Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "k5wecdty7",
       "timestamp": "2026-08-08T20:21:52.409Z",
       "message": "Telegram bildirimi gönderildi: \"Traktör Devrildi: Bir Kişi Hayatını Kayb...\"",
-      "type": "info"
-    },
-    {
-      "id": "x5pmbyjte",
-      "timestamp": "2026-08-08T20:21:51.769Z",
-      "message": "Telegram bildirimi gönderildi: \"Nevşehir'de traktör şarampole devrildi: ...\"",
-      "type": "info"
-    },
-    {
-      "id": "0kyrhbvsk",
-      "timestamp": "2026-08-08T20:21:51.059Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de evinde ölü bulunan kişi toprağ...\"",
-      "type": "info"
-    },
-    {
-      "id": "t9kbfpssk",
-      "timestamp": "2026-08-08T20:21:50.653Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "z0r22rfqk",
-      "timestamp": "2026-08-08T20:21:50.647Z",
-      "message": "Veritabanına 3 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
