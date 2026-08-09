@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "qplp3i4qb",
+      "timestamp": "2026-08-09T04:44:48.852Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "tc9ogyky0",
+      "timestamp": "2026-08-09T04:44:48.837Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "3a8au3my5",
+      "timestamp": "2026-08-09T04:44:48.078Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "owg1pwttt",
+      "timestamp": "2026-08-09T04:44:48.064Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "kjtggr038",
       "timestamp": "2026-08-09T03:13:31.360Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "cfp23j64u",
       "timestamp": "2026-08-08T05:38:14.111Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "pxenmjkue",
-      "timestamp": "2026-08-08T05:38:14.101Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "h43jwobdr",
-      "timestamp": "2026-08-08T04:33:48.281Z",
-      "message": "Tarama hatası: Google News RSS feed error: Status 503",
-      "type": "error"
-    },
-    {
-      "id": "wpwi3w0bf",
-      "timestamp": "2026-08-08T04:33:38.347Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "4l142xja2",
-      "timestamp": "2026-08-08T04:33:38.335Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
