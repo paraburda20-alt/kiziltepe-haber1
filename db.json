@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "qtldmhkm3",
+      "timestamp": "2026-08-09T11:01:58.802Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "kqysz9dsc",
+      "timestamp": "2026-08-09T11:01:58.782Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "v0yutxpzq",
+      "timestamp": "2026-08-09T11:01:58.256Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ur8oranc5",
+      "timestamp": "2026-08-09T11:01:58.243Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "5cabqjepr",
       "timestamp": "2026-08-09T10:27:19.828Z",
       "message": "Telegram bildirimi gönderildi: \"Nevşehir'de devrilen traktörde yaşamını ...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "wxt13f7us",
       "timestamp": "2026-08-08T15:30:05.218Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "c0c1oqcbh",
-      "timestamp": "2026-08-08T15:30:05.203Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "emxj3lc5h",
-      "timestamp": "2026-08-08T15:30:04.536Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "lqopgz2at",
-      "timestamp": "2026-08-08T15:30:04.524Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "6gx1skhnp",
-      "timestamp": "2026-08-08T14:57:30.587Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
       "type": "info"
     }
