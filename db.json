@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Otomobilin çarptığı yaya öldü",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUEFOdjZTTWJGN1V6Q2JzWWVJXzZqcm90ZTlLbGpxMlViQnBFMFI2c3dxNnBidGFhaGR5YmtzUmoyQmROaUxmUnlBbEV5NTdLYXNhWldfUDFZVmROUlUwemdTRmZabFY2eVRybE1wN181aWhxblpIck5SVUVFd0UtQW9MWXJ4aGhabURqSFdPN2xwV2lDTDU00gGbAUFVX3lxTE1TWjd2LS1Oa0NvaFpjcXkwdUVsbm9iTmRoZEtPdkVnbGNTaHloOEdvSERUZXZVWFFrdmF4V0hOQk40TnBOSVVXT0IwUzNUX3RzdVdRa19yeWxvSWtiWkNfZnAxamxCcnhVU3NSbEtjajBWQk5vczM5R1dGekRiaEVOVV9aQnNvcUc4X205d053MzkzV3VaeHQzM2RN?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "guid": "CBMilwFBVV95cUxNUEFOdjZTTWJGN1V6Q2JzWWVJXzZqcm90ZTlLbGpxMlViQnBFMFI2c3dxNnBidGFhaGR5YmtzUmoyQmROaUxmUnlBbEV5NTdLYXNhWldfUDFZVmROUlUwemdTRmZabFY2eVRybE1wN181aWhxblpIck5SVUVFd0UtQW9MWXJ4aGhabURqSFdPN2xwV2lDTDU00gGbAUFVX3lxTE1TWjd2LS1Oa0NvaFpjcXkwdUVsbm9iTmRoZEtPdkVnbGNTaHloOEdvSERUZXZVWFFrdmF4V0hOQk40TnBOSVVXT0IwUzNUX3RzdVdRa19yeWxvSWtiWkNfZnAxamxCcnhVU3NSbEtjajBWQk5vczM5R1dGekRiaEVOVV9aQnNvcUc4X205d053MzkzV3VaeHQzM2RN",
+      "source": "DHA | Demirören Haber Ajansı",
+      "id": "CBMilwFBVV95cUxNUEFOdjZTTWJGN1V6Q2JzWWVJXzZqcm90ZTlLbGpxMlViQnBFMFI2c3dxNnBidGFhaGR5YmtzUmoyQmROaUxmUnlBbEV5NTdLYXNhWldfUDFZVmROUlUwemdTRmZabFY2eVRybE1wN181aWhxblpIck5SVUVFd0UtQW9MWXJ4aGhabURqSFdPN2xwV2lDTDU00gGbAUFVX3lxTE1TWjd2LS1Oa0NvaFpjcXkwdUVsbm9iTmRoZEtPdkVnbGNTaHloOEdvSERUZXZVWFFrdmF4V0hOQk40TnBOSVVXT0IwUzNUX3RzdVdRa19yeWxvSWtiWkNfZnAxamxCcnhVU3NSbEtjajBWQk5vczM5R1dGekRiaEVOVV9aQnNvcUc4X205d053MzkzV3VaeHQzM2RN",
+      "crawledAt": "2026-08-10T23:28:57.563Z"
+    },
+    {
       "title": "40 dereceyi aşan sıcakta ‘dam palas’ başladı: Kızıltepe’de geceler damda geçiyor",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd0hYUk54by0tUWpQZEdrN1RjVXJ4anpnVmpJeDE2enRSdGxvNVhWRU90RXo0RzVPdExGZVFuOWJPNW1kNTI4S3R2TWoyS0ZBMXgwcFZzTjRMVkc1RVhtR2xIajJSRWM2cUVsbS1pUHd4Q255NFRYRVNPYmRvbFRHbEh4WGxrQW5fS1lsOFd2eGFCazBQYXkzbFU1bEg3dzFGUk80YU9JUENzTXRlSElUeTFB0gG3AUFVX3lxTE04ZXhzaHB5YXJnNlZ1eW0zbjE2YVVwdnE4Z2NubW1SaXIxYnVkcmppUWpEbkJtdDc0Y0lWYVpqTlYtOWVqM2U3NnY1MnlGNDZ2OVpWdmIxbmhSYllCZmJTdFhvRVlGYzdka2NQZWJkMlZleXMtLXpZc1BYbjgweE9rYXgtT0JrS21NUXdJN3IxN0xYX1c3TlZsenFnYTN1ektINkdtaUFuOG13d1ctRDhrM1l4NHZ2UQ?oc=5",
       "pubDate": "Mon, 10 Aug 2026 09:32:30 GMT",
@@ -4490,15 +4499,6 @@
       "source": "CNN Türk",
       "id": "CBMirAFBVV95cUxOT1pDcW9wSjhyZXduYWRwOXhyN0RoWkYtVzlnc2tqakpPaXpYWkpuQzV0RjVYYmMwNGxoeU43cl9ibXY4NzlzcmlmcUlBQ21rcURzN01TUlpJV1prT28zcVNEZHBKVGtHQ1ZGUi1VV2pTX283ZEgza1FBVjR2dVdJUndEdlRmTkc1N0JBVmx3eWUxUnNmNEdpczhGSWF5LXlGRnZsV2lBVXNQMHk1",
       "crawledAt": "2026-07-09T00:04:54.693Z"
-    },
-    {
-      "title": "Mardin'de boğazına şeker kaçan 2 yaşındaki Efe, Batman'da hayatını kaybetti",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1UxRzFLV0ZDOVQzSC1UQ25UaXFFLWptVkVmU2pka01nVXRFZl9BbnNlVGRiNVRTQnEyUEJrZEtuQTRaWTZWcG0yc3RHZ1hnbXpOd256b1IxZkk3bDFFVlNvRVBjLS1XamZUbVdSSDB2MVlsTEZxOV9HWDVEVERqVEEwU01GbHdqMkNnd0h4eExXUjFlSHZMcC1jNE5zSXg5YU9EajBpRjdHWlhqbXZEdmFiaDBQdw?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 21:05:19 GMT",
-      "guid": "CBMitgFBVV95cUxQU1UxRzFLV0ZDOVQzSC1UQ25UaXFFLWptVkVmU2pka01nVXRFZl9BbnNlVGRiNVRTQnEyUEJrZEtuQTRaWTZWcG0yc3RHZ1hnbXpOd256b1IxZkk3bDFFVlNvRVBjLS1XamZUbVdSSDB2MVlsTEZxOV9HWDVEVERqVEEwU01GbHdqMkNnd0h4eExXUjFlSHZMcC1jNE5zSXg5YU9EajBpRjdHWlhqbXZEdmFiaDBQdw",
-      "source": "Saray Medya",
-      "id": "CBMitgFBVV95cUxQU1UxRzFLV0ZDOVQzSC1UQ25UaXFFLWptVkVmU2pka01nVXRFZl9BbnNlVGRiNVRTQnEyUEJrZEtuQTRaWTZWcG0yc3RHZ1hnbXpOd256b1IxZkk3bDFFVlNvRVBjLS1XamZUbVdSSDB2MVlsTEZxOV9HWDVEVERqVEEwU01GbHdqMkNnd0h4eExXUjFlSHZMcC1jNE5zSXg5YU9EajBpRjdHWlhqbXZEdmFiaDBQdw",
-      "crawledAt": "2026-07-08T22:30:52.098Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-08-10"
   },
   "logs": [
+    {
+      "id": "d7eonxqpo",
+      "timestamp": "2026-08-10T23:28:58.012Z",
+      "message": "Telegram bildirimi gönderildi: \"Otomobilin çarptığı yaya öldü...\"",
+      "type": "info"
+    },
+    {
+      "id": "qv8eyahl0",
+      "timestamp": "2026-08-10T23:28:57.574Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "dhgvbfmmo",
+      "timestamp": "2026-08-10T23:28:57.568Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "gw16tlqei",
+      "timestamp": "2026-08-10T23:28:57.549Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "de0r0i9t2",
+      "timestamp": "2026-08-10T23:28:56.730Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "29dxi0lce",
+      "timestamp": "2026-08-10T23:28:56.716Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "icvqtgdcq",
       "timestamp": "2026-08-10T22:31:05.225Z",
@@ -5375,42 +5411,6 @@
       "id": "sfn99vfes",
       "timestamp": "2026-08-09T16:28:52.963Z",
       "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "5nmh6ba45",
-      "timestamp": "2026-08-09T16:28:52.944Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "1i18pr3bi",
-      "timestamp": "2026-08-09T16:28:52.284Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "jg8yx71fv",
-      "timestamp": "2026-08-09T16:28:52.274Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "8nj2c5j0o",
-      "timestamp": "2026-08-09T15:55:38.354Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "ozamyvnnw",
-      "timestamp": "2026-08-09T15:55:38.333Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ceveiuev0",
-      "timestamp": "2026-08-09T15:55:37.787Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
