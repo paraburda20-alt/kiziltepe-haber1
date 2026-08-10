@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "l0ubpwfra",
+      "timestamp": "2026-08-10T17:46:34.283Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ieazl6g7b",
+      "timestamp": "2026-08-10T17:46:34.268Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "1sxvlfv9t",
+      "timestamp": "2026-08-10T17:46:33.710Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "xfnls5ha9",
+      "timestamp": "2026-08-10T17:46:33.698Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "d2u6lsulu",
       "timestamp": "2026-08-10T16:48:06.606Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "hbj1sk3zr",
       "timestamp": "2026-08-09T12:37:34.320Z",
       "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "7srdcyb28",
-      "timestamp": "2026-08-09T12:37:33.764Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "m2mw1rub9",
-      "timestamp": "2026-08-09T12:37:33.752Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "t86zbfd4f",
-      "timestamp": "2026-08-09T11:53:43.022Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "p6wbpwe15",
-      "timestamp": "2026-08-09T11:53:43.007Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
