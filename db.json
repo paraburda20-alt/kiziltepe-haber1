@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "5zojyt6x6",
+      "timestamp": "2026-08-10T08:23:17.472Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "0rrvh4veo",
+      "timestamp": "2026-08-10T08:23:17.462Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "bj54baico",
+      "timestamp": "2026-08-10T08:23:16.815Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "7cmjttcr0",
+      "timestamp": "2026-08-10T08:23:16.806Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "wumupii46",
       "timestamp": "2026-08-10T06:50:13.109Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de park halindeki otomobil yandı...\"",
@@ -5387,30 +5411,6 @@
       "id": "4qw6bvugj",
       "timestamp": "2026-08-09T05:42:48.947Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin TSO Dijitalde Yenilendi...\"",
-      "type": "info"
-    },
-    {
-      "id": "qbtvf5rgr",
-      "timestamp": "2026-08-09T05:42:48.317Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin 1969 Spor, Ümraniyespor maçının h...\"",
-      "type": "info"
-    },
-    {
-      "id": "8jsioo84o",
-      "timestamp": "2026-08-09T05:42:47.687Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin 1969 Spor, Tonio Teklić’i kiralad...\"",
-      "type": "info"
-    },
-    {
-      "id": "9vd232s60",
-      "timestamp": "2026-08-09T05:42:47.058Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Kaymakamı Şahin ile 4 ilçe Kay...\"",
-      "type": "info"
-    },
-    {
-      "id": "lh9v3eiic",
-      "timestamp": "2026-08-09T05:42:46.425Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Kaymakamlığı görevine Murat Ac...\"",
       "type": "info"
     }
   ]
