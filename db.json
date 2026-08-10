@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "9mbtufyyc",
+      "timestamp": "2026-08-10T20:35:31.171Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "5u9ab4mhw",
+      "timestamp": "2026-08-10T20:35:31.156Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "e4ulwsdx7",
+      "timestamp": "2026-08-10T20:35:30.631Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "l0p0a198g",
+      "timestamp": "2026-08-10T20:35:30.617Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "sb0qqqqrm",
       "timestamp": "2026-08-10T19:51:11.937Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "zfcxb5nlp",
       "timestamp": "2026-08-09T13:44:00.192Z",
       "message": "Telegram bildirimi gönderildi: \"Çelik ailesinin acı günü...\"",
-      "type": "info"
-    },
-    {
-      "id": "it7jajt29",
-      "timestamp": "2026-08-09T13:43:59.761Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "33wvcvumj",
-      "timestamp": "2026-08-09T13:43:59.755Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "fpvq8tuvt",
-      "timestamp": "2026-08-09T13:43:59.733Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "munvuti29",
-      "timestamp": "2026-08-09T13:43:59.167Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
