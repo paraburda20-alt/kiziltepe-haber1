@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "iv5vvwp57",
+      "timestamp": "2026-08-10T18:48:39.175Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ae58eeto6",
+      "timestamp": "2026-08-10T18:48:39.159Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "e78vqq0bp",
+      "timestamp": "2026-08-10T18:48:38.451Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "oayhukh8x",
+      "timestamp": "2026-08-10T18:48:38.438Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "l0ubpwfra",
       "timestamp": "2026-08-10T17:46:34.283Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "wg9tjp4xg",
       "timestamp": "2026-08-09T12:37:35.341Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de husumet barış töreniyle son...\"",
-      "type": "info"
-    },
-    {
-      "id": "j6p2xixbq",
-      "timestamp": "2026-08-09T12:37:34.699Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de iki aile arasında husumet barı...\"",
-      "type": "info"
-    },
-    {
-      "id": "beu2ta029",
-      "timestamp": "2026-08-09T12:37:34.343Z",
-      "message": "4 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "93r8atz7o",
-      "timestamp": "2026-08-09T12:37:34.337Z",
-      "message": "Veritabanına 4 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "hbj1sk3zr",
-      "timestamp": "2026-08-09T12:37:34.320Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
