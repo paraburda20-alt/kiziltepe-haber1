@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "blr9l6d98",
+      "timestamp": "2026-08-11T00:01:49.075Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "genlbea34",
+      "timestamp": "2026-08-11T00:01:49.060Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "l1fdtauqb",
+      "timestamp": "2026-08-11T00:01:48.563Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "bdwvownq7",
+      "timestamp": "2026-08-11T00:01:48.550Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "d7eonxqpo",
       "timestamp": "2026-08-10T23:28:58.012Z",
       "message": "Telegram bildirimi gönderildi: \"Otomobilin çarptığı yaya öldü...\"",
@@ -5387,30 +5411,6 @@
       "id": "fumntz0eo",
       "timestamp": "2026-08-09T16:28:54.739Z",
       "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "p5ndkf4ef",
-      "timestamp": "2026-08-09T16:28:54.230Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de iki aile arasındaki husumet...\"",
-      "type": "info"
-    },
-    {
-      "id": "dkqr5n9ff",
-      "timestamp": "2026-08-09T16:28:53.495Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de devrilen motosikletin sürücüsü...\"",
-      "type": "info"
-    },
-    {
-      "id": "360dfygo7",
-      "timestamp": "2026-08-09T16:28:52.969Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "sfn99vfes",
-      "timestamp": "2026-08-09T16:28:52.963Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
