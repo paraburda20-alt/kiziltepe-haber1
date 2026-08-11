@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "mwx0poifk",
+      "timestamp": "2026-08-11T06:56:32.156Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "xmg4ncdcb",
+      "timestamp": "2026-08-11T06:56:32.143Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "s078cjael",
+      "timestamp": "2026-08-11T06:56:31.631Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "o1hxi4e65",
+      "timestamp": "2026-08-11T06:56:31.618Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "9e8s8jzyr",
       "timestamp": "2026-08-11T05:33:48.285Z",
       "message": "Günlük sabah raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "0folxbd39",
       "timestamp": "2026-08-09T19:27:49.572Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Aileler Arasındaki Husumet ...\"",
-      "type": "info"
-    },
-    {
-      "id": "1qwa4dpta",
-      "timestamp": "2026-08-09T19:27:49.066Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "24degzi2l",
-      "timestamp": "2026-08-09T19:27:49.062Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "wnorwbcx2",
-      "timestamp": "2026-08-09T19:27:49.050Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "sb7r1bhw4",
-      "timestamp": "2026-08-09T19:27:48.412Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
