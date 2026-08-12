@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "uj904cbcv",
+      "timestamp": "2026-08-12T14:18:36.367Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ni8hpnlfh",
+      "timestamp": "2026-08-12T14:18:36.353Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "xgfbib582",
+      "timestamp": "2026-08-12T14:18:35.635Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "xu91valsn",
+      "timestamp": "2026-08-12T14:18:35.623Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "hdrqfyhb1",
       "timestamp": "2026-08-12T12:55:45.410Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Düğün Kurşunuyla 77 Yaşında...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "5t45xvzuh",
       "timestamp": "2026-08-11T08:08:16.335Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "ysxg7rbai",
-      "timestamp": "2026-08-11T08:08:16.322Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "mwx0poifk",
-      "timestamp": "2026-08-11T06:56:32.156Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "xmg4ncdcb",
-      "timestamp": "2026-08-11T06:56:32.143Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "s078cjael",
-      "timestamp": "2026-08-11T06:56:31.631Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
