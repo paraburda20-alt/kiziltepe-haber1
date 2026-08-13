@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Vefat: Mehmet Adanır",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVQXF0MzlJNnN3VHlDQXNMWkNFYlU2ZnBqc3NfcEx0VkY1UWNhMUpRNVdrNFdiRnFWTXdKM2JCVDZkX3VPOGF3YURsbk54QzhPNzZhdmF6WThOc1lEb3JVcTBVeU4zN3hXbS1j?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 12:20:34 GMT",
+      "guid": "CBMia0FVX3lxTFBVQXF0MzlJNnN3VHlDQXNMWkNFYlU2ZnBqc3NfcEx0VkY1UWNhMUpRNVdrNFdiRnFWTXdKM2JCVDZkX3VPOGF3YURsbk54QzhPNzZhdmF6WThOc1lEb3JVcTBVeU4zN3hXbS1j",
+      "source": "Kızıltepe Ekspres Haber",
+      "id": "CBMia0FVX3lxTFBVQXF0MzlJNnN3VHlDQXNMWkNFYlU2ZnBqc3NfcEx0VkY1UWNhMUpRNVdrNFdiRnFWTXdKM2JCVDZkX3VPOGF3YURsbk54QzhPNzZhdmF6WThOc1lEb3JVcTBVeU4zN3hXbS1j",
+      "crawledAt": "2026-08-13T03:38:10.461Z"
+    },
+    {
       "title": "Kızıltepe'de Düğün Kurşunuyla 77 Yaşındaki Kadın Hayatını Kaybetti",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXc4QWwwcHBvT0Z2MVJLZFhLdGUtRVd1Yi1JWE01YUJZak45blBwQkl0NUphY0MyQ3VmYWVWZVR3SzlLTVdOUnFlVmR5a083TzRBM3l0WExRUU5nMFFyMG5rN3B4M1kyN2RkQ3EzQUU3MHBBeVpsME90dXRURnczMEVOMDliUFJFSDJhMUFDZXZzWFBvQThKbFZOTGNtb0tQ0gGcAUFVX3lxTE9JS0xmcDI4SGJMaHltdHhsQ0wtOHRDS1NhWDhJTG9DYjk0RGJnbTc0WHZvYlRzQmo2SzJ4XzIwNzNoUzYwQmhHTS1Ka0VuRTFSbko4cnRXVVA2ajI1TlZZcjRKT3ZxWmVnYWJyY3c3S1ZoZGVDeGJxRUQ4TmlJc05UNzBjeWprMzN6TnhmbnliY2twMXFydjBIUjI2Tg?oc=5",
       "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "SonDakika",
       "id": "CBMijgFBVV95cUxNMGVDZlJYX1FwWjNKQkFGNWJqU244ZEFmUWxJUndMZGdHSEY1Wk16bDJ1WDN4WE0ydjMzYkViTGVaa3IxNU9sQ1NmMG1hbDVUME90MGNYa2xmaEplRkM5b1A0N2hfanRxaDZscUVaZU1vQmdmQ2dfQVNyeGhhZGRHcEE0aGNzLVFWVVRTM2V30gGKAUFVX3lxTE4yTGxaMkJTWjdKemtIUm9HdTZRVUlfeUlzVWFwb1ZKbEFsUk91TkZRaENvRG9SbldxOWQtV3ZZNG82aWNvNDNBc2tDejNaTDZhdXRseDJET1hZanhNUUR4Y2tJQnZZS1RWM1F1WVNhQUM3eVFZaWt2SjFOa2pTb1UtOEFzWjliV2MwQQ",
       "crawledAt": "2026-07-11T07:23:18.149Z"
-    },
-    {
-      "title": "Kızıltepe'de Park Halindeki TIR'da Yangın",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDQxYi1xRjBnY25pWmFBTUp1UjNQNWZRZ2tlQ0x0Zm9OdXpUN0hDQ2FlbmNDc3ZIZTlJOW5CZ1lheFZNc0s4enYtTUEyNElBcmp5ZzlxMnFqaG1qV2RpVW55UGtVODNhd0ktY3p6LTZKTEFQMm1IU2tCQ1o0SzNhbFVRTEllY0RzTlJ2TVJUcURJZzEw0gGQAUFVX3lxTE5HTlFsN1c1enpXdUMzN1drRkdHb0tXMGtsTTB4QnpQRkItcEpaTFlheGoxQ291YzFUejkxWVJucmxXakJ5dTNQNGZacGJfZi1xWm15RU5qSWpFcUFZV2VDbEpZUnRfNExvRHNQeExHVE9FM1l6RHlXZFRqZnpSSzlYcElTTnM1bnVEMjBGV2tzTA?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 07:00:00 GMT",
-      "guid": "CBMilAFBVV95cUxQcDQxYi1xRjBnY25pWmFBTUp1UjNQNWZRZ2tlQ0x0Zm9OdXpUN0hDQ2FlbmNDc3ZIZTlJOW5CZ1lheFZNc0s4enYtTUEyNElBcmp5ZzlxMnFqaG1qV2RpVW55UGtVODNhd0ktY3p6LTZKTEFQMm1IU2tCQ1o0SzNhbFVRTEllY0RzTlJ2TVJUcURJZzEw0gGQAUFVX3lxTE5HTlFsN1c1enpXdUMzN1drRkdHb0tXMGtsTTB4QnpQRkItcEpaTFlheGoxQ291YzFUejkxWVJucmxXakJ5dTNQNGZacGJfZi1xWm15RU5qSWpFcUFZV2VDbEpZUnRfNExvRHNQeExHVE9FM1l6RHlXZFRqZnpSSzlYcElTTnM1bnVEMjBGV2tzTA",
-      "source": "SonDakika",
-      "id": "CBMilAFBVV95cUxQcDQxYi1xRjBnY25pWmFBTUp1UjNQNWZRZ2tlQ0x0Zm9OdXpUN0hDQ2FlbmNDc3ZIZTlJOW5CZ1lheFZNc0s4enYtTUEyNElBcmp5ZzlxMnFqaG1qV2RpVW55UGtVODNhd0ktY3p6LTZKTEFQMm1IU2tCQ1o0SzNhbFVRTEllY0RzTlJ2TVJUcURJZzEw0gGQAUFVX3lxTE5HTlFsN1c1enpXdUMzN1drRkdHb0tXMGtsTTB4QnpQRkItcEpaTFlheGoxQ291YzFUejkxWVJucmxXakJ5dTNQNGZacGJfZi1xWm15RU5qSWpFcUFZV2VDbEpZUnRfNExvRHNQeExHVE9FM1l6RHlXZFRqZnpSSzlYcElTTnM1bnVEMjBGV2tzTA",
-      "crawledAt": "2026-07-11T07:23:18.149Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-08-12"
   },
   "logs": [
+    {
+      "id": "0s1z9y3ip",
+      "timestamp": "2026-08-13T03:38:10.870Z",
+      "message": "Telegram bildirimi gönderildi: \"Vefat: Mehmet Adanır...\"",
+      "type": "info"
+    },
+    {
+      "id": "u4d5xhxjw",
+      "timestamp": "2026-08-13T03:38:10.473Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "itk78wevy",
+      "timestamp": "2026-08-13T03:38:10.466Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "88h9jfu6b",
+      "timestamp": "2026-08-13T03:38:10.446Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "kb2xuipmu",
+      "timestamp": "2026-08-13T03:38:09.680Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "hjnrm1vnd",
+      "timestamp": "2026-08-13T03:38:09.666Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "ebn1j40u8",
       "timestamp": "2026-08-13T01:24:21.001Z",
@@ -5375,42 +5411,6 @@
       "id": "snj8cdcqp",
       "timestamp": "2026-08-11T18:54:27.130Z",
       "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "2yecpqp81",
-      "timestamp": "2026-08-11T18:54:26.431Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "9m2x20jq9",
-      "timestamp": "2026-08-11T18:54:26.418Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "7qgbfydqy",
-      "timestamp": "2026-08-11T17:53:30.943Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "78zxlvs0z",
-      "timestamp": "2026-08-11T17:53:30.894Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "448iyevdg",
-      "timestamp": "2026-08-11T17:53:30.308Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "bgvvbbvdd",
-      "timestamp": "2026-08-11T17:53:30.294Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
