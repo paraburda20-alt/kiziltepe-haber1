@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "ctpza1c51",
+      "timestamp": "2026-08-13T06:58:31.315Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "5iu7z03ds",
+      "timestamp": "2026-08-13T06:58:31.296Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "nu57gfplo",
+      "timestamp": "2026-08-13T06:58:30.786Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "2rlaqxoyf",
+      "timestamp": "2026-08-13T06:58:30.772Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "rfz42aaa2",
       "timestamp": "2026-08-13T05:29:46.119Z",
       "message": "Günlük sabah raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "bgdh05fxo",
       "timestamp": "2026-08-11T19:58:00.350Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de feci kaza: 80 yaşınd...\"",
-      "type": "info"
-    },
-    {
-      "id": "cqgwve425",
-      "timestamp": "2026-08-11T19:57:59.639Z",
-      "message": "Telegram bildirimi gönderildi: \"Minibüs Çarpması: 80 Yaşındaki Adam Haya...\"",
-      "type": "info"
-    },
-    {
-      "id": "666xvobn7",
-      "timestamp": "2026-08-11T19:57:58.983Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "vicfigmmc",
-      "timestamp": "2026-08-11T19:57:58.977Z",
-      "message": "Veritabanına 3 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "p77ch1bw2",
-      "timestamp": "2026-08-11T19:57:58.962Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
