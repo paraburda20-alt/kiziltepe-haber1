@@ -4509,10 +4509,46 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-08-12",
+    "lastMorningReportDate": "2026-08-13",
     "lastPharmaciesDate": "2026-08-12"
   },
   "logs": [
+    {
+      "id": "rfz42aaa2",
+      "timestamp": "2026-08-13T05:29:46.119Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "fhcz835gg",
+      "timestamp": "2026-08-13T05:29:44.806Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "4shx5zokn",
+      "timestamp": "2026-08-13T05:29:44.797Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "vdm4pulqy",
+      "timestamp": "2026-08-13T05:29:44.783Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "wdvi3fq8k",
+      "timestamp": "2026-08-13T05:29:44.014Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "lqiaq03n4",
+      "timestamp": "2026-08-13T05:29:44.002Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "0s1z9y3ip",
       "timestamp": "2026-08-13T03:38:10.870Z",
@@ -5374,42 +5410,6 @@
     {
       "id": "p77ch1bw2",
       "timestamp": "2026-08-11T19:57:58.962Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ckyigitwu",
-      "timestamp": "2026-08-11T19:57:58.356Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "0u5g8lz53",
-      "timestamp": "2026-08-11T19:57:58.342Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "dx6mx89tw",
-      "timestamp": "2026-08-11T18:54:27.663Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de minibüsün çarptığı yaya hayatı...\"",
-      "type": "info"
-    },
-    {
-      "id": "qrrx6pepw",
-      "timestamp": "2026-08-11T18:54:27.156Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "hzxhf98wb",
-      "timestamp": "2026-08-11T18:54:27.151Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "snj8cdcqp",
-      "timestamp": "2026-08-11T18:54:27.130Z",
       "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
