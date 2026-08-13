@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Vefat: Mehmet Tokay",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SSGt4WmV0RnhnWlVRSk1WVjNFaWF4QzRlQXRWQ3NjVFI3Y3lEZlFIcGhlcmQ0ZjBZMUd4WFIxNDJ5cGJJTFFWMjZmbFdWNHJhcGc1emNZUVJDZG9ISzlTUWNFSXpPRTJBV0E?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 14:54:17 GMT",
+      "guid": "CBMiakFVX3lxTE5SSGt4WmV0RnhnWlVRSk1WVjNFaWF4QzRlQXRWQ3NjVFI3Y3lEZlFIcGhlcmQ0ZjBZMUd4WFIxNDJ5cGJJTFFWMjZmbFdWNHJhcGc1emNZUVJDZG9ISzlTUWNFSXpPRTJBV0E",
+      "source": "Kızıltepe Ekspres Haber",
+      "id": "CBMiakFVX3lxTE5SSGt4WmV0RnhnWlVRSk1WVjNFaWF4QzRlQXRWQ3NjVFI3Y3lEZlFIcGhlcmQ0ZjBZMUd4WFIxNDJ5cGJJTFFWMjZmbFdWNHJhcGc1emNZUVJDZG9ISzlTUWNFSXpPRTJBV0E",
+      "crawledAt": "2026-08-13T19:34:41.132Z"
+    },
+    {
       "title": "Mardin'de asansör boşluğuna düşen kişi yaralandı",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTVhxc3FZYUIwRXFieGo3MjFlU3pFTXhwWHdQOThmRmlpWDhuYVdrM2VfcEp2R1lGQ0VrZVg0NkVPQTN6dG5rcXprWkFGOTQ5REl1ZDJ4Sm15aTBob2tKRWFtVjBnbEZDNWt2eERiZmFaZWt5ZnNULUpZcnVWQ0VQamVLNWtZaklFYUJwMVZOYk85NWZPYnpRRzRnb1hMZHJvVHBadFRxNmZPYkhR0gGyAUFVX3lxTE1aWXJnVVc3blN6R0hZX0xvWnJnc3liWTkxUW9jem1QaDNnbFkzcHI5SU9wdmo2bzI3QzNwS21kbkxfSzM0NUU0a1BHY19wQmFMM2h5WkctbGwyOUpjZlA0blUxM3FwR2UyOG5nWVhjOTRlSkVteUtXZUJtZTFadC1oaHF6bWVZVFNEcnU1WUpscWFFcjAzYVpyODhHVWdqZXgyS0JNM0ZIU3JzdkhQaHR5Qnc?oc=5",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "SonDakika",
       "id": "CBMihAFBVV95cUxOdW81bDZuRDdYR0w0S1JPeTB4RUtBdTdHSmdhbzVKbFVYVkJFZHE5UUp3Wjh4UExyMGNCR2ppRmNlZTJ1MFVULWVKTHNHbDF6aDRqWGNaUXdyVWltbi1zZ25fU0ozeW5VcGJUZDMtRGZzUnFzTHNPb0FSZTRTWlV4TWxWV2fSAYABQVVfeXFMUFNHek9tV21Qb2NObVVkMjFjZ1hzSThXdU9qcU9Ca2dzWWtXVVBZc3JXSjFCTS0zc0Vwb3FzM0dTN2VPUUNrcnB4U3VackRBZ19sQjZOUkNVdVQ5RHMzelNlSmI5Mkk0WW56dnlkekpRODNJR0hDaklHa1ppcnlKU2k",
       "crawledAt": "2026-07-12T13:07:00.366Z"
-    },
-    {
-      "title": "Vefat: Şehriban Çetin",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JV2doYU1Wam9ZRENybjNqVEdWbkxiUEpUVVNZbXJSd0xsV1dNdHFHS3VUQV9VbXJaR2xJMVQyVk15SDdjTnEya1IzMS1ORF9RUUpGVnNjUG8yaExLT3c2cm00NnNubG1kS0c1cQ?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 08:45:27 GMT",
-      "guid": "CBMibEFVX3lxTE9JV2doYU1Wam9ZRENybjNqVEdWbkxiUEpUVVNZbXJSd0xsV1dNdHFHS3VUQV9VbXJaR2xJMVQyVk15SDdjTnEya1IzMS1ORF9RUUpGVnNjUG8yaExLT3c2cm00NnNubG1kS0c1cQ",
-      "source": "Kızıltepe Ekspres Haber",
-      "id": "CBMibEFVX3lxTE9JV2doYU1Wam9ZRENybjNqVEdWbkxiUEpUVVNZbXJSd0xsV1dNdHFHS3VUQV9VbXJaR2xJMVQyVk15SDdjTnEya1IzMS1ORF9RUUpGVnNjUG8yaExLT3c2cm00NnNubG1kS0c1cQ",
-      "crawledAt": "2026-07-12T11:54:33.288Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-08-13"
   },
   "logs": [
+    {
+      "id": "xbkaxetps",
+      "timestamp": "2026-08-13T19:34:41.725Z",
+      "message": "Telegram bildirimi gönderildi: \"Vefat: Mehmet Tokay...\"",
+      "type": "info"
+    },
+    {
+      "id": "kvo7j1e47",
+      "timestamp": "2026-08-13T19:34:41.144Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "1r4vnulnu",
+      "timestamp": "2026-08-13T19:34:41.137Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "eoq01mo59",
+      "timestamp": "2026-08-13T19:34:41.120Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "in8iyqftu",
+      "timestamp": "2026-08-13T19:34:40.424Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "2du18sck0",
+      "timestamp": "2026-08-13T19:34:40.411Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "3bu6id13f",
       "timestamp": "2026-08-13T18:27:33.848Z",
@@ -5375,42 +5411,6 @@
       "id": "s5d5mkq1c",
       "timestamp": "2026-08-12T09:38:35.750Z",
       "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "8blqm1xwp",
-      "timestamp": "2026-08-12T09:38:35.729Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "8hy0xwlcc",
-      "timestamp": "2026-08-12T09:38:35.195Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "cryww6pk5",
-      "timestamp": "2026-08-12T09:38:35.182Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "revqnkjwb",
-      "timestamp": "2026-08-12T08:11:33.903Z",
-      "message": "Telegram bildirimi gönderildi: \"DEM’li üyeler partinin ihraç ettiği Kızı...\"",
-      "type": "info"
-    },
-    {
-      "id": "6yzyyajhz",
-      "timestamp": "2026-08-12T08:11:33.169Z",
-      "message": "Telegram bildirimi gönderildi: \"Dem Parti’den ihraç edilmişti: Kızıltepe...\"",
-      "type": "info"
-    },
-    {
-      "id": "fwqbzpm37",
-      "timestamp": "2026-08-12T08:11:32.437Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
