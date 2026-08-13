@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "9tjmz1h6x",
+      "timestamp": "2026-08-13T20:35:42.619Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "vzrk41z6s",
+      "timestamp": "2026-08-13T20:35:42.601Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "an7wpq1o9",
+      "timestamp": "2026-08-13T20:35:42.037Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "2c2qz4ig6",
+      "timestamp": "2026-08-13T20:35:42.025Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "xbkaxetps",
       "timestamp": "2026-08-13T19:34:41.725Z",
       "message": "Telegram bildirimi gönderildi: \"Vefat: Mehmet Tokay...\"",
@@ -5387,30 +5411,6 @@
       "id": "tvik2jdg0",
       "timestamp": "2026-08-12T10:55:52.880Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "q6i5z88y5",
-      "timestamp": "2026-08-12T09:38:36.784Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de iki aile arasındaki husumet...\"",
-      "type": "info"
-    },
-    {
-      "id": "x0joxpyst",
-      "timestamp": "2026-08-12T09:38:36.128Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Belediye Başkanına yumurtalı p...\"",
-      "type": "info"
-    },
-    {
-      "id": "5dhvlthd9",
-      "timestamp": "2026-08-12T09:38:35.756Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "s5d5mkq1c",
-      "timestamp": "2026-08-12T09:38:35.750Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
