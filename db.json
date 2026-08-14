@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "jh0igcsgk",
+      "timestamp": "2026-08-14T22:16:19.816Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "tkpp334hw",
+      "timestamp": "2026-08-14T22:16:19.802Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "l8s0g992e",
+      "timestamp": "2026-08-14T22:16:19.138Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "kuz3l28ge",
+      "timestamp": "2026-08-14T22:16:19.123Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "okd5w2sye",
       "timestamp": "2026-08-14T21:47:46.442Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de bıçaklı kavga: 1 ölü...\"",
@@ -5387,30 +5411,6 @@
       "id": "gn0ak2l2l",
       "timestamp": "2026-08-13T18:27:33.410Z",
       "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "vt30o4wzc",
-      "timestamp": "2026-08-13T18:27:32.614Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "b0vv5933o",
-      "timestamp": "2026-08-13T18:27:32.600Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "sixdva84g",
-      "timestamp": "2026-08-13T17:27:45.599Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Belediyesi zabıta memuru Şemse...\"",
-      "type": "info"
-    },
-    {
-      "id": "uv5a1gfkx",
-      "timestamp": "2026-08-13T17:27:45.237Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
