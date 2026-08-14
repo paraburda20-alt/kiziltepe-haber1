@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "4qypyj00e",
+      "timestamp": "2026-08-14T22:47:41.298Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "3n41ay3f2",
+      "timestamp": "2026-08-14T22:47:41.276Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "hvkvjiqrd",
+      "timestamp": "2026-08-14T22:47:40.760Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "4sgcdrcyl",
+      "timestamp": "2026-08-14T22:47:40.747Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "jh0igcsgk",
       "timestamp": "2026-08-14T22:16:19.816Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "2du18sck0",
       "timestamp": "2026-08-13T19:34:40.411Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "3bu6id13f",
-      "timestamp": "2026-08-13T18:27:33.848Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de asansör boşluğuna düşen kişi y...\"",
-      "type": "info"
-    },
-    {
-      "id": "umzn8g3ui",
-      "timestamp": "2026-08-13T18:27:33.431Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "hy8zfbhaf",
-      "timestamp": "2026-08-13T18:27:33.425Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "gn0ak2l2l",
-      "timestamp": "2026-08-13T18:27:33.410Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
