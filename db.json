@@ -4509,10 +4509,46 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-08-14",
+    "lastMorningReportDate": "2026-08-15",
     "lastPharmaciesDate": "2026-08-14"
   },
   "logs": [
+    {
+      "id": "a8p8atm7j",
+      "timestamp": "2026-08-15T05:19:26.676Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "g0jjr6234",
+      "timestamp": "2026-08-15T05:19:25.021Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "yk5bi53qy",
+      "timestamp": "2026-08-15T05:19:25.013Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "if4k8yqws",
+      "timestamp": "2026-08-15T05:19:24.992Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "1eud5k1n7",
+      "timestamp": "2026-08-15T05:19:24.374Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "7y3qd44h6",
+      "timestamp": "2026-08-15T05:19:24.361Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "tdow0mlvi",
       "timestamp": "2026-08-15T04:54:57.232Z",
@@ -5374,42 +5410,6 @@
     {
       "id": "chgrqv5d4",
       "timestamp": "2026-08-14T06:53:44.404Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "d8kt8s8es",
-      "timestamp": "2026-08-14T06:53:44.381Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "q54upkgbg",
-      "timestamp": "2026-08-14T06:53:43.774Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "y6fu8j4dn",
-      "timestamp": "2026-08-14T06:53:43.760Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "vt3gne73w",
-      "timestamp": "2026-08-14T05:27:41.103Z",
-      "message": "Günlük sabah raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "jk6n71kqc",
-      "timestamp": "2026-08-14T05:27:40.071Z",
-      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "b722ecaqu",
-      "timestamp": "2026-08-14T05:27:40.063Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
       "type": "info"
     }
