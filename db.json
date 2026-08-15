@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "8v9eqmyjz",
+      "timestamp": "2026-08-15T22:45:26.818Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "zl0h3pck8",
+      "timestamp": "2026-08-15T22:45:26.804Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "l9mjzco50",
+      "timestamp": "2026-08-15T22:45:26.192Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ecggb9uot",
+      "timestamp": "2026-08-15T22:45:26.178Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "dbd3ch3vb",
       "timestamp": "2026-08-15T22:14:56.900Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "8gyqvug48",
       "timestamp": "2026-08-15T11:42:50.552Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "6z161mmpq",
-      "timestamp": "2026-08-15T11:42:50.539Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "m8f68vrl8",
-      "timestamp": "2026-08-15T11:14:13.404Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Bıçaklı Kavga: Kuzen Cinaye...\"",
-      "type": "info"
-    },
-    {
-      "id": "9emqq5s6o",
-      "timestamp": "2026-08-15T11:14:12.710Z",
-      "message": "Telegram bildirimi gönderildi: \"27 yaşındaki Doğan bıçaklanarak öldürüld...\"",
-      "type": "info"
-    },
-    {
-      "id": "vqhzhtve5",
-      "timestamp": "2026-08-15T11:14:12.369Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
