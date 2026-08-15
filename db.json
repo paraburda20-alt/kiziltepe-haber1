@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "8hoqo9fhw",
+      "timestamp": "2026-08-15T08:19:58.372Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "dakl832tz",
+      "timestamp": "2026-08-15T08:19:58.359Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "bxpksc92x",
+      "timestamp": "2026-08-15T08:19:57.707Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "dxl6lsky9",
+      "timestamp": "2026-08-15T08:19:57.645Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "3560erwf9",
       "timestamp": "2026-08-15T07:50:18.037Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "hu33t699a",
       "timestamp": "2026-08-14T12:53:02.097Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "eu6xgqba2",
-      "timestamp": "2026-08-14T12:53:02.085Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "w1u68sus6",
-      "timestamp": "2026-08-14T11:40:10.271Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de, Filistin Konvoyu için dest...\"",
-      "type": "info"
-    },
-    {
-      "id": "dv6x2jggr",
-      "timestamp": "2026-08-14T11:40:09.845Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "qagan5qn7",
-      "timestamp": "2026-08-14T11:40:09.840Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
