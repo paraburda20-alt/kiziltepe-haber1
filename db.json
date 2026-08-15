@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "23s8o756o",
+      "timestamp": "2026-08-15T09:48:15.134Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "0t7seotvs",
+      "timestamp": "2026-08-15T09:48:15.118Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "fytd7svw6",
+      "timestamp": "2026-08-15T09:48:14.502Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ymzkvjjlm",
+      "timestamp": "2026-08-15T09:48:14.489Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "1ljijb7p4",
       "timestamp": "2026-08-15T09:19:35.580Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "w68z5v56w",
       "timestamp": "2026-08-14T15:13:58.824Z",
       "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "sdqwy98cl",
-      "timestamp": "2026-08-14T15:13:58.185Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "pywezzjtv",
-      "timestamp": "2026-08-14T15:13:58.172Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "i5w0g9hdu",
-      "timestamp": "2026-08-14T14:12:35.554Z",
-      "message": "Telegram bildirimi gönderildi: \"Filistin Konvoyu'na Destek: Kızıltepe'de...\"",
-      "type": "info"
-    },
-    {
-      "id": "nwekkpfuo",
-      "timestamp": "2026-08-14T14:12:34.874Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin-Kızıltepe karayolunda yangın...\"",
       "type": "info"
     }
   ]
