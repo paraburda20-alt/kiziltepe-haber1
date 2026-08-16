@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "1auommokb",
+      "timestamp": "2026-08-16T16:48:47.134Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "zzw2bxqn0",
+      "timestamp": "2026-08-16T16:48:47.113Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "99otwfzo8",
+      "timestamp": "2026-08-16T16:48:46.492Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "sj6q97ifl",
+      "timestamp": "2026-08-16T16:48:46.478Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "i16pl0l3i",
       "timestamp": "2026-08-16T16:17:26.291Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "8m9m4zw9o",
       "timestamp": "2026-08-15T23:42:28.949Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "vlo5zy6vq",
-      "timestamp": "2026-08-15T23:13:57.713Z",
-      "message": "Telegram bildirimi gönderildi: \"Çıkan kavgada bıçaklanan bir kişi hayatı...\"",
-      "type": "info"
-    },
-    {
-      "id": "wvb7e1rru",
-      "timestamp": "2026-08-15T23:13:57.226Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "4isvw7q22",
-      "timestamp": "2026-08-15T23:13:57.220Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "9ksbzx9is",
-      "timestamp": "2026-08-15T23:13:57.204Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
