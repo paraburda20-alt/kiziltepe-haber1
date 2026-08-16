@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "gychi9ax9",
+      "timestamp": "2026-08-16T20:14:54.504Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "sxjun6h7i",
+      "timestamp": "2026-08-16T20:14:54.490Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "26kacgsm9",
+      "timestamp": "2026-08-16T20:14:53.830Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "5fln34try",
+      "timestamp": "2026-08-16T20:14:53.817Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "txx2t2r81",
       "timestamp": "2026-08-16T19:42:07.635Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de tarlaya devrilen hafif ticari ...\"",
@@ -5387,30 +5411,6 @@
       "id": "0jobn3t36",
       "timestamp": "2026-08-16T04:58:45.876Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "d35ay7gz4",
-      "timestamp": "2026-08-16T04:58:45.864Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "rfeq1rpfe",
-      "timestamp": "2026-08-16T04:06:52.421Z",
-      "message": "Telegram bildirimi gönderildi: \"Akrabalarıyla damadının evini basan başk...\"",
-      "type": "info"
-    },
-    {
-      "id": "68m0xfihj",
-      "timestamp": "2026-08-16T04:06:51.795Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de damadını darbettiği iddia edil...\"",
-      "type": "info"
-    },
-    {
-      "id": "b8693lvds",
-      "timestamp": "2026-08-16T04:06:51.452Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
