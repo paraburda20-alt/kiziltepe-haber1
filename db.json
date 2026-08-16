@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "fn5xt3g3x",
+      "timestamp": "2026-08-16T11:14:38.126Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "vb311qpwx",
+      "timestamp": "2026-08-16T11:14:38.109Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "mkdsp5aeo",
+      "timestamp": "2026-08-16T11:14:37.617Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "prrhopg69",
+      "timestamp": "2026-08-16T11:14:37.603Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "jtl3ieavp",
       "timestamp": "2026-08-16T10:46:55.234Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "21kmrt67i",
       "timestamp": "2026-08-15T18:54:39.925Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de Nevruz kutlaması...\"",
-      "type": "info"
-    },
-    {
-      "id": "qm8h6hqcf",
-      "timestamp": "2026-08-15T18:54:39.192Z",
-      "message": "Telegram bildirimi gönderildi: \"HDP'li Kızıltepe Belediyesi'ne kayyım at...\"",
-      "type": "info"
-    },
-    {
-      "id": "la8hmngll",
-      "timestamp": "2026-08-15T18:54:38.738Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "nyw33818a",
-      "timestamp": "2026-08-15T18:54:38.646Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "8nwtejz9g",
-      "timestamp": "2026-08-15T18:54:38.634Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
