@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "zsh9oscga",
+      "timestamp": "2026-08-17T10:03:34.624Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "nictaaaex",
+      "timestamp": "2026-08-17T10:03:34.607Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "8r96kky11",
+      "timestamp": "2026-08-17T10:03:33.797Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "6i0em0blb",
+      "timestamp": "2026-08-17T10:03:33.784Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "ni9xosklb",
       "timestamp": "2026-08-17T09:06:54.269Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe Haberleri - Otomobil tarlaya y...\"",
@@ -5387,30 +5411,6 @@
       "id": "hb4bnfdbt",
       "timestamp": "2026-08-16T13:50:58.301Z",
       "message": "Telegram bildirimi gönderildi: \"16 Ağustos Mardin Kızıltepe Hava Durumu...\"",
-      "type": "info"
-    },
-    {
-      "id": "kqsspb8md",
-      "timestamp": "2026-08-16T13:50:57.865Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "zvk1arx1j",
-      "timestamp": "2026-08-16T13:50:57.859Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "02oa9bal5",
-      "timestamp": "2026-08-16T13:50:57.841Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "10t734osh",
-      "timestamp": "2026-08-16T13:50:57.260Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
