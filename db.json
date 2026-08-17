@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "oni3uo57n",
+      "timestamp": "2026-08-17T19:22:22.481Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "6e5ljeb3p",
+      "timestamp": "2026-08-17T19:22:22.465Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 104 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "bplsnshr6",
+      "timestamp": "2026-08-17T19:22:20.544Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "xq3in1a23",
+      "timestamp": "2026-08-17T19:22:20.527Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "nsy1slsd9",
       "timestamp": "2026-08-17T18:30:25.004Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe Voleybol, 15 Kas 2026 saat 11:...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "0jv07aiiz",
       "timestamp": "2026-08-16T22:44:29.303Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "qqixjsg9c",
-      "timestamp": "2026-08-16T22:44:29.291Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "1ar6vieb3",
-      "timestamp": "2026-08-16T22:14:25.119Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "7llbb4s7v",
-      "timestamp": "2026-08-16T22:14:25.105Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "lbe0q5ti8",
-      "timestamp": "2026-08-16T22:14:24.501Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
