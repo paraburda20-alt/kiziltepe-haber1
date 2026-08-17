@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "06jb8man0",
+      "timestamp": "2026-08-17T03:26:19.785Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "sm4j5bws9",
+      "timestamp": "2026-08-17T03:26:19.774Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "nfic091xf",
+      "timestamp": "2026-08-17T03:26:19.031Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ixul37bgz",
+      "timestamp": "2026-08-17T03:26:19.020Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "o05karud9",
       "timestamp": "2026-08-17T02:17:23.213Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "0q0iw76ba",
       "timestamp": "2026-08-16T09:49:35.274Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'den Batman'a uzanan kan davası...\"",
-      "type": "info"
-    },
-    {
-      "id": "xpyxzd42q",
-      "timestamp": "2026-08-16T09:49:34.713Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "qo7vlxhtg",
-      "timestamp": "2026-08-16T09:49:34.706Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "8lp5ycc6b",
-      "timestamp": "2026-08-16T09:49:34.677Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "nh7qcblu9",
-      "timestamp": "2026-08-16T09:49:33.983Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
