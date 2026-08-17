@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "546mfc6hs",
+      "timestamp": "2026-08-17T07:02:15.349Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "7q7pwsjpm",
+      "timestamp": "2026-08-17T07:02:15.334Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "x91s9flsi",
+      "timestamp": "2026-08-17T07:02:14.779Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ykhweam3c",
+      "timestamp": "2026-08-17T07:02:14.767Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "0t98j4n04",
       "timestamp": "2026-08-17T05:58:35.682Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "vqqi6jgtu",
       "timestamp": "2026-08-16T12:27:27.056Z",
       "message": "Telegram bildirimi gönderildi: \"Damadının evini bastığı iddiasıyla gözal...\"",
-      "type": "info"
-    },
-    {
-      "id": "64sy4lsru",
-      "timestamp": "2026-08-16T12:27:26.414Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de damat-kayınpeder gerilimi! 20 ...\"",
-      "type": "info"
-    },
-    {
-      "id": "ro83lnsnt",
-      "timestamp": "2026-08-16T12:27:26.017Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "7ajj2dg0o",
-      "timestamp": "2026-08-16T12:27:26.011Z",
-      "message": "Veritabanına 3 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "0jykuw690",
-      "timestamp": "2026-08-16T12:27:25.994Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
