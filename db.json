@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "l2dpcpgur",
+      "timestamp": "2026-08-17T23:44:59.616Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "xjq31idbg",
+      "timestamp": "2026-08-17T23:44:59.606Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "g8af1eozp",
+      "timestamp": "2026-08-17T23:44:58.975Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "zzghhmkk5",
+      "timestamp": "2026-08-17T23:44:58.966Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "ldfx7075r",
       "timestamp": "2026-08-17T23:16:48.607Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "fq6irrztc",
       "timestamp": "2026-08-17T05:58:35.152Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "o08twso9b",
-      "timestamp": "2026-08-17T05:06:13.853Z",
-      "message": "Günlük sabah raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "j06ii6vl7",
-      "timestamp": "2026-08-17T05:06:12.801Z",
-      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "7kufos4gx",
-      "timestamp": "2026-08-17T05:06:12.291Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'den Batman'a uzanan kan davası...\"",
-      "type": "info"
-    },
-    {
-      "id": "n7kgdcq4m",
-      "timestamp": "2026-08-17T05:06:11.584Z",
-      "message": "Telegram bildirimi gönderildi: \"SON DAKİKA: Mardin Kızıltepe'de cinayet....\"",
       "type": "info"
     }
   ]
