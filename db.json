@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "7c2h43uou",
+      "timestamp": "2026-08-18T17:26:14.001Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "v8tmznfhn",
+      "timestamp": "2026-08-18T17:26:13.987Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "hgag84u12",
+      "timestamp": "2026-08-18T17:26:11.277Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "njfcnr9qy",
+      "timestamp": "2026-08-18T17:26:11.264Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "7nqrhra3h",
       "timestamp": "2026-08-18T16:57:11.551Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "gr3dkz73v",
       "timestamp": "2026-08-17T18:30:24.010Z",
       "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "z8qiwowx3",
-      "timestamp": "2026-08-17T18:30:24.003Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "kaszd302v",
-      "timestamp": "2026-08-17T18:30:23.987Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 104 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ngvff3gg3",
-      "timestamp": "2026-08-17T18:30:23.329Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "ntdf5u707",
-      "timestamp": "2026-08-17T18:30:23.316Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
