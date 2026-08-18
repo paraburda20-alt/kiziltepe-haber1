@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "k8u4gztcl",
+      "timestamp": "2026-08-18T15:55:32.976Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "sq1ks9xrb",
+      "timestamp": "2026-08-18T15:55:32.961Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "sz8zqhh5o",
+      "timestamp": "2026-08-18T15:55:32.337Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "hag1r8web",
+      "timestamp": "2026-08-18T15:55:32.323Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "ygjq8vxnx",
       "timestamp": "2026-08-18T15:00:52.414Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "gjk2a0z4h",
       "timestamp": "2026-08-17T17:20:57.426Z",
       "message": "Tarama tamamlandı. Google News üzerinde 104 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ol5lf2au5",
-      "timestamp": "2026-08-17T17:20:56.802Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "glqvxeuih",
-      "timestamp": "2026-08-17T17:20:56.789Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "bhh3i29rp",
-      "timestamp": "2026-08-17T16:53:38.125Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de borç tartışması meyd...\"",
-      "type": "info"
-    },
-    {
-      "id": "z5ctqnrjg",
-      "timestamp": "2026-08-17T16:53:37.456Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de borç tartışması meyd...\"",
       "type": "info"
     }
   ]
