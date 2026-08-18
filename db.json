@@ -4510,9 +4510,45 @@
     "discordWebhook": "",
     "enableDiscord": false,
     "lastMorningReportDate": "2026-08-18",
-    "lastPharmaciesDate": "2026-08-17"
+    "lastPharmaciesDate": "2026-08-18"
   },
   "logs": [
+    {
+      "id": "kdiubyeik",
+      "timestamp": "2026-08-18T16:25:14.127Z",
+      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "qf3ykq96a",
+      "timestamp": "2026-08-18T16:25:10.914Z",
+      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "p3rgps9l2",
+      "timestamp": "2026-08-18T16:25:10.906Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "j0c1b86se",
+      "timestamp": "2026-08-18T16:25:10.892Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "h0684viim",
+      "timestamp": "2026-08-18T16:25:10.285Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "zun6xvjmr",
+      "timestamp": "2026-08-18T16:25:10.271Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "k8u4gztcl",
       "timestamp": "2026-08-18T15:55:32.976Z",
@@ -5374,42 +5410,6 @@
     {
       "id": "cccz35or8",
       "timestamp": "2026-08-17T17:53:50.095Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 104 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "kva2msoqg",
-      "timestamp": "2026-08-17T17:53:49.634Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "13qf9u7l7",
-      "timestamp": "2026-08-17T17:53:49.626Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "7gs7unphz",
-      "timestamp": "2026-08-17T17:20:57.981Z",
-      "message": "Telegram bildirimi gönderildi: \"İlçe meydanını savaş alanına çeviren kav...\"",
-      "type": "info"
-    },
-    {
-      "id": "z25e16rbq",
-      "timestamp": "2026-08-17T17:20:57.452Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "400vvoy3x",
-      "timestamp": "2026-08-17T17:20:57.445Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "gjk2a0z4h",
-      "timestamp": "2026-08-17T17:20:57.426Z",
       "message": "Tarama tamamlandı. Google News üzerinde 104 adet haber başlığı bulundu.",
       "type": "info"
     }
