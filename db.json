@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "88d6aqyx8",
+      "timestamp": "2026-08-18T11:19:41.233Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "vslo2kh1d",
+      "timestamp": "2026-08-18T11:19:41.218Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "odpiuogbj",
+      "timestamp": "2026-08-18T11:19:40.305Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "kakmd2q03",
+      "timestamp": "2026-08-18T11:19:39.775Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "xszkvt25i",
       "timestamp": "2026-08-18T10:54:30.641Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de uyuşturucu operasyonlarında 6 ...\"",
@@ -5387,30 +5411,6 @@
       "id": "i8pye7aow",
       "timestamp": "2026-08-17T14:51:48.826Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de tekmeli ve yumruklu borç kavga...\"",
-      "type": "info"
-    },
-    {
-      "id": "tiz4r6qd6",
-      "timestamp": "2026-08-17T14:51:47.964Z",
-      "message": "Telegram bildirimi gönderildi: \"Damadının evini bastığı iddiasıyla gözal...\"",
-      "type": "info"
-    },
-    {
-      "id": "f5351v39d",
-      "timestamp": "2026-08-17T14:51:47.255Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de borç kavgası: Tekme ve yumr...\"",
-      "type": "info"
-    },
-    {
-      "id": "em7uhi2jz",
-      "timestamp": "2026-08-17T14:51:46.569Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de borç kavgası sokağa döküldü...\"",
-      "type": "info"
-    },
-    {
-      "id": "e7hks6o3h",
-      "timestamp": "2026-08-17T14:51:46.008Z",
-      "message": "4 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
