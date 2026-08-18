@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "p08m8h0pp",
+      "timestamp": "2026-08-18T09:56:32.935Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "j5ia1sicu",
+      "timestamp": "2026-08-18T09:56:32.919Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "mg5n3rbg5",
+      "timestamp": "2026-08-18T09:56:32.207Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "yji2v646d",
+      "timestamp": "2026-08-18T09:56:32.193Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "bgrcrk8vx",
       "timestamp": "2026-08-18T09:04:07.678Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "jj12cg2cu",
       "timestamp": "2026-08-17T14:21:01.220Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "r07sk2krx",
-      "timestamp": "2026-08-17T13:34:52.205Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Haberleri - Damadının evini ba...\"",
-      "type": "info"
-    },
-    {
-      "id": "bsjlo279j",
-      "timestamp": "2026-08-17T13:34:51.631Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "niv173a68",
-      "timestamp": "2026-08-17T13:34:51.624Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "jk5eh49qt",
-      "timestamp": "2026-08-17T13:34:51.606Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
