@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "82zyivo97",
+      "timestamp": "2026-08-18T14:26:39.141Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "8mnfsylya",
+      "timestamp": "2026-08-18T14:26:39.130Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ty3xqxb8k",
+      "timestamp": "2026-08-18T14:26:38.609Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "hg2x2mljb",
+      "timestamp": "2026-08-18T14:26:38.597Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "u2vbzrl08",
       "timestamp": "2026-08-18T13:37:23.696Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de uyuşturucu operasyonlarında 6 ...\"",
@@ -5387,30 +5411,6 @@
       "id": "uuggsta3y",
       "timestamp": "2026-08-17T16:53:36.258Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "hmplps189",
-      "timestamp": "2026-08-17T16:53:36.246Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "rl0kuc2jy",
-      "timestamp": "2026-08-17T16:20:17.060Z",
-      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "1x2sf78lj",
-      "timestamp": "2026-08-17T16:20:13.554Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "bx0r8utqa",
-      "timestamp": "2026-08-17T16:20:13.543Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
