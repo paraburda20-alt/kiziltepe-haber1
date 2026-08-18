@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "7nqrhra3h",
+      "timestamp": "2026-08-18T16:57:11.551Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "b957gv9f3",
+      "timestamp": "2026-08-18T16:57:11.534Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "b15lji7p5",
+      "timestamp": "2026-08-18T16:57:10.795Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "cajmrct5n",
+      "timestamp": "2026-08-18T16:57:10.783Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "kdiubyeik",
       "timestamp": "2026-08-18T16:25:14.127Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "ntdf5u707",
       "timestamp": "2026-08-17T18:30:23.316Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "cy4llf60s",
-      "timestamp": "2026-08-17T17:53:50.779Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de otomobiller çarpıştı: 1 ölü, 4...\"",
-      "type": "info"
-    },
-    {
-      "id": "55jyvm6zh",
-      "timestamp": "2026-08-17T17:53:50.128Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "b0x7ax5px",
-      "timestamp": "2026-08-17T17:53:50.125Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "cccz35or8",
-      "timestamp": "2026-08-17T17:53:50.095Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 104 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
