@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "4ykxvqa26",
+      "timestamp": "2026-08-18T06:32:34.001Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "bdyph193g",
+      "timestamp": "2026-08-18T06:32:33.987Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "9kwbcjwud",
+      "timestamp": "2026-08-18T06:32:33.515Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "05ey9fu1f",
+      "timestamp": "2026-08-18T06:32:33.502Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "2clr0dd7k",
       "timestamp": "2026-08-18T05:53:08.225Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "mrr3deg7k",
       "timestamp": "2026-08-17T11:20:22.791Z",
       "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "gytkrsigk",
-      "timestamp": "2026-08-17T11:20:22.185Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "aoz9sr8wg",
-      "timestamp": "2026-08-17T11:20:22.173Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "dy1sxopwy",
-      "timestamp": "2026-08-17T10:55:34.692Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de sağanak ve dolu yolları göl...\"",
-      "type": "info"
-    },
-    {
-      "id": "x76ripdat",
-      "timestamp": "2026-08-17T10:55:34.314Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
