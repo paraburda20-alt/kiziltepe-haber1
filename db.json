@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "fzd3w5cea",
+      "timestamp": "2026-08-19T09:57:14.217Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "m2fd9ixkp",
+      "timestamp": "2026-08-19T09:57:14.201Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "q0he5dheb",
+      "timestamp": "2026-08-19T09:57:13.579Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "0193etwyu",
+      "timestamp": "2026-08-19T09:57:13.566Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "ftb1ywmli",
       "timestamp": "2026-08-19T09:06:17.272Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "vslo2kh1d",
       "timestamp": "2026-08-18T11:19:41.218Z",
       "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "odpiuogbj",
-      "timestamp": "2026-08-18T11:19:40.305Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "kakmd2q03",
-      "timestamp": "2026-08-18T11:19:39.775Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "xszkvt25i",
-      "timestamp": "2026-08-18T10:54:30.641Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de uyuşturucu operasyonlarında 6 ...\"",
-      "type": "info"
-    },
-    {
-      "id": "genv6jy30",
-      "timestamp": "2026-08-18T10:54:30.240Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
