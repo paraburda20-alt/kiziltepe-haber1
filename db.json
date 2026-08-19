@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "223cpyv0q",
+      "timestamp": "2026-08-19T23:17:14.418Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "4unjcuoe8",
+      "timestamp": "2026-08-19T23:17:14.405Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "89h5dmg6w",
+      "timestamp": "2026-08-19T23:17:13.696Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "bzjaq7n88",
+      "timestamp": "2026-08-19T23:17:13.684Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "fqj3qlz7j",
       "timestamp": "2026-08-19T22:49:07.628Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "so7177ucs",
       "timestamp": "2026-08-19T02:15:35.944Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "z853c9vgu",
-      "timestamp": "2026-08-19T00:54:53.450Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de inşattan düşen sıva ustası, ha...\"",
-      "type": "info"
-    },
-    {
-      "id": "7v3jo91bk",
-      "timestamp": "2026-08-19T00:54:52.805Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "m5cvf3y8h",
-      "timestamp": "2026-08-19T00:54:52.800Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "whyxydmln",
-      "timestamp": "2026-08-19T00:54:52.783Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
