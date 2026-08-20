@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "69ta1ehkk",
+      "timestamp": "2026-08-20T02:14:12.681Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "p0d2q7x75",
+      "timestamp": "2026-08-20T02:14:12.665Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "botrotzd9",
+      "timestamp": "2026-08-20T02:14:11.999Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "uajdbkvcq",
+      "timestamp": "2026-08-20T02:14:11.986Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "j3uwcqvmt",
       "timestamp": "2026-08-20T00:54:05.545Z",
       "message": "Telegram bildirimi gönderildi: \"Sokak savaş alanına döndü: Mardin’de tek...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "8y95sk65r",
       "timestamp": "2026-08-19T05:00:40.028Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "bg7w3pbfc",
-      "timestamp": "2026-08-19T05:00:39.464Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "ubrjrkz8z",
-      "timestamp": "2026-08-19T05:00:39.451Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "cgqkqfmkx",
-      "timestamp": "2026-08-19T04:05:56.323Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "1f9bjs0e1",
-      "timestamp": "2026-08-19T04:05:56.308Z",
       "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
       "type": "info"
     }
