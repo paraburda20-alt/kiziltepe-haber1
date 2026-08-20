@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "pi09wqcbv",
+      "timestamp": "2026-08-20T22:20:41.064Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "9l462daoo",
+      "timestamp": "2026-08-20T22:20:41.049Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ukc75s1jv",
+      "timestamp": "2026-08-20T22:20:40.538Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "m3j7gerw8",
+      "timestamp": "2026-08-20T22:20:40.525Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "5ks9zoumv",
       "timestamp": "2026-08-20T21:52:11.237Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "zpijcthvo",
       "timestamp": "2026-08-20T07:36:00.878Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de gece yarısı ambulans ile ot...\"",
-      "type": "info"
-    },
-    {
-      "id": "nd8sk1b93",
-      "timestamp": "2026-08-20T07:36:00.162Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de İYİ Partili ilçe başkanı, 2...\"",
-      "type": "info"
-    },
-    {
-      "id": "74t7yt5jj",
-      "timestamp": "2026-08-20T07:35:59.465Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Erikli Caddesi'nde yol ve a...\"",
-      "type": "info"
-    },
-    {
-      "id": "z8kxc81jw",
-      "timestamp": "2026-08-20T07:35:58.773Z",
-      "message": "Telegram bildirimi gönderildi: \"Ambulans ile otomobil çarpıştı...\"",
-      "type": "info"
-    },
-    {
-      "id": "66qnd6gdv",
-      "timestamp": "2026-08-20T07:35:58.087Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Damda Uyuma Geleneği...\"",
       "type": "info"
     }
   ]
