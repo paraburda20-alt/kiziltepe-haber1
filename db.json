@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "34c2a8yeo",
+      "timestamp": "2026-08-20T05:54:59.568Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "0q6yrobgo",
+      "timestamp": "2026-08-20T05:54:59.549Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "hb0ntrhmx",
+      "timestamp": "2026-08-20T05:54:58.754Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "3ljjge9s8",
+      "timestamp": "2026-08-20T05:54:58.747Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "uj7w9rhcy",
       "timestamp": "2026-08-20T05:02:42.522Z",
       "message": "Günlük sabah raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "kk3c226fk",
       "timestamp": "2026-08-19T08:29:17.006Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "3u2aeh23c",
-      "timestamp": "2026-08-19T08:29:16.994Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "ctixia9jy",
-      "timestamp": "2026-08-19T07:32:42.398Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardinde tekmeli ve yumruklu borç kavgas...\"",
-      "type": "info"
-    },
-    {
-      "id": "bbhyhosvm",
-      "timestamp": "2026-08-19T07:32:41.697Z",
-      "message": "Telegram bildirimi gönderildi: \"DEM’li meclis üyeleri partinin ihraç ett...\"",
-      "type": "info"
-    },
-    {
-      "id": "dw0ng3cqp",
-      "timestamp": "2026-08-19T07:32:41.075Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
