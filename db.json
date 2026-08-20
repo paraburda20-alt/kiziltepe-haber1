@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "jz4j9v1cv",
+      "timestamp": "2026-08-20T04:05:45.169Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "g0wijkz0t",
+      "timestamp": "2026-08-20T04:05:45.153Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "gq9qaw3t5",
+      "timestamp": "2026-08-20T04:05:44.635Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ba9ywwev4",
+      "timestamp": "2026-08-20T04:05:44.623Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "558lvj2pd",
       "timestamp": "2026-08-20T03:23:03.456Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de devrilen motosikletin sürücüsü...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "fopx5u8en",
       "timestamp": "2026-08-19T06:33:40.882Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "uum2iqdpt",
-      "timestamp": "2026-08-19T06:33:40.183Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "swp2ze82s",
-      "timestamp": "2026-08-19T06:33:40.171Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "99qpql1w7",
-      "timestamp": "2026-08-19T05:54:27.021Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "i01ys4073",
-      "timestamp": "2026-08-19T05:54:27.008Z",
       "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
       "type": "info"
     }
