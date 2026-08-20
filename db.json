@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "st5sgvchq",
+      "timestamp": "2026-08-20T11:20:32.778Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "fybp52fqf",
+      "timestamp": "2026-08-20T11:20:32.757Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ng0t76q0g",
+      "timestamp": "2026-08-20T11:20:32.128Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "zjvpe2gwg",
+      "timestamp": "2026-08-20T11:20:32.116Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "nv1udm5xt",
       "timestamp": "2026-08-20T10:37:41.031Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de asfalt çalışmaları sürdürüyor...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "7zcklv1z7",
       "timestamp": "2026-08-19T15:55:38.875Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "j2c2ps0yd",
-      "timestamp": "2026-08-19T15:00:53.870Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "y0uqwn6z5",
-      "timestamp": "2026-08-19T15:00:53.852Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "2dhb1cthq",
-      "timestamp": "2026-08-19T15:00:53.160Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "dv8n0g80a",
-      "timestamp": "2026-08-19T15:00:53.147Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
