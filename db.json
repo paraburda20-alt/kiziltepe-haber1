@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "ukzerbin6",
+      "timestamp": "2026-08-20T17:54:38.416Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "9upunjflc",
+      "timestamp": "2026-08-20T17:54:38.400Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "iuvo1m0jp",
+      "timestamp": "2026-08-20T17:54:37.741Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "0f78ex1ix",
+      "timestamp": "2026-08-20T17:54:37.730Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "trxa39q7i",
       "timestamp": "2026-08-20T17:23:00.253Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Kayalıklardan Düşen Kişi Ya...\"",
@@ -5387,30 +5411,6 @@
       "id": "4unjcuoe8",
       "timestamp": "2026-08-19T23:17:14.405Z",
       "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "89h5dmg6w",
-      "timestamp": "2026-08-19T23:17:13.696Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "bzjaq7n88",
-      "timestamp": "2026-08-19T23:17:13.684Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "fqj3qlz7j",
-      "timestamp": "2026-08-19T22:49:07.628Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "tedwfyqgu",
-      "timestamp": "2026-08-19T22:49:07.614Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
