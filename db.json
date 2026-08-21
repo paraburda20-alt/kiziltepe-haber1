@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "syzbjikww",
+      "timestamp": "2026-08-21T20:47:31.610Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "fzklr9fvn",
+      "timestamp": "2026-08-21T20:47:31.589Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "bdhretc6a",
+      "timestamp": "2026-08-21T20:47:30.981Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "0fhmqhlo4",
+      "timestamp": "2026-08-21T20:47:30.968Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "b69yu137e",
       "timestamp": "2026-08-21T20:18:47.247Z",
       "message": "Telegram bildirimi gönderildi: \"DEM Parti'den ihraç edilen Kızıltepe Bel...\"",
@@ -5387,30 +5411,6 @@
       "id": "g5vop9sj9",
       "timestamp": "2026-08-21T07:37:28.599Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de iki otomobilin çarpışması sonu...\"",
-      "type": "info"
-    },
-    {
-      "id": "s77ufee5g",
-      "timestamp": "2026-08-21T07:37:27.929Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de silahlı kavga: 1 ağır yaral...\"",
-      "type": "info"
-    },
-    {
-      "id": "hfbwowy0r",
-      "timestamp": "2026-08-21T07:37:27.254Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de silahlı kavgada 1 kişi ağır ya...\"",
-      "type": "info"
-    },
-    {
-      "id": "yh6g9bn98",
-      "timestamp": "2026-08-21T07:37:26.549Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Meydana Gelen Silahl...\"",
-      "type": "info"
-    },
-    {
-      "id": "19i9kfnhx",
-      "timestamp": "2026-08-21T07:37:25.887Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Devlet Hastanesi’nde Kadın Sağ...\"",
       "type": "info"
     }
   ]
