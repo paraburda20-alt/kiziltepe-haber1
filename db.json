@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "wanay3fln",
+      "timestamp": "2026-08-21T22:17:30.784Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "sj09bzehh",
+      "timestamp": "2026-08-21T22:17:30.762Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "g9tixexr3",
+      "timestamp": "2026-08-21T22:17:30.199Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "3vcfmldsu",
+      "timestamp": "2026-08-21T22:17:30.187Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "8pahho36s",
       "timestamp": "2026-08-21T21:46:51.939Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de tüfekle vurulan 18 yaşındaki g...\"",
@@ -5387,30 +5411,6 @@
       "id": "hq2jzmbta",
       "timestamp": "2026-08-21T09:30:11.655Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "c794b6xta",
-      "timestamp": "2026-08-21T09:30:11.643Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "ai7z3at0s",
-      "timestamp": "2026-08-21T08:33:18.270Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de zincirleme kaza: 3 yaralı İhla...\"",
-      "type": "info"
-    },
-    {
-      "id": "gl5ksatj6",
-      "timestamp": "2026-08-21T08:33:17.590Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de iki otomobilin çarpıştığı kaza...\"",
-      "type": "info"
-    },
-    {
-      "id": "2qi6dvely",
-      "timestamp": "2026-08-21T08:33:16.906Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de çıkan silahlı kavgada 1 kişi a...\"",
       "type": "info"
     }
   ]
