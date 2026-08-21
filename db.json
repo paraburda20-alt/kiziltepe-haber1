@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin’de parkta silahlı saldırı: 1 ölü",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcm96WWxrR05GYUNWcHhyRzExRm8xYkVxZTlGWXctTF9BSi1RYmFIUXhRNm5CSkdoZmVNNE5jeWxnMWJmMmdNOUZ2U3JIZ21kWnhENmdMSHZOOGtyMFRHRl9rQTMta29VdE9sNFFkVTV5N25mcXVmNDVnLU85MTdtMS11UHVVWWZUSG5Ka0JQdTdqNTJTQVFrUERRV0ZVQ3ZzZXlVZVlFWnNIZw?oc=5",
+      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "guid": "CBMiqgFBVV95cUxQcm96WWxrR05GYUNWcHhyRzExRm8xYkVxZTlGWXctTF9BSi1RYmFIUXhRNm5CSkdoZmVNNE5jeWxnMWJmMmdNOUZ2U3JIZ21kWnhENmdMSHZOOGtyMFRHRl9rQTMta29VdE9sNFFkVTV5N25mcXVmNDVnLU85MTdtMS11UHVVWWZUSG5Ka0JQdTdqNTJTQVFrUERRV0ZVQ3ZzZXlVZVlFWnNIZw",
+      "source": "Hürriyet",
+      "id": "CBMiqgFBVV95cUxQcm96WWxrR05GYUNWcHhyRzExRm8xYkVxZTlGWXctTF9BSi1RYmFIUXhRNm5CSkdoZmVNNE5jeWxnMWJmMmdNOUZ2U3JIZ21kWnhENmdMSHZOOGtyMFRHRl9rQTMta29VdE9sNFFkVTV5N25mcXVmNDVnLU85MTdtMS11UHVVWWZUSG5Ka0JQdTdqNTJTQVFrUERRV0ZVQ3ZzZXlVZVlFWnNIZw",
+      "crawledAt": "2026-08-21T02:23:03.654Z"
+    },
+    {
       "title": "Mardin'in Kızıltepe İlçesinde Kayalıklardan Düşen Kişi Yaralandı",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2RRaXdQYkJxNXRHY195S083SHNfNUxDaUozcE1pTTgwaDlxdUI3ZjZQT3NuWFNPbnVFemlqdFFfNmpTc0M4RGxCZmY4c3d3cHdXMmgtWjIzNUhMWTl5UV9yeHhjYy00S2t0N3VNNHFtTDlXd1duTm14WWJSX0pDcEoyUklaeko3UFZyYkpkWnBpNmRvM29RTVZBUXNnaE92bVdLOC10c3ViUdIBugFBVV95cUxORFlaU2xLQkdVbXlVU2JlV2dxby1ENERMNmtHRVVNaFRDaG5YSW0tT0wtc2RsR05yenVRaUV1WjVFQlNKeGNMQ2ZtdmsxUlZrZUdkZjFIT1BMc3BOMW5BSlFWTTdSbGFrSXlwamhESmM5dWNfenhzR3lVdmZnX3cwaUgwdGtHdmV1UU0zdzM0SHlldkJLN1lKdnB4cHNsU2VROWFFVGp4TlpYZVhiNHMzQWU0c0NDQUpzTXc?oc=5",
       "pubDate": "Thu, 20 Aug 2026 16:57:53 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Bursa Saati Gazetesi",
       "id": "CBMingFBVV95cUxOR252TGppMU9mdVNKXy1SVlVVZ0oyMzczWk1zNTVqNVBadFNQRl9yRURZUXJja0kwMEgwSDBCQloyZTVvbUE1Z2JZR1F2SUdyd0V4U2JSVUE5SkNEVjhCQUlwdlNrYjNlcDZ6V2ptN1MxYy1CeXJTWFh6SjVUTlYtSUZXSWF2OEk3bzg3YjR1dEMwMWsxT3B2Qk9veVBPd9IBowFBVV95cUxQeGlDTHphYXpNUUs1SnVPc0FFcnUyaHRKQ0JoaThNRERJQmpkZ3o3djFhdDcxejlLMzMzUXlzaU5xcGZhMWN0TGl3dGZCZXlkVWI5b1lzaEN5RlJJQlZhelJKUnNUa2VHVDhwR2JUQ1lxSm5ma253TlN2WWN1bjNlbjJKcklIcnJXSWFHSTNEcWdHQ3l0aVBlNERiY1E0VXhONFEw",
       "crawledAt": "2026-07-27T20:49:27.789Z"
-    },
-    {
-      "title": "Kızıltepe'de Kaybolan Çanta Sahibine Teslim Edildi",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGFkb1BQU0k5XzFXd2Z4anJ0dFUwRDVZNjNRN2RvUlRnWWFaQkpWQXh3MWxUUE9tY2k2LTVpRFdXTmJma0ZVMUdNZ2ZFUTZqbzhoLXN0dVNXS1VGMkNkVlpSdTlwVm8zQ0FpZTlIRTVvdmFocTdLeC1JMzJ4S1FBWFpHLWl3alJDWGNFZUgyaU1zUDBwUFJpUndCWkFqaldk0gGcAUFVX3lxTE9rUEktaTdUTU5PUXh4Q3djLW1BR2UzWV9ybEstZnhJdTFITkUwWkhRbkp3V1lHTzZFSnduMmpuZ0RNd3RPeXNTdU5iS0JzbkRveklFRkR6c2ZsYl9xR2FLbzZYclB6bWtFYmw2U2tnZlRkMnFGVVE5VzExV2JxclFSNldPTFN0d2wyMmlfQUNWNzJBZng4MDllY3cyRg?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "guid": "CBMioAFBVV95cUxOTGFkb1BQU0k5XzFXd2Z4anJ0dFUwRDVZNjNRN2RvUlRnWWFaQkpWQXh3MWxUUE9tY2k2LTVpRFdXTmJma0ZVMUdNZ2ZFUTZqbzhoLXN0dVNXS1VGMkNkVlpSdTlwVm8zQ0FpZTlIRTVvdmFocTdLeC1JMzJ4S1FBWFpHLWl3alJDWGNFZUgyaU1zUDBwUFJpUndCWkFqaldk0gGcAUFVX3lxTE9rUEktaTdUTU5PUXh4Q3djLW1BR2UzWV9ybEstZnhJdTFITkUwWkhRbkp3V1lHTzZFSnduMmpuZ0RNd3RPeXNTdU5iS0JzbkRveklFRkR6c2ZsYl9xR2FLbzZYclB6bWtFYmw2U2tnZlRkMnFGVVE5VzExV2JxclFSNldPTFN0d2wyMmlfQUNWNzJBZng4MDllY3cyRg",
-      "source": "SonDakika",
-      "id": "CBMioAFBVV95cUxOTGFkb1BQU0k5XzFXd2Z4anJ0dFUwRDVZNjNRN2RvUlRnWWFaQkpWQXh3MWxUUE9tY2k2LTVpRFdXTmJma0ZVMUdNZ2ZFUTZqbzhoLXN0dVNXS1VGMkNkVlpSdTlwVm8zQ0FpZTlIRTVvdmFocTdLeC1JMzJ4S1FBWFpHLWl3alJDWGNFZUgyaU1zUDBwUFJpUndCWkFqaldk0gGcAUFVX3lxTE9rUEktaTdUTU5PUXh4Q3djLW1BR2UzWV9ybEstZnhJdTFITkUwWkhRbkp3V1lHTzZFSnduMmpuZ0RNd3RPeXNTdU5iS0JzbkRveklFRkR6c2ZsYl9xR2FLbzZYclB6bWtFYmw2U2tnZlRkMnFGVVE5VzExV2JxclFSNldPTFN0d2wyMmlfQUNWNzJBZng4MDllY3cyRg",
-      "crawledAt": "2026-07-27T17:43:00.731Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-08-20"
   },
   "logs": [
+    {
+      "id": "2m5x8ea4o",
+      "timestamp": "2026-08-21T02:23:04.110Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin’de parkta silahlı saldırı: 1 ölü...\"",
+      "type": "info"
+    },
+    {
+      "id": "vvwswn7qj",
+      "timestamp": "2026-08-21T02:23:03.664Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "0ikg3czwz",
+      "timestamp": "2026-08-21T02:23:03.659Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "8o30o4nw9",
+      "timestamp": "2026-08-21T02:23:03.640Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 104 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ziqof2r17",
+      "timestamp": "2026-08-21T02:23:03.031Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "or19iashf",
+      "timestamp": "2026-08-21T02:23:03.019Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "a04blqqcq",
       "timestamp": "2026-08-21T00:57:48.917Z",
@@ -5375,42 +5411,6 @@
       "id": "zjvpe2gwg",
       "timestamp": "2026-08-20T11:20:32.116Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "nv1udm5xt",
-      "timestamp": "2026-08-20T10:37:41.031Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de asfalt çalışmaları sürdürüyor...\"",
-      "type": "info"
-    },
-    {
-      "id": "0j7e62c9s",
-      "timestamp": "2026-08-20T10:37:40.326Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de ambulans ile otomobil çarpıştı...\"",
-      "type": "info"
-    },
-    {
-      "id": "t34g8inbk",
-      "timestamp": "2026-08-20T10:37:39.759Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "prjqn4sj7",
-      "timestamp": "2026-08-20T10:37:39.751Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "cfswm9259",
-      "timestamp": "2026-08-20T10:37:39.732Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ys3hpwi25",
-      "timestamp": "2026-08-20T10:37:39.161Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
