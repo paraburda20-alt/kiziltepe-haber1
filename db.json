@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "02sz99sqo",
+      "timestamp": "2026-08-22T06:29:36.035Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "czk8leljl",
+      "timestamp": "2026-08-22T06:29:36.021Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "kzyhxjief",
+      "timestamp": "2026-08-22T06:29:35.449Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "g8nwpnyme",
+      "timestamp": "2026-08-22T06:29:35.437Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "uwm1vpg2j",
       "timestamp": "2026-08-22T05:54:52.005Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5388,30 +5412,6 @@
       "timestamp": "2026-08-21T12:34:51.865Z",
       "message": "Tarama hatası: Google News RSS feed error: Status 503",
       "type": "error"
-    },
-    {
-      "id": "d5zfhyl04",
-      "timestamp": "2026-08-21T12:34:42.375Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "k4x26cinc",
-      "timestamp": "2026-08-21T12:34:42.361Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "sj6gj7jl0",
-      "timestamp": "2026-08-21T11:50:38.207Z",
-      "message": "Telegram bildirimi gönderildi: \"Pompalı tüfekle oynarken kendini vurdu; ...\"",
-      "type": "info"
-    },
-    {
-      "id": "1j2q0u3pi",
-      "timestamp": "2026-08-21T11:50:37.522Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de Korkunç Olay! Pompalı Tüfekle ...\"",
-      "type": "info"
     }
   ]
 }
