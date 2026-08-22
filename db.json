@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "rxm6n4d10",
+      "timestamp": "2026-08-22T10:16:33.229Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "suyzfv3kj",
+      "timestamp": "2026-08-22T10:16:33.216Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 105 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "jzo08rjm6",
+      "timestamp": "2026-08-22T10:16:32.604Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "yvve3zxt2",
+      "timestamp": "2026-08-22T10:16:32.593Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "s0lffnx32",
       "timestamp": "2026-08-22T09:49:35.868Z",
       "message": "Telegram bildirimi gönderildi: \"Pompalı tüfekle oynarken kendini vurdu; ...\"",
@@ -5387,30 +5411,6 @@
       "id": "51ylyq6tn",
       "timestamp": "2026-08-21T15:57:16.144Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "t4dliwibu",
-      "timestamp": "2026-08-21T15:57:16.129Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "hevx6wifb",
-      "timestamp": "2026-08-21T15:04:15.469Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de yanlışlıkla kendini silahla vu...\"",
-      "type": "info"
-    },
-    {
-      "id": "rxm4ncz4c",
-      "timestamp": "2026-08-21T15:04:14.933Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "z4pzs8f2f",
-      "timestamp": "2026-08-21T15:04:14.927Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
