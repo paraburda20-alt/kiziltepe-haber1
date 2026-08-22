@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kızıltepe'de Silahlı Saldırı: Bir Kişi Hayatını Kaybetti",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlVidkMtaDlFeFVieEZzTUZ0WE9iQlYzYnB3THdKLTd3S0xjWDZXeU5IaGVqNUM1YzZmcnh6Vmw4V2JJVVgtNFE0UUVLbXJaWXFqczhWVDFmbnhwSTBERXp6eUptRUtoVzBrT0lLek9EQjlrZ0k3N2NrbGdqT1lPQXNJSHFuZnRET3dQMmZ6bnZENlhwTUtqZ3hja0dDMXFG0gGcAUFVX3lxTFByWHNnbVRxTGlIYWpSNlBTWE1xdzlRM0ZwNkM5TGpoQU02UUNZb0pRTzZJWTNDZENKakdEX3pfdGZDdXQyazhOOEFSRzhXZnZHaGdFOTFEa1BySWV2emx0Wms4UTRaNmpKeEtaWWdTYThUSVMzUXRVbTRpN1dnRHg2RnlEN2QzengzTXEyOW5sRl82WFo3cTJqVjRZVA?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "guid": "CBMioAFBVV95cUxQWlVidkMtaDlFeFVieEZzTUZ0WE9iQlYzYnB3THdKLTd3S0xjWDZXeU5IaGVqNUM1YzZmcnh6Vmw4V2JJVVgtNFE0UUVLbXJaWXFqczhWVDFmbnhwSTBERXp6eUptRUtoVzBrT0lLek9EQjlrZ0k3N2NrbGdqT1lPQXNJSHFuZnRET3dQMmZ6bnZENlhwTUtqZ3hja0dDMXFG0gGcAUFVX3lxTFByWHNnbVRxTGlIYWpSNlBTWE1xdzlRM0ZwNkM5TGpoQU02UUNZb0pRTzZJWTNDZENKakdEX3pfdGZDdXQyazhOOEFSRzhXZnZHaGdFOTFEa1BySWV2emx0Wms4UTRaNmpKeEtaWWdTYThUSVMzUXRVbTRpN1dnRHg2RnlEN2QzengzTXEyOW5sRl82WFo3cTJqVjRZVA",
+      "source": "Son Dakika",
+      "id": "CBMioAFBVV95cUxQWlVidkMtaDlFeFVieEZzTUZ0WE9iQlYzYnB3THdKLTd3S0xjWDZXeU5IaGVqNUM1YzZmcnh6Vmw4V2JJVVgtNFE0UUVLbXJaWXFqczhWVDFmbnhwSTBERXp6eUptRUtoVzBrT0lLek9EQjlrZ0k3N2NrbGdqT1lPQXNJSHFuZnRET3dQMmZ6bnZENlhwTUtqZ3hja0dDMXFG0gGcAUFVX3lxTFByWHNnbVRxTGlIYWpSNlBTWE1xdzlRM0ZwNkM5TGpoQU02UUNZb0pRTzZJWTNDZENKakdEX3pfdGZDdXQyazhOOEFSRzhXZnZHaGdFOTFEa1BySWV2emx0Wms4UTRaNmpKeEtaWWdTYThUSVMzUXRVbTRpN1dnRHg2RnlEN2QzengzTXEyOW5sRl82WFo3cTJqVjRZVA",
+      "crawledAt": "2026-08-22T20:15:37.103Z"
+    },
+    {
       "title": "Mardin'de otomobiller çarpıştı: 1 ölü, 4 yaralı",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDZIVzRlQ2ZyekZ2YWpQMW1uVkxtWnJ4YzVYSFlmMmZBVTE4Nk1qYnFVM1BwVldZY0RZb0MtTmNYLXQwMk1JVzlfX2x1TU40S2lsVGg3X25MMmJtYzlUd2ZYdHlOOHE1RldqWURpN05WaVdCWmZNZGFvREVsWjlEU0VNNV9zZVVQLWV5bjcwblJ6XzhYbkhsQVlkaERVNDV1U1RGZmNjVmRLd9IBrwFBVV95cUxPN3kwQjRPdTRZeUQtZzhkaG90NEFxLW02eFlZZWRRRnkwZGJ5dmlCZ3VPaVkzaVZVTWU2eWtrSWhLMjdzUU1YVzhuZVRwSUZRSVRCUHMzaVpfeHpiZU1JSWlIdlloRi1wVnJEekJIUjd6emw2OVlXLTkzTGVyN1YtU3lNZl9sOG44RUdQRElTS3lqa0Z1UHliTUZqYXFNWEgxakx3WUJwLUpfRnZSaG9j?oc=5",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Hürriyet",
       "id": "CBMipgFBVV95cUxPcGZtTjJXUWNYUGNqTUlkQVc1OEZPYk96V0gwMjFBTU80S3liYVh6RkZJbkdmaTUyZVN0d19TY2NMSUJDbWJSS1RfLWlQMmYxTTJMX0JUSjBfbnk2ZGtYV25GdVhUeEdQbU0zbUFoWmhTdnBIWHQ4XzctN0h1eC1YV1BYYUgwYWZpNDByZC1BMHRmN0dGSTE1MFhuamU1amxIMHYwVG5n",
       "crawledAt": "2026-07-31T13:13:06.818Z"
-    },
-    {
-      "title": "Evlerin kapılarını yoklayıp açmaya çalışan şüpheliler kamerada",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa1hKQXBjN2ZZa0U5UVNvQ3pQV0VDQldRNW92bGIxWnRnRUlOWmMzbGZWT3gxMGstZThMQkpLa1gxSEN3MUlWT0N2Vll4Qmx2R0RoQnZCcS15NEtsaVM1Znk2VG9KekNsRVpLem1CWS1ZTU4wOTR3cFViZFVTZjFPdUJVQWhPS20tOG9DSUpkdmtsSWhpdmtjaDl4TVdBNzRDQ1FIbEYwVjBKMG5ER1HSAbMBQVVfeXFMT2ZXSEE4MEM3QW9PX2VXM3l0ZHFXT3dCRmNZb1Z2R3ZabFozTmM1N3p6cTdvdnhIdFNNbXRoY1dOQW1CZkt5X1hBM2NqbGh3ZGg4OXZfdFh6cWVJV3NiemFhVzdIU2l2My0zcGtYaUdRUmkweE9RUjlhVTNUVHhkNmVpTVZJMHRVSlE3UWN4OWZHMnFPV25nWWJFNXVzei1Qd3FFcEdmVGhnSS1OMzZ4M3B1MU0?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "guid": "CBMirgFBVV95cUxPa1hKQXBjN2ZZa0U5UVNvQ3pQV0VDQldRNW92bGIxWnRnRUlOWmMzbGZWT3gxMGstZThMQkpLa1gxSEN3MUlWT0N2Vll4Qmx2R0RoQnZCcS15NEtsaVM1Znk2VG9KekNsRVpLem1CWS1ZTU4wOTR3cFViZFVTZjFPdUJVQWhPS20tOG9DSUpkdmtsSWhpdmtjaDl4TVdBNzRDQ1FIbEYwVjBKMG5ER1HSAbMBQVVfeXFMT2ZXSEE4MEM3QW9PX2VXM3l0ZHFXT3dCRmNZb1Z2R3ZabFozTmM1N3p6cTdvdnhIdFNNbXRoY1dOQW1CZkt5X1hBM2NqbGh3ZGg4OXZfdFh6cWVJV3NiemFhVzdIU2l2My0zcGtYaUdRUmkweE9RUjlhVTNUVHhkNmVpTVZJMHRVSlE3UWN4OWZHMnFPV25nWWJFNXVzei1Qd3FFcEdmVGhnSS1OMzZ4M3B1MU0",
-      "source": "DHA | Demirören Haber Ajansı",
-      "id": "CBMirgFBVV95cUxPa1hKQXBjN2ZZa0U5UVNvQ3pQV0VDQldRNW92bGIxWnRnRUlOWmMzbGZWT3gxMGstZThMQkpLa1gxSEN3MUlWT0N2Vll4Qmx2R0RoQnZCcS15NEtsaVM1Znk2VG9KekNsRVpLem1CWS1ZTU4wOTR3cFViZFVTZjFPdUJVQWhPS20tOG9DSUpkdmtsSWhpdmtjaDl4TVdBNzRDQ1FIbEYwVjBKMG5ER1HSAbMBQVVfeXFMT2ZXSEE4MEM3QW9PX2VXM3l0ZHFXT3dCRmNZb1Z2R3ZabFozTmM1N3p6cTdvdnhIdFNNbXRoY1dOQW1CZkt5X1hBM2NqbGh3ZGg4OXZfdFh6cWVJV3NiemFhVzdIU2l2My0zcGtYaUdRUmkweE9RUjlhVTNUVHhkNmVpTVZJMHRVSlE3UWN4OWZHMnFPV25nWWJFNXVzei1Qd3FFcEdmVGhnSS1OMzZ4M3B1MU0",
-      "crawledAt": "2026-07-31T13:13:06.818Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-08-22"
   },
   "logs": [
+    {
+      "id": "mvhn740kz",
+      "timestamp": "2026-08-22T20:15:37.653Z",
+      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Silahlı Saldırı: Bir Kişi H...\"",
+      "type": "info"
+    },
+    {
+      "id": "18dnugpno",
+      "timestamp": "2026-08-22T20:15:37.114Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "t2s4y4ti4",
+      "timestamp": "2026-08-22T20:15:37.109Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "5f73kzyg2",
+      "timestamp": "2026-08-22T20:15:37.091Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "udynfrakj",
+      "timestamp": "2026-08-22T20:15:36.482Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "peiybjw9z",
+      "timestamp": "2026-08-22T20:15:36.469Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "lz5wf6pqz",
       "timestamp": "2026-08-22T19:44:10.726Z",
@@ -5375,42 +5411,6 @@
       "id": "f527irq3k",
       "timestamp": "2026-08-22T02:13:03.261Z",
       "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "kaq7rxz7x",
-      "timestamp": "2026-08-22T02:13:02.636Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "1aa7k3vdd",
-      "timestamp": "2026-08-22T02:13:02.622Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "3vi382qfu",
-      "timestamp": "2026-08-22T00:54:14.652Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "yvk9s4lma",
-      "timestamp": "2026-08-22T00:54:14.636Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "fpxdgjn8a",
-      "timestamp": "2026-08-22T00:54:14.004Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "wb5w6pbr7",
-      "timestamp": "2026-08-22T00:54:13.990Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
