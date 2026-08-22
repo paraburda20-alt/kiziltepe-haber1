@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "uwm1vpg2j",
+      "timestamp": "2026-08-22T05:54:52.005Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ki3he5qj4",
+      "timestamp": "2026-08-22T05:54:51.990Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "znjhs0oba",
+      "timestamp": "2026-08-22T05:54:51.425Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "38nyqq5gi",
+      "timestamp": "2026-08-22T05:54:51.412Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "8raqb6gic",
       "timestamp": "2026-08-22T05:29:38.579Z",
       "message": "Günlük sabah raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "1j2q0u3pi",
       "timestamp": "2026-08-21T11:50:37.522Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de Korkunç Olay! Pompalı Tüfekle ...\"",
-      "type": "info"
-    },
-    {
-      "id": "mq2smzb3u",
-      "timestamp": "2026-08-21T11:50:36.884Z",
-      "message": "Telegram bildirimi gönderildi: \"Pompalı tüfekle oynarken kendini vurdu; ...\"",
-      "type": "info"
-    },
-    {
-      "id": "8pki7i2d5",
-      "timestamp": "2026-08-21T11:50:36.222Z",
-      "message": "Telegram bildirimi gönderildi: \"Pompalı tüfekle oynarken kendini vurdu; ...\"",
-      "type": "info"
-    },
-    {
-      "id": "qf1pg7roz",
-      "timestamp": "2026-08-21T11:50:35.544Z",
-      "message": "Telegram bildirimi gönderildi: \"Pompalı tüfekle oynarken kendini vurdu; ...\"",
-      "type": "info"
-    },
-    {
-      "id": "r09td7zfh",
-      "timestamp": "2026-08-21T11:50:34.862Z",
-      "message": "Telegram bildirimi gönderildi: \"Pompalı tüfekle oynarken kendini vurdu; ...\"",
       "type": "info"
     }
   ]
