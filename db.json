@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "zj8qiidv3",
+      "timestamp": "2026-08-22T22:15:30.384Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "8r8ksres0",
+      "timestamp": "2026-08-22T22:15:30.369Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "sd9h43j18",
+      "timestamp": "2026-08-22T22:15:29.522Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "xrckx36u6",
+      "timestamp": "2026-08-22T22:15:29.509Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "7n7i57qfd",
       "timestamp": "2026-08-22T21:44:00.083Z",
       "message": "Telegram bildirimi gönderildi: \"Pompalı tüfekle oynarken kendini vurdu; ...\"",
@@ -5387,30 +5411,6 @@
       "id": "xzlj530nx",
       "timestamp": "2026-08-22T05:29:37.597Z",
       "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "wrwcy32gu",
-      "timestamp": "2026-08-22T05:29:37.588Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "rqggb8bdr",
-      "timestamp": "2026-08-22T05:29:37.572Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ezwh1xsox",
-      "timestamp": "2026-08-22T05:29:37.025Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "ma9ahqfiq",
-      "timestamp": "2026-08-22T05:29:37.011Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
