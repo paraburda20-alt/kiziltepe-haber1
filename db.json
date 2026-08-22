@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "dpwnnb8ma",
+      "timestamp": "2026-08-22T18:20:21.787Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "4bzhv3gy0",
+      "timestamp": "2026-08-22T18:20:21.776Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "1xrlrzw26",
+      "timestamp": "2026-08-22T18:20:21.217Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "c7t0ebk8l",
+      "timestamp": "2026-08-22T18:20:21.207Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "k1twgrm8o",
       "timestamp": "2026-08-22T17:43:37.144Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "3vcfmldsu",
       "timestamp": "2026-08-21T22:17:30.187Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "8pahho36s",
-      "timestamp": "2026-08-21T21:46:51.939Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de tüfekle vurulan 18 yaşındaki g...\"",
-      "type": "info"
-    },
-    {
-      "id": "eet6p9f3r",
-      "timestamp": "2026-08-21T21:46:51.595Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "w267p8qwb",
-      "timestamp": "2026-08-21T21:46:51.589Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "6y8cefit9",
-      "timestamp": "2026-08-21T21:46:51.572Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
