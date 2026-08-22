@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "jk80iz26m",
+      "timestamp": "2026-08-22T14:45:44.902Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "3r4ogf5tt",
+      "timestamp": "2026-08-22T14:45:44.891Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "5qle8474z",
+      "timestamp": "2026-08-22T14:45:44.021Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "lv913piay",
+      "timestamp": "2026-08-22T14:45:44.013Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "i18i8u2b8",
       "timestamp": "2026-08-22T14:15:05.415Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "ve9115524",
       "timestamp": "2026-08-21T19:06:43.307Z",
       "message": "Veritabanına 3 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "4zx7m8t9v",
-      "timestamp": "2026-08-21T19:06:43.291Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "g9u2a1k1w",
-      "timestamp": "2026-08-21T19:06:42.627Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "ad02hp8ce",
-      "timestamp": "2026-08-21T19:06:42.613Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "ax8fmqa13",
-      "timestamp": "2026-08-21T18:27:47.140Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de kadın sağlık çalışanlarını teh...\"",
       "type": "info"
     }
   ]
