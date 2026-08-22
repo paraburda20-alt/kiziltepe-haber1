@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "ias61qiy1",
+      "timestamp": "2026-08-22T11:43:20.923Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "3pn4ztvcx",
+      "timestamp": "2026-08-22T11:43:20.909Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 105 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "yv4vyp10p",
+      "timestamp": "2026-08-22T11:43:20.295Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "u9fzva28w",
+      "timestamp": "2026-08-22T11:43:20.282Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "2efr1vazt",
       "timestamp": "2026-08-22T11:15:37.520Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "dnr7uhyf1",
       "timestamp": "2026-08-21T16:33:44.495Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "plt5k727o",
-      "timestamp": "2026-08-21T16:33:42.671Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "zpoqz79cb",
-      "timestamp": "2026-08-21T16:33:42.163Z",
-      "message": "Telegram bildirimi gönderildi: \"Evde vurulan genç hastanede öldü...\"",
-      "type": "info"
-    },
-    {
-      "id": "x4ozpv9a2",
-      "timestamp": "2026-08-21T16:33:41.687Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "btqpcrmoj",
-      "timestamp": "2026-08-21T16:33:41.682Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
