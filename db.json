@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "w94z6b2wd",
+      "timestamp": "2026-08-22T15:14:35.930Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "yhmcy9by4",
+      "timestamp": "2026-08-22T15:14:35.914Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "lfbbrd9bw",
+      "timestamp": "2026-08-22T15:14:35.282Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "d13ewt5lm",
+      "timestamp": "2026-08-22T15:14:35.268Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "jk80iz26m",
       "timestamp": "2026-08-22T14:45:44.902Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "nu3id1r75",
       "timestamp": "2026-08-21T19:06:45.043Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de sağlık çalışanlarına tehdit iç...\"",
-      "type": "info"
-    },
-    {
-      "id": "tqpm0s7go",
-      "timestamp": "2026-08-21T19:06:44.345Z",
-      "message": "Telegram bildirimi gönderildi: \"Kadın sağlık emekçilerini taciz ve tehdi...\"",
-      "type": "info"
-    },
-    {
-      "id": "71g3stp5j",
-      "timestamp": "2026-08-21T19:06:43.685Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de sağlık çalışanına tehdit: Tutu...\"",
-      "type": "info"
-    },
-    {
-      "id": "a916yt8hb",
-      "timestamp": "2026-08-21T19:06:43.313Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "ve9115524",
-      "timestamp": "2026-08-21T19:06:43.307Z",
-      "message": "Veritabanına 3 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
