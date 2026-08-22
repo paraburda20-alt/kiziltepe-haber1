@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "u0b2kp6jt",
+      "timestamp": "2026-08-22T04:03:42.536Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ue5svzgp7",
+      "timestamp": "2026-08-22T04:03:42.522Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "9wvip85l6",
+      "timestamp": "2026-08-22T04:03:41.967Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "0cels06zu",
+      "timestamp": "2026-08-22T04:03:41.955Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "1ic4mhv95",
       "timestamp": "2026-08-22T03:13:17.662Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "tqka8jmy5",
       "timestamp": "2026-08-21T10:56:02.049Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de zincirleme kaza: 3 yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "vxmcdvv0u",
-      "timestamp": "2026-08-21T10:56:01.177Z",
-      "message": "Telegram bildirimi gönderildi: \"Vefat: İbrahim Halil Önal...\"",
-      "type": "info"
-    },
-    {
-      "id": "vscxhkves",
-      "timestamp": "2026-08-21T10:56:00.532Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe de ateşli Silahla bir kişi ağı...\"",
-      "type": "info"
-    },
-    {
-      "id": "rauh5kn3f",
-      "timestamp": "2026-08-21T10:55:59.790Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de genç yanlışlıkla kendini silah...\"",
-      "type": "info"
-    },
-    {
-      "id": "lriho9mgj",
-      "timestamp": "2026-08-21T10:55:59.144Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de iki otomobil çarpıştı: 2 yaral...\"",
       "type": "info"
     }
   ]
