@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "52w5wtdz6",
+      "timestamp": "2026-08-22T08:55:22.512Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "vtrlqueml",
+      "timestamp": "2026-08-22T08:55:22.499Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "40pjtij5g",
+      "timestamp": "2026-08-22T08:55:21.959Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "9mbxfh4bu",
+      "timestamp": "2026-08-22T08:55:21.945Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "9wrsjcc6y",
       "timestamp": "2026-08-22T08:21:34.999Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "y22w16c0o",
       "timestamp": "2026-08-21T13:40:12.754Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Zincirleme Trafik Kazası: 3...\"",
-      "type": "info"
-    },
-    {
-      "id": "rs3bimh0r",
-      "timestamp": "2026-08-21T13:40:12.089Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de genç yanlışlıkla ken...\"",
-      "type": "info"
-    },
-    {
-      "id": "3mdbv3hdw",
-      "timestamp": "2026-08-21T13:40:11.409Z",
-      "message": "Telegram bildirimi gönderildi: \"Pompalı tüfekle oynarken kendini vurdu; ...\"",
-      "type": "info"
-    },
-    {
-      "id": "lilfbru6b",
-      "timestamp": "2026-08-21T13:40:10.690Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de silahlı kavga: 1 yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "znib324q6",
-      "timestamp": "2026-08-21T13:40:10.001Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Trafik Kazası: 2 Yaralı...\"",
       "type": "info"
     }
   ]
