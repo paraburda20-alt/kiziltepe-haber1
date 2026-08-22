@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "9wrsjcc6y",
+      "timestamp": "2026-08-22T08:21:34.999Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "r2tfirywf",
+      "timestamp": "2026-08-22T08:21:34.988Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "o75wztag2",
+      "timestamp": "2026-08-22T08:21:33.936Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "fnykiw0sj",
+      "timestamp": "2026-08-22T08:21:33.925Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "f8y8wpv0s",
       "timestamp": "2026-08-22T07:53:05.499Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "znib324q6",
       "timestamp": "2026-08-21T13:40:10.001Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Trafik Kazası: 2 Yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "09xjymxjj",
-      "timestamp": "2026-08-21T13:40:09.304Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Zincirleme Kazada 3 Yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "9km54e7ra",
-      "timestamp": "2026-08-21T13:40:08.614Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Silahlı Kavga: 1 Yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "hmumlc1q5",
-      "timestamp": "2026-08-21T13:40:07.974Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de silahlı kavga: 1 ağır yaral...\"",
-      "type": "info"
-    },
-    {
-      "id": "s60czdgkf",
-      "timestamp": "2026-08-21T13:40:07.290Z",
-      "message": "Telegram bildirimi gönderildi: \"Yakınları kanlar içinde buldu! 18 yaşınd...\"",
       "type": "info"
     }
   ]
