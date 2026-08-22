@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "f8y8wpv0s",
+      "timestamp": "2026-08-22T07:53:05.499Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "mvkhny9by",
+      "timestamp": "2026-08-22T07:53:05.484Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "q7jpdl6ht",
+      "timestamp": "2026-08-22T07:53:04.895Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "8yfh6lkmr",
+      "timestamp": "2026-08-22T07:53:04.883Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "39n1pn30z",
       "timestamp": "2026-08-22T07:10:05.970Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "s60czdgkf",
       "timestamp": "2026-08-21T13:40:07.290Z",
       "message": "Telegram bildirimi gönderildi: \"Yakınları kanlar içinde buldu! 18 yaşınd...\"",
-      "type": "info"
-    },
-    {
-      "id": "nbmtqova5",
-      "timestamp": "2026-08-21T13:40:06.656Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de kayalıklardan düşen kişi yaral...\"",
-      "type": "info"
-    },
-    {
-      "id": "jyhxbz79p",
-      "timestamp": "2026-08-21T13:40:06.013Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de Kaya ailesinin 3 ferdinin ö...\"",
-      "type": "info"
-    },
-    {
-      "id": "7sguo5nhs",
-      "timestamp": "2026-08-21T13:40:05.671Z",
-      "message": "12 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "ti7opwzl2",
-      "timestamp": "2026-08-21T13:40:05.665Z",
-      "message": "Veritabanına 12 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
