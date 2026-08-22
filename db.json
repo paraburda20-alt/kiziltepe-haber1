@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "zqclm5t83",
+      "timestamp": "2026-08-22T16:47:56.460Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "rux5bm03u",
+      "timestamp": "2026-08-22T16:47:56.439Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "my9s7e6xe",
+      "timestamp": "2026-08-22T16:47:55.756Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "z8q6oazui",
+      "timestamp": "2026-08-22T16:47:55.742Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "t951tgwk9",
       "timestamp": "2026-08-22T16:16:34.711Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "0fhmqhlo4",
       "timestamp": "2026-08-21T20:47:30.968Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "b69yu137e",
-      "timestamp": "2026-08-21T20:18:47.247Z",
-      "message": "Telegram bildirimi gönderildi: \"DEM Parti'den ihraç edilen Kızıltepe Bel...\"",
-      "type": "info"
-    },
-    {
-      "id": "stpcxya5e",
-      "timestamp": "2026-08-21T20:18:46.731Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "kf0qjce54",
-      "timestamp": "2026-08-21T20:18:46.680Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "v13e37dj0",
-      "timestamp": "2026-08-21T20:18:46.667Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
