@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kızıltepe’de kavga: 1 kişi öldü, 11 kişi yaralandı",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41OUJ2UGh2b0tRcks0VVdGXzMzc1VTQ0wzUzdmNGZabWJNNlJkOGtkbnZMS3ZMN0VqYzIxR2NPc3JqdnhPbWdDemFqa2JzX3ZrbDU5VVlaY1EyV0Q4TDdnWU1QNDVQUQ?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 20:04:16 GMT",
+      "guid": "CBMiZkFVX3lxTE41OUJ2UGh2b0tRcks0VVdGXzMzc1VTQ0wzUzdmNGZabWJNNlJkOGtkbnZMS3ZMN0VqYzIxR2NPc3JqdnhPbWdDemFqa2JzX3ZrbDU5VVlaY1EyV0Q4TDdnWU1QNDVQUQ",
+      "source": "Rudaw",
+      "id": "CBMiZkFVX3lxTE41OUJ2UGh2b0tRcks0VVdGXzMzc1VTQ0wzUzdmNGZabWJNNlJkOGtkbnZMS3ZMN0VqYzIxR2NPc3JqdnhPbWdDemFqa2JzX3ZrbDU5VVlaY1EyV0Q4TDdnWU1QNDVQUQ",
+      "crawledAt": "2026-08-23T13:10:21.706Z"
+    },
+    {
       "title": "Mardin - Kızıltepe’de anız yangınında traktör ve ekipmanları yandı",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGZtTjJXUWNYUGNqTUlkQVc1OEZPYk96V0gwMjFBTU80S3liYVh6RkZJbkdmaTUyZVN0d19TY2NMSUJDbWJSS1RfLWlQMmYxTTJMX0JUSjBfbnk2ZGtYV25GdVhUeEdQbU0zbUFoWmhTdnBIWHQ4XzctN0h1eC1YV1BYYUgwYWZpNDByZC1BMHRmN0dGSTE1MFhuamU1amxIMHYwVG5n?oc=5",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "SonDakika",
       "id": "CBMilgFBVV95cUxNZjJyek43Tm5hZEdZdGp5d184ZTZfcGNRMnZ0dV9QX1R0bHNVOThSWW42NHRSRGpUWnhNUjNFeDlIeTJHalEwdzh4VXJjQ0JKMFozTjRqLXRNNVVZRE8xOE1lSFdhMEdwNHhRVEY2ZFNVdXBkNl9rSTVQcUVfN2dndEdKYzJhN1FYT1YzOWt4UVg4cjNNX0HSAZYBQVVfeXFMTWYycnpON05uYWRHWXRqeXdfOGU2X3BjUTJ2dHVfUF9UdGxzVTk4UlluNjR0UkRqVFp4TVIzRXg5SHkyR2pRMHc4eFVyY0NCSjBaM040ai10TTVVWURPMThNZUhXYTBHcDR4UVRGNmRTVXVwZDZfa0k1UHFFXzdnZ3RHSmMyYTdRWE9WMzlreFFYOHIzTV9B",
       "crawledAt": "2026-07-31T15:36:09.849Z"
-    },
-    {
-      "title": "Kızıltepe'den Şemdinli'ye uzanan azim: zabıta memurundan doktor Şemsettin Demir'e veda",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2RkSTNPcmFXWC1PYnpLcXlnQk5aYTNXMkVwSmRRUXhuWXY0alVJRnlKUjEtSWdlLTlVOGlwT1VhX21kMHZKWGtadEZOYUNGeXBOSUVmQ2cyVU80bGJ4N3d5VDA3ZC1CZGlONDFOTlh0U3NVUTZNcFQzZmx4UEwzYXlocXhZZHczRGxvZ3VIS2dUSjhfS1VXRnQ5UVNnd3RqS3hIYVNHay1zaG0xbE5TcHZmSGw5QmE1OTRj0gHAAUFVX3lxTFBvVUtOZmxjSnBXNDdhekgwempGOHo5dlItLUNnU0Y0QmstT3o3YWxJOWJ2SzdURWcyQXl5YU5jUjhSb2JwZ3NvWGV0RXBrd3NycnJ4MnkyR0tJdVpiVFlvRFh0UGE4SjI5aTFrVktIVGM4bzFCVzA0Z21UQTl1MExSdkNQMGxqNnNqZ1dTWU8tRDhSb1B6MXoxVVpBS1hLR2ZJd2xOTlBUbjU3WW04NmpXUWprN3k4QTN0X0hMSW5adg?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 13:30:41 GMT",
-      "guid": "CBMiuwFBVV95cUxPZ2RkSTNPcmFXWC1PYnpLcXlnQk5aYTNXMkVwSmRRUXhuWXY0alVJRnlKUjEtSWdlLTlVOGlwT1VhX21kMHZKWGtadEZOYUNGeXBOSUVmQ2cyVU80bGJ4N3d5VDA3ZC1CZGlONDFOTlh0U3NVUTZNcFQzZmx4UEwzYXlocXhZZHczRGxvZ3VIS2dUSjhfS1VXRnQ5UVNnd3RqS3hIYVNHay1zaG0xbE5TcHZmSGw5QmE1OTRj0gHAAUFVX3lxTFBvVUtOZmxjSnBXNDdhekgwempGOHo5dlItLUNnU0Y0QmstT3o3YWxJOWJ2SzdURWcyQXl5YU5jUjhSb2JwZ3NvWGV0RXBrd3NycnJ4MnkyR0tJdVpiVFlvRFh0UGE4SjI5aTFrVktIVGM4bzFCVzA0Z21UQTl1MExSdkNQMGxqNnNqZ1dTWU8tRDhSb1B6MXoxVVpBS1hLR2ZJd2xOTlBUbjU3WW04NmpXUWprN3k4QTN0X0hMSW5adg",
-      "source": "Aksiyon.com.TR",
-      "id": "CBMiuwFBVV95cUxPZ2RkSTNPcmFXWC1PYnpLcXlnQk5aYTNXMkVwSmRRUXhuWXY0alVJRnlKUjEtSWdlLTlVOGlwT1VhX21kMHZKWGtadEZOYUNGeXBOSUVmQ2cyVU80bGJ4N3d5VDA3ZC1CZGlONDFOTlh0U3NVUTZNcFQzZmx4UEwzYXlocXhZZHczRGxvZ3VIS2dUSjhfS1VXRnQ5UVNnd3RqS3hIYVNHay1zaG0xbE5TcHZmSGw5QmE1OTRj0gHAAUFVX3lxTFBvVUtOZmxjSnBXNDdhekgwempGOHo5dlItLUNnU0Y0QmstT3o3YWxJOWJ2SzdURWcyQXl5YU5jUjhSb2JwZ3NvWGV0RXBrd3NycnJ4MnkyR0tJdVpiVFlvRFh0UGE4SjI5aTFrVktIVGM4bzFCVzA0Z21UQTl1MExSdkNQMGxqNnNqZ1dTWU8tRDhSb1B6MXoxVVpBS1hLR2ZJd2xOTlBUbjU3WW04NmpXUWprN3k4QTN0X0hMSW5adg",
-      "crawledAt": "2026-07-31T15:36:09.849Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-08-22"
   },
   "logs": [
+    {
+      "id": "snqpsgr6z",
+      "timestamp": "2026-08-23T13:10:22.228Z",
+      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de kavga: 1 kişi öldü, 11 kişi...\"",
+      "type": "info"
+    },
+    {
+      "id": "13xi98j8n",
+      "timestamp": "2026-08-23T13:10:21.718Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "m7nct9c3r",
+      "timestamp": "2026-08-23T13:10:21.712Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "x3r6346ig",
+      "timestamp": "2026-08-23T13:10:21.694Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "r56fxaoxx",
+      "timestamp": "2026-08-23T13:10:21.042Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "h2ljrft45",
+      "timestamp": "2026-08-23T13:10:21.030Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "jadlo43no",
       "timestamp": "2026-08-23T12:27:23.255Z",
@@ -5375,42 +5411,6 @@
       "id": "zscjqfnm8",
       "timestamp": "2026-08-22T17:15:20.979Z",
       "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "ohhs0a9kl",
-      "timestamp": "2026-08-22T17:15:20.974Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "s34b4owl9",
-      "timestamp": "2026-08-22T17:15:20.956Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "xgiq7hg2d",
-      "timestamp": "2026-08-22T17:15:20.356Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "l9hm9v1l9",
-      "timestamp": "2026-08-22T17:15:20.343Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "zqclm5t83",
-      "timestamp": "2026-08-22T16:47:56.460Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "rux5bm03u",
-      "timestamp": "2026-08-22T16:47:56.439Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
