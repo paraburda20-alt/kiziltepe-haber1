@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "5arszzbmw",
+      "timestamp": "2026-08-23T02:24:15.314Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "hbuy6eer3",
+      "timestamp": "2026-08-23T02:24:15.296Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "x3573fovj",
+      "timestamp": "2026-08-23T02:24:14.717Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "rax22ibfa",
+      "timestamp": "2026-08-23T02:24:14.703Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "geayow0oe",
       "timestamp": "2026-08-23T00:58:54.036Z",
       "message": "Telegram bildirimi gönderildi: \"Derinkuyu’da Faruk Kızıltepe Hayatını Ka...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "9mbxfh4bu",
       "timestamp": "2026-08-22T08:55:21.945Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "9wrsjcc6y",
-      "timestamp": "2026-08-22T08:21:34.999Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "r2tfirywf",
-      "timestamp": "2026-08-22T08:21:34.988Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "o75wztag2",
-      "timestamp": "2026-08-22T08:21:33.936Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "fnykiw0sj",
-      "timestamp": "2026-08-22T08:21:33.925Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
