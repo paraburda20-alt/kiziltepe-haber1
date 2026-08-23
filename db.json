@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Derinkuyu’da Faruk Kızıltepe Hayatını Kaybetti",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fbFhhZGRYSGFZano0UGNxaTJDblZFS3hxdVpUOTNoZFBZQW9WeGswWmlFQU5USXFyaE9oMFBzYUlXQWhoNGk5ODdzUWM5YmhXaV9vZ3FreFZGMEp5eUlHelhXdjZTd2Y3emd4TXR5cFRlSV8teWtfRjlB0gF_QVVfeXFMUHdMOEVpVFZsWF9pX19TREhrcUtPQ09LcVVTTVdWQ0poczAzY2s0elM4c0JBajdnTmRIbV9HdndoeERPRHlwZTRHSGkzdHN1V1d2OVVsRHhZT2lOQ2ZWNjE2bVdXVVFueVAzT0Q4MGxIVlRxX2RVaDFuZGhhOGE0NA?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 21:16:00 GMT",
+      "guid": "CBMiekFVX3lxTE9fbFhhZGRYSGFZano0UGNxaTJDblZFS3hxdVpUOTNoZFBZQW9WeGswWmlFQU5USXFyaE9oMFBzYUlXQWhoNGk5ODdzUWM5YmhXaV9vZ3FreFZGMEp5eUlHelhXdjZTd2Y3emd4TXR5cFRlSV8teWtfRjlB0gF_QVVfeXFMUHdMOEVpVFZsWF9pX19TREhrcUtPQ09LcVVTTVdWQ0poczAzY2s0elM4c0JBajdnTmRIbV9HdndoeERPRHlwZTRHSGkzdHN1V1d2OVVsRHhZT2lOQ2ZWNjE2bVdXVVFueVAzT0Q4MGxIVlRxX2RVaDFuZGhhOGE0NA",
+      "source": "Fib Haber",
+      "id": "CBMiekFVX3lxTE9fbFhhZGRYSGFZano0UGNxaTJDblZFS3hxdVpUOTNoZFBZQW9WeGswWmlFQU5USXFyaE9oMFBzYUlXQWhoNGk5ODdzUWM5YmhXaV9vZ3FreFZGMEp5eUlHelhXdjZTd2Y3emd4TXR5cFRlSV8teWtfRjlB0gF_QVVfeXFMUHdMOEVpVFZsWF9pX19TREhrcUtPQ09LcVVTTVdWQ0poczAzY2s0elM4c0JBajdnTmRIbV9HdndoeERPRHlwZTRHSGkzdHN1V1d2OVVsRHhZT2lOQ2ZWNjE2bVdXVVFueVAzT0Q4MGxIVlRxX2RVaDFuZGhhOGE0NA",
+      "crawledAt": "2026-08-23T00:58:53.560Z"
+    },
+    {
       "title": "Pompalı tüfekle oynarken kendini vurdu; hastanede yaşamını yitirdi (2)",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZExCTlRWZUY2Ulk2bEpuRVBaQ3hHZXVzLTJEV1FGSlFuVXVxOVhTQUJSd01OMUJHZV94TmwxSjZ0RTBxbk9oc29PaHFEUzhRSHBJQ1NCMkhDYjhQdWpLaVRuMllzc3R5WkwzaTJxQmJGeGZKeTNYM3BhdUNsTWhYb01KTWNYME53RGFnbFI4c0ZIZWxya2U4cHgzSlUwU0xkMFliZW83YzdUbUJseldPYjBVV2MtYWV6dVFsa0RYYUNBcm1uTlNsTkdhYw?oc=5",
       "pubDate": "Fri, 21 Aug 2026 11:29:11 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Aksiyon.com.TR",
       "id": "CBMikwFBVV95cUxNeU0wMW43b2hLbFhqLXJFNVhlOTRYR2lFUFA5YzhxcnBkMUhkdXJiSGxpa0NiNzlvYWhZSkdhWmp5Mks1VGpFcnhobHNxV2tObExlbWtVci1qNXZaNzd1MmdkWjBSaFhweVdDMTZuZ252Y0pNdXBZbmJtTENYZXNkSXp2dm91ckZmeERMQTVHVVdXbUXSAZgBQVVfeXFMTV9Ta3FmWHl0SVZzeGJhWm5LbnR6VlFKZFNMckFIcTJpbXFidnpYYWQ4N0JpSzdUb1g3NUpOVEFkVFFvTVJjVTVGM09sQWd1VUplVnpkeF9tY2JCRDZwVnBmOXdNaGt5OE1sWnZsclJxWHpWZF9QdTRfTHVxM2VPTzR4ckRsdmZncGozUFc2UDE5SFMtOEc1cm8",
       "crawledAt": "2026-07-31T15:36:09.849Z"
-    },
-    {
-      "title": "Kızıltepe’de anız yangınları; saman balyası makinesi yandı",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3BnS1FLaURWa1ZMN1Fpd3RVMmZBbGhYOHowU092U0R0UVk3bVk1M3VmNW9iSXJoM2M2MVJqUmdDYW0yemxqc29PTlpwVlItVmlzcVE5SXVaOTRuZEIyUHlJSzZRLS1Ca3FYV0M5M1FKbG04N3U4QThlSHVIVmR4VFhvN0JnZ1RCeUJPbjlHNEdRS1g5Q0dxaHdHN3NzX2ZfQk0xazlwVGZkSkHSAbABQVVfeXFMT3Rvd05tdzY2M1N2WlpFTXFUWlcxTW14TjRGZjBrZlJKdi10STl3ZDRUTThJMVdrY3RhQWw0U3FLaFh1OURtUHhDUWpUTHBoRTdFeHFfanFYSEhNem55ZGFyRGpZR0RLRTdZbUVyMk9JTG5XVHF4blF6SUtMbExvWVZvaFBrVmJYWDJhVmNjQUsxcjN1T2R1VlNiYnpOaVFNbmNYNkpoWklnUklpTFZaLWw?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 07:00:00 GMT",
-      "guid": "CBMiqwFBVV95cUxQb3BnS1FLaURWa1ZMN1Fpd3RVMmZBbGhYOHowU092U0R0UVk3bVk1M3VmNW9iSXJoM2M2MVJqUmdDYW0yemxqc29PTlpwVlItVmlzcVE5SXVaOTRuZEIyUHlJSzZRLS1Ca3FYV0M5M1FKbG04N3U4QThlSHVIVmR4VFhvN0JnZ1RCeUJPbjlHNEdRS1g5Q0dxaHdHN3NzX2ZfQk0xazlwVGZkSkHSAbABQVVfeXFMT3Rvd05tdzY2M1N2WlpFTXFUWlcxTW14TjRGZjBrZlJKdi10STl3ZDRUTThJMVdrY3RhQWw0U3FLaFh1OURtUHhDUWpUTHBoRTdFeHFfanFYSEhNem55ZGFyRGpZR0RLRTdZbUVyMk9JTG5XVHF4blF6SUtMbExvWVZvaFBrVmJYWDJhVmNjQUsxcjN1T2R1VlNiYnpOaVFNbmNYNkpoWklnUklpTFZaLWw",
-      "source": "DHA | Demirören Haber Ajansı",
-      "id": "CBMiqwFBVV95cUxQb3BnS1FLaURWa1ZMN1Fpd3RVMmZBbGhYOHowU092U0R0UVk3bVk1M3VmNW9iSXJoM2M2MVJqUmdDYW0yemxqc29PTlpwVlItVmlzcVE5SXVaOTRuZEIyUHlJSzZRLS1Ca3FYV0M5M1FKbG04N3U4QThlSHVIVmR4VFhvN0JnZ1RCeUJPbjlHNEdRS1g5Q0dxaHdHN3NzX2ZfQk0xazlwVGZkSkHSAbABQVVfeXFMT3Rvd05tdzY2M1N2WlpFTXFUWlcxTW14TjRGZjBrZlJKdi10STl3ZDRUTThJMVdrY3RhQWw0U3FLaFh1OURtUHhDUWpUTHBoRTdFeHFfanFYSEhNem55ZGFyRGpZR0RLRTdZbUVyMk9JTG5XVHF4blF6SUtMbExvWVZvaFBrVmJYWDJhVmNjQUsxcjN1T2R1VlNiYnpOaVFNbmNYNkpoWklnUklpTFZaLWw",
-      "crawledAt": "2026-07-31T15:36:09.849Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-08-22"
   },
   "logs": [
+    {
+      "id": "geayow0oe",
+      "timestamp": "2026-08-23T00:58:54.036Z",
+      "message": "Telegram bildirimi gönderildi: \"Derinkuyu’da Faruk Kızıltepe Hayatını Ka...\"",
+      "type": "info"
+    },
+    {
+      "id": "rxgcknnw6",
+      "timestamp": "2026-08-23T00:58:53.569Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "ksjwxoniv",
+      "timestamp": "2026-08-23T00:58:53.565Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "151pgmpz4",
+      "timestamp": "2026-08-23T00:58:53.551Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "dbaldl9vy",
+      "timestamp": "2026-08-23T00:58:52.883Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "3lqu0ycpm",
+      "timestamp": "2026-08-23T00:58:52.872Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "prrko0bku",
       "timestamp": "2026-08-22T23:43:33.180Z",
@@ -5375,42 +5411,6 @@
       "id": "fnykiw0sj",
       "timestamp": "2026-08-22T08:21:33.925Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "f8y8wpv0s",
-      "timestamp": "2026-08-22T07:53:05.499Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "mvkhny9by",
-      "timestamp": "2026-08-22T07:53:05.484Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "q7jpdl6ht",
-      "timestamp": "2026-08-22T07:53:04.895Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "8yfh6lkmr",
-      "timestamp": "2026-08-22T07:53:04.883Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "39n1pn30z",
-      "timestamp": "2026-08-22T07:10:05.970Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "l3rf4pctn",
-      "timestamp": "2026-08-22T07:10:05.956Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 107 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
