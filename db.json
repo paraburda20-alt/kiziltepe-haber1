@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "d5g0uiuuu",
+      "timestamp": "2026-08-23T10:48:09.568Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "04zeqy36f",
+      "timestamp": "2026-08-23T10:48:09.554Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "mwbbnl7d8",
+      "timestamp": "2026-08-23T10:48:08.976Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "y94sowhki",
+      "timestamp": "2026-08-23T10:48:08.963Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "r561nemtm",
       "timestamp": "2026-08-23T10:17:10.845Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin - Kızıltepe’de anız yangınında tr...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "n93ikyt38",
       "timestamp": "2026-08-22T15:43:53.069Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "w94z6b2wd",
-      "timestamp": "2026-08-22T15:14:35.930Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "yhmcy9by4",
-      "timestamp": "2026-08-22T15:14:35.914Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "lfbbrd9bw",
-      "timestamp": "2026-08-22T15:14:35.282Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "d13ewt5lm",
-      "timestamp": "2026-08-22T15:14:35.268Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
