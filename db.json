@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kızıltepe'de kayalıktan düşen şahıs kurtarıldı",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemNLZ1ZWWndacDFTeXZmZ2R2V3JMUGNXa2czNU1fY251YmVickZvQzNRWnZ4SFBMUnYxOHU0UHJvZzQzREdPdkpXeEc3NG9KTm1TMTk2VnpkR0dyc0RSU2ZJdXdjemh0NW1VcHppM1dGWFlkbWtSS3oxWHpaUzNmUDU1SmlpbWZKVnpfMjd6QnFxOUpfeU1rd01qTEtnem_SAZoBQVVfeXFMTzlTRlZOMnh3MGVnYXJxNU91UWM0MkpXb3JFc1VkS29tQjVkLW8tbUkwQUhldHI0Wlp3c21acmJpdHg4WHRBMGNNRUtpUnRxaVJiU0JSeExuVmw0eTJkS1ROWE9pRG83Q0s4ME5FV2RDdWlSZDcwOWtSUlFGM2xlcWFmTDZ5bnlKUVNFNlI3cDQ5UGlvb1RDaUVMZw?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 18:36:00 GMT",
+      "guid": "CBMinwFBVV95cUxPemNLZ1ZWWndacDFTeXZmZ2R2V3JMUGNXa2czNU1fY251YmVickZvQzNRWnZ4SFBMUnYxOHU0UHJvZzQzREdPdkpXeEc3NG9KTm1TMTk2VnpkR0dyc0RSU2ZJdXdjemh0NW1VcHppM1dGWFlkbWtSS3oxWHpaUzNmUDU1SmlpbWZKVnpfMjd6QnFxOUpfeU1rd01qTEtnem_SAZoBQVVfeXFMTzlTRlZOMnh3MGVnYXJxNU91UWM0MkpXb3JFc1VkS29tQjVkLW8tbUkwQUhldHI0Wlp3c21acmJpdHg4WHRBMGNNRUtpUnRxaVJiU0JSeExuVmw0eTJkS1ROWE9pRG83Q0s4ME5FV2RDdWlSZDcwOWtSUlFGM2xlcWFmTDZ5bnlKUVNFNlI3cDQ5UGlvb1RDaUVMZw",
+      "source": "Haberler",
+      "id": "CBMinwFBVV95cUxPemNLZ1ZWWndacDFTeXZmZ2R2V3JMUGNXa2czNU1fY251YmVickZvQzNRWnZ4SFBMUnYxOHU0UHJvZzQzREdPdkpXeEc3NG9KTm1TMTk2VnpkR0dyc0RSU2ZJdXdjemh0NW1VcHppM1dGWFlkbWtSS3oxWHpaUzNmUDU1SmlpbWZKVnpfMjd6QnFxOUpfeU1rd01qTEtnem_SAZoBQVVfeXFMTzlTRlZOMnh3MGVnYXJxNU91UWM0MkpXb3JFc1VkS29tQjVkLW8tbUkwQUhldHI0Wlp3c21acmJpdHg4WHRBMGNNRUtpUnRxaVJiU0JSeExuVmw0eTJkS1ROWE9pRG83Q0s4ME5FV2RDdWlSZDcwOWtSUlFGM2xlcWFmTDZ5bnlKUVNFNlI3cDQ5UGlvb1RDaUVMZw",
+      "crawledAt": "2026-08-23T08:27:41.794Z"
+    },
+    {
       "title": "Kızıltepe’de anız yangınları; saman balyası makinesi yandı",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3BnS1FLaURWa1ZMN1Fpd3RVMmZBbGhYOHowU092U0R0UVk3bVk1M3VmNW9iSXJoM2M2MVJqUmdDYW0yemxqc29PTlpwVlItVmlzcVE5SXVaOTRuZEIyUHlJSzZRLS1Ca3FYV0M5M1FKbG04N3U4QThlSHVIVmR4VFhvN0JnZ1RCeUJPbjlHNEdRS1g5Q0dxaHdHN3NzX2ZfQk0xazlwVGZkSkHSAbABQVVfeXFMT3Rvd05tdzY2M1N2WlpFTXFUWlcxTW14TjRGZjBrZlJKdi10STl3ZDRUTThJMVdrY3RhQWw0U3FLaFh1OURtUHhDUWpUTHBoRTdFeHFfanFYSEhNem55ZGFyRGpZR0RLRTdZbUVyMk9JTG5XVHF4blF6SUtMbExvWVZvaFBrVmJYWDJhVmNjQUsxcjN1T2R1VlNiYnpOaVFNbmNYNkpoWklnUklpTFZaLWw?oc=5",
       "pubDate": "Sat, 27 Jun 2026 07:00:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "SonDakika",
       "id": "CBMioAFBVV95cUxOajNMTXl3QXR6dEdvOEVjWGRuYlY2MHdwRkRYaDQ4UmdZWTd0QThHcElfME1WX3FidXNJMUNOZVBXVENSdlZhTExIM2tfWU80M0oyVzR6bXNlUkxPSzlEbFNnTUhyeW4xdnZ3VHpKdVZMYkZNR0JXNUYyaXpTT1ZxajNNTU5sYU5hczNlU0hJbDg2aEozOEc3UC1MQkRJa0F30gGcAUFVX3lxTFBBRXJCSmhpd0JnSmhEUjVub3JoeEt3RmREU0ZzQnlreHRxNjc5MmFiREhmdWVmOXB4MHFMb0RBOGxWQjhWV1g0VUNkR0w2WFI0VVR0cl9ReFlwZi00MHY3cXVoeEFvUWNCbFYtM0xWYXRxZnhiWFUta0tfcjR6djVET3hBYVFDRU4yTEhyc3pWUmdSRERFZHNlMFZQdg",
       "crawledAt": "2026-07-31T15:36:09.849Z"
-    },
-    {
-      "title": "Kızıltepe'de Yangın Faciası: Hüseyin Kuzu Hayatını Kaybetti",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanJFQWpzbVp5Vm54YmY4U3VNNVBzTHh6NFpWZlhNVTVXRFEtUlIweTFvRFRjeUVIdUY4Nk90MnRaNFFJdmN3LVhIUDVybVpqWWpNc0FncGc3QmktRUt6YVgzX2Z1eGNzdzhfRVJTLXBlZi16T3dwT0hfaENja3pCQTNNZTAyak9sMlZzTVdXQnJldGtMaFpSQ0RLb3hLeTI0?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 17:13:21 GMT",
-      "guid": "CBMioAFBVV95cUxOanJFQWpzbVp5Vm54YmY4U3VNNVBzTHh6NFpWZlhNVTVXRFEtUlIweTFvRFRjeUVIdUY4Nk90MnRaNFFJdmN3LVhIUDVybVpqWWpNc0FncGc3QmktRUt6YVgzX2Z1eGNzdzhfRVJTLXBlZi16T3dwT0hfaENja3pCQTNNZTAyak9sMlZzTVdXQnJldGtMaFpSQ0RLb3hLeTI0",
-      "source": "SonDakika",
-      "id": "CBMioAFBVV95cUxOanJFQWpzbVp5Vm54YmY4U3VNNVBzTHh6NFpWZlhNVTVXRFEtUlIweTFvRFRjeUVIdUY4Nk90MnRaNFFJdmN3LVhIUDVybVpqWWpNc0FncGc3QmktRUt6YVgzX2Z1eGNzdzhfRVJTLXBlZi16T3dwT0hfaENja3pCQTNNZTAyak9sMlZzTVdXQnJldGtMaFpSQ0RLb3hLeTI0",
-      "crawledAt": "2026-07-31T15:36:09.849Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-08-22"
   },
   "logs": [
+    {
+      "id": "ipvj08zrn",
+      "timestamp": "2026-08-23T08:27:42.383Z",
+      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de kayalıktan düşen şahıs kurt...\"",
+      "type": "info"
+    },
+    {
+      "id": "axeu0ijgq",
+      "timestamp": "2026-08-23T08:27:41.802Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "4ttxhfu8s",
+      "timestamp": "2026-08-23T08:27:41.798Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "o8poa7zcr",
+      "timestamp": "2026-08-23T08:27:41.781Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "hmnhj2jqp",
+      "timestamp": "2026-08-23T08:27:40.815Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "rhgnqsu8q",
+      "timestamp": "2026-08-23T08:27:40.805Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "otsq36wm6",
       "timestamp": "2026-08-23T07:56:49.467Z",
@@ -5375,42 +5411,6 @@
       "id": "y7e2rz6h5",
       "timestamp": "2026-08-22T12:27:00.592Z",
       "message": "Telegram bildirimi gönderildi: \"Katil zanlısı, saldırı öncesi olay yerin...\"",
-      "type": "info"
-    },
-    {
-      "id": "erws5b41x",
-      "timestamp": "2026-08-22T12:27:00.267Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "jskfgl1kc",
-      "timestamp": "2026-08-22T12:27:00.261Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "twf2dkcvf",
-      "timestamp": "2026-08-22T12:27:00.244Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 103 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "8xet4u27s",
-      "timestamp": "2026-08-22T12:26:59.626Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "biect6r45",
-      "timestamp": "2026-08-22T12:26:59.612Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "ias61qiy1",
-      "timestamp": "2026-08-22T11:43:20.923Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
