@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kızıltepe'de Kayalıklardan Düşen Yaralı Kurtarıldı",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPek04MmJtMHBvVUtnR29yV3hVNzc4aW02aVZQbFVDdUhIYjM2eVpwcXBuSm5tMndQa0owSFhCamhxV3p2aV8yNjZGbGpLWTAtdlhsclU0dzVieDVqZTNQTnoyZXgzZzUwTUpXNUphV0ZKdnlza1NweVcxUTJsNFJPMG9WWWFHdkYzd0JUbmVR0gGeAUFVX3lxTFAxalR3ME1mQTE2aWhTQlJ3SHZpa3U4S3B4ODVwTXg2SjFuRkVlZ2o2ZFdROGxqOGNpNXFxVmpMcFNzZTg3dUxKSVkwVXNtc0t0bFVUcl9Mb3AzYnZnazBQWUlQVGxLTWd5dTJoMWo0QzlMdzRvZ3ItQ3kxME5KRlVQZGp1Y2Q3RGdlMDMzZVJ1ZWpkTlprZEpVUHBoRVBn?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 06:16:35 GMT",
+      "guid": "CBMijgFBVV95cUxPek04MmJtMHBvVUtnR29yV3hVNzc4aW02aVZQbFVDdUhIYjM2eVpwcXBuSm5tMndQa0owSFhCamhxV3p2aV8yNjZGbGpLWTAtdlhsclU0dzVieDVqZTNQTnoyZXgzZzUwTUpXNUphV0ZKdnlza1NweVcxUTJsNFJPMG9WWWFHdkYzd0JUbmVR0gGeAUFVX3lxTFAxalR3ME1mQTE2aWhTQlJ3SHZpa3U4S3B4ODVwTXg2SjFuRkVlZ2o2ZFdROGxqOGNpNXFxVmpMcFNzZTg3dUxKSVkwVXNtc0t0bFVUcl9Mb3AzYnZnazBQWUlQVGxLTWd5dTJoMWo0QzlMdzRvZ3ItQ3kxME5KRlVQZGp1Y2Q3RGdlMDMzZVJ1ZWpkTlprZEpVUHBoRVBn",
+      "source": "N Gazete",
+      "id": "CBMijgFBVV95cUxPek04MmJtMHBvVUtnR29yV3hVNzc4aW02aVZQbFVDdUhIYjM2eVpwcXBuSm5tMndQa0owSFhCamhxV3p2aV8yNjZGbGpLWTAtdlhsclU0dzVieDVqZTNQTnoyZXgzZzUwTUpXNUphV0ZKdnlza1NweVcxUTJsNFJPMG9WWWFHdkYzd0JUbmVR0gGeAUFVX3lxTFAxalR3ME1mQTE2aWhTQlJ3SHZpa3U4S3B4ODVwTXg2SjFuRkVlZ2o2ZFdROGxqOGNpNXFxVmpMcFNzZTg3dUxKSVkwVXNtc0t0bFVUcl9Mb3AzYnZnazBQWUlQVGxLTWd5dTJoMWo0QzlMdzRvZ3ItQ3kxME5KRlVQZGp1Y2Q3RGdlMDMzZVJ1ZWpkTlprZEpVUHBoRVBn",
+      "crawledAt": "2026-08-24T04:23:05.721Z"
+    },
+    {
       "title": "Tankerin çarpıp sürüklediği otomobilin sürücüsü öldü",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaVV4TWJOY0Y0Z25PR0RVeEFjVlJpVUpxSzBBcjg5NHI4WFlneXg1Ui1uOFdXdG05ZzBGTEY5R1F0dVFKUDJEU195bU13TDdOWVA4QnpBdG9lallzYjBXcVNJWmdYVDI5bS1DLXA3UXllUmFIWDdnMFN3RWw5bzA4TTZzdGZwbjdFa05Xd2Z5b1dENF9pQTZpQzRzNWlDT21ONFFfeTVJUEw3R2lKSV9z0gGzAUFVX3lxTE1mS1EwYzVaeUhMZ0dSX19UbTR3cE5lMGw0Z2RxRFJ5RUZBblZTdERHbmdSZG11aE56YzFwZ3RtT2FBSldfTW5RRVlUS1gyNTJxbV9pNXhuN3EydEk5LUlwLXpnNl9TNnNxSnJWWG0tV25JTl9VUFgtNWNxdC1GcnRFVlgtT1RLSGdZRWxNUnNTVjJSOXMtTjcxV0xET3kyT1JpeUlWMGp2Vy14QzhiUkdMOGJB?oc=5",
       "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Hürriyet",
       "id": "CBMiugFBVV95cUxORGtieGVXQlFwRlluWW1UQ3AyRHB1SGZtOUVpRkhMRWdqSktKbEh3XzFKV3cyX2FHRV9ZT2c0VDhkUWw4UEQ0eWNzX1JPNkVCbUNNN1RjMmppbl9XcElyOWVsR1M0NEJHT0lkRVRCblhpZm9mNDhuXzU1b2V5b19UdkhLc0hmWmVoQnVvMXV6ekZpSXR1eFBrRFpxQngxZDBNOUU5NWF5dmtjb0cyYkx1dXduSzNlTTZRRHc",
       "crawledAt": "2026-07-31T15:36:09.849Z"
-    },
-    {
-      "title": "Kızıltepe Belediyesi'nde zabıtaydı, gösterdiği azimle doktor oldu! Zabıta yeleğini çıkarıp önlük giydi",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTGdObTdKT3dfYm54S3BwN3hHeUtpWjNwSXhzYmxlckRzcndHRG92RkJiS25QZDRmOVctUFZtbFNQeFZoUld3WEx3b2EteW1sellNcl9Qb2pJODBqLTNqU2tzRl96WkdUOVMxVlB0NFlkUlVZS1M1ajVYVk9fRGhWcjVxTWdpVDJXNWRRQUZsVUY5SldvNzNEQ2szTHI1M2NrMjVhc3NtQjRyTVZENENRUUN1SzhiNzQyTzJiSmJENWoxR2hSamxJUFpUTGFLMmg5QUl5czFTdkZ2Zw?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 14:14:00 GMT",
-      "guid": "CBMi2gFBVV95cUxPTGdObTdKT3dfYm54S3BwN3hHeUtpWjNwSXhzYmxlckRzcndHRG92RkJiS25QZDRmOVctUFZtbFNQeFZoUld3WEx3b2EteW1sellNcl9Qb2pJODBqLTNqU2tzRl96WkdUOVMxVlB0NFlkUlVZS1M1ajVYVk9fRGhWcjVxTWdpVDJXNWRRQUZsVUY5SldvNzNEQ2szTHI1M2NrMjVhc3NtQjRyTVZENENRUUN1SzhiNzQyTzJiSmJENWoxR2hSamxJUFpUTGFLMmg5QUl5czFTdkZ2Zw",
-      "source": "Gazete Vatan",
-      "id": "CBMi2gFBVV95cUxPTGdObTdKT3dfYm54S3BwN3hHeUtpWjNwSXhzYmxlckRzcndHRG92RkJiS25QZDRmOVctUFZtbFNQeFZoUld3WEx3b2EteW1sellNcl9Qb2pJODBqLTNqU2tzRl96WkdUOVMxVlB0NFlkUlVZS1M1ajVYVk9fRGhWcjVxTWdpVDJXNWRRQUZsVUY5SldvNzNEQ2szTHI1M2NrMjVhc3NtQjRyTVZENENRUUN1SzhiNzQyTzJiSmJENWoxR2hSamxJUFpUTGFLMmg5QUl5czFTdkZ2Zw",
-      "crawledAt": "2026-07-31T15:36:09.849Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-08-23"
   },
   "logs": [
+    {
+      "id": "ztx5a8rtn",
+      "timestamp": "2026-08-24T04:23:06.410Z",
+      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Kayalıklardan Düşen Yaralı ...\"",
+      "type": "info"
+    },
+    {
+      "id": "a7bgqz6e8",
+      "timestamp": "2026-08-24T04:23:05.732Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "fb06i5rod",
+      "timestamp": "2026-08-24T04:23:05.726Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "08788jo6k",
+      "timestamp": "2026-08-24T04:23:05.709Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "0912t1lly",
+      "timestamp": "2026-08-24T04:23:05.031Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "91dan9xf2",
+      "timestamp": "2026-08-24T04:23:05.019Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "068nai9y1",
       "timestamp": "2026-08-24T03:30:03.085Z",
@@ -5374,42 +5410,6 @@
     {
       "id": "uqs6wucxs",
       "timestamp": "2026-08-23T08:57:45.375Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "w0nc5nhj3",
-      "timestamp": "2026-08-23T08:57:44.590Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "9jekz0dnc",
-      "timestamp": "2026-08-23T08:57:44.576Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "ipvj08zrn",
-      "timestamp": "2026-08-23T08:27:42.383Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de kayalıktan düşen şahıs kurt...\"",
-      "type": "info"
-    },
-    {
-      "id": "axeu0ijgq",
-      "timestamp": "2026-08-23T08:27:41.802Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "4ttxhfu8s",
-      "timestamp": "2026-08-23T08:27:41.798Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "o8poa7zcr",
-      "timestamp": "2026-08-23T08:27:41.781Z",
       "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
