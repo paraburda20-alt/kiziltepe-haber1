@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin’de binanın 7’inci katında yangın paniği",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVEVFa2dfWXJDVXJubkE4V05tNW92VVNoenhNcHVubEZ0TVgtN1BaMlRlUTZTTGtWWjlQUGZISXJQSjdVTG9nZ2lhbDkwTDdxdm13UUtPUWl5dXNWemR0R05KeFlERTVYanF6S3RHNlg5S3RVaGE1SmpTT1k3czNLVkd3a3g?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 11:34:16 GMT",
+      "guid": "CBMihAFBVV95cUxOVEVFa2dfWXJDVXJubkE4V05tNW92VVNoenhNcHVubEZ0TVgtN1BaMlRlUTZTTGtWWjlQUGZISXJQSjdVTG9nZ2lhbDkwTDdxdm13UUtPUWl5dXNWemR0R05KeFlERTVYanF6S3RHNlg5S3RVaGE1SmpTT1k3czNLVkd3a3g",
+      "source": "İlke Haber Ajansı",
+      "id": "CBMihAFBVV95cUxOVEVFa2dfWXJDVXJubkE4V05tNW92VVNoenhNcHVubEZ0TVgtN1BaMlRlUTZTTGtWWjlQUGZISXJQSjdVTG9nZ2lhbDkwTDdxdm13UUtPUWl5dXNWemR0R05KeFlERTVYanF6S3RHNlg5S3RVaGE1SmpTT1k3czNLVkd3a3g",
+      "crawledAt": "2026-08-24T11:52:03.301Z"
+    },
+    {
       "title": "Mardin’de yol kenarına devrilen otomobil sürücüsü yaralandı İhlas Haber Ajansı",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjFNcE9WY3BQbXpIYnNWVjVaOU1wYXJjQkZMc3Z5VXBUWHVGemJaSkxkQU9BNUtZd25nbEhuZ0djdVBndkFPdHhMVVdyZG42ZlFBb0hlelhkN19GVGh5SVBjdEQ4aDFZb0FqaWlNMm95amVCNE1GeDl4SVZDNUhMQVRjUThhVEg5WWRrMXFsdjVoSm5ycjA1OVRDcHBWNGh0dWQ2dlZ6cThURTFZ?oc=5",
       "pubDate": "Mon, 24 Aug 2026 09:42:06 GMT",
@@ -4490,15 +4499,6 @@
       "source": "bolgegundemi.com",
       "id": "CBMiogFBVV95cUxOYmkyYTVDVkxuYjFkUUxHNk5FbzZGNnJveGRTMjE5emhmNG8tZzZscm1yVUdCMzZvNFpEeXlJdlFnTEVxV1ZITS1tUzNNWW5fdWk4bEEyLVlCR25Eb2hpU0piNGJDNjdHVVdZalE0d3JMUmFxN21rTHA4YU9kdGZ1Snl2NHFRRGl0YWNrOUh5Sm1fejlUejZ3VmZqcFBQMXAtT0E",
       "crawledAt": "2026-08-01T11:40:11.754Z"
-    },
-    {
-      "title": "Kızıltepe’de Planlı Elektrik Kesintisi",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MRThfajVUTjYxN3gzUUluemVjWGJaSTdmUzI0WUtndWN0YURBdnQ1RHp5MkRJSFgxNFFYRDYwWmdXSVA1MFVNMVhwVlJxUk1KNVRxQmR5MzZZdnlXaGVMTHhwdmZLMEU5WTFoeEhzdWE?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 11:52:33 GMT",
-      "guid": "CBMicEFVX3lxTE1MRThfajVUTjYxN3gzUUluemVjWGJaSTdmUzI0WUtndWN0YURBdnQ1RHp5MkRJSFgxNFFYRDYwWmdXSVA1MFVNMVhwVlJxUk1KNVRxQmR5MzZZdnlXaGVMTHhwdmZLMEU5WTFoeEhzdWE",
-      "source": "Mardin Güncel",
-      "id": "CBMicEFVX3lxTE1MRThfajVUTjYxN3gzUUluemVjWGJaSTdmUzI0WUtndWN0YURBdnQ1RHp5MkRJSFgxNFFYRDYwWmdXSVA1MFVNMVhwVlJxUk1KNVRxQmR5MzZZdnlXaGVMTHhwdmZLMEU5WTFoeEhzdWE",
-      "crawledAt": "2026-08-01T11:40:11.754Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-08-23"
   },
   "logs": [
+    {
+      "id": "wzale6t6t",
+      "timestamp": "2026-08-24T11:52:03.907Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin’de binanın 7’inci katında yangın ...\"",
+      "type": "info"
+    },
+    {
+      "id": "zfblursay",
+      "timestamp": "2026-08-24T11:52:03.312Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "ej0tvgnmc",
+      "timestamp": "2026-08-24T11:52:03.306Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "z8vodc46n",
+      "timestamp": "2026-08-24T11:52:03.290Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "c2siar4yk",
+      "timestamp": "2026-08-24T11:52:02.615Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "qx9lcuar1",
+      "timestamp": "2026-08-24T11:52:02.602Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "ktv09bk5v",
       "timestamp": "2026-08-24T11:21:02.256Z",
@@ -5375,42 +5411,6 @@
       "id": "fbrot34ta",
       "timestamp": "2026-08-23T15:15:44.378Z",
       "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "uzbrs9qrc",
-      "timestamp": "2026-08-23T15:15:43.878Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "x68mynbw1",
-      "timestamp": "2026-08-23T15:15:43.864Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "jbbsh9syt",
-      "timestamp": "2026-08-23T14:47:35.607Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "u5w9qpp0b",
-      "timestamp": "2026-08-23T14:47:35.594Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "4l41er4wc",
-      "timestamp": "2026-08-23T14:47:34.769Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "quadcbyv0",
-      "timestamp": "2026-08-23T14:47:34.757Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
