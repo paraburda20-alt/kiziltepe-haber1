@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "5drlk83sf",
+      "timestamp": "2026-08-24T23:17:34.059Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "m0tr0dm6g",
+      "timestamp": "2026-08-24T23:17:34.046Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "3l6xzud5p",
+      "timestamp": "2026-08-24T23:17:33.387Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "2v9rod8by",
+      "timestamp": "2026-08-24T23:17:33.374Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "1n8lgulgm",
       "timestamp": "2026-08-24T22:51:21.213Z",
       "message": "Telegram bildirimi gönderildi: \"Pompalı Tüfekle Oynarken Hayatını Kaybet...\"",
@@ -5387,30 +5411,6 @@
       "id": "s9kl3o1xv",
       "timestamp": "2026-08-24T14:35:38.569Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "ek1x916yw",
-      "timestamp": "2026-08-24T13:44:57.288Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin - Apartman dairesinde çıkan yangı...\"",
-      "type": "info"
-    },
-    {
-      "id": "57ev42xwi",
-      "timestamp": "2026-08-24T13:44:56.632Z",
-      "message": "Telegram bildirimi gönderildi: \"Apartman dairesinde çıkan yangın söndürü...\"",
-      "type": "info"
-    },
-    {
-      "id": "dj5udzhl2",
-      "timestamp": "2026-08-24T13:44:56.126Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "kbch91bua",
-      "timestamp": "2026-08-24T13:44:56.121Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
