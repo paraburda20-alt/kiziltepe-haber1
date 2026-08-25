@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "m23s5abos",
+      "timestamp": "2026-08-25T08:34:57.395Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "uewpx4uk6",
+      "timestamp": "2026-08-25T08:34:57.373Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "mxar30zbs",
+      "timestamp": "2026-08-25T08:34:56.798Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "7hwbnfi5x",
+      "timestamp": "2026-08-25T08:34:56.785Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "3134i8xlx",
       "timestamp": "2026-08-25T07:38:51.376Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "oq9ecj86j",
       "timestamp": "2026-08-24T17:06:33.113Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe Barış Spor...\"",
-      "type": "info"
-    },
-    {
-      "id": "eiubklti6",
-      "timestamp": "2026-08-24T17:06:32.403Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe İlçe Sağlık Müdürlüğü'nde Devi...\"",
-      "type": "info"
-    },
-    {
-      "id": "xa76phhml",
-      "timestamp": "2026-08-24T17:06:31.686Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe İlçe Sağlık Müdürlüğünde görev...\"",
-      "type": "info"
-    },
-    {
-      "id": "2rws7zlns",
-      "timestamp": "2026-08-24T17:06:30.867Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe yolunda üç aracın karış...\"",
-      "type": "info"
-    },
-    {
-      "id": "obk0p5ogg",
-      "timestamp": "2026-08-24T17:06:30.133Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Geniş Çaplı Huzur ve Güven ...\"",
       "type": "info"
     }
   ]
