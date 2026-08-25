@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "v3sfnu2ao",
+      "timestamp": "2026-08-25T11:28:41.531Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "a9kvq1j7p",
+      "timestamp": "2026-08-25T11:28:41.516Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "qucdf4she",
+      "timestamp": "2026-08-25T11:28:40.936Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "jijqgtrok",
+      "timestamp": "2026-08-25T11:28:40.923Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "o9ynea7y7",
       "timestamp": "2026-08-25T10:57:49.109Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "71s9ojcq2",
       "timestamp": "2026-08-24T17:06:48.501Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe Belediyesi Eşbaşkanı Yılmaz Gö...\"",
-      "type": "info"
-    },
-    {
-      "id": "rko1bpbzd",
-      "timestamp": "2026-08-24T17:06:47.802Z",
-      "message": "Telegram bildirimi gönderildi: \"KIZILTEPE SPOR LİSESİ, TÜRKİYE OKULLAR A...\"",
-      "type": "info"
-    },
-    {
-      "id": "dy0e8v664",
-      "timestamp": "2026-08-24T17:06:47.099Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe JİTEM davasında cezasızlık ona...\"",
-      "type": "info"
-    },
-    {
-      "id": "7jfh9bot2",
-      "timestamp": "2026-08-24T17:06:46.380Z",
-      "message": "Telegram bildirimi gönderildi: \"İL MİLLİ EĞİTİM MÜDÜRÜMÜZ SAYIN MURAT DE...\"",
-      "type": "info"
-    },
-    {
-      "id": "dlv1kx41v",
-      "timestamp": "2026-08-24T17:06:45.579Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe Hudut Hattı Bölgesinde ...\"",
       "type": "info"
     }
   ]
