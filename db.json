@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "4y2i9i4g0",
+      "timestamp": "2026-08-25T23:19:39.430Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "31570dxut",
+      "timestamp": "2026-08-25T23:19:39.406Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "wvd01du77",
+      "timestamp": "2026-08-25T23:19:38.843Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "nios21htu",
+      "timestamp": "2026-08-25T23:19:38.832Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "fb0wa0ojx",
       "timestamp": "2026-08-25T22:52:56.556Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "5obpqj6cp",
       "timestamp": "2026-08-25T04:07:13.080Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "040savh58",
-      "timestamp": "2026-08-25T03:25:06.020Z",
-      "message": "Telegram bildirimi gönderildi: \"Pompalı tüfekle oynarken kendini vurdu; ...\"",
-      "type": "info"
-    },
-    {
-      "id": "4td4hthf8",
-      "timestamp": "2026-08-25T03:25:05.353Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de zincirleme kaza: 3 yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "8weawv9c5",
-      "timestamp": "2026-08-25T03:25:04.684Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de otomobil ile hafif ticari araç...\"",
-      "type": "info"
-    },
-    {
-      "id": "grmw14veo",
-      "timestamp": "2026-08-25T03:25:04.011Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Haberleri - İki aile arasında ...\"",
       "type": "info"
     }
   ]
