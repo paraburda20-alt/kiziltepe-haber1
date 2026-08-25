@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin-Kızıltepe'de sopalı kavga: 1 ölü",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xd2pNcG5aZ3FETk9uT3JjT25XOVlpV2FqdWh6TGxnQ0FySjZLX0pWS0F0WEZ6VExjREdhdTE1Mi1jNy1wMzRNN3BSUFJSZjlYLXRxanhpcW9rMHUxTzdz?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 22:16:43 GMT",
+      "guid": "CBMiX0FVX3lxTE0xd2pNcG5aZ3FETk9uT3JjT25XOVlpV2FqdWh6TGxnQ0FySjZLX0pWS0F0WEZ6VExjREdhdTE1Mi1jNy1wMzRNN3BSUFJSZjlYLXRxanhpcW9rMHUxTzdz",
+      "source": "Rudaw",
+      "id": "CBMiX0FVX3lxTE0xd2pNcG5aZ3FETk9uT3JjT25XOVlpV2FqdWh6TGxnQ0FySjZLX0pWS0F0WEZ6VExjREdhdTE1Mi1jNy1wMzRNN3BSUFJSZjlYLXRxanhpcW9rMHUxTzdz",
+      "crawledAt": "2026-08-25T05:02:59.210Z"
+    },
+    {
       "title": "Pompalı tüfekle oynarken kendini vurdu; ağır yaralandı",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmNadU9rT3NDRTBQUFJ1MGtMbm5xUnhoTHJ4QUFha2FKYmEzd0M3RDJJVWlDV0JFUDZPMG9wN2dYVFRiSW94QjFaUVFMQUZPMEhWaGhTWk9Ka1BUcGlGbThfa1Y2aDZ5elh3clNLbHFFcVJpcGd5aHMyUUx0VUhFYVVvdXc3UDlHQ1BGU0xCcE82eENoeFNwN2EyU05fRmlPdVVqZ0YyQnpjVW1fMnJWMWdOYnY?oc=5",
       "pubDate": "Fri, 21 Aug 2026 09:15:39 GMT",
@@ -4490,15 +4499,6 @@
       "source": "DHA | Demirören Haber Ajansı",
       "id": "CBMivgFBVV95cUxPazJqS0REWE43SWVBek9DUGhOalhNbDJTUWx6cXItaFV0R1BIYjhfMk5vcWpUekRCQzkxNEpBZlVNWmRXWmZPWnBxV3B3TUhjSHpMa3pRenBDT2xVZU5QY0V3eFA3OTZiWTFwVzQ4VkREVDFzMDl5bTlqc1MzLVlLYndZWHpLb2NUbXdpRktabXhMdEFCUHduWkROb0dZTHdQQ1BtZFVYR29HeFdWWkxYM1JyU1RCQjBzVC16TnJn",
       "crawledAt": "2026-08-06T15:20:21.496Z"
-    },
-    {
-      "title": "Mardin Büyükşehir Belediyesi, okulları yeni eğitim dönemine hazırlıyor",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXJyQ0tZdGxHLWp4UWdyWV9kRlRaWUh2NWNSWEdoT0t4eEwyclR1NHdMczhOZ01OYWkyRmFiQnBmQW04ODNkd0lJaTZyXy1xTlk1d2VwMDhqY2gtazVCMFRrZWFKVkJJbWV3VkFuQXNGZmlGSXNWbkQyd0w5eE9MMmdYMHdCLVpDMThQZlFIMHJDSk1RZGtOT3ZKZEhBdmN1OWZ0RGdaZw?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 12:32:14 GMT",
-      "guid": "CBMipwFBVV95cUxPUXJyQ0tZdGxHLWp4UWdyWV9kRlRaWUh2NWNSWEdoT0t4eEwyclR1NHdMczhOZ01OYWkyRmFiQnBmQW04ODNkd0lJaTZyXy1xTlk1d2VwMDhqY2gtazVCMFRrZWFKVkJJbWV3VkFuQXNGZmlGSXNWbkQyd0w5eE9MMmdYMHdCLVpDMThQZlFIMHJDSk1RZGtOT3ZKZEhBdmN1OWZ0RGdaZw",
-      "source": "Milliyet",
-      "id": "CBMipwFBVV95cUxPUXJyQ0tZdGxHLWp4UWdyWV9kRlRaWUh2NWNSWEdoT0t4eEwyclR1NHdMczhOZ01OYWkyRmFiQnBmQW04ODNkd0lJaTZyXy1xTlk1d2VwMDhqY2gtazVCMFRrZWFKVkJJbWV3VkFuQXNGZmlGSXNWbkQyd0w5eE9MMmdYMHdCLVpDMThQZlFIMHJDSk1RZGtOT3ZKZEhBdmN1OWZ0RGdaZw",
-      "crawledAt": "2026-08-06T15:20:21.496Z"
     }
   ],
   "settings": {
@@ -4509,10 +4509,58 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-08-24",
+    "lastMorningReportDate": "2026-08-25",
     "lastPharmaciesDate": "2026-08-24"
   },
   "logs": [
+    {
+      "id": "4q0txi7f8",
+      "timestamp": "2026-08-25T05:03:00.728Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "clqz8imcy",
+      "timestamp": "2026-08-25T05:03:00.112Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "hgteaqlg4",
+      "timestamp": "2026-08-25T05:02:59.601Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin-Kızıltepe'de sopalı kavga: 1 ölü...\"",
+      "type": "info"
+    },
+    {
+      "id": "r7mdpffnu",
+      "timestamp": "2026-08-25T05:02:59.220Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "26qoysbsn",
+      "timestamp": "2026-08-25T05:02:59.214Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "46xiilw5s",
+      "timestamp": "2026-08-25T05:02:59.199Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "9ock4bx1p",
+      "timestamp": "2026-08-25T05:02:58.687Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "4wud1507c",
+      "timestamp": "2026-08-25T05:02:58.673Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "3vjmh379d",
       "timestamp": "2026-08-25T04:07:18.362Z",
@@ -5363,54 +5411,6 @@
       "id": "htr81jhrj",
       "timestamp": "2026-08-24T17:06:17.902Z",
       "message": "Telegram bildirimi gönderildi: \"Vefat: Bekir Nas...\"",
-      "type": "info"
-    },
-    {
-      "id": "wsyxun1rn",
-      "timestamp": "2026-08-24T17:06:17.177Z",
-      "message": "Telegram bildirimi gönderildi: \"Vefat: Mihdiye Koçhan...\"",
-      "type": "info"
-    },
-    {
-      "id": "b1i8ul3iy",
-      "timestamp": "2026-08-24T17:06:16.459Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de hastane çalışanların...\"",
-      "type": "info"
-    },
-    {
-      "id": "bezu7r0tf",
-      "timestamp": "2026-08-24T17:06:15.701Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'in Kızıltepe ilçesinde ambulans i...\"",
-      "type": "info"
-    },
-    {
-      "id": "42nkhjndt",
-      "timestamp": "2026-08-24T17:06:14.991Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe ilçesinde ambulans ile otomobi...\"",
-      "type": "info"
-    },
-    {
-      "id": "1p0tsrz0t",
-      "timestamp": "2026-08-24T17:06:14.248Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de 3 otomobil çarpıştı: 3 sürü...\"",
-      "type": "info"
-    },
-    {
-      "id": "j46gfx2it",
-      "timestamp": "2026-08-24T17:06:13.509Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe ilçesinde iki aracın karıştığı...\"",
-      "type": "info"
-    },
-    {
-      "id": "jmfiyf8p3",
-      "timestamp": "2026-08-24T17:06:12.938Z",
-      "message": "64 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "i7rmpb0ni",
-      "timestamp": "2026-08-24T17:06:12.910Z",
-      "message": "Veritabanına 64 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
