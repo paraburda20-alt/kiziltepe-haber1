@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "ylyi5ga4m",
+      "timestamp": "2026-08-25T15:36:30.700Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "y34in8172",
+      "timestamp": "2026-08-25T15:36:30.668Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "h77cq3ixh",
+      "timestamp": "2026-08-25T15:36:30.104Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "2nsbttld8",
+      "timestamp": "2026-08-25T15:36:30.091Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "mgu68es1z",
       "timestamp": "2026-08-25T14:38:34.536Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de kayalıklardan düşen kişi yaral...\"",
@@ -5387,30 +5411,6 @@
       "id": "7htwz9y2x",
       "timestamp": "2026-08-24T18:35:39.803Z",
       "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "98nha2pu8",
-      "timestamp": "2026-08-24T18:35:39.786Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "q4u9a5fhj",
-      "timestamp": "2026-08-24T18:35:39.177Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "thtzrod9c",
-      "timestamp": "2026-08-24T18:35:39.164Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "6utinwhgx",
-      "timestamp": "2026-08-24T17:56:22.728Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Belediyesi’nde yumurtalı prote...\"",
       "type": "info"
     }
   ]
