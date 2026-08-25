@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "yvb107lu3",
+      "timestamp": "2026-08-25T06:41:37.667Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "nn6vcrvv0",
+      "timestamp": "2026-08-25T06:41:37.652Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "6h36oertb",
+      "timestamp": "2026-08-25T06:41:37.005Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "8yg07wd68",
+      "timestamp": "2026-08-25T06:41:36.991Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "2imsnvydq",
       "timestamp": "2026-08-25T05:56:26.639Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de 3'üncü kattan düşüp ölen Muham...\"",
@@ -5387,30 +5411,6 @@
       "id": "a3tydedr6",
       "timestamp": "2026-08-24T17:06:26.769Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe 44 Dereceyi Görüyor, Sıcaklık ...\"",
-      "type": "info"
-    },
-    {
-      "id": "3rdig2aka",
-      "timestamp": "2026-08-24T17:06:26.079Z",
-      "message": "Telegram bildirimi gönderildi: \"Çiftçiler Derneğinden Mısır fiyatı çağrı...\"",
-      "type": "info"
-    },
-    {
-      "id": "vzo7pa326",
-      "timestamp": "2026-08-24T17:06:25.373Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Büyükşehir Belediyesi Kızıltepe’d...\"",
-      "type": "info"
-    },
-    {
-      "id": "66kfaazk2",
-      "timestamp": "2026-08-24T17:06:24.666Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Kadın Sağlık Çalışan...\"",
-      "type": "info"
-    },
-    {
-      "id": "khcvb3wg8",
-      "timestamp": "2026-08-24T17:06:23.975Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Meydana Gelen Zincir...\"",
       "type": "info"
     }
   ]
