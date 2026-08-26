@@ -4514,6 +4514,24 @@
   },
   "logs": [
     {
+      "id": "74yr3m0ge",
+      "timestamp": "2026-08-26T00:57:19.983Z",
+      "message": "Tarama hatası: Google News RSS feed error: Status 503",
+      "type": "error"
+    },
+    {
+      "id": "we3p9olgn",
+      "timestamp": "2026-08-26T00:57:14.830Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "qdrfhubjb",
+      "timestamp": "2026-08-26T00:57:14.817Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "tw2qj58v5",
       "timestamp": "2026-08-25T23:47:24.815Z",
       "message": "Telegram bildirimi gönderildi: \"İL MİLLİ EĞİTİM MÜDÜRÜMÜZ MURAT DEMİR KI...\"",
@@ -5393,24 +5411,6 @@
       "id": "14cd8x1jk",
       "timestamp": "2026-08-25T09:29:25.290Z",
       "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "wfzle1e17",
-      "timestamp": "2026-08-25T09:29:25.268Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "i2me3aivh",
-      "timestamp": "2026-08-25T09:29:24.745Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "xqdpkbg7f",
-      "timestamp": "2026-08-25T09:29:24.730Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
