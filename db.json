@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "9r371y1di",
+      "timestamp": "2026-08-26T18:12:39.717Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "rsku0rics",
+      "timestamp": "2026-08-26T18:12:39.695Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "sav5im5u3",
+      "timestamp": "2026-08-26T18:12:39.077Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "6voep1ima",
+      "timestamp": "2026-08-26T18:12:39.063Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "s1r8r943u",
       "timestamp": "2026-08-26T16:13:11.177Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "llk8tb5g2",
       "timestamp": "2026-08-25T20:21:11.501Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "ktlipfj5d",
-      "timestamp": "2026-08-25T20:21:11.489Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "el872ox08",
-      "timestamp": "2026-08-25T19:54:39.695Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Kadın Çalışanlara Tehdit Gö...\"",
-      "type": "info"
-    },
-    {
-      "id": "v8iboes2v",
-      "timestamp": "2026-08-25T19:54:39.337Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "31i4mgbyw",
-      "timestamp": "2026-08-25T19:54:39.331Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
