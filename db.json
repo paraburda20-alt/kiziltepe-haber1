@@ -4510,9 +4510,45 @@
     "discordWebhook": "",
     "enableDiscord": false,
     "lastMorningReportDate": "2026-08-27",
-    "lastPharmaciesDate": "2026-08-26"
+    "lastPharmaciesDate": "2026-08-27"
   },
   "logs": [
+    {
+      "id": "vm9w30p2n",
+      "timestamp": "2026-08-27T19:10:57.771Z",
+      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "vqz11lq6e",
+      "timestamp": "2026-08-27T19:10:54.022Z",
+      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "67i8j7rmb",
+      "timestamp": "2026-08-27T19:10:54.016Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "evbgqpugo",
+      "timestamp": "2026-08-27T19:10:54.007Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "edlxz2j1s",
+      "timestamp": "2026-08-27T19:10:53.150Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "aytaqhbhy",
+      "timestamp": "2026-08-27T19:10:53.141Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "z4nkqdkga",
       "timestamp": "2026-08-27T08:20:33.977Z",
@@ -5375,42 +5411,6 @@
       "id": "nios21htu",
       "timestamp": "2026-08-25T23:19:38.832Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "fb0wa0ojx",
-      "timestamp": "2026-08-25T22:52:56.556Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "lsjr7mi3f",
-      "timestamp": "2026-08-25T22:52:56.542Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "tszy4re2v",
-      "timestamp": "2026-08-25T22:52:55.923Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "cvuux4dfa",
-      "timestamp": "2026-08-25T22:52:55.909Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "4hk6na0yv",
-      "timestamp": "2026-08-25T22:19:59.640Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de 220 metre uzunluğundaki halı m...\"",
-      "type": "info"
-    },
-    {
-      "id": "cn176ohyc",
-      "timestamp": "2026-08-25T22:19:59.133Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
