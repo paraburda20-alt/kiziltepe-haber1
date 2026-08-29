@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin Kızıltepe'de bıçaklı kavga",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UQ3NuM0J5clIxM0o2dkt6UXR2clg5Y0gxQlRkcnNvU2U4eTRSZW9saHZfdF9qQVNqeW05QnptaHl2X1h0ZmdHVDU3UVNyS1UwSzZWb0RKblUwVG5uVnhuYVpWNVVsdXg3M0tmVTBRZ3JRX0E?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "guid": "CBMic0FVX3lxTE1UQ3NuM0J5clIxM0o2dkt6UXR2clg5Y0gxQlRkcnNvU2U4eTRSZW9saHZfdF9qQVNqeW05QnptaHl2X1h0ZmdHVDU3UVNyS1UwSzZWb0RKblUwVG5uVnhuYVpWNVVsdXg3M0tmVTBRZ3JRX0E",
+      "source": "Güneydoğu Ekspres",
+      "id": "CBMic0FVX3lxTE1UQ3NuM0J5clIxM0o2dkt6UXR2clg5Y0gxQlRkcnNvU2U4eTRSZW9saHZfdF9qQVNqeW05QnptaHl2X1h0ZmdHVDU3UVNyS1UwSzZWb0RKblUwVG5uVnhuYVpWNVVsdXg3M0tmVTBRZ3JRX0E",
+      "crawledAt": "2026-08-29T22:11:22.464Z"
+    },
+    {
       "title": "DEM’li üyeler partinin ihraç ettiği Kızıltepe Belediye Başkanı’na yumurta fırlattı",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcWJfd3Z1YUtpN085YTIzTVhsT01QeDhRcUVyZ2pGSXlaZkRNNTdGTmtKcGt2X2JjTlNRa3RERDR3clhSYzNjaVlEZFVJR3N4UlBLSXBWU0daaVF2ejdlX1p1SkVxSUswOWxQV0Nwb0IyU3F3YXI3dTNmUmNQclJjdEFHMHN1VC1jaVdBRmJ5S2MzdHNMMmEzSUgtWFRLYjdjT2hYUnk4LU83ZVdWajVrUk1XQmJ5a0FiWWJZQ3Nn?oc=5",
       "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Anka Haber",
       "id": "CBMi2AFBVV95cUxQMDZONEd3SlFWN1RfTGNBa01BcF9id0ZZd2F6OGwwZVNvZVpFUXZWdmFKckRoTDhpZjZ4dFYzdFdDNlktRWFTNGloamxoMFJXVVlZTU12X3U0aS1vSk1wQ2t3V2N0dy1ORUptdnd3VzdpUzJWTFdWWXllTGRyUjN5QS1wS21qX3dCazlzblpfV0Zkd3RyQW9xRGNKd3lRRWp0bUJoMXZVQTFJcE44RnN4Z2pKNG43M2lDZEJBMDNyZm9CdFhSOTRQTU96WklzN0h5QVREaHdxb0E",
       "crawledAt": "2026-08-14T20:54:02.676Z"
-    },
-    {
-      "title": "Kızıltepe'de bıçaklı kavga: 1 ölü",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2JiZDVCbEpIZ0dUMUtuQTJPem83TDVINllvZlV0OVppUHdJVUozeXVac1JFSkJFbEJLWnlwSTZ3ZlJLUFp5WnlaXzkyYTZ6UXAyMk1qZlotQ1BmWnNXUWRUaVlXLWhNUFZxRHJ0VXhmUUlmSkxFandrWlJ6U0MzUDlDVmJhbm5IYmJRSDZIYnF1VkFvWG1aM3lvVQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 18:27:11 GMT",
-      "guid": "CBMimwFBVV95cUxNa2JiZDVCbEpIZ0dUMUtuQTJPem83TDVINllvZlV0OVppUHdJVUozeXVac1JFSkJFbEJLWnlwSTZ3ZlJLUFp5WnlaXzkyYTZ6UXAyMk1qZlotQ1BmWnNXUWRUaVlXLWhNUFZxRHJ0VXhmUUlmSkxFandrWlJ6U0MzUDlDVmJhbm5IYmJRSDZIYnF1VkFvWG1aM3lvVQ",
-      "source": "Haberler",
-      "id": "CBMimwFBVV95cUxNa2JiZDVCbEpIZ0dUMUtuQTJPem83TDVINllvZlV0OVppUHdJVUozeXVac1JFSkJFbEJLWnlwSTZ3ZlJLUFp5WnlaXzkyYTZ6UXAyMk1qZlotQ1BmWnNXUWRUaVlXLWhNUFZxRHJ0VXhmUUlmSkxFandrWlJ6U0MzUDlDVmJhbm5IYmJRSDZIYnF1VkFvWG1aM3lvVQ",
-      "crawledAt": "2026-08-14T20:02:47.239Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-08-29"
   },
   "logs": [
+    {
+      "id": "qu6wig8v9",
+      "timestamp": "2026-08-29T22:11:22.933Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de bıçaklı kavga...\"",
+      "type": "info"
+    },
+    {
+      "id": "hoaxl15mq",
+      "timestamp": "2026-08-29T22:11:22.472Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "r0zoufbr3",
+      "timestamp": "2026-08-29T22:11:22.468Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "uoufpu9yq",
+      "timestamp": "2026-08-29T22:11:22.456Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "vmn5pifqo",
+      "timestamp": "2026-08-29T22:11:21.836Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "kh5mrhx1l",
+      "timestamp": "2026-08-29T22:11:21.827Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "47pxizum3",
       "timestamp": "2026-08-29T19:52:22.937Z",
@@ -5375,42 +5411,6 @@
       "id": "46p0pmbbo",
       "timestamp": "2026-08-26T13:50:02.252Z",
       "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "j9ber42g2",
-      "timestamp": "2026-08-26T13:50:02.244Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "qdgatnfgu",
-      "timestamp": "2026-08-26T13:50:02.220Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "qg1wqmwoc",
-      "timestamp": "2026-08-26T13:50:01.703Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "xqbhux4m5",
-      "timestamp": "2026-08-26T13:50:01.689Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "yzjt755un",
-      "timestamp": "2026-08-26T12:39:27.922Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Apartman Yangını...\"",
-      "type": "info"
-    },
-    {
-      "id": "rk983zolb",
-      "timestamp": "2026-08-26T12:39:27.277Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Trafik Kazası...\"",
       "type": "info"
     }
   ]
