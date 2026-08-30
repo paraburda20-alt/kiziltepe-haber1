@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Qoser’de yaşamlarını yitirenler için yürüyüş",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTWZmSi1IbXlWTmxTaHdRdTR4YXUwTnA4UEdDcXJOaWJRb1FQVktUOS13djNOTzg4SHAyMWIydGVFbnU2SlJzRmMzOUFkNGRxOVQ3ZkZNelVFdVM0TU1NQnpkd2FZSlpuNFBIX3FRM21LZHZuajBwQjlsaS1vNU9DNQ?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 06:41:42 GMT",
+      "guid": "CBMigAFBVV95cUxNTWZmSi1IbXlWTmxTaHdRdTR4YXUwTnA4UEdDcXJOaWJRb1FQVktUOS13djNOTzg4SHAyMWIydGVFbnU2SlJzRmMzOUFkNGRxOVQ3ZkZNelVFdVM0TU1NQnpkd2FZSlpuNFBIX3FRM21LZHZuajBwQjlsaS1vNU9DNQ",
+      "source": "Yeni Yaşam Gazetesi",
+      "id": "CBMigAFBVV95cUxNTWZmSi1IbXlWTmxTaHdRdTR4YXUwTnA4UEdDcXJOaWJRb1FQVktUOS13djNOTzg4SHAyMWIydGVFbnU2SlJzRmMzOUFkNGRxOVQ3ZkZNelVFdVM0TU1NQnpkd2FZSlpuNFBIX3FRM21LZHZuajBwQjlsaS1vNU9DNQ",
+      "crawledAt": "2026-08-30T11:03:55.682Z"
+    },
+    {
+      "title": "DEM Partili belediye karıştı: Yumurtalı protesto",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLU14T05SSWt3VUZwSW1uajNzS3oxS2NwOEhUbVppcjF6bmdwYmIyY0oxU0Rhek1ybDB3VTlaR090RngxTE5ia3BKZVM4cUNMSXcxS1BSbDdnTHpsWVEtZngzNm5fc0Q2N3NmUDV3bXpwU2M0dGZmYjF4N01WN1ViSEl6cVhRWW4zQ1ZxLVVFV3kzWUhFdU5VS01QTHktd09M?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "guid": "CBMioAFBVV95cUxNLU14T05SSWt3VUZwSW1uajNzS3oxS2NwOEhUbVppcjF6bmdwYmIyY0oxU0Rhek1ybDB3VTlaR090RngxTE5ia3BKZVM4cUNMSXcxS1BSbDdnTHpsWVEtZngzNm5fc0Q2N3NmUDV3bXpwU2M0dGZmYjF4N01WN1ViSEl6cVhRWW4zQ1ZxLVVFV3kzWUhFdU5VS01QTHktd09M",
+      "source": "Odatv",
+      "id": "CBMioAFBVV95cUxNLU14T05SSWt3VUZwSW1uajNzS3oxS2NwOEhUbVppcjF6bmdwYmIyY0oxU0Rhek1ybDB3VTlaR090RngxTE5ia3BKZVM4cUNMSXcxS1BSbDdnTHpsWVEtZngzNm5fc0Q2N3NmUDV3bXpwU2M0dGZmYjF4N01WN1ViSEl6cVhRWW4zQ1ZxLVVFV3kzWUhFdU5VS01QTHktd09M",
+      "crawledAt": "2026-08-30T11:03:55.682Z"
+    },
+    {
       "title": "Kızıltepe'de Bıçaklı Kavga: 1 Ölü",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOME90MmhVLVd6WTVTNWI2Q003M2xfSmdhdGN3eEd4WmJBSE9rWVBNbW1wN3l5VW9NNDFWNkJMdEVjYy10YmJKSEFUR1JSUVgtSFJCZTJZMHVTb1R4QjF1TzRNS19seTRCd0JnSGxGcm9sRHFQZFE5MGpHMHV3STAwWlJKaUpLX3JR0gGEAUFVX3lxTE9sd2lONVEyWGw3MDFJUmV3U2pNczlxNzRaUTJ5Zk56SDA2MFFWU1piaVB1eDB1UFlrVmdQbTZITTVQWTVic3A3MkpYVTFXNFNzX0hOSUdjNVZhSUhWVFNjSkhfalJlZWFIdDJDQktIc0ZrUXM5U3FXYTVKSGNnT051S0RTSA?oc=5",
       "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT",
@@ -4481,24 +4499,6 @@
       "source": "Son Dakika",
       "id": "CBMihAFBVV95cUxPbHdpTjVRMlhsNzAxSVJld1NqTXM5cTc0WlEyeWZOekgwNjBRVlNaYmlQdXgwdVBZa1ZnUG02SE01UFk1YnNwNzJKWFUxVzRTc19ITklHYzVWYUlIVlRTY0pIX2pSZWVhSHQyQ0JLSHNGa1FzOVNxV2E1SkhjZ09OdUtEU0jSAYQBQVVfeXFMT2x3aU41UTJYbDcwMUlSZXdTak1zOXE3NFpRMnlmTnpIMDYwUVZTWmJpUHV4MHVQWWtWZ1BtNkhNNVBZNWJzcDcySlhVMVc0U3NfSE5JR2M1VmFJSFZUU2NKSF9qUmVlYUh0MkNCS0hzRmtRczlTcVdhNUpIY2dPTnVLRFNI",
       "crawledAt": "2026-08-14T20:54:02.676Z"
-    },
-    {
-      "title": "Kızıltepe'de bıçaklı kavga: 1 ölü",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSzJ5dUhad0NyWUhRVFBwUFJPR0h4dWpWekQ1ODZTSHJqTGIwMzgwZFpmQnMxQkE2ODRJX3ZwRW1VUUhvZ3pDWGZmQlZKTlZWSmlOcEpiWV9KZ09RY19EdnY0UHlCVjlrNWUwUlNLTlBveTZmQUlTQUpnLVEwUU80cW1mdlBOd2_SAYQBQVVfeXFMTlN3NlgwNTNHajRNTWdMdFMzc25DSGhWNnBKZldmcVFEdDVPTDZUVlRBcjN1NzFIeXBuZ2hITl9tTVo3NkFmWU9fVFVDMzBkaG12MXdmamZIWkRBRGVaS3hLblRRNXNBMHJ6ay1TdTNnR2VibUhLUjBfXzV5MldnSGlpRW45?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 18:38:22 GMT",
-      "guid": "CBMihwFBVV95cUxPSzJ5dUhad0NyWUhRVFBwUFJPR0h4dWpWekQ1ODZTSHJqTGIwMzgwZFpmQnMxQkE2ODRJX3ZwRW1VUUhvZ3pDWGZmQlZKTlZWSmlOcEpiWV9KZ09RY19EdnY0UHlCVjlrNWUwUlNLTlBveTZmQUlTQUpnLVEwUU80cW1mdlBOd2_SAYQBQVVfeXFMTlN3NlgwNTNHajRNTWdMdFMzc25DSGhWNnBKZldmcVFEdDVPTDZUVlRBcjN1NzFIeXBuZ2hITl9tTVo3NkFmWU9fVFVDMzBkaG12MXdmamZIWkRBRGVaS3hLblRRNXNBMHJ6ay1TdTNnR2VibUhLUjBfXzV5MldnSGlpRW45",
-      "source": "Son Dakika",
-      "id": "CBMihwFBVV95cUxPSzJ5dUhad0NyWUhRVFBwUFJPR0h4dWpWekQ1ODZTSHJqTGIwMzgwZFpmQnMxQkE2ODRJX3ZwRW1VUUhvZ3pDWGZmQlZKTlZWSmlOcEpiWV9KZ09RY19EdnY0UHlCVjlrNWUwUlNLTlBveTZmQUlTQUpnLVEwUU80cW1mdlBOd2_SAYQBQVVfeXFMTlN3NlgwNTNHajRNTWdMdFMzc25DSGhWNnBKZldmcVFEdDVPTDZUVlRBcjN1NzFIeXBuZ2hITl9tTVo3NkFmWU9fVFVDMzBkaG12MXdmamZIWkRBRGVaS3hLblRRNXNBMHJ6ay1TdTNnR2VibUhLUjBfXzV5MldnSGlpRW45",
-      "crawledAt": "2026-08-14T20:54:02.676Z"
-    },
-    {
-      "title": "Kızıltepe'de Damda Uyuma Geleneği",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY2xnTkRlZVljT3JzN2JQZVVMU0ZWSHNvZ3V0RkZNcDZjVGhTQTI0UHhFSlFmaXV4Z1BmQnYzdzhhdi00RURIVXZJanJUMXFKQzRHck5JZFNsVWNsNFlrU0pfSnAwNzQwRFNySEg3THA2Q00ya2FLZlFGTWZxaWpIQTZ0a0lfSGpic2fSAYYBQVVfeXFMTjVLTHo1MVdZRmhKMEI5N1hHMzZ4YU5VX2hCay1nT1AyOHlldV90dWRjUHJiejVQT3E5SUsyWG5zenR6SVA0SFprVmYyZHhSUm9MVWgzb1F0WFpKSGk3THV6Q0VxcHpraTlLNFQ0eDV2dEszWVUxMTZiMG5mU1QwRUFqSTFRSUE?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 08:28:12 GMT",
-      "guid": "CBMiigFBVV95cUxPY2xnTkRlZVljT3JzN2JQZVVMU0ZWSHNvZ3V0RkZNcDZjVGhTQTI0UHhFSlFmaXV4Z1BmQnYzdzhhdi00RURIVXZJanJUMXFKQzRHck5JZFNsVWNsNFlrU0pfSnAwNzQwRFNySEg3THA2Q00ya2FLZlFGTWZxaWpIQTZ0a0lfSGpic2fSAYYBQVVfeXFMTjVLTHo1MVdZRmhKMEI5N1hHMzZ4YU5VX2hCay1nT1AyOHlldV90dWRjUHJiejVQT3E5SUsyWG5zenR6SVA0SFprVmYyZHhSUm9MVWgzb1F0WFpKSGk3THV6Q0VxcHpraTlLNFQ0eDV2dEszWVUxMTZiMG5mU1QwRUFqSTFRSUE",
-      "source": "Son Dakika",
-      "id": "CBMiigFBVV95cUxPY2xnTkRlZVljT3JzN2JQZVVMU0ZWSHNvZ3V0RkZNcDZjVGhTQTI0UHhFSlFmaXV4Z1BmQnYzdzhhdi00RURIVXZJanJUMXFKQzRHck5JZFNsVWNsNFlrU0pfSnAwNzQwRFNySEg3THA2Q00ya2FLZlFGTWZxaWpIQTZ0a0lfSGpic2fSAYYBQVVfeXFMTjVLTHo1MVdZRmhKMEI5N1hHMzZ4YU5VX2hCay1nT1AyOHlldV90dWRjUHJiejVQT3E5SUsyWG5zenR6SVA0SFprVmYyZHhSUm9MVWgzb1F0WFpKSGk3THV6Q0VxcHpraTlLNFQ0eDV2dEszWVUxMTZiMG5mU1QwRUFqSTFRSUE",
-      "crawledAt": "2026-08-14T20:54:02.676Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,48 @@
     "lastPharmaciesDate": "2026-08-29"
   },
   "logs": [
+    {
+      "id": "k08v7i4l5",
+      "timestamp": "2026-08-30T11:03:56.814Z",
+      "message": "Telegram bildirimi gönderildi: \"Qoser’de yaşamlarını yitirenler için yür...\"",
+      "type": "info"
+    },
+    {
+      "id": "egxw4lwkf",
+      "timestamp": "2026-08-30T11:03:56.156Z",
+      "message": "Telegram bildirimi gönderildi: \"DEM Partili belediye karıştı: Yumurtalı ...\"",
+      "type": "info"
+    },
+    {
+      "id": "xfceme1qh",
+      "timestamp": "2026-08-30T11:03:55.693Z",
+      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "s7pbp1ouj",
+      "timestamp": "2026-08-30T11:03:55.687Z",
+      "message": "Veritabanına 2 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "fiuu7tn8a",
+      "timestamp": "2026-08-30T11:03:55.671Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "plq2v9dva",
+      "timestamp": "2026-08-30T11:03:55.013Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "9afjhf5jm",
+      "timestamp": "2026-08-30T11:03:54.999Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "7awk320p8",
       "timestamp": "2026-08-30T05:42:41.002Z",
@@ -5369,48 +5411,6 @@
       "id": "rsku0rics",
       "timestamp": "2026-08-26T18:12:39.695Z",
       "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "sav5im5u3",
-      "timestamp": "2026-08-26T18:12:39.077Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "6voep1ima",
-      "timestamp": "2026-08-26T18:12:39.063Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "s1r8r943u",
-      "timestamp": "2026-08-26T16:13:11.177Z",
-      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "qbvz93ta6",
-      "timestamp": "2026-08-26T16:13:07.850Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "nw97ngd8x",
-      "timestamp": "2026-08-26T16:13:07.340Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de 3’üncü kattan düşen çocuk ağır...\"",
-      "type": "info"
-    },
-    {
-      "id": "fq8m1i9ps",
-      "timestamp": "2026-08-26T16:13:06.574Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe’de bir ailenin katledil...\"",
-      "type": "info"
-    },
-    {
-      "id": "74na0zyb8",
-      "timestamp": "2026-08-26T16:13:06.139Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
