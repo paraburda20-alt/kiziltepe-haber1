@@ -4514,6 +4514,24 @@
   },
   "logs": [
     {
+      "id": "cqm5i3jn9",
+      "timestamp": "2026-09-04T21:10:20.410Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 0 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "j265jq8d0",
+      "timestamp": "2026-09-04T21:10:20.051Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "gjeu4hhzh",
+      "timestamp": "2026-09-04T21:10:20.039Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "knuauayk1",
       "timestamp": "2026-09-04T18:45:29.997Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5393,24 +5411,6 @@
       "id": "o4hsuzoxz",
       "timestamp": "2026-09-02T17:57:56.836Z",
       "message": "Telegram bildirimi gönderildi: \"Yüksekten düşen işçi yaşam mücadelesini ...\"",
-      "type": "info"
-    },
-    {
-      "id": "ak8szfbbt",
-      "timestamp": "2026-09-02T17:57:56.116Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Artuklu'da kamyon ve TIR'ların ka...\"",
-      "type": "info"
-    },
-    {
-      "id": "5zhvc9uw1",
-      "timestamp": "2026-09-02T17:57:55.411Z",
-      "message": "Telegram bildirimi gönderildi: \"İYİ Parti Kızıltepe İlçe Başkanı gözaltı...\"",
-      "type": "info"
-    },
-    {
-      "id": "pzjjiqqrf",
-      "timestamp": "2026-09-02T17:57:54.699Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de 1 kişinin öldüğü silahlı kavga...\"",
       "type": "info"
     }
   ]
