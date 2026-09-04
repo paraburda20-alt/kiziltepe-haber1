@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin Kızıltepe 15 Günlük Hava Durumu",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzWElncXVpdWI2bjdwdkIzOEF3NFhrS2hVR0ZrVjIwZmdNM3VoVFNTMVEyS0k4VGIwaGdWcmFnY3QxS3FrRzd4QjBxc1BQWUtCU0lKSW1IX0xra19YX1BMbmZRREpkSkhhN3pIaUtXS3RaWEl6TFlHQg?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 04:21:40 GMT",
+      "guid": "CBMieEFVX3lxTFAzWElncXVpdWI2bjdwdkIzOEF3NFhrS2hVR0ZrVjIwZmdNM3VoVFNTMVEyS0k4VGIwaGdWcmFnY3QxS3FrRzd4QjBxc1BQWUtCU0lKSW1IX0xra19YX1BMbmZRREpkSkhhN3pIaUtXS3RaWEl6TFlHQg",
+      "source": "Onedio",
+      "id": "CBMieEFVX3lxTFAzWElncXVpdWI2bjdwdkIzOEF3NFhrS2hVR0ZrVjIwZmdNM3VoVFNTMVEyS0k4VGIwaGdWcmFnY3QxS3FrRzd4QjBxc1BQWUtCU0lKSW1IX0xra19YX1BMbmZRREpkSkhhN3pIaUtXS3RaWEl6TFlHQg",
+      "crawledAt": "2026-09-04T06:17:10.201Z"
+    },
+    {
       "title": "Mardin Kızıltepe Haftalık Hava Durumu",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PNnhrWmVaMUR4b2dnUGZ4LUpVbDNKUWNFQnAzbUd5ZVFOS3N4MUUyN0tnTmJkSzY4RnpVUm1VRGFxb0J3dW5LVFdmd2ZDSEtQM0NHU1dTNlI5WDNoRXhMOEp1N1AzbldPallTaFI5bDAydzdFcElZ?oc=5",
       "pubDate": "Thu, 03 Sep 2026 13:47:55 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Kızıltepe Ekspres Haber",
       "id": "CBMiiAFBVV95cUxNaGIxU0dsWDdlSF85QU85ekdseGhEeEg5M0lBVnRHTzQ3NWtkN2llZzg0U0NJbkowR1VqVzd1Y0RsclE3QVlvMklNSXI3al9pb1hkclE0VFFTbms4NVdoSHdSTTFIMUJVNUVuM2ppMFhNazQwMDVnNUhDaHIxc3NmZHItbGM2NEtR",
       "crawledAt": "2026-08-20T15:57:28.407Z"
-    },
-    {
-      "title": "Mardin 1969 Spordan Vali Akkoyun’a teşekkür",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRXZWTV9NTERXX2pmc2pvWTZycGJlVlppTTZuNkc1ODFZWVhBWUNUYmp5Zkt4WVJsUUdnMHVCV2xZQkVGZmlmdEI2ZmVja0VPOUVJbEZxLUtudmVRQmRVczJXTHJCM1g4Q2tRcC1FRGNSbUF2amg2dzg1ZEZXenhfbUVpaVE3alRienc?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 14:33:11 GMT",
-      "guid": "CBMiigFBVV95cUxQRXZWTV9NTERXX2pmc2pvWTZycGJlVlppTTZuNkc1ODFZWVhBWUNUYmp5Zkt4WVJsUUdnMHVCV2xZQkVGZmlmdEI2ZmVja0VPOUVJbEZxLUtudmVRQmRVczJXTHJCM1g4Q2tRcC1FRGNSbUF2amg2dzg1ZEZXenhfbUVpaVE3alRienc",
-      "source": "Kızıltepe Ekspres Haber",
-      "id": "CBMiigFBVV95cUxQRXZWTV9NTERXX2pmc2pvWTZycGJlVlppTTZuNkc1ODFZWVhBWUNUYmp5Zkt4WVJsUUdnMHVCV2xZQkVGZmlmdEI2ZmVja0VPOUVJbEZxLUtudmVRQmRVczJXTHJCM1g4Q2tRcC1FRGNSbUF2amg2dzg1ZEZXenhfbUVpaVE3alRienc",
-      "crawledAt": "2026-08-20T15:57:28.407Z"
     }
   ],
   "settings": {
@@ -4509,10 +4509,58 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-09-03",
+    "lastMorningReportDate": "2026-09-04",
     "lastPharmaciesDate": "2026-09-03"
   },
   "logs": [
+    {
+      "id": "bx2hbqr7m",
+      "timestamp": "2026-09-04T06:17:12.658Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "xbsjsitaq",
+      "timestamp": "2026-09-04T06:17:11.230Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "02cbllb7r",
+      "timestamp": "2026-09-04T06:17:10.719Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe 15 Günlük Hava Durumu...\"",
+      "type": "info"
+    },
+    {
+      "id": "ylnqip5vx",
+      "timestamp": "2026-09-04T06:17:10.212Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "39nl5zunr",
+      "timestamp": "2026-09-04T06:17:10.206Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ebqti0ilb",
+      "timestamp": "2026-09-04T06:17:10.190Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ly09vs09v",
+      "timestamp": "2026-09-04T06:17:09.430Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "vvipxppvd",
+      "timestamp": "2026-09-04T06:17:09.417Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "bryiyckym",
       "timestamp": "2026-09-04T01:08:02.806Z",
@@ -5363,54 +5411,6 @@
       "id": "vy6m34fe6",
       "timestamp": "2026-09-02T09:47:26.534Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "942d9hcp6",
-      "timestamp": "2026-09-02T09:47:26.524Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "zppm8fp3d",
-      "timestamp": "2026-09-02T05:21:15.549Z",
-      "message": "Günlük sabah raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "07l79ra8e",
-      "timestamp": "2026-09-02T05:21:14.870Z",
-      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "mnrmlcort",
-      "timestamp": "2026-09-02T05:21:14.358Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe için tarihi çağrı...\"",
-      "type": "info"
-    },
-    {
-      "id": "9ilovzjg5",
-      "timestamp": "2026-09-02T05:21:13.728Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de düğünde havaya ateş açıldı!...\"",
-      "type": "info"
-    },
-    {
-      "id": "756wzywyc",
-      "timestamp": "2026-09-02T05:21:13.344Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "1j0mnfulw",
-      "timestamp": "2026-09-02T05:21:13.337Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "hmh6r5fx9",
-      "timestamp": "2026-09-02T05:21:13.320Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
