@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "8556yihom",
+      "timestamp": "2026-09-05T20:53:44.063Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "b4s9snuxi",
+      "timestamp": "2026-09-05T20:53:44.046Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "7xnwtg3l7",
+      "timestamp": "2026-09-05T20:53:43.413Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "qxniqsyxw",
+      "timestamp": "2026-09-05T20:53:43.398Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "zz7iceylg",
       "timestamp": "2026-09-05T18:30:54.391Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de aşiretler toplumsal barış için...\"",
@@ -5387,30 +5411,6 @@
       "id": "cd11bk1mz",
       "timestamp": "2026-09-03T21:11:36.137Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de bıçaklı kavga: 3 yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "wi2brhasc",
-      "timestamp": "2026-09-03T21:11:35.378Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de evinde ölü bulunan kişi toprağ...\"",
-      "type": "info"
-    },
-    {
-      "id": "qi966eatz",
-      "timestamp": "2026-09-03T21:11:34.656Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Büyükşehir Belediyesi Kızıltepe’d...\"",
-      "type": "info"
-    },
-    {
-      "id": "dm9kaqzcz",
-      "timestamp": "2026-09-03T21:11:33.972Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Anız Yangınına Müdahele...\"",
-      "type": "info"
-    },
-    {
-      "id": "acy1b4tab",
-      "timestamp": "2026-09-03T21:11:33.285Z",
-      "message": "Telegram bildirimi gönderildi: \"Sokaktaki çöpleri toplayıp kutuya atan m...\"",
       "type": "info"
     }
   ]
