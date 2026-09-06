@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "w6l9hnbld",
+      "timestamp": "2026-09-06T22:38:06.499Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "acmo2uyxw",
+      "timestamp": "2026-09-06T22:38:06.477Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "39zydia8s",
+      "timestamp": "2026-09-06T22:38:05.881Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "n31c5dvh4",
+      "timestamp": "2026-09-06T22:38:05.868Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "p9kmlotzs",
       "timestamp": "2026-09-06T20:42:42.195Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de otomobil ile motosiklet çarpış...\"",
@@ -5387,30 +5411,6 @@
       "id": "s47q1q3lf",
       "timestamp": "2026-09-04T18:45:26.779Z",
       "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "vhqfxonsp",
-      "timestamp": "2026-09-04T18:45:26.768Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "alvciniaq",
-      "timestamp": "2026-09-04T18:45:26.039Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "1jg7jprkl",
-      "timestamp": "2026-09-04T18:45:26.031Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "8sxn56pm9",
-      "timestamp": "2026-09-04T15:36:47.074Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Büyükşehir Belediyesi Kızıltepe'd...\"",
       "type": "info"
     }
   ]
