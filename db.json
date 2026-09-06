@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "x62thpwdd",
+      "timestamp": "2026-09-06T00:30:26.204Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "1ee6rw8rd",
+      "timestamp": "2026-09-06T00:30:26.191Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "qkcooutfl",
+      "timestamp": "2026-09-06T00:30:25.147Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "89l85q64u",
+      "timestamp": "2026-09-06T00:30:25.134Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "gq8qv818h",
       "timestamp": "2026-09-05T22:35:04.330Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "kkb3wr5g4",
       "timestamp": "2026-09-03T23:23:36.653Z",
       "message": "Telegram bildirimi gönderildi: \"3 Eylül Mardin Kızıltepe Bugün Saatlik H...\"",
-      "type": "info"
-    },
-    {
-      "id": "dw5qsla3m",
-      "timestamp": "2026-09-03T23:23:35.952Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe Yarınki Hava Durumu...\"",
-      "type": "info"
-    },
-    {
-      "id": "380d18yzf",
-      "timestamp": "2026-09-03T23:23:35.277Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Aileler Arasında Kanlı Kavg...\"",
-      "type": "info"
-    },
-    {
-      "id": "28xkiva5a",
-      "timestamp": "2026-09-03T23:23:34.761Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "bziav914k",
-      "timestamp": "2026-09-03T23:23:34.758Z",
-      "message": "Veritabanına 3 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
