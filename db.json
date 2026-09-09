@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kızıltepe’de kavga: 1 kişi öldü, 11 kişi yaralandı",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41OUJ2UGh2b0tRcks0VVdGXzMzc1VTQ0wzUzdmNGZabWJNNlJkOGtkbnZMS3ZMN0VqYzIxR2NPc3JqdnhPbWdDemFqa2JzX3ZrbDU5VVlaY1EyV0Q4TDdnWU1QNDVQUQ?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 20:04:16 GMT",
+      "guid": "CBMiZkFVX3lxTE41OUJ2UGh2b0tRcks0VVdGXzMzc1VTQ0wzUzdmNGZabWJNNlJkOGtkbnZMS3ZMN0VqYzIxR2NPc3JqdnhPbWdDemFqa2JzX3ZrbDU5VVlaY1EyV0Q4TDdnWU1QNDVQUQ",
+      "source": "rudaw.net",
+      "id": "CBMiZkFVX3lxTE41OUJ2UGh2b0tRcks0VVdGXzMzc1VTQ0wzUzdmNGZabWJNNlJkOGtkbnZMS3ZMN0VqYzIxR2NPc3JqdnhPbWdDemFqa2JzX3ZrbDU5VVlaY1EyV0Q4TDdnWU1QNDVQUQ",
+      "crawledAt": "2026-09-09T06:21:46.051Z"
+    },
+    {
       "title": "Vefat: İrfan Soysal",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hbG14NG5jcldTLW56NTEtM2RfNU9CbFBlSXFLdnVlVXJoYXdBRWxqZTFFS2ZYSDROX0FiWHI2cWZuWC1oSHQyaVkyUG9mc3dwWm1Mc0ZzbXFKT0lPSDd5Qm5VRm41X3ZCTUE?oc=5",
       "pubDate": "Tue, 08 Sep 2026 18:12:29 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Bianet",
       "id": "CBMikgFBVV95cUxNMWZsWmNOeV9SZVBxWi1ROTJ4WjNKSlk3VkZtR3F1Tm15emthajV4ai1EbE1MRGxraDd5NW1pM1lZQUVGd0pQQmw0c1JxdV8xWGlleHgtVVhvSmo4TGcyVjZ5bHdPbUtZSXk3Z2U4YXJualdGR1JzRklyOU5DaTJtMTNSVzhxT2lybWFfcVJWVkFvUQ",
       "crawledAt": "2026-08-24T06:01:33.177Z"
-    },
-    {
-      "title": "Kızıltepe Belediyesi'nde zabıtaydı, gösterdiği azimle doktor oldu! Zabıta yeleğini çıkarıp önlük giydi",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTGdObTdKT3dfYm54S3BwN3hHeUtpWjNwSXhzYmxlckRzcndHRG92RkJiS25QZDRmOVctUFZtbFNQeFZoUld3WEx3b2EteW1sellNcl9Qb2pJODBqLTNqU2tzRl96WkdUOVMxVlB0NFlkUlVZS1M1ajVYVk9fRGhWcjVxTWdpVDJXNWRRQUZsVUY5SldvNzNEQ2szTHI1M2NrMjVhc3NtQjRyTVZENENRUUN1SzhiNzQyTzJiSmJENWoxR2hSamxJUFpUTGFLMmg5QUl5czFTdkZ2Zw?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "guid": "CBMi2gFBVV95cUxPTGdObTdKT3dfYm54S3BwN3hHeUtpWjNwSXhzYmxlckRzcndHRG92RkJiS25QZDRmOVctUFZtbFNQeFZoUld3WEx3b2EteW1sellNcl9Qb2pJODBqLTNqU2tzRl96WkdUOVMxVlB0NFlkUlVZS1M1ajVYVk9fRGhWcjVxTWdpVDJXNWRRQUZsVUY5SldvNzNEQ2szTHI1M2NrMjVhc3NtQjRyTVZENENRUUN1SzhiNzQyTzJiSmJENWoxR2hSamxJUFpUTGFLMmg5QUl5czFTdkZ2Zw",
-      "source": "Gazete Vatan",
-      "id": "CBMi2gFBVV95cUxPTGdObTdKT3dfYm54S3BwN3hHeUtpWjNwSXhzYmxlckRzcndHRG92RkJiS25QZDRmOVctUFZtbFNQeFZoUld3WEx3b2EteW1sellNcl9Qb2pJODBqLTNqU2tzRl96WkdUOVMxVlB0NFlkUlVZS1M1ajVYVk9fRGhWcjVxTWdpVDJXNWRRQUZsVUY5SldvNzNEQ2szTHI1M2NrMjVhc3NtQjRyTVZENENRUUN1SzhiNzQyTzJiSmJENWoxR2hSamxJUFpUTGFLMmg5QUl5czFTdkZ2Zw",
-      "crawledAt": "2026-08-24T05:09:45.789Z"
     }
   ],
   "settings": {
@@ -4509,10 +4509,58 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-09-08",
+    "lastMorningReportDate": "2026-09-09",
     "lastPharmaciesDate": "2026-09-08"
   },
   "logs": [
+    {
+      "id": "7amqjszj8",
+      "timestamp": "2026-09-09T06:21:47.741Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "y14ny99mi",
+      "timestamp": "2026-09-09T06:21:47.012Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "iok5t0jiq",
+      "timestamp": "2026-09-09T06:21:46.502Z",
+      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de kavga: 1 kişi öldü, 11 kişi...\"",
+      "type": "info"
+    },
+    {
+      "id": "t7bgo6rat",
+      "timestamp": "2026-09-09T06:21:46.061Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "stn3fols4",
+      "timestamp": "2026-09-09T06:21:46.056Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "n7tgknjke",
+      "timestamp": "2026-09-09T06:21:46.039Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "0mfj82s4u",
+      "timestamp": "2026-09-09T06:21:45.324Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "jhpjfrrra",
+      "timestamp": "2026-09-09T06:21:45.311Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "j8ibz3t62",
       "timestamp": "2026-09-09T01:26:35.677Z",
@@ -5363,54 +5411,6 @@
       "id": "br89obfzj",
       "timestamp": "2026-09-06T18:29:07.349Z",
       "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "s61pqoh2g",
-      "timestamp": "2026-09-06T18:29:06.840Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin İçin Kuvvetli Rüzgar ve Fırtına U...\"",
-      "type": "info"
-    },
-    {
-      "id": "qxfel6aky",
-      "timestamp": "2026-09-06T18:29:06.190Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de Aşiretlerden Ortak Mesaj: “...\"",
-      "type": "info"
-    },
-    {
-      "id": "2s3a32u73",
-      "timestamp": "2026-09-06T18:29:05.839Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "2j2z394ck",
-      "timestamp": "2026-09-06T18:29:05.834Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "wmea2eq1n",
-      "timestamp": "2026-09-06T18:29:05.817Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "7g3i49ox8",
-      "timestamp": "2026-09-06T18:29:05.250Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "rkiuxmpp1",
-      "timestamp": "2026-09-06T18:29:05.236Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "dvfxarppg",
-      "timestamp": "2026-09-06T13:20:37.412Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
