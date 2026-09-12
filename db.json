@@ -4510,9 +4510,45 @@
     "discordWebhook": "",
     "enableDiscord": false,
     "lastMorningReportDate": "2026-09-12",
-    "lastPharmaciesDate": "2026-09-11"
+    "lastPharmaciesDate": "2026-09-12"
   },
   "logs": [
+    {
+      "id": "jnw3c6sk7",
+      "timestamp": "2026-09-12T17:38:10.346Z",
+      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "scdthbv5w",
+      "timestamp": "2026-09-12T17:38:09.618Z",
+      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "pl16k2pvu",
+      "timestamp": "2026-09-12T17:38:09.609Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "phj6oxjry",
+      "timestamp": "2026-09-12T17:38:09.596Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "aaidujwo1",
+      "timestamp": "2026-09-12T17:38:08.893Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "gqtpkc1is",
+      "timestamp": "2026-09-12T17:38:08.879Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "liioo5bqb",
       "timestamp": "2026-09-12T14:50:43.092Z",
@@ -5375,42 +5411,6 @@
       "id": "883uz7cxv",
       "timestamp": "2026-09-09T19:00:21.928Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "rfbzdnzdj",
-      "timestamp": "2026-09-09T19:00:21.493Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "9uq2w2sg4",
-      "timestamp": "2026-09-09T19:00:20.984Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Vali Yardımcısı Büşra Uçar Koyun'...\"",
-      "type": "info"
-    },
-    {
-      "id": "bdiguenp8",
-      "timestamp": "2026-09-09T19:00:20.330Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de aranan firari hükümlü yakal...\"",
-      "type": "info"
-    },
-    {
-      "id": "xsdyd11uq",
-      "timestamp": "2026-09-09T19:00:19.605Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Belediyesi Boş Arazileri Temiz...\"",
-      "type": "info"
-    },
-    {
-      "id": "m7dpax859",
-      "timestamp": "2026-09-09T19:00:18.838Z",
-      "message": "Telegram bildirimi gönderildi: \"Artuklu Üniversitesi ile Kızıltepe Zahir...\"",
-      "type": "info"
-    },
-    {
-      "id": "s1awu7pg2",
-      "timestamp": "2026-09-09T19:00:18.193Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de TEKNOFEST heyecanı, İnsansız K...\"",
       "type": "info"
     }
   ]
