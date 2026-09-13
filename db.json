@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "4bmolubq1",
+      "timestamp": "2026-09-13T00:06:51.405Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "nxex7sw6z",
+      "timestamp": "2026-09-13T00:06:51.383Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "4trgl4h10",
+      "timestamp": "2026-09-13T00:06:50.734Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "uf0mioyh4",
+      "timestamp": "2026-09-13T00:06:50.721Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "x2knn9sw1",
       "timestamp": "2026-09-12T22:26:23.270Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "36xptqm4y",
       "timestamp": "2026-09-10T02:41:00.997Z",
       "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "qu4nxt5tl",
-      "timestamp": "2026-09-10T02:41:00.455Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "p1420go01",
-      "timestamp": "2026-09-10T02:41:00.443Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "1xfqzedr0",
-      "timestamp": "2026-09-09T23:45:45.201Z",
-      "message": "Telegram bildirimi gönderildi: \"Qoser’de ev baskınları: Üç kişi gözaltın...\"",
-      "type": "info"
-    },
-    {
-      "id": "l98dslpss",
-      "timestamp": "2026-09-09T23:45:44.681Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
