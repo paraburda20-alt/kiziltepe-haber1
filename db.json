@@ -4510,9 +4510,45 @@
     "discordWebhook": "",
     "enableDiscord": false,
     "lastMorningReportDate": "2026-09-13",
-    "lastPharmaciesDate": "2026-09-12"
+    "lastPharmaciesDate": "2026-09-13"
   },
   "logs": [
+    {
+      "id": "uj6l8quom",
+      "timestamp": "2026-09-13T17:51:23.194Z",
+      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "zo8vm3if0",
+      "timestamp": "2026-09-13T17:51:22.119Z",
+      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "jb9le72jc",
+      "timestamp": "2026-09-13T17:51:22.109Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "jrmkodlnp",
+      "timestamp": "2026-09-13T17:51:22.087Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "i6l71zz19",
+      "timestamp": "2026-09-13T17:51:21.407Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "c5b7vlpc9",
+      "timestamp": "2026-09-13T17:51:21.395Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "paqi98urr",
       "timestamp": "2026-09-13T14:32:07.160Z",
@@ -5375,42 +5411,6 @@
       "id": "hxbp6mcbc",
       "timestamp": "2026-09-10T19:26:03.626Z",
       "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "1zrbch3gy",
-      "timestamp": "2026-09-10T19:26:03.091Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "1amd4qolz",
-      "timestamp": "2026-09-10T19:26:03.078Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "r1rm3nj7k",
-      "timestamp": "2026-09-10T16:51:18.427Z",
-      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "qi90lr0e4",
-      "timestamp": "2026-09-10T16:51:17.382Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "x4ru2202g",
-      "timestamp": "2026-09-10T16:51:16.873Z",
-      "message": "Telegram bildirimi gönderildi: \"DEM Parti milletvekili Altın, Kızıltepe'...\"",
-      "type": "info"
-    },
-    {
-      "id": "wrxhywbek",
-      "timestamp": "2026-09-10T16:51:16.192Z",
-      "message": "Telegram bildirimi gönderildi: \"DEM Parti milletvekili Altın, Kızıltepe'...\"",
       "type": "info"
     }
   ]
