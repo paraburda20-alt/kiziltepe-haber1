@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin’de parkta silahlı saldırı: 1 ölü",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0xYZ3NnMm12ZklIc2FsaWtlTzc1VXB1SmlsM1N1b0xYLWo2bWlWS0d5N3dBNmIyR3VHa195dzhyd3ZfaVJlNEhCU0VhdUg4cF9ZSklDeHFqRXB3TFY3QUdXY2hmTkpoeWZNeXJyd1dYSURYNXg1SlFvVWpxS282eWhhQ05KeHRfdGNhY2VYZFNlVzR3Z0tiQlV6WXUtbkc4bnc?oc=5",
+      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "guid": "CBMiogFBVV95cUxOd0xYZ3NnMm12ZklIc2FsaWtlTzc1VXB1SmlsM1N1b0xYLWo2bWlWS0d5N3dBNmIyR3VHa195dzhyd3ZfaVJlNEhCU0VhdUg4cF9ZSklDeHFqRXB3TFY3QUdXY2hmTkpoeWZNeXJyd1dYSURYNXg1SlFvVWpxS282eWhhQ05KeHRfdGNhY2VYZFNlVzR3Z0tiQlV6WXUtbkc4bnc",
+      "source": "dha.com.tr",
+      "id": "CBMiogFBVV95cUxOd0xYZ3NnMm12ZklIc2FsaWtlTzc1VXB1SmlsM1N1b0xYLWo2bWlWS0d5N3dBNmIyR3VHa195dzhyd3ZfaVJlNEhCU0VhdUg4cF9ZSklDeHFqRXB3TFY3QUdXY2hmTkpoeWZNeXJyd1dYSURYNXg1SlFvVWpxS282eWhhQ05KeHRfdGNhY2VYZFNlVzR3Z0tiQlV6WXUtbkc4bnc",
+      "crawledAt": "2026-09-14T17:27:06.851Z"
+    },
+    {
       "title": "Kızıltepe’de Garnizon Komutanlığına kazılmış tünel bulundu",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0JsU1ZrZGdIY2hGVEM3SVBBeFdGQjduUkEwS0lXcE01ZVlpdzQtUVFmRDF5a2RJRXQxX0tVRGxtMEExM242M0gteGdCS2tqWHJiczl3U1dabHdTV2d1NjU3a2VZb1lFbzdST0NJWDhuUEtHWFJuVmFMVjc4eDRpeERRWHB1MWxha1dfZ042UVJkMWszWFFKc0NuSUxxTHlLSDg1UzdIdHI?oc=5",
       "pubDate": "Mon, 18 Dec 2017 08:00:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Mardin İl Milli Eğitim Müdürlüğü",
       "id": "CBMijgFBVV95cUxNSHNjaWRxQkVZUmgyV3ROQ0lDWlhzSlZBaU1KYk4zZW1MUms0QWUwd2dDZlhzQ09KVHpiMVAyYlZUeVpaYkxQX0FkVG1DQXBBQWIxQ0NoRzl5bHdhaE9PalZwOFRHNWoyaUpsaTRuX2FrUkhRN3QzNy1UdFNTX0tacEllVkhWX0VPejRwQ1Zn",
       "crawledAt": "2026-08-24T17:06:12.901Z"
-    },
-    {
-      "title": "Kızıltepe'de Kaçırılan Yusuf Tunç'dan 16 Yıldır Haber Yok",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzE3MDZPb2ljLXU4cGJkMU1uMU9kZHJjc0poWmgyZ1BMMUV5NTduSjVTRjl4dmZJaDZzTFRBRmVTV1V1cmFMTVBRUVA3QkhxUDhROHVGU1l5X3NHRTViLXIwQmFPMkUzYXl1TjV5b1JVYmRKWmtrOEVRM2tseHA5WkE5Z1kyN2MwQ0Y5bGJLYld2TEk?oc=5",
-      "pubDate": "Tue, 26 Sep 2023 01:29:20 GMT",
-      "guid": "CBMikwFBVV95cUxOdzE3MDZPb2ljLXU4cGJkMU1uMU9kZHJjc0poWmgyZ1BMMUV5NTduSjVTRjl4dmZJaDZzTFRBRmVTV1V1cmFMTVBRUVA3QkhxUDhROHVGU1l5X3NHRTViLXIwQmFPMkUzYXl1TjV5b1JVYmRKWmtrOEVRM2tseHA5WkE5Z1kyN2MwQ0Y5bGJLYld2TEk",
-      "source": "Bianet",
-      "id": "CBMikwFBVV95cUxOdzE3MDZPb2ljLXU4cGJkMU1uMU9kZHJjc0poWmgyZ1BMMUV5NTduSjVTRjl4dmZJaDZzTFRBRmVTV1V1cmFMTVBRUVA3QkhxUDhROHVGU1l5X3NHRTViLXIwQmFPMkUzYXl1TjV5b1JVYmRKWmtrOEVRM2tseHA5WkE5Z1kyN2MwQ0Y5bGJLYld2TEk",
-      "crawledAt": "2026-08-24T17:06:12.901Z"
     }
   ],
   "settings": {
@@ -4510,9 +4510,57 @@
     "discordWebhook": "",
     "enableDiscord": false,
     "lastMorningReportDate": "2026-09-14",
-    "lastPharmaciesDate": "2026-09-13"
+    "lastPharmaciesDate": "2026-09-14"
   },
   "logs": [
+    {
+      "id": "kmgy80783",
+      "timestamp": "2026-09-14T17:27:08.918Z",
+      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "2l4gw42ou",
+      "timestamp": "2026-09-14T17:27:07.882Z",
+      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "5o2x7fdkc",
+      "timestamp": "2026-09-14T17:27:07.375Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin’de parkta silahlı saldırı: 1 ölü...\"",
+      "type": "info"
+    },
+    {
+      "id": "vynfkwyhg",
+      "timestamp": "2026-09-14T17:27:06.860Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "p4hg0s2cz",
+      "timestamp": "2026-09-14T17:27:06.855Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "e4nj21m3a",
+      "timestamp": "2026-09-14T17:27:06.842Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ctqriah8t",
+      "timestamp": "2026-09-14T17:27:06.197Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "j8c1g4x4v",
+      "timestamp": "2026-09-14T17:27:06.186Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "2yvxgprvg",
       "timestamp": "2026-09-14T11:31:06.631Z",
@@ -5362,54 +5410,6 @@
     {
       "id": "3nm3n7o96",
       "timestamp": "2026-09-11T19:23:25.365Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "vdd929b6y",
-      "timestamp": "2026-09-11T19:23:25.357Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "ufxrx15j0",
-      "timestamp": "2026-09-11T16:42:46.256Z",
-      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "zd629v6bx",
-      "timestamp": "2026-09-11T16:42:45.802Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "wk4nq6xax",
-      "timestamp": "2026-09-11T16:42:45.291Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de 3’üncü kattan düşen çocuk ağır...\"",
-      "type": "info"
-    },
-    {
-      "id": "4i1b3pvw3",
-      "timestamp": "2026-09-11T16:42:44.931Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "6wqxlo1xe",
-      "timestamp": "2026-09-11T16:42:44.926Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "bejljsp1x",
-      "timestamp": "2026-09-11T16:42:44.911Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "mgbf7ph5u",
-      "timestamp": "2026-09-11T16:42:44.317Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
