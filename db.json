@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin'de iki araçta 26 kaçak cep telefonu ele geçirildi, 3 şüpheli yakalandı",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVhsWlhuaXdVT2stZ09ZOXBWanROZmthVGdWd2pvTWlUaGZBa1dPU0FIWVQ0SVU1Wk5EVHVoMkdQM1NkaHhtNTA0TENuTFQtLTdpS2duckRUUFRyTmhEVUhiejE3TTlTUzBMRXRCazF6R0diSWk0WE1uQ2lQUUhYbXAwQkVHY2NreVhrWVdILUpjQlNNd050bHpWYXg1T1FI0gGcAUFVX3lxTE9oU19uVDJWUHVteTdzOEhhdW5MSlI0d2Q5RmZ4UTFkNnZUYzduSnBwTjV0dUpqUVRUeVpZM3VMTGVJSnJOS0c4NFFxQW42MUVZV3ZlTjJXLVl6QlJ0NUJvMEplTkdSWXF6cGVZZnotTi05NVU4enNQeDhDdXpTTGw1TXVpY2hzcnNlTTJFRXVRVWpCdV9nNmRFeUtiaA?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 07:26:24 GMT",
+      "guid": "CBMioAFBVV95cUxNbVhsWlhuaXdVT2stZ09ZOXBWanROZmthVGdWd2pvTWlUaGZBa1dPU0FIWVQ0SVU1Wk5EVHVoMkdQM1NkaHhtNTA0TENuTFQtLTdpS2duckRUUFRyTmhEVUhiejE3TTlTUzBMRXRCazF6R0diSWk0WE1uQ2lQUUhYbXAwQkVHY2NreVhrWVdILUpjQlNNd050bHpWYXg1T1FI0gGcAUFVX3lxTE9oU19uVDJWUHVteTdzOEhhdW5MSlI0d2Q5RmZ4UTFkNnZUYzduSnBwTjV0dUpqUVRUeVpZM3VMTGVJSnJOS0c4NFFxQW42MUVZV3ZlTjJXLVl6QlJ0NUJvMEplTkdSWXF6cGVZZnotTi05NVU4enNQeDhDdXpTTGw1TXVpY2hzcnNlTTJFRXVRVWpCdV9nNmRFeUtiaA",
+      "source": "Son Dakika",
+      "id": "CBMioAFBVV95cUxNbVhsWlhuaXdVT2stZ09ZOXBWanROZmthVGdWd2pvTWlUaGZBa1dPU0FIWVQ0SVU1Wk5EVHVoMkdQM1NkaHhtNTA0TENuTFQtLTdpS2duckRUUFRyTmhEVUhiejE3TTlTUzBMRXRCazF6R0diSWk0WE1uQ2lQUUhYbXAwQkVHY2NreVhrWVdILUpjQlNNd050bHpWYXg1T1FI0gGcAUFVX3lxTE9oU19uVDJWUHVteTdzOEhhdW5MSlI0d2Q5RmZ4UTFkNnZUYzduSnBwTjV0dUpqUVRUeVpZM3VMTGVJSnJOS0c4NFFxQW42MUVZV3ZlTjJXLVl6QlJ0NUJvMEplTkdSWXF6cGVZZnotTi05NVU4enNQeDhDdXpTTGw1TXVpY2hzcnNlTTJFRXVRVWpCdV9nNmRFeUtiaA",
+      "crawledAt": "2026-09-15T08:31:06.660Z"
+    },
+    {
       "title": "TTB ve Mardin Tabip Odası Heyeti, Mardin Kızıltepe’deki Şiddet İddiaları ile İlgili İl Sağlık Müdürü ve Hastane Başhekimi ile Görüştü",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5XSVVoSlJ6cGt6Z2lSWHMwcHIwSndMcUFqSjVwM3VjZTlXMFpITGppM3B1TlJPMXpqaENkMGRHc0t0NUhV?oc=5",
       "pubDate": "Mon, 14 Sep 2026 10:00:37 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Yozgat Gazetesi",
       "id": "CBMilgFBVV95cUxNYXBYU2xYZ3ZjUlYyZkhCeHFNNWlCNlBJYi1wZlRxV0tXZVctM2QzMUtfTlRid3RWMlowODFvb1B1a055TThETjBUQVBQRWZrQVpkaEpNSHM3eF9ZNm9NOVFJRzBLVW1jbUlma2pWS3VpT1UyakRQYThYbS1INUgyUEluS01MQnB5OWhfc2E3M1NuN0JNTHc",
       "crawledAt": "2026-08-24T17:06:12.901Z"
-    },
-    {
-      "title": "KIZILTEPE SABİHA GÖKÇEN ANAOKULU \"YEŞİL BAYRAK\" ALMAYA HAK KAZANDI.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWFZN0VVQzhaWkc5dHdTVFFNdkFuSkpyREE3ZTYwR1BCaVo1STltZVdnSjl1V0ZUQ3p3N3hYcGpieXVYbnVzMjNXMldSWnlFT1dJS25WQ0hBazN0R1dVRDFUN0tYT0R1bzl2UTJVUlFiMnRic2pEZ0pWOXJSb1BCcmFQZHBCWS1OZmZxMzdqbGlvYzV2WFZpd0NPa2k3cG5DUnc5Wm9aaTNYRFFwTmNfeVktdXk?oc=5",
-      "pubDate": "Mon, 06 Apr 2026 14:00:19 GMT",
-      "guid": "CBMitAFBVV95cUxPWWFZN0VVQzhaWkc5dHdTVFFNdkFuSkpyREE3ZTYwR1BCaVo1STltZVdnSjl1V0ZUQ3p3N3hYcGpieXVYbnVzMjNXMldSWnlFT1dJS25WQ0hBazN0R1dVRDFUN0tYT0R1bzl2UTJVUlFiMnRic2pEZ0pWOXJSb1BCcmFQZHBCWS1OZmZxMzdqbGlvYzV2WFZpd0NPa2k3cG5DUnc5Wm9aaTNYRFFwTmNfeVktdXk",
-      "source": "Mardin İl Milli Eğitim Müdürlüğü",
-      "id": "CBMitAFBVV95cUxPWWFZN0VVQzhaWkc5dHdTVFFNdkFuSkpyREE3ZTYwR1BCaVo1STltZVdnSjl1V0ZUQ3p3N3hYcGpieXVYbnVzMjNXMldSWnlFT1dJS25WQ0hBazN0R1dVRDFUN0tYT0R1bzl2UTJVUlFiMnRic2pEZ0pWOXJSb1BCcmFQZHBCWS1OZmZxMzdqbGlvYzV2WFZpd0NPa2k3cG5DUnc5Wm9aaTNYRFFwTmNfeVktdXk",
-      "crawledAt": "2026-08-24T17:06:12.901Z"
     }
   ],
   "settings": {
@@ -4509,10 +4509,58 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-09-14",
+    "lastMorningReportDate": "2026-09-15",
     "lastPharmaciesDate": "2026-09-14"
   },
   "logs": [
+    {
+      "id": "lspe8p945",
+      "timestamp": "2026-09-15T08:31:09.782Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "jbpy7im51",
+      "timestamp": "2026-09-15T08:31:07.756Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "08pm2apc6",
+      "timestamp": "2026-09-15T08:31:07.248Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'de iki araçta 26 kaçak cep telefo...\"",
+      "type": "info"
+    },
+    {
+      "id": "spmbkuljs",
+      "timestamp": "2026-09-15T08:31:06.739Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "f6mg6v6oz",
+      "timestamp": "2026-09-15T08:31:06.734Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "6k5ax6wvr",
+      "timestamp": "2026-09-15T08:31:06.652Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "nb6o8mtxt",
+      "timestamp": "2026-09-15T08:31:05.657Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "8al99lxtt",
+      "timestamp": "2026-09-15T08:31:05.648Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "m1m591v69",
       "timestamp": "2026-09-15T02:58:56.213Z",
@@ -5363,54 +5411,6 @@
       "id": "p4endcb8i",
       "timestamp": "2026-09-12T02:43:13.555Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "q4qykw6xs",
-      "timestamp": "2026-09-12T02:43:13.544Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "55ylgnbrq",
-      "timestamp": "2026-09-11T23:48:04.877Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de bir adreste 48 sikke...\"",
-      "type": "info"
-    },
-    {
-      "id": "9nxyk98sd",
-      "timestamp": "2026-09-11T23:48:04.191Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de 48 sikke ve tarihi eser niteli...\"",
-      "type": "info"
-    },
-    {
-      "id": "bbyv9p4ud",
-      "timestamp": "2026-09-11T23:48:03.486Z",
-      "message": "Telegram bildirimi gönderildi: \"İki aile arasında çıkan 'yol verme' kavg...\"",
-      "type": "info"
-    },
-    {
-      "id": "rtnkgylup",
-      "timestamp": "2026-09-11T23:48:02.800Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'den Filistin Konvoyu'na Destek...\"",
-      "type": "info"
-    },
-    {
-      "id": "7ais7jfb2",
-      "timestamp": "2026-09-11T23:48:02.063Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de evinde ölü bulunan kişi toprağ...\"",
-      "type": "info"
-    },
-    {
-      "id": "eqh9salfo",
-      "timestamp": "2026-09-11T23:48:01.385Z",
-      "message": "5 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "0s16klh5u",
-      "timestamp": "2026-09-11T23:48:01.380Z",
-      "message": "Veritabanına 5 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
