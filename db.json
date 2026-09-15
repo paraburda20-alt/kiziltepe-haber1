@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "m1m591v69",
+      "timestamp": "2026-09-15T02:58:56.213Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ch7jfaqvp",
+      "timestamp": "2026-09-15T02:58:56.196Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "rwi15b89z",
+      "timestamp": "2026-09-15T02:58:55.504Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "m4nnkne8o",
+      "timestamp": "2026-09-15T02:58:55.491Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "yifhpp8xc",
       "timestamp": "2026-09-14T23:55:07.100Z",
       "message": "Telegram bildirimi gönderildi: \"TTB ve Mardin Tabip Odası Heyeti, Mardin...\"",
@@ -5387,30 +5411,6 @@
       "id": "0s16klh5u",
       "timestamp": "2026-09-11T23:48:01.380Z",
       "message": "Veritabanına 5 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "q8h4lvp42",
-      "timestamp": "2026-09-11T23:48:01.365Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "9sfo67sz3",
-      "timestamp": "2026-09-11T23:48:00.555Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "skmkwt0k0",
-      "timestamp": "2026-09-11T23:48:00.541Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "4wshioax5",
-      "timestamp": "2026-09-11T21:49:15.460Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de 48 sikke ve tarihi eser nit...\"",
       "type": "info"
     }
   ]
