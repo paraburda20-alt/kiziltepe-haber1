@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "ftsixc3fd",
+      "timestamp": "2026-09-16T02:55:02.587Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "dz3hlurng",
+      "timestamp": "2026-09-16T02:55:02.573Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "63k1rpwh2",
+      "timestamp": "2026-09-16T02:55:01.977Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "d1gx3jw1a",
+      "timestamp": "2026-09-16T02:55:01.964Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "r9i6g8b5t",
       "timestamp": "2026-09-15T23:53:47.382Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe Haberleri - İki aile arasında ...\"",
@@ -5387,30 +5411,6 @@
       "id": "x2knn9sw1",
       "timestamp": "2026-09-12T22:26:23.270Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "py3whyy68",
-      "timestamp": "2026-09-12T22:26:23.257Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "klpgz8z37",
-      "timestamp": "2026-09-12T22:26:22.606Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "9na4mi97r",
-      "timestamp": "2026-09-12T22:26:22.594Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "50mp2rtig",
-      "timestamp": "2026-09-12T20:02:13.468Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de tarihi eser operasyonu...\"",
       "type": "info"
     }
   ]
