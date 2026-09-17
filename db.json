@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "4k6j6vy5w",
+      "timestamp": "2026-09-17T01:38:00.684Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "bx656au0s",
+      "timestamp": "2026-09-17T01:38:00.671Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "gvdzf4p4t",
+      "timestamp": "2026-09-17T01:37:59.812Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "3ubf9r4ne",
+      "timestamp": "2026-09-17T01:37:59.799Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "1jwfuu3mv",
       "timestamp": "2026-09-16T23:28:50.955Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de yarım asırlık atıksu hattı ...\"",
@@ -5387,30 +5411,6 @@
       "id": "v0kdtis9l",
       "timestamp": "2026-09-13T22:30:59.542Z",
       "message": "Telegram bildirimi gönderildi: \"KIZILTEPE 5. ASLİYE HUKUK MAHKEMESİ...\"",
-      "type": "info"
-    },
-    {
-      "id": "8n9w70bmb",
-      "timestamp": "2026-09-13T22:30:59.083Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "ea0tqacme",
-      "timestamp": "2026-09-13T22:30:59.079Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "mwdpb9kw3",
-      "timestamp": "2026-09-13T22:30:59.068Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "2a4ispqqn",
-      "timestamp": "2026-09-13T22:30:58.378Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
