@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "2ihyspmcz",
+      "timestamp": "2026-09-18T01:07:24.816Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "yeywkhbju",
+      "timestamp": "2026-09-18T01:07:24.799Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ezx4t2972",
+      "timestamp": "2026-09-18T01:07:24.197Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "7p8qf941n",
+      "timestamp": "2026-09-18T01:07:24.184Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "0htoe2ju2",
       "timestamp": "2026-09-17T22:58:37.886Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de kontrolden çıkan tır...\"",
@@ -5387,30 +5411,6 @@
       "id": "yifhpp8xc",
       "timestamp": "2026-09-14T23:55:07.100Z",
       "message": "Telegram bildirimi gönderildi: \"TTB ve Mardin Tabip Odası Heyeti, Mardin...\"",
-      "type": "info"
-    },
-    {
-      "id": "m8gftpkz2",
-      "timestamp": "2026-09-14T23:55:06.462Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de hurdalıkta yangın çıktı: 20 tı...\"",
-      "type": "info"
-    },
-    {
-      "id": "hgfjypa3j",
-      "timestamp": "2026-09-14T23:55:06.060Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "0axlchmws",
-      "timestamp": "2026-09-14T23:55:06.054Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "o5e2o055x",
-      "timestamp": "2026-09-14T23:55:06.039Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
