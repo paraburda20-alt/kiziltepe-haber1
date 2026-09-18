@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "85sb7614u",
+      "timestamp": "2026-09-18T21:23:10.084Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "b9buaemty",
+      "timestamp": "2026-09-18T21:23:10.069Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "q9ob16pks",
+      "timestamp": "2026-09-18T21:23:09.434Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "vjfzh44s9",
+      "timestamp": "2026-09-18T21:23:09.421Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "uyjy27v5w",
       "timestamp": "2026-09-18T18:48:12.362Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "axvlx2913",
       "timestamp": "2026-09-15T18:20:02.211Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "jonatk0yz",
-      "timestamp": "2026-09-15T18:20:01.642Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "5grtgylox",
-      "timestamp": "2026-09-15T18:20:01.128Z",
-      "message": "Telegram bildirimi gönderildi: \"PWK’lilerden mahkemede Kürtçe savunma...\"",
-      "type": "info"
-    },
-    {
-      "id": "glm6l20sk",
-      "timestamp": "2026-09-15T18:20:00.417Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de yüzme havuzunda boğulan 13 ...\"",
-      "type": "info"
-    },
-    {
-      "id": "ecgvxxjl0",
-      "timestamp": "2026-09-15T18:19:59.641Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Haberleri - Kızıltepe Belediyesi ...\"",
       "type": "info"
     }
   ]
