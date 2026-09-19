@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kızıltepe TSO seçiminde “değişim” yarışı",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JRjJYdHFCLXR1R2Y5RzU3MlBvcGF6WnNWaUg0MDhsNjlXMndMNG9Xb19xYW1HWE9vaXJWdFk1bFJMdTRURWx3VVlCWHR4LWZLd3M4c0RiU0JudDI0OWlxWUQ4VG9ZWWlMZE1fNnpMTmIzemw2?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 18:56:00 GMT",
+      "guid": "CBMidEFVX3lxTE9JRjJYdHFCLXR1R2Y5RzU3MlBvcGF6WnNWaUg0MDhsNjlXMndMNG9Xb19xYW1HWE9vaXJWdFk1bFJMdTRURWx3VVlCWHR4LWZLd3M4c0RiU0JudDI0OWlxWUQ4VG9ZWWlMZE1fNnpMTmIzemw2",
+      "source": "Şırnak Ajans",
+      "id": "CBMidEFVX3lxTE9JRjJYdHFCLXR1R2Y5RzU3MlBvcGF6WnNWaUg0MDhsNjlXMndMNG9Xb19xYW1HWE9vaXJWdFk1bFJMdTRURWx3VVlCWHR4LWZLd3M4c0RiU0JudDI0OWlxWUQ4VG9ZWWlMZE1fNnpMTmIzemw2",
+      "crawledAt": "2026-09-19T19:54:47.088Z"
+    },
+    {
       "title": "Otomobilin çarptığı yaya öldü - Mardin Kızıltepe Haberleri",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUEFOdjZTTWJGN1V6Q2JzWWVJXzZqcm90ZTlLbGpxMlViQnBFMFI2c3dxNnBidGFhaGR5YmtzUmoyQmROaUxmUnlBbEV5NTdLYXNhWldfUDFZVmROUlUwemdTRmZabFY2eVRybE1wN181aWhxblpIck5SVUVFd0UtQW9MWXJ4aGhabURqSFdPN2xwV2lDTDU0?oc=5",
       "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Mardin Haber Gazetesi",
       "id": "CBMijAFBVV95cUxOSnBUd3ZyNEpGdVZKOWhEeGFwc2ZBMG51QkM2a1BzcVpQZlU0NGl1ZGNqTTBEZXVWUGNha0lWSnUtd1Zva0NhV0dmZG8tTUwxVGZLNVp4cTNJNUxXSTZwSEZiVWwxelZJdExEeElKX2YzQko0am1wTmd4eDJRcU4yejBqVENGTFBycTRaadIBkgFBVV95cUxPelRnNEsxd2tFR3BrcW5HbVgyZEk4WGdJUXhaVHpYRzU0bGhFMkQ4UXFYMTdEUkpldU93ZW9xY1RRUVJIdUd0a3BPUEZtRk5nMVllN0tENklEdWZVeXJFbWFFM1RlTjJyemRhcWFMTFhqeGlpaG1ZaUFjbmhVUE1yYjZBQkpVYk5jVXFPcThHdHNGUQ",
       "crawledAt": "2026-08-25T23:47:07.888Z"
-    },
-    {
-      "title": "Vefat: Necla Kaçmaz",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QdU5MaHpQMXR3RGwtUXBCZ0hobDZROTVfY2ViNWdUREpzVXo4U2tuSXNLcWVVeHd2d2d5ODlZbFRmVW5fak9oTmItdDNrdHVsMkFKNGtGM3RlUmtwenJCeG03MGtqLWdZQXc?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 07:52:37 GMT",
-      "guid": "CBMiakFVX3lxTE1QdU5MaHpQMXR3RGwtUXBCZ0hobDZROTVfY2ViNWdUREpzVXo4U2tuSXNLcWVVeHd2d2d5ODlZbFRmVW5fak9oTmItdDNrdHVsMkFKNGtGM3RlUmtwenJCeG03MGtqLWdZQXc",
-      "source": "Kızıltepe Ekspres Haber",
-      "id": "CBMiakFVX3lxTE1QdU5MaHpQMXR3RGwtUXBCZ0hobDZROTVfY2ViNWdUREpzVXo4U2tuSXNLcWVVeHd2d2d5ODlZbFRmVW5fak9oTmItdDNrdHVsMkFKNGtGM3RlUmtwenJCeG03MGtqLWdZQXc",
-      "crawledAt": "2026-08-25T23:47:07.888Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-09-19"
   },
   "logs": [
+    {
+      "id": "68maqvdf8",
+      "timestamp": "2026-09-19T19:54:47.539Z",
+      "message": "Telegram bildirimi gönderildi: \"Kızıltepe TSO seçiminde “değişim” yarışı...\"",
+      "type": "info"
+    },
+    {
+      "id": "vxvjvdl7h",
+      "timestamp": "2026-09-19T19:54:47.098Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "vblu2xj81",
+      "timestamp": "2026-09-19T19:54:47.093Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "flydnhua0",
+      "timestamp": "2026-09-19T19:54:47.077Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ks7cltz4l",
+      "timestamp": "2026-09-19T19:54:46.459Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "vaa8suh1i",
+      "timestamp": "2026-09-19T19:54:46.445Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "zknqudge3",
       "timestamp": "2026-09-19T17:41:18.418Z",
@@ -5375,42 +5411,6 @@
       "id": "290u31677",
       "timestamp": "2026-09-16T13:37:18.742Z",
       "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "myh9utks6",
-      "timestamp": "2026-09-16T13:37:18.028Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "y6wi5fkm4",
-      "timestamp": "2026-09-16T13:37:18.016Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "5ehvmylx5",
-      "timestamp": "2026-09-16T08:12:10.397Z",
-      "message": "Günlük sabah raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "3qkxip725",
-      "timestamp": "2026-09-16T08:12:09.306Z",
-      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "kk4kx0jwu",
-      "timestamp": "2026-09-16T08:12:08.794Z",
-      "message": "Telegram bildirimi gönderildi: \"TIR ile çarpışarak devrilen saman yüklü ...\"",
-      "type": "info"
-    },
-    {
-      "id": "gk7ggyvpj",
-      "timestamp": "2026-09-16T08:12:08.149Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de tırla çarpışan saman...\"",
       "type": "info"
     }
   ]
