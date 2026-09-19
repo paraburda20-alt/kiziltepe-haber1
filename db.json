@@ -4510,9 +4510,45 @@
     "discordWebhook": "",
     "enableDiscord": false,
     "lastMorningReportDate": "2026-09-19",
-    "lastPharmaciesDate": "2026-09-18"
+    "lastPharmaciesDate": "2026-09-19"
   },
   "logs": [
+    {
+      "id": "zknqudge3",
+      "timestamp": "2026-09-19T17:41:18.418Z",
+      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "9w4j9tkop",
+      "timestamp": "2026-09-19T17:41:17.718Z",
+      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "xa23xus2m",
+      "timestamp": "2026-09-19T17:41:17.710Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "8f8ksf6wy",
+      "timestamp": "2026-09-19T17:41:17.697Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "bjenctpmd",
+      "timestamp": "2026-09-19T17:41:17.096Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "una48ntf3",
+      "timestamp": "2026-09-19T17:41:17.083Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "u7w4xqk8x",
       "timestamp": "2026-09-19T14:35:45.687Z",
@@ -5375,42 +5411,6 @@
       "id": "gk7ggyvpj",
       "timestamp": "2026-09-16T08:12:08.149Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de tırla çarpışan saman...\"",
-      "type": "info"
-    },
-    {
-      "id": "n8xj3bz1c",
-      "timestamp": "2026-09-16T08:12:07.507Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de tırla çarpışan saman...\"",
-      "type": "info"
-    },
-    {
-      "id": "7g11skum7",
-      "timestamp": "2026-09-16T08:12:06.861Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de saman balyaları yola saçıld...\"",
-      "type": "info"
-    },
-    {
-      "id": "6rp2mynre",
-      "timestamp": "2026-09-16T08:12:06.147Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Bugün, Yarın ve 1 Haftalık Hav...\"",
-      "type": "info"
-    },
-    {
-      "id": "21tzxh01h",
-      "timestamp": "2026-09-16T08:12:05.476Z",
-      "message": "Telegram bildirimi gönderildi: \"TIR ile çarpışarak devrilen saman yüklü ...\"",
-      "type": "info"
-    },
-    {
-      "id": "5lwuj7gpm",
-      "timestamp": "2026-09-16T08:12:05.065Z",
-      "message": "6 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "6ihw92k13",
-      "timestamp": "2026-09-16T08:12:05.059Z",
-      "message": "Veritabanına 6 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
