@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin'de saman yüklü kamyonet devrildi",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSndlenF0bERlOFpSNEpMMTcwaHZ4cmF6WkVVZ0NyTFNtWFZ6UWI5Q0pRWlNZcGtfRU1zQUs0bFNlTnlDeUprby04YjE3MzB4aUJEUHFQN2RhSDlhMkFmazlEeENMaWxaeDlfOXI4WHl5dDg2N3hrV0c1THktZGZrVzlqMVB1LWc?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 05:51:00 GMT",
+      "guid": "CBMihwFBVV95cUxPSndlenF0bERlOFpSNEpMMTcwaHZ4cmF6WkVVZ0NyTFNtWFZ6UWI5Q0pRWlNZcGtfRU1zQUs0bFNlTnlDeUprby04YjE3MzB4aUJEUHFQN2RhSDlhMkFmazlEeENMaWxaeDlfOXI4WHl5dDg2N3hrV0c1THktZGZrVzlqMVB1LWc",
+      "source": "saraymedya.com",
+      "id": "CBMihwFBVV95cUxPSndlenF0bERlOFpSNEpMMTcwaHZ4cmF6WkVVZ0NyTFNtWFZ6UWI5Q0pRWlNZcGtfRU1zQUs0bFNlTnlDeUprby04YjE3MzB4aUJEUHFQN2RhSDlhMkFmazlEeENMaWxaeDlfOXI4WHl5dDg2N3hrV0c1THktZGZrVzlqMVB1LWc",
+      "crawledAt": "2026-09-20T09:55:22.789Z"
+    },
+    {
       "title": "Mardin Kızıltepe’de bıçaklı kavga: 1’i çocuk 3 yaralı",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHpsc2NaSVk4ME1WRTVzbk9LTUxUTUtUYWpRd0U0X0hUcDhBelhyUHpTdmMyMXRhOG9BM01DUHE1N2dPWThWbmVDUWdsUGRQZU9FNnFqN2diZWZNaTRabzdjQ3JEWW9VYVl2VGdRQUNqOEZhdjc1Y3RtQUN3ZmMwdTU5S2pYMi1LQ0Y5RzdlWlVMUDJmbnFSMk5hemFEbFlBMVHSAaIBQVVfeXFMUEx6bHNjWklZODBNVkU1c25PS01MVE1LVGFqUXdFNF9IVHA4QXpYclB6U3ZjMjF0YThvQTNNQ1BxNTdnT1k4Vm5lQ1FnbFBkUGVPRTZxajdnYmVmTWk0Wm83Y0NyRFlvVWFZdlRnUUFDajhGYXY3NWN0bUFDd2ZjMHU1OUtqWDItS0NGOUc3ZVpVTFAyZm5xUjJOYXphRGxZQTFR?oc=5",
       "pubDate": "Wed, 02 Sep 2026 20:32:42 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Batman Rehber Gazetesi",
       "id": "CBMiiwFBVV95cUxPZ3Z0R3dhOFBZeWtMX2pBR3JoS0x0bEJTZVVCdWNQVmpmT2xyMy16dEtmdWRTbzRWYUxUSldJVXg2ZE8wU2l1bm5tWHdHN013WHdGczFxUGpOaElDRnBkaTIxNkVuRFU2ZlpNMkw5NC11dXU5bFJEeVM2b2g4ZDR5RlBKc1hESFJyTXdR",
       "crawledAt": "2026-08-25T23:47:07.888Z"
-    },
-    {
-      "title": "Mardin Kızıltepe'de İş Yerinde Yangın Kontrol Altına Alındı",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91cXJRcG41VGNiOWpQZnZUVnRLd29kU1l6WHVGSGs0YjQ2OTBfekdhTWFrRUVZWUJQZ1FGSnJTalp3TTdwTGJxckVQTXo1aWk5dXhjbFlpc01iWmFLRlBBd1dBUzNaYW42WjVSckFFS19oYjVYeHlfMmdMTEZlQQ?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 12:55:00 GMT",
-      "guid": "CBMifkFVX3lxTE91cXJRcG41VGNiOWpQZnZUVnRLd29kU1l6WHVGSGs0YjQ2OTBfekdhTWFrRUVZWUJQZ1FGSnJTalp3TTdwTGJxckVQTXo1aWk5dXhjbFlpc01iWmFLRlBBd1dBUzNaYW42WjVSckFFS19oYjVYeHlfMmdMTEZlQQ",
-      "source": "Besni Güncel Gazetesi",
-      "id": "CBMifkFVX3lxTE91cXJRcG41VGNiOWpQZnZUVnRLd29kU1l6WHVGSGs0YjQ2OTBfekdhTWFrRUVZWUJQZ1FGSnJTalp3TTdwTGJxckVQTXo1aWk5dXhjbFlpc01iWmFLRlBBd1dBUzNaYW42WjVSckFFS19oYjVYeHlfMmdMTEZlQQ",
-      "crawledAt": "2026-08-25T23:47:07.888Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-09-19"
   },
   "logs": [
+    {
+      "id": "zdzq577jp",
+      "timestamp": "2026-09-20T09:55:23.381Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'de saman yüklü kamyonet devrildi...\"",
+      "type": "info"
+    },
+    {
+      "id": "9jwl8isgy",
+      "timestamp": "2026-09-20T09:55:22.799Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "5sfsbzfxh",
+      "timestamp": "2026-09-20T09:55:22.793Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ujspyrg9o",
+      "timestamp": "2026-09-20T09:55:22.778Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "p6qxzx4i0",
+      "timestamp": "2026-09-20T09:55:22.101Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "nfbvvtarp",
+      "timestamp": "2026-09-20T09:55:22.089Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "a8f2n14in",
       "timestamp": "2026-09-20T05:08:07.399Z",
@@ -5375,42 +5411,6 @@
       "id": "xp153dlwg",
       "timestamp": "2026-09-16T23:28:48.827Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin-Kızıltepe karayolunda ikinci etap...\"",
-      "type": "info"
-    },
-    {
-      "id": "bf7ttzaia",
-      "timestamp": "2026-09-16T23:28:48.274Z",
-      "message": "4 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "e4b5z3d65",
-      "timestamp": "2026-09-16T23:28:48.266Z",
-      "message": "Veritabanına 4 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "jqgasv5x4",
-      "timestamp": "2026-09-16T23:28:48.242Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "80x82ytui",
-      "timestamp": "2026-09-16T23:28:47.663Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "5885klefu",
-      "timestamp": "2026-09-16T23:28:47.650Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "6fx52qlaw",
-      "timestamp": "2026-09-16T20:45:43.026Z",
-      "message": "Telegram bildirimi gönderildi: \"Şanlıurfa-Mardin kara yolunda tırla çarp...\"",
       "type": "info"
     }
   ]
