@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "zl5v9mlm8",
+      "timestamp": "2026-09-21T23:46:03.809Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "u8dug1rct",
+      "timestamp": "2026-09-21T23:46:03.794Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "xdy7x1xhj",
+      "timestamp": "2026-09-21T23:46:03.234Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "nckcd7tj8",
+      "timestamp": "2026-09-21T23:46:03.222Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "atfcdct1r",
       "timestamp": "2026-09-21T20:45:17.126Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe’ye 2 bin 500 kişilik yeni düğü...\"",
@@ -5387,30 +5411,6 @@
       "id": "zqvcp4y83",
       "timestamp": "2026-09-18T15:39:22.239Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Trafik Kazası: 2 Yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "uzfuqzvid",
-      "timestamp": "2026-09-18T15:39:21.554Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de 3’üncü kattan düşen çocuk ağır...\"",
-      "type": "info"
-    },
-    {
-      "id": "2ti4256wv",
-      "timestamp": "2026-09-18T15:39:21.116Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "oe79yaleu",
-      "timestamp": "2026-09-18T15:39:21.110Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "snvu20ilw",
-      "timestamp": "2026-09-18T15:39:21.091Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
