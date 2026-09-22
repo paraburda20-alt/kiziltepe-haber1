@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "cawamqyr5",
+      "timestamp": "2026-09-22T23:25:29.984Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "yrstcbyov",
+      "timestamp": "2026-09-22T23:25:29.967Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "k33ityoj0",
+      "timestamp": "2026-09-22T23:25:29.254Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "q504bae90",
+      "timestamp": "2026-09-22T23:25:29.241Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "mendgp9w6",
       "timestamp": "2026-09-22T20:45:48.771Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "68maqvdf8",
       "timestamp": "2026-09-19T19:54:47.539Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe TSO seçiminde “değişim” yarışı...\"",
-      "type": "info"
-    },
-    {
-      "id": "vxvjvdl7h",
-      "timestamp": "2026-09-19T19:54:47.098Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "vblu2xj81",
-      "timestamp": "2026-09-19T19:54:47.093Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "flydnhua0",
-      "timestamp": "2026-09-19T19:54:47.077Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ks7cltz4l",
-      "timestamp": "2026-09-19T19:54:46.459Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
