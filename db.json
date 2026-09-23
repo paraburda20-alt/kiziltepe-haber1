@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "4u5gamjmw",
+      "timestamp": "2026-09-23T23:26:40.451Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "b57injrb4",
+      "timestamp": "2026-09-23T23:26:40.439Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "s1mttj3ac",
+      "timestamp": "2026-09-23T23:26:39.817Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "g4pnl4ly3",
+      "timestamp": "2026-09-23T23:26:39.805Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "1pozu1o76",
       "timestamp": "2026-09-23T20:57:41.976Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe TSO seçiminde 35 yıllık yöneti...\"",
@@ -5387,30 +5411,6 @@
       "id": "dka6tvj43",
       "timestamp": "2026-09-20T17:14:01.975Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "6gba5hao2",
-      "timestamp": "2026-09-20T17:14:01.174Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "8bq5mrpff",
-      "timestamp": "2026-09-20T17:14:01.169Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "slyurobql",
-      "timestamp": "2026-09-20T17:14:01.159Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "doa32ot46",
-      "timestamp": "2026-09-20T17:14:00.531Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
