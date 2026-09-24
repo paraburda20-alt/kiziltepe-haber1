@@ -4509,10 +4509,46 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-09-23",
+    "lastMorningReportDate": "2026-09-24",
     "lastPharmaciesDate": "2026-09-23"
   },
   "logs": [
+    {
+      "id": "flle64525",
+      "timestamp": "2026-09-24T07:03:36.197Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "3xjgh3346",
+      "timestamp": "2026-09-24T07:03:35.239Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "6jj6olx38",
+      "timestamp": "2026-09-24T07:03:35.231Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "tjemnx661",
+      "timestamp": "2026-09-24T07:03:35.218Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "07iclwydt",
+      "timestamp": "2026-09-24T07:03:34.669Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ladcgu1kl",
+      "timestamp": "2026-09-24T07:03:34.656Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "upzegozoj",
       "timestamp": "2026-09-24T01:35:01.285Z",
@@ -5375,42 +5411,6 @@
       "id": "9mle558ue",
       "timestamp": "2026-09-20T22:07:03.924Z",
       "message": "Veritabanına 4 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "im7clm3qk",
-      "timestamp": "2026-09-20T22:07:03.909Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "bxagplpnq",
-      "timestamp": "2026-09-20T22:07:03.269Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "epfvm9r5u",
-      "timestamp": "2026-09-20T22:07:03.257Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "sw3v9dnpz",
-      "timestamp": "2026-09-20T19:35:58.041Z",
-      "message": "Telegram bildirimi gönderildi: \"Almanya'da eyalet seçimleri...SPD'li sen...\"",
-      "type": "info"
-    },
-    {
-      "id": "i3nit90xx",
-      "timestamp": "2026-09-20T19:35:57.599Z",
-      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "sgc9wo4j7",
-      "timestamp": "2026-09-20T19:35:57.592Z",
-      "message": "Veritabanına 1 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
