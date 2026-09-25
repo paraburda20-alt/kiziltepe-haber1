@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "2z1e2dmsv",
+      "timestamp": "2026-09-25T14:40:06.114Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "5tvpexbkr",
+      "timestamp": "2026-09-25T14:40:06.094Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "83w2b2w11",
+      "timestamp": "2026-09-25T14:40:05.448Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "6z3uli41k",
+      "timestamp": "2026-09-25T14:40:05.435Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "n3j9rigc5",
       "timestamp": "2026-09-25T09:00:17.241Z",
       "message": "Günlük sabah raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "xdy7x1xhj",
       "timestamp": "2026-09-21T23:46:03.234Z",
       "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "nckcd7tj8",
-      "timestamp": "2026-09-21T23:46:03.222Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "atfcdct1r",
-      "timestamp": "2026-09-21T20:45:17.126Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’ye 2 bin 500 kişilik yeni düğü...\"",
-      "type": "info"
-    },
-    {
-      "id": "wv5jlxw6r",
-      "timestamp": "2026-09-21T20:45:16.482Z",
-      "message": "Telegram bildirimi gönderildi: \"İhraç edilen Kızıltepe Belediye Başkanı ...\"",
-      "type": "info"
-    },
-    {
-      "id": "18fwu8drk",
-      "timestamp": "2026-09-21T20:45:15.831Z",
-      "message": "Telegram bildirimi gönderildi: \"İL MİLLİ EĞİTİM MÜDÜRÜMÜZ SAYIN MEMET PO...\"",
       "type": "info"
     }
   ]
