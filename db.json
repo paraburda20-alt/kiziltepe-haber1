@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "f7fh50e9n",
+      "timestamp": "2026-09-27T22:27:23.928Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "h63hn4vz9",
+      "timestamp": "2026-09-27T22:27:23.913Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 105 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "o7e04ty9m",
+      "timestamp": "2026-09-27T22:27:23.282Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "31i45nm4i",
+      "timestamp": "2026-09-27T22:27:23.269Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "4bme6e5j9",
       "timestamp": "2026-09-27T19:27:24.275Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "k5di32tma",
       "timestamp": "2026-09-25T09:00:14.395Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de çocukların bulunduğu eve ba...\"",
-      "type": "info"
-    },
-    {
-      "id": "pteq6hbxl",
-      "timestamp": "2026-09-25T09:00:14.060Z",
-      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "tostb9yqd",
-      "timestamp": "2026-09-25T09:00:14.054Z",
-      "message": "Veritabanına 3 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "af4aypb13",
-      "timestamp": "2026-09-25T09:00:14.040Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "k4w03jk6j",
-      "timestamp": "2026-09-25T09:00:13.446Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
