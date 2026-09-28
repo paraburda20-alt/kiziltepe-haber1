@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "eyemixr1l",
+      "timestamp": "2026-09-28T01:01:43.633Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "hjblcv9ic",
+      "timestamp": "2026-09-28T01:01:43.620Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 105 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "jgjbr8f5m",
+      "timestamp": "2026-09-28T01:01:42.805Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ci72eqg9h",
+      "timestamp": "2026-09-28T01:01:42.792Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "f7fh50e9n",
       "timestamp": "2026-09-27T22:27:23.928Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "n3j9rigc5",
       "timestamp": "2026-09-25T09:00:17.241Z",
       "message": "Günlük sabah raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "j2scso5qc",
-      "timestamp": "2026-09-25T09:00:16.200Z",
-      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "b1oge51yb",
-      "timestamp": "2026-09-25T09:00:15.693Z",
-      "message": "Telegram bildirimi gönderildi: \"Dicle Elektrik kaçak trafoyu havadan bul...\"",
-      "type": "info"
-    },
-    {
-      "id": "plvb18s87",
-      "timestamp": "2026-09-25T09:00:15.044Z",
-      "message": "Telegram bildirimi gönderildi: \"UTKU KIZILTEPE...\"",
-      "type": "info"
-    },
-    {
-      "id": "k5di32tma",
-      "timestamp": "2026-09-25T09:00:14.395Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de çocukların bulunduğu eve ba...\"",
       "type": "info"
     }
   ]
