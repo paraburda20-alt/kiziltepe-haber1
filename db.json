@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kızıltepe’de Nevruz kutlaması",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWZHlRTFNEQVdYcXZDVmhKMG1RRHhJbkNUTHVmMjBaYlp0NGcyT1VRdHdZOEZwQk5DU0NZWUIwSk9IMGZxOHRyNndoRlBhNnlGeFFaNjA4bHM5NHM3NmRXSHFrWWNsVUR4YVc5anhqRUE3VzRiZm9xNQ?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "guid": "CBMieEFVX3lxTFBWZHlRTFNEQVdYcXZDVmhKMG1RRHhJbkNUTHVmMjBaYlp0NGcyT1VRdHdZOEZwQk5DU0NZWUIwSk9IMGZxOHRyNndoRlBhNnlGeFFaNjA4bHM5NHM3NmRXSHFrWWNsVUR4YVc5anhqRUE3VzRiZm9xNQ",
+      "source": "Anka Haber",
+      "id": "CBMieEFVX3lxTFBWZHlRTFNEQVdYcXZDVmhKMG1RRHhJbkNUTHVmMjBaYlp0NGcyT1VRdHdZOEZwQk5DU0NZWUIwSk9IMGZxOHRyNndoRlBhNnlGeFFaNjA4bHM5NHM3NmRXSHFrWWNsVUR4YVc5anhqRUE3VzRiZm9xNQ",
+      "crawledAt": "2026-09-30T02:14:08.965Z"
+    },
+    {
       "title": "Kızıltepe Bugün, Yarın ve 1 Haftalık Hava Durumu Tahmini",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByTjlKdzBtTTZIdGIzal84QUg1WERrYURmR3lnTWVHVVlWT0lBS2xwbzRUc2NpVzNhZFItWnlQYUlZdkhBSThKRjEwenR3TFBzbmNOZHhkUlQ3U05yTldIRU13bw?oc=5",
       "pubDate": "Sun, 27 Sep 2026 03:25:48 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Ensonhaber",
       "id": "CBMigwFBVV95cUxQZDdtT2VILU05VEJ1dFg2YmcwMzVSVWtxam1zVTExTk13bVY3aXlhaUZiYnlLNzZKaUdFajMxQUtNNm1kTXJJSzJIejdsRVFKd3hYNzJENm93S1lheU9FRkREZ0cxSldsRm16Wm9Mc0szZVlyZHNfdFBVaE1sZ1FtQ3I0VQ",
       "crawledAt": "2026-09-01T17:06:22.388Z"
-    },
-    {
-      "title": "Mardin'in Kızıltepe ilçesinde iki aile arasındaki husumet barış yemeği ile sona erdi",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGQ4SEVIUlZxOWZiR0ZmcjVlYTZRV0xkekltLUF6dzU3MFZxc0lMRGJxUVBLc0YtTHh5OVZNZXdmdUczdDMxNXV3QUtsUWM3Z3ZRY3dMVzJLLUxCSFhzNFo3cnh1enpnZURZZi0tZ0lKa2FnZU5UUDJ3ak9TZk8zZzVYWEt0SnVQSV9VV1VqQUZYZFlnYmg3YVVRSHFTV3c?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 11:42:52 GMT",
-      "guid": "CBMinwFBVV95cUxQcGQ4SEVIUlZxOWZiR0ZmcjVlYTZRV0xkekltLUF6dzU3MFZxc0lMRGJxUVBLc0YtTHh5OVZNZXdmdUczdDMxNXV3QUtsUWM3Z3ZRY3dMVzJLLUxCSFhzNFo3cnh1enpnZURZZi0tZ0lKa2FnZU5UUDJ3ak9TZk8zZzVYWEt0SnVQSV9VV1VqQUZYZFlnYmg3YVVRSHFTV3c",
-      "source": "Son Dakika",
-      "id": "CBMinwFBVV95cUxQcGQ4SEVIUlZxOWZiR0ZmcjVlYTZRV0xkekltLUF6dzU3MFZxc0lMRGJxUVBLc0YtTHh5OVZNZXdmdUczdDMxNXV3QUtsUWM3Z3ZRY3dMVzJLLUxCSFhzNFo3cnh1enpnZURZZi0tZ0lKa2FnZU5UUDJ3ak9TZk8zZzVYWEt0SnVQSV9VV1VqQUZYZFlnYmg3YVVRSHFTV3c",
-      "crawledAt": "2026-09-01T17:06:22.388Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-09-29"
   },
   "logs": [
+    {
+      "id": "asyfpty07",
+      "timestamp": "2026-09-30T02:14:09.500Z",
+      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de Nevruz kutlaması...\"",
+      "type": "info"
+    },
+    {
+      "id": "85yd4elfq",
+      "timestamp": "2026-09-30T02:14:08.978Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "mnz04r4rz",
+      "timestamp": "2026-09-30T02:14:08.970Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "on4u2jdnj",
+      "timestamp": "2026-09-30T02:14:08.952Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "1s2yxhndj",
+      "timestamp": "2026-09-30T02:14:08.316Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "82opn3rfg",
+      "timestamp": "2026-09-30T02:14:08.303Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "nrx789mjm",
       "timestamp": "2026-09-29T23:21:46.349Z",
@@ -5375,42 +5411,6 @@
       "id": "4k48am90y",
       "timestamp": "2026-09-27T00:06:21.000Z",
       "message": "Veritabanına 1 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "fwur9b4xr",
-      "timestamp": "2026-09-27T00:06:20.980Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "olg5gwd6q",
-      "timestamp": "2026-09-27T00:06:20.346Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "db6waqasd",
-      "timestamp": "2026-09-27T00:06:20.334Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "jk1wzclk0",
-      "timestamp": "2026-09-26T21:44:28.753Z",
-      "message": "Telegram bildirimi gönderildi: \"Vefat: Leyla Yılmaz...\"",
-      "type": "info"
-    },
-    {
-      "id": "2fjzl7ffu",
-      "timestamp": "2026-09-26T21:44:28.057Z",
-      "message": "Telegram bildirimi gönderildi: \"DEM’li üyeler partinin ihraç ettiği Kızı...\"",
-      "type": "info"
-    },
-    {
-      "id": "ng88gumby",
-      "timestamp": "2026-09-26T21:44:27.416Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Belediye Başkanına yumurtalı p...\"",
       "type": "info"
     }
   ]
