@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "1c2xtwplh",
+      "timestamp": "2026-10-02T23:54:31.882Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "n6ni6f13q",
+      "timestamp": "2026-10-02T23:54:31.868Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "2rl0bgu71",
+      "timestamp": "2026-10-02T23:54:31.144Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "061s8blkj",
+      "timestamp": "2026-10-02T23:54:31.131Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "wq37m3hz5",
       "timestamp": "2026-10-02T20:02:19.938Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "t5pph6hs4",
       "timestamp": "2026-09-30T08:48:40.840Z",
       "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "7sma5so39",
-      "timestamp": "2026-09-30T08:48:40.188Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Aksoy ve Esentekin ş...\"",
-      "type": "info"
-    },
-    {
-      "id": "mcs7k58d1",
-      "timestamp": "2026-09-30T08:48:39.558Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Aksoy ve Esentekin ş...\"",
-      "type": "info"
-    },
-    {
-      "id": "gge3in6qx",
-      "timestamp": "2026-09-30T08:48:38.700Z",
-      "message": "Telegram bildirimi gönderildi: \"Yola saçılan sebze ve meyveleri sürücüle...\"",
-      "type": "info"
-    },
-    {
-      "id": "13ewyb9in",
-      "timestamp": "2026-09-30T08:48:38.062Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de çukura düşen sıpayı ...\"",
       "type": "info"
     }
   ]
