@@ -4510,9 +4510,45 @@
     "discordWebhook": "",
     "enableDiscord": false,
     "lastMorningReportDate": "2026-10-03",
-    "lastPharmaciesDate": "2026-10-02"
+    "lastPharmaciesDate": "2026-10-03"
   },
   "logs": [
+    {
+      "id": "x17zgrneh",
+      "timestamp": "2026-10-03T18:05:28.394Z",
+      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "9gafcislp",
+      "timestamp": "2026-10-03T18:05:27.033Z",
+      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "2kz2fgblf",
+      "timestamp": "2026-10-03T18:05:27.026Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "zrdsryf4k",
+      "timestamp": "2026-10-03T18:05:27.015Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ay0tyga50",
+      "timestamp": "2026-10-03T18:05:26.375Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "eos9jd7ap",
+      "timestamp": "2026-10-03T18:05:26.367Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "1xg8f3t8j",
       "timestamp": "2026-10-03T14:22:19.234Z",
@@ -5375,42 +5411,6 @@
       "id": "3vv5ynafq",
       "timestamp": "2026-10-01T00:04:08.596Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "6g77h915v",
-      "timestamp": "2026-09-30T20:27:46.252Z",
-      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "yrvcrkbq1",
-      "timestamp": "2026-09-30T20:27:45.908Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "jbsm7eh77",
-      "timestamp": "2026-09-30T20:27:45.395Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Bugün, Yarın ve 1 Haftalık Hav...\"",
-      "type": "info"
-    },
-    {
-      "id": "53bb75t24",
-      "timestamp": "2026-09-30T20:27:44.715Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de 3 ilçede operasyonda ruhsatsız...\"",
-      "type": "info"
-    },
-    {
-      "id": "3t36ei9ng",
-      "timestamp": "2026-09-30T20:27:43.998Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de endişelendiren kayıp: 13 yaşın...\"",
-      "type": "info"
-    },
-    {
-      "id": "16d56tej4",
-      "timestamp": "2026-09-30T20:27:43.277Z",
-      "message": "Telegram bildirimi gönderildi: \"MARDİN’DE KAYBOLAN 13 YAŞINDAKİ ÇOCUK AR...\"",
       "type": "info"
     }
   ]
