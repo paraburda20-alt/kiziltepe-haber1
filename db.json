@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kızıltepe'den Batman'a uzanan kan davasının ayrıntıları: Anne ve oğlu sokak ortasında katledildi",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBldGtobjZ4YW4xOGxxdFA0bzhoSm9TUkcxdGtvX28wREdISmxFX1B6cVhmQmlId0tnNU1qM0EyT0p1UW9fZlJ2ZUpCQ0RmMm5mTDkyQ1gycHdaNC01TW8ydXNabDE?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "guid": "CBMiZEFVX3lxTFBldGtobjZ4YW4xOGxxdFA0bzhoSm9TUkcxdGtvX28wREdISmxFX1B6cVhmQmlId0tnNU1qM0EyT0p1UW9fZlJ2ZUpCQ0RmMm5mTDkyQ1gycHdaNC01TW8ydXNabDE",
+      "source": "Rudaw",
+      "id": "CBMiZEFVX3lxTFBldGtobjZ4YW4xOGxxdFA0bzhoSm9TUkcxdGtvX28wREdISmxFX1B6cVhmQmlId0tnNU1qM0EyT0p1UW9fZlJ2ZUpCQ0RmMm5mTDkyQ1gycHdaNC01TW8ydXNabDE",
+      "crawledAt": "2026-10-04T00:18:53.806Z"
+    },
+    {
       "title": "Mardin’de inşaatta akıma kapılan boya ustası öldü",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX0EwRDFqTTFYRDlmMDlONnRidy1Qa3ZfbEhhWHo0WFJ6Tl9MdDhxUEpiQmZodk90ZmozWFltZ0pjUmE0cHM2d2Rrc1Z4STJWZ3gwQkJLY19ZS3NuVDBHeV9RX3gweXZBTzBNakVEQWw1QTZiVy1LV1lfdG1xLVB0NlZoRGdta2dHcXNsOXI2Yw?oc=5",
       "pubDate": "Sat, 03 Oct 2026 12:26:21 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Kızıltepe Ekspres Haber",
       "id": "CBMitwFBVV95cUxPVHF4MDVjRjNBRk9VQTVacnpkaldvOE4yU25QdlJsM2xUY3JFZnRLRWxPSzRFTVdKQzdIa2E1ZUNWdXBQT2Rmbi0wN3d5MmNkYWlyRnpNcjI0WjBOQzY0em1kbnQzQzE4Wk93S2w3Z0VUSnhLdk1EWnZCYy0tdmZzMEp6dTJPNjVNeVRBTTlsejVveUpSbkVYYjIzWmdFb2hxSmRjdEQ5am5wT2VGUVdkV3ZtdGdXSWc",
       "crawledAt": "2026-09-05T01:12:06.767Z"
-    },
-    {
-      "title": "Vefat: Mehmet Turhan",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mRjd4SEtGLVY2NGl0SlRzVmJvU1RSdWYxcDY4d01nTm1VTVgxQ2xNSHBsakdQeWQtd210MmFvNFFKVVN2MlhJU2ZWcHlUcmk5SEVKQWx4ZU5MT0pJOThFMEtjRG5Xd2NqQzR3?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 15:00:58 GMT",
-      "guid": "CBMia0FVX3lxTE9mRjd4SEtGLVY2NGl0SlRzVmJvU1RSdWYxcDY4d01nTm1VTVgxQ2xNSHBsakdQeWQtd210MmFvNFFKVVN2MlhJU2ZWcHlUcmk5SEVKQWx4ZU5MT0pJOThFMEtjRG5Xd2NqQzR3",
-      "source": "Kızıltepe Ekspres Haber",
-      "id": "CBMia0FVX3lxTE9mRjd4SEtGLVY2NGl0SlRzVmJvU1RSdWYxcDY4d01nTm1VTVgxQ2xNSHBsakdQeWQtd210MmFvNFFKVVN2MlhJU2ZWcHlUcmk5SEVKQWx4ZU5MT0pJOThFMEtjRG5Xd2NqQzR3",
-      "crawledAt": "2026-09-05T01:12:06.767Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-10-03"
   },
   "logs": [
+    {
+      "id": "9560wujb8",
+      "timestamp": "2026-10-04T00:18:54.338Z",
+      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'den Batman'a uzanan kan davası...\"",
+      "type": "info"
+    },
+    {
+      "id": "1pksegwqy",
+      "timestamp": "2026-10-04T00:18:53.815Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "ixc63poem",
+      "timestamp": "2026-10-04T00:18:53.810Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "hkod5zs1x",
+      "timestamp": "2026-10-04T00:18:53.794Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "5dy8v9uz0",
+      "timestamp": "2026-10-04T00:18:53.218Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "j5rrs00cm",
+      "timestamp": "2026-10-04T00:18:53.207Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "boga2c80l",
       "timestamp": "2026-10-03T21:36:42.646Z",
@@ -5375,42 +5411,6 @@
       "id": "pug2ksqox",
       "timestamp": "2026-10-01T06:17:10.386Z",
       "message": "Telegram bildirimi gönderildi: \"Pompalı tüfekle oynarken kendini vurdu; ...\"",
-      "type": "info"
-    },
-    {
-      "id": "p9lmh4drd",
-      "timestamp": "2026-10-01T06:17:09.664Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Haberleri - Damadının evini ba...\"",
-      "type": "info"
-    },
-    {
-      "id": "knihdbz9l",
-      "timestamp": "2026-10-01T06:17:09.008Z",
-      "message": "6 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "b8ayuvvgg",
-      "timestamp": "2026-10-01T06:17:08.998Z",
-      "message": "Veritabanına 6 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "3p5fatybu",
-      "timestamp": "2026-10-01T06:17:08.972Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "1hfhjfk88",
-      "timestamp": "2026-10-01T06:17:08.364Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "ag4cida5c",
-      "timestamp": "2026-10-01T06:17:08.351Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
