@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "6060yuf36",
+      "timestamp": "2026-10-07T03:50:31.502Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "cgxpafoh4",
+      "timestamp": "2026-10-07T03:50:31.492Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 102 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "i5ilu71y2",
+      "timestamp": "2026-10-07T03:50:30.865Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "jql3w7kde",
+      "timestamp": "2026-10-07T03:50:30.857Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "5c25mv6na",
       "timestamp": "2026-10-06T23:30:22.518Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de otomobilin çarptığı ...\"",
@@ -5387,30 +5411,6 @@
       "id": "4kuags28d",
       "timestamp": "2026-10-03T21:36:41.410Z",
       "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ms2h7ow4y",
-      "timestamp": "2026-10-03T21:36:40.842Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "2f7filsiw",
-      "timestamp": "2026-10-03T21:36:40.832Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "x17zgrneh",
-      "timestamp": "2026-10-03T18:05:28.394Z",
-      "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "9gafcislp",
-      "timestamp": "2026-10-03T18:05:27.033Z",
-      "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
       "type": "info"
     }
   ]
