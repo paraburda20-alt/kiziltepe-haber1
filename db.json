@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "3bc0bvwrv",
+      "timestamp": "2026-10-08T02:23:47.225Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "0wark49cb",
+      "timestamp": "2026-10-08T02:23:47.212Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "fgld2w0s2",
+      "timestamp": "2026-10-08T02:23:46.581Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "tdxwz0lgr",
+      "timestamp": "2026-10-08T02:23:46.570Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "oxgoppvo7",
       "timestamp": "2026-10-07T22:32:24.786Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Peygamber Sevdalıları, Gazz...\"",
@@ -5387,30 +5411,6 @@
       "id": "iuein5sgk",
       "timestamp": "2026-10-04T17:14:01.990Z",
       "message": "7 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "vx5iqjcsz",
-      "timestamp": "2026-10-04T17:14:01.982Z",
-      "message": "Veritabanına 7 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "eeewjwu3b",
-      "timestamp": "2026-10-04T17:14:01.962Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "f6f0cn7d5",
-      "timestamp": "2026-10-04T17:14:01.329Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "tgc150w35",
-      "timestamp": "2026-10-04T17:14:01.317Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
