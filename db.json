@@ -4509,10 +4509,46 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-10-07",
+    "lastMorningReportDate": "2026-10-08",
     "lastPharmaciesDate": "2026-10-07"
   },
   "logs": [
+    {
+      "id": "6v4mpkhc9",
+      "timestamp": "2026-10-08T09:16:19.671Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "4hctf13mc",
+      "timestamp": "2026-10-08T09:16:18.371Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "b62gxp4ei",
+      "timestamp": "2026-10-08T09:16:18.363Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "lxpn0n9dn",
+      "timestamp": "2026-10-08T09:16:18.352Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "t0pbwoayd",
+      "timestamp": "2026-10-08T09:16:17.799Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "14uvpr3pn",
+      "timestamp": "2026-10-08T09:16:17.789Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "3bc0bvwrv",
       "timestamp": "2026-10-08T02:23:47.225Z",
@@ -5375,42 +5411,6 @@
       "id": "xssebr6w8",
       "timestamp": "2026-10-04T17:14:06.192Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de devrilen kamyonda ya...\"",
-      "type": "info"
-    },
-    {
-      "id": "d7sjlxxls",
-      "timestamp": "2026-10-04T17:14:05.484Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de devrilen kamyonun sürücüsü ...\"",
-      "type": "info"
-    },
-    {
-      "id": "4viorrjl4",
-      "timestamp": "2026-10-04T17:14:04.743Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de kamyonda sıkışan yar...\"",
-      "type": "info"
-    },
-    {
-      "id": "uqln3anab",
-      "timestamp": "2026-10-04T17:14:04.047Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de kamyonda sıkışan yar...\"",
-      "type": "info"
-    },
-    {
-      "id": "yg7vn7fw5",
-      "timestamp": "2026-10-04T17:14:03.295Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Ticaret Borsası işlemleri...\"",
-      "type": "info"
-    },
-    {
-      "id": "lqz23djyv",
-      "timestamp": "2026-10-04T17:14:02.592Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de feci kaza! Sürücü yaralandı...\"",
-      "type": "info"
-    },
-    {
-      "id": "iuein5sgk",
-      "timestamp": "2026-10-04T17:14:01.990Z",
-      "message": "7 adet yeni haber için bildirimler gönderiliyor...",
       "type": "info"
     }
   ]
