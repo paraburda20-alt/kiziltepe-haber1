@@ -4509,10 +4509,46 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-10-09",
+    "lastMorningReportDate": "2026-10-10",
     "lastPharmaciesDate": "2026-10-09"
   },
   "logs": [
+    {
+      "id": "l069vibit",
+      "timestamp": "2026-10-10T06:09:21.908Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "4td9fnx5f",
+      "timestamp": "2026-10-10T06:09:20.703Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "g8tdcykoz",
+      "timestamp": "2026-10-10T06:09:20.690Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "a0hebrmkr",
+      "timestamp": "2026-10-10T06:09:20.672Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "n0lnrkawc",
+      "timestamp": "2026-10-10T06:09:20.058Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "3ja3fwk4i",
+      "timestamp": "2026-10-10T06:09:20.047Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "lay3gpx0f",
       "timestamp": "2026-10-10T00:10:05.572Z",
@@ -5375,42 +5411,6 @@
       "id": "b0salzhvo",
       "timestamp": "2026-10-06T07:05:33.015Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de kazada ölen Ayşenur, toprağa v...\"",
-      "type": "info"
-    },
-    {
-      "id": "x88rmxbnv",
-      "timestamp": "2026-10-06T07:05:32.308Z",
-      "message": "Telegram bildirimi gönderildi: \"Ziraat Türkiye Kupası’nda Kızıltepe’de k...\"",
-      "type": "info"
-    },
-    {
-      "id": "pd6vgwvkb",
-      "timestamp": "2026-10-06T07:05:31.626Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Otomobilin Çarptığı ...\"",
-      "type": "info"
-    },
-    {
-      "id": "40s5hmwqm",
-      "timestamp": "2026-10-06T07:05:30.960Z",
-      "message": "Telegram bildirimi gönderildi: \"Otomobilin çarptığı çocuk hayatını kaybe...\"",
-      "type": "info"
-    },
-    {
-      "id": "i5vm4d3ls",
-      "timestamp": "2026-10-06T07:05:30.476Z",
-      "message": "4 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "ubc24v066",
-      "timestamp": "2026-10-06T07:05:30.473Z",
-      "message": "Veritabanına 4 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "y9uaed0ja",
-      "timestamp": "2026-10-06T07:05:30.461Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
