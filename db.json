@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin’de Feci Kaza: 14 Yaşındaki Çocuk Yaralandı, 1 Kişi Hayatını Kaybetti",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQei02WUdsZGNtamhDRGlaTGhnOGU1czh0Z2g1Nms4N1VlNXNHT1FZTklVME5MUnlqY0w5YTh5SnF3UzE2WVNSbEF2UVJXSng0cXJ6TlhWd1ZDSWZWei1LU2E5aGtwd1c3TUoxTUwxU01RNGl5d05aVExTY3k3NDZiQ1FiSkxhSVhRUkNsR3AwRFN2dTJoYUFrZWJPT2w?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 05:34:00 GMT",
+      "guid": "CBMinAFBVV95cUxQei02WUdsZGNtamhDRGlaTGhnOGU1czh0Z2g1Nms4N1VlNXNHT1FZTklVME5MUnlqY0w5YTh5SnF3UzE2WVNSbEF2UVJXSng0cXJ6TlhWd1ZDSWZWei1LU2E5aGtwd1c3TUoxTUwxU01RNGl5d05aVExTY3k3NDZiQ1FiSkxhSVhRUkNsR3AwRFN2dTJoYUFrZWJPT2w",
+      "source": "Gazetedetay",
+      "id": "CBMinAFBVV95cUxQei02WUdsZGNtamhDRGlaTGhnOGU1czh0Z2g1Nms4N1VlNXNHT1FZTklVME5MUnlqY0w5YTh5SnF3UzE2WVNSbEF2UVJXSng0cXJ6TlhWd1ZDSWZWei1LU2E5aGtwd1c3TUoxTUwxU01RNGl5d05aVExTY3k3NDZiQ1FiSkxhSVhRUkNsR3AwRFN2dTJoYUFrZWJPT2w",
+      "crawledAt": "2026-10-11T13:13:32.002Z"
+    },
+    {
       "title": "Mardin'de otomobil ile motosiklet çarpıştı: Bir kişi hayatını kaybetti",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXN0RzFITVVMcFc4UUlvcDdGdnN1OWw0cHpLYXNNWDZYeGNLZ0p6Nm9kMFh5Z2laTFI4a2M5TUF0XzYtek1EVFczQ3UtVlplX1pXY1c5NVJUam5OOVhUY3g3SWVnNF9CUmx3MHNrUGFWeHNDNU50Zmgtb2Jfd2QxQUpnZXJRTDlFVlE0ZUlRalhINjRuQ182TmVxUVlmb0R6dW9PSnZtYmkxd2t4ckE?oc=5",
       "pubDate": "Sat, 10 Oct 2026 20:24:44 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Yeni Yaşam Gazetesi",
       "id": "CBMilAFBVV95cUxPVjVfRnJkOGpvZFZuaWhhMHhwemJHb1RDNzNGM29mSTd3X0Y1Z0E1dzBzeUJsRFE5WWNJQTJrbnJSM1FuWC1haHctQWdQb1F5QkFFb1VvaGN5enpOZ0hIR1RZQmdNc0tQRTVDSXc2enY2b2pzcmhiOGFqa0lleENYZjQzR0l5eElDMXdWWFJyRkFTcl8y",
       "crawledAt": "2026-09-11T07:40:40.274Z"
-    },
-    {
-      "title": "Mardin Kızıltepe’de bıçaklı kavga: 1’i çocuk 3 yaralı",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTTV6blhzU2FiT3A1Zkl4N091MDVFNVFpY2NDbG1NcUtlUV9qRS1hZVdfWk9oM2pmVE80WWpZYUVTekQxTzd1MUV2TWhpU1RVUFZqbGU1Ym1keGh6eEI5U1FKajBIb2pHUmFSZTFmd1FzWDMtcmFDVDNjN29halpjVzllVVRhMmlwNUxBQ0dPNEtSZw?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 05:55:00 GMT",
-      "guid": "CBMikgFBVV95cUxQTTV6blhzU2FiT3A1Zkl4N091MDVFNVFpY2NDbG1NcUtlUV9qRS1hZVdfWk9oM2pmVE80WWpZYUVTekQxTzd1MUV2TWhpU1RVUFZqbGU1Ym1keGh6eEI5U1FKajBIb2pHUmFSZTFmd1FzWDMtcmFDVDNjN29halpjVzllVVRhMmlwNUxBQ0dPNEtSZw",
-      "source": "hakkariilsesigazetesi.com",
-      "id": "CBMikgFBVV95cUxQTTV6blhzU2FiT3A1Zkl4N091MDVFNVFpY2NDbG1NcUtlUV9qRS1hZVdfWk9oM2pmVE80WWpZYUVTekQxTzd1MUV2TWhpU1RVUFZqbGU1Ym1keGh6eEI5U1FKajBIb2pHUmFSZTFmd1FzWDMtcmFDVDNjN29halpjVzllVVRhMmlwNUxBQ0dPNEtSZw",
-      "crawledAt": "2026-09-11T07:40:40.274Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-10-10"
   },
   "logs": [
+    {
+      "id": "uvv9mg1ks",
+      "timestamp": "2026-10-11T13:13:32.613Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin’de Feci Kaza: 14 Yaşındaki Çocuk ...\"",
+      "type": "info"
+    },
+    {
+      "id": "4hkvps56i",
+      "timestamp": "2026-10-11T13:13:32.014Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "3nq7vkxh3",
+      "timestamp": "2026-10-11T13:13:32.009Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "n0928vynv",
+      "timestamp": "2026-10-11T13:13:31.991Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "3dj349efl",
+      "timestamp": "2026-10-11T13:13:31.433Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "fdehhshqq",
+      "timestamp": "2026-10-11T13:13:31.420Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "o69ozehjd",
       "timestamp": "2026-10-11T06:07:01.370Z",
@@ -5375,42 +5411,6 @@
       "id": "4hctf13mc",
       "timestamp": "2026-10-08T09:16:18.371Z",
       "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "b62gxp4ei",
-      "timestamp": "2026-10-08T09:16:18.363Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "lxpn0n9dn",
-      "timestamp": "2026-10-08T09:16:18.352Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "t0pbwoayd",
-      "timestamp": "2026-10-08T09:16:17.799Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "14uvpr3pn",
-      "timestamp": "2026-10-08T09:16:17.789Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "3bc0bvwrv",
-      "timestamp": "2026-10-08T02:23:47.225Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "0wark49cb",
-      "timestamp": "2026-10-08T02:23:47.212Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
