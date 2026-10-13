@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "kazqmpiq3",
+      "timestamp": "2026-10-13T23:33:15.600Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "xut1vaizs",
+      "timestamp": "2026-10-13T23:33:15.584Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "ymtucznaw",
+      "timestamp": "2026-10-13T23:33:14.913Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "ifynrrilp",
+      "timestamp": "2026-10-13T23:33:14.901Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "u983uqm75",
       "timestamp": "2026-10-13T19:41:58.078Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "6opykz8aq",
       "timestamp": "2026-10-10T17:35:24.783Z",
       "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "h0yarhgwm",
-      "timestamp": "2026-10-10T17:35:24.202Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardinli Yazılım Mühendisi Gazali Kepenç...\"",
-      "type": "info"
-    },
-    {
-      "id": "s0bojnl2k",
-      "timestamp": "2026-10-10T17:35:23.434Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe Yarınki Hava Durumu...\"",
-      "type": "info"
-    },
-    {
-      "id": "aad831imq",
-      "timestamp": "2026-10-10T17:35:22.941Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "oxcnixpkr",
-      "timestamp": "2026-10-10T17:35:22.935Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
