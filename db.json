@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "efiwflgua",
+      "timestamp": "2026-10-14T14:15:53.285Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "wzcnmlswb",
+      "timestamp": "2026-10-14T14:15:53.269Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "nqt8pjg5o",
+      "timestamp": "2026-10-14T14:15:52.345Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "gbao43pi8",
+      "timestamp": "2026-10-14T14:15:52.331Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "lbv6qln4l",
       "timestamp": "2026-10-14T08:54:45.874Z",
       "message": "Günlük sabah raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "z9jm0yjaz",
       "timestamp": "2026-10-10T21:01:26.487Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de otomobil motosikletl...\"",
-      "type": "info"
-    },
-    {
-      "id": "cf8jzji1y",
-      "timestamp": "2026-10-10T21:01:25.810Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Otomobil ile Motosik...\"",
-      "type": "info"
-    },
-    {
-      "id": "vbl1ocp8e",
-      "timestamp": "2026-10-10T21:01:25.108Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de otomobil ile motosik...\"",
-      "type": "info"
-    },
-    {
-      "id": "q7jwioz5u",
-      "timestamp": "2026-10-10T21:01:24.275Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de otomobil ile motosik...\"",
-      "type": "info"
-    },
-    {
-      "id": "4qxsmxve6",
-      "timestamp": "2026-10-10T21:01:23.480Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de otomobil ile motosik...\"",
       "type": "info"
     }
   ]
