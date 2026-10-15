@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "TTB ve Mardin Tabip Odası Heyeti, Mardin Kızıltepe’deki Şiddet İddiaları ile İlgili İl Sağlık Müdürü ve Hastane Başhekimi ile Görüştü",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5XSVVoSlJ6cGt6Z2lSWHMwcHIwSndMcUFqSjVwM3VjZTlXMFpITGppM3B1TlJPMXpqaENkMGRHc0t0NUhV?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "guid": "CBMiREFVX3lxTE5XSVVoSlJ6cGt6Z2lSWHMwcHIwSndMcUFqSjVwM3VjZTlXMFpITGppM3B1TlJPMXpqaENkMGRHc0t0NUhV",
+      "source": "Türk Tabipleri Birliği",
+      "id": "CBMiREFVX3lxTE5XSVVoSlJ6cGt6Z2lSWHMwcHIwSndMcUFqSjVwM3VjZTlXMFpITGppM3B1TlJPMXpqaENkMGRHc0t0NUhV",
+      "crawledAt": "2026-10-15T00:24:16.097Z"
+    },
+    {
       "title": "- Kızıltepe Ekspres Haber",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MNEIwczZJSm84bkx6ZTNUekdQeXUtLVZwMzNtYW9kb2k2OU9mOHlrUGJjX3paMXg1WUx4a3NidlFTZVJGSlBoaG5PbmJvZUJlaGNzcER1cFQ?oc=5",
       "pubDate": "Wed, 14 Oct 2026 14:13:06 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Anka Haber",
       "id": "CBMingFBVV95cUxQOHF5ZGRiTkp6SWd4aVRPUE1ERGJDVXViZlhuVkpMMVZKSE5BTENPYXFPbTBRS05KbEdLOUIycGpJLU9IZFBNVkR2cl85Z29SSDRzVkJOVlJXM1BYSjRZRS1VelcwNUYtNzd3NUhzSExWQVVVX0JPSGMwb2IyZ2lCYWFNTkItaUE2NE5aZl9aRWRWc1NyTVZYWl9nMUlpZw",
       "crawledAt": "2026-09-15T18:19:58.280Z"
-    },
-    {
-      "title": "MARSU, Kızıltepe’de atıksu ana hattını yeniledi İhlas Haber Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTDhuMHBBall4b2ozZTFhZ1VaQkFNb29sS0lDYktuYVNNUVU1S25qdVRPXy14YVliZlZXb01HZUdtSGdYZ3JxOTU0cEZ6WmxIVXBwM20yd05GenZwWURmdlBXQlliQm1Md0JQVklWWWpuNmZCLXN5MWxkc2lJM2x6MERHMVZoTWd2a2ZmNjRGMUEwTkx2RWhtR1AxSQ?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 11:39:10 GMT",
-      "guid": "CBMimwFBVV95cUxNTDhuMHBBall4b2ozZTFhZ1VaQkFNb29sS0lDYktuYVNNUVU1S25qdVRPXy14YVliZlZXb01HZUdtSGdYZ3JxOTU0cEZ6WmxIVXBwM20yd05GenZwWURmdlBXQlliQm1Md0JQVklWWWpuNmZCLXN5MWxkc2lJM2x6MERHMVZoTWd2a2ZmNjRGMUEwTkx2RWhtR1AxSQ",
-      "source": "İhlas Haber Ajansı",
-      "id": "CBMimwFBVV95cUxNTDhuMHBBall4b2ozZTFhZ1VaQkFNb29sS0lDYktuYVNNUVU1S25qdVRPXy14YVliZlZXb01HZUdtSGdYZ3JxOTU0cEZ6WmxIVXBwM20yd05GenZwWURmdlBXQlliQm1Md0JQVklWWWpuNmZCLXN5MWxkc2lJM2x6MERHMVZoTWd2a2ZmNjRGMUEwTkx2RWhtR1AxSQ",
-      "crawledAt": "2026-09-15T14:05:14.250Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-10-14"
   },
   "logs": [
+    {
+      "id": "mzr6rdaza",
+      "timestamp": "2026-10-15T00:24:16.671Z",
+      "message": "Telegram bildirimi gönderildi: \"TTB ve Mardin Tabip Odası Heyeti, Mardin...\"",
+      "type": "info"
+    },
+    {
+      "id": "vh4xqqz4i",
+      "timestamp": "2026-10-15T00:24:16.111Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "gezazxf3i",
+      "timestamp": "2026-10-15T00:24:16.104Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ohb99l1t2",
+      "timestamp": "2026-10-15T00:24:16.085Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "e04vqlfnr",
+      "timestamp": "2026-10-15T00:24:15.371Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "x8g7jpt0d",
+      "timestamp": "2026-10-15T00:24:15.358Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "u0sfbsv7j",
       "timestamp": "2026-10-14T22:00:07.402Z",
@@ -5375,42 +5411,6 @@
       "id": "vxhhraih3",
       "timestamp": "2026-10-11T06:07:00.061Z",
       "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "5gncz5hn8",
-      "timestamp": "2026-10-11T06:06:59.552Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de otomobil ile motosiklet çarpış...\"",
-      "type": "info"
-    },
-    {
-      "id": "cmohqxnb0",
-      "timestamp": "2026-10-11T06:06:58.845Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardinli mühendis Gazali’ye TEKNOFEST’te...\"",
-      "type": "info"
-    },
-    {
-      "id": "up7shaw5u",
-      "timestamp": "2026-10-11T06:06:58.042Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de otomobille çarpışan motosiklet...\"",
-      "type": "info"
-    },
-    {
-      "id": "5fg26bc39",
-      "timestamp": "2026-10-11T06:06:57.293Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de otomobille çarpışan motosiklet...\"",
-      "type": "info"
-    },
-    {
-      "id": "82nl9qc0r",
-      "timestamp": "2026-10-11T06:06:56.378Z",
-      "message": "4 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "fz3anvdt1",
-      "timestamp": "2026-10-11T06:06:56.373Z",
-      "message": "Veritabanına 4 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
