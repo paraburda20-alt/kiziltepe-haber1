@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Vefat: İhsan Seyithan",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1SHFRMmVYVks4S2ZpSUtEZmZYbTREbWZ2UWpDWUhnOUpFQm9Td0tBNjV5SnMwYTY5SV94RFBENE92OFU3ZFNZMmdsX2V4WlliQW9rMUFZUVNlMzlYWlFyMEhpTG9Ua2huR0lWeA?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 18:51:44 GMT",
+      "guid": "CBMibEFVX3lxTFA1SHFRMmVYVks4S2ZpSUtEZmZYbTREbWZ2UWpDWUhnOUpFQm9Td0tBNjV5SnMwYTY5SV94RFBENE92OFU3ZFNZMmdsX2V4WlliQW9rMUFZUVNlMzlYWlFyMEhpTG9Ua2huR0lWeA",
+      "source": "Kızıltepe Ekspres Haber",
+      "id": "CBMibEFVX3lxTFA1SHFRMmVYVks4S2ZpSUtEZmZYbTREbWZ2UWpDWUhnOUpFQm9Td0tBNjV5SnMwYTY5SV94RFBENE92OFU3ZFNZMmdsX2V4WlliQW9rMUFZUVNlMzlYWlFyMEhpTG9Ua2huR0lWeA",
+      "crawledAt": "2026-10-16T00:00:10.684Z"
+    },
+    {
       "title": "Mardin'de hafif ticari araç şarampole devrildi: 3 yaralı",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkxLcVRMOHJQT1J5VFY4UnBkN3NrOW1ENWZFOXVRMDRNdTJCeU5rWE1qcW5NajFEY2FBaFA2NjE1b3NxSHNqcHFFUjNwUzhhYjVEWTVpS3NwMDBsV3hwZ2JEVVJZMXEyTVZUMUxsVmJRUnFrWWNWUFZUVWZNQWMwTzFIbzVjSHpOWnk0elI4NV9NN0pVaEN0dUg2b3pEN2dtWTFzUFFOMTloSDFa?oc=5",
       "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "DHA | Demirören Haber Ajansı",
       "id": "CBMiqwFBVV95cUxNSHFtb2ZjVlYtZ2hYeFJCcWxpZ3hwaEFtd19iUkwwOGtGTUY0bC1VVjR6c1hPTVR1VUxXXzZDYktJbVlLU09vQ2NHQ1RsdVhrNFpiRTRPSW1jN244T2oycllHc2QxLUNlNzhzRGQ2OGdXT0NnZndjWDVCN1JWc2l3bldsejNHQUhxRktWTzVJSExoZWhPZzV0aENXNnBhTmtWVXZGZ3E0X2dwZFU",
       "crawledAt": "2026-09-16T23:28:48.259Z"
-    },
-    {
-      "title": "Mardin'de otomobiller çarpıştı: 1 ölü, 4 yaralı",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDFta1VteDg1TGI1ZmNXMGpoc29OV0tvdXhpZ0M2UEJ1T0thcktXeEgyS2NSTE1hRkx0WUVPZ2ZxZ3lGZjZNblpIQ2Ziam1CTHc3empoRGdXM1BKcnhCMDNWbVMzQkV5OXBXT1J1VkczbXg0RmMtLWM3QmdRRDdMdkVYbGR3di1lMzRJSnJuZlVFTlZIbExVRm03MXFzTVZ5dVlnaVp5UjRHQm8?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "guid": "CBMiqwFBVV95cUxObDFta1VteDg1TGI1ZmNXMGpoc29OV0tvdXhpZ0M2UEJ1T0thcktXeEgyS2NSTE1hRkx0WUVPZ2ZxZ3lGZjZNblpIQ2Ziam1CTHc3empoRGdXM1BKcnhCMDNWbVMzQkV5OXBXT1J1VkczbXg0RmMtLWM3QmdRRDdMdkVYbGR3di1lMzRJSnJuZlVFTlZIbExVRm03MXFzTVZ5dVlnaVp5UjRHQm8",
-      "source": "DHA | Demirören Haber Ajansı",
-      "id": "CBMiqwFBVV95cUxObDFta1VteDg1TGI1ZmNXMGpoc29OV0tvdXhpZ0M2UEJ1T0thcktXeEgyS2NSTE1hRkx0WUVPZ2ZxZ3lGZjZNblpIQ2Ziam1CTHc3empoRGdXM1BKcnhCMDNWbVMzQkV5OXBXT1J1VkczbXg0RmMtLWM3QmdRRDdMdkVYbGR3di1lMzRJSnJuZlVFTlZIbExVRm03MXFzTVZ5dVlnaVp5UjRHQm8",
-      "crawledAt": "2026-09-16T23:28:48.259Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-10-15"
   },
   "logs": [
+    {
+      "id": "f4groo00m",
+      "timestamp": "2026-10-16T00:00:11.204Z",
+      "message": "Telegram bildirimi gönderildi: \"Vefat: İhsan Seyithan...\"",
+      "type": "info"
+    },
+    {
+      "id": "0hmfp5eag",
+      "timestamp": "2026-10-16T00:00:10.695Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "gmljchvmo",
+      "timestamp": "2026-10-16T00:00:10.689Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "rsvmdz1ow",
+      "timestamp": "2026-10-16T00:00:10.674Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "gw4pq2aq0",
+      "timestamp": "2026-10-16T00:00:10.059Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "d17dtmxzv",
+      "timestamp": "2026-10-16T00:00:10.049Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "l3z85ud6b",
       "timestamp": "2026-10-15T21:54:03.826Z",
@@ -5375,42 +5411,6 @@
       "id": "18kdsognf",
       "timestamp": "2026-10-12T23:42:23.140Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de iskeleden düşen 2 işçi yaralan...\"",
-      "type": "info"
-    },
-    {
-      "id": "diacliv2n",
-      "timestamp": "2026-10-12T23:42:22.452Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de 43 kilo skunk ele geçirildi: 1...\"",
-      "type": "info"
-    },
-    {
-      "id": "61z36vmot",
-      "timestamp": "2026-10-12T23:42:21.732Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de inşaatta iskelenin çökmesi son...\"",
-      "type": "info"
-    },
-    {
-      "id": "nofs1il2j",
-      "timestamp": "2026-10-12T23:42:21.052Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de park halindeki otomo...\"",
-      "type": "info"
-    },
-    {
-      "id": "cf5kfszbg",
-      "timestamp": "2026-10-12T23:42:19.493Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de inşaatta iskelenin çökmesi son...\"",
-      "type": "info"
-    },
-    {
-      "id": "zcnwjayjs",
-      "timestamp": "2026-10-12T23:42:18.836Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de inşaat iskelesi çöktü: 2 yaral...\"",
-      "type": "info"
-    },
-    {
-      "id": "q17uj63qm",
-      "timestamp": "2026-10-12T23:42:18.160Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de İsrail'in Gazze sald...\"",
       "type": "info"
     }
   ]
