@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "qfdfik70r",
+      "timestamp": "2026-10-16T21:27:59.338Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "o1hjo0tsc",
+      "timestamp": "2026-10-16T21:27:59.329Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "9l795nd8l",
+      "timestamp": "2026-10-16T21:27:58.676Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "4tohm8odr",
+      "timestamp": "2026-10-16T21:27:58.668Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "fs4ai58gd",
       "timestamp": "2026-10-16T18:14:42.826Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5387,30 +5411,6 @@
       "id": "pwprwtcqy",
       "timestamp": "2026-10-13T19:41:51.418Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "a255ooqrd",
-      "timestamp": "2026-10-13T12:50:36.795Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de 43 kilogram skunk el...\"",
-      "type": "info"
-    },
-    {
-      "id": "n0evd779i",
-      "timestamp": "2026-10-13T12:50:36.052Z",
-      "message": "Telegram bildirimi gönderildi: \"Demir’den Başhekim Sertkaya’ya plaket...\"",
-      "type": "info"
-    },
-    {
-      "id": "9fim22p6h",
-      "timestamp": "2026-10-13T12:50:35.330Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de 43 kilogram skunk el...\"",
-      "type": "info"
-    },
-    {
-      "id": "murgg8w6b",
-      "timestamp": "2026-10-13T12:50:34.578Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Bugün, Yarın ve 1 Haftalık Hav...\"",
       "type": "info"
     }
   ]
