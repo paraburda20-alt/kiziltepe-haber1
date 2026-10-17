@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "ibqf2e7v8",
+      "timestamp": "2026-10-17T02:37:26.638Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "q9i331um8",
+      "timestamp": "2026-10-17T02:37:26.615Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "nyu1crfdm",
+      "timestamp": "2026-10-17T02:37:25.916Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "0rn3br4s7",
+      "timestamp": "2026-10-17T02:37:25.902Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "9ijd8b4ix",
       "timestamp": "2026-10-16T23:46:07.362Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de 21 Yıl hapis cezasıyla aran...\"",
@@ -5386,30 +5410,6 @@
     {
       "id": "xhpmpw1yl",
       "timestamp": "2026-10-14T03:09:58.904Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "kazqmpiq3",
-      "timestamp": "2026-10-13T23:33:15.600Z",
-      "message": "Veritabanına 0 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "xut1vaizs",
-      "timestamp": "2026-10-13T23:33:15.584Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "ymtucznaw",
-      "timestamp": "2026-10-13T23:33:14.913Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "ifynrrilp",
-      "timestamp": "2026-10-13T23:33:14.901Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
