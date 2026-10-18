@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "9kryhhffc",
+      "timestamp": "2026-10-18T04:53:16.173Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "nyvk1t6na",
+      "timestamp": "2026-10-18T04:53:16.160Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "h6pch1mdv",
+      "timestamp": "2026-10-18T04:53:15.487Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "3x6fb1j5b",
+      "timestamp": "2026-10-18T04:53:15.475Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "969z6li1v",
       "timestamp": "2026-10-18T00:07:42.394Z",
       "message": "Telegram bildirimi gönderildi: \"Dicle Elektrik kaçak trafoyu havadan bul...\"",
@@ -5387,30 +5411,6 @@
       "id": "229i8k05t",
       "timestamp": "2026-10-16T18:14:41.376Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "zxafe23wt",
-      "timestamp": "2026-10-16T14:05:53.380Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de mısır tarlasına uçan cipteki 2...\"",
-      "type": "info"
-    },
-    {
-      "id": "3c7po667n",
-      "timestamp": "2026-10-16T14:05:52.740Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin-Kızıltepe'de sopalı kavga: 1 ölü...\"",
-      "type": "info"
-    },
-    {
-      "id": "5xt7dpoo7",
-      "timestamp": "2026-10-16T14:05:52.306Z",
-      "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "zimhkc384",
-      "timestamp": "2026-10-16T14:05:52.300Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
