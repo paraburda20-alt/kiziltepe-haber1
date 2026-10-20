@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kızıltepe'de Gruplar Arasında Kavga: 4 Yaralı",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2RzdDdBcHVvZ2hJQ29BcF9MUjlGWVVrUS1iS0hIRmcwdDdtRUJnRTF1Vkp0SjJnN3U0d0lFZGQtWVJtd3o3U3FWU1F5T0VUOFVZZENfOFRjTzhwRU1zaDlQdDRuYWpsV3I0T2NScEM4ZDg3ZDZhN1c1TTF1cXdJNzZBRzdxcGFsVjhyVXJqUWxaNVRuOWVsYtIBlAFBVV95cUxPNWhKUEV5WFRTb0FxVjk2TGxVa25taHlOekxNNHU4R0xDQkE3eC0taGM1dnhPSjBaVTVwNE5HSmU4NktCc2xNU0l1STRmTGJPVkdkbjFiNUZ4Ump0c0c4OW5JTVo1LVpNSmlCN3QwcE8xVWVCZXdobzMyVkpsdlBHV0ZoRW1FbmVWS2Z0SUJyRzEwbDVu?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "guid": "CBMimAFBVV95cUxOS2RzdDdBcHVvZ2hJQ29BcF9MUjlGWVVrUS1iS0hIRmcwdDdtRUJnRTF1Vkp0SjJnN3U0d0lFZGQtWVJtd3o3U3FWU1F5T0VUOFVZZENfOFRjTzhwRU1zaDlQdDRuYWpsV3I0T2NScEM4ZDg3ZDZhN1c1TTF1cXdJNzZBRzdxcGFsVjhyVXJqUWxaNVRuOWVsYtIBlAFBVV95cUxPNWhKUEV5WFRTb0FxVjk2TGxVa25taHlOekxNNHU4R0xDQkE3eC0taGM1dnhPSjBaVTVwNE5HSmU4NktCc2xNU0l1STRmTGJPVkdkbjFiNUZ4Ump0c0c4OW5JTVo1LVpNSmlCN3QwcE8xVWVCZXdobzMyVkpsdlBHV0ZoRW1FbmVWS2Z0SUJyRzEwbDVu",
+      "source": "Son Dakika",
+      "id": "CBMimAFBVV95cUxOS2RzdDdBcHVvZ2hJQ29BcF9MUjlGWVVrUS1iS0hIRmcwdDdtRUJnRTF1Vkp0SjJnN3U0d0lFZGQtWVJtd3o3U3FWU1F5T0VUOFVZZENfOFRjTzhwRU1zaDlQdDRuYWpsV3I0T2NScEM4ZDg3ZDZhN1c1TTF1cXdJNzZBRzdxcGFsVjhyVXJqUWxaNVRuOWVsYtIBlAFBVV95cUxPNWhKUEV5WFRTb0FxVjk2TGxVa25taHlOekxNNHU4R0xDQkE3eC0taGM1dnhPSjBaVTVwNE5HSmU4NktCc2xNU0l1STRmTGJPVkdkbjFiNUZ4Ump0c0c4OW5JTVo1LVpNSmlCN3QwcE8xVWVCZXdobzMyVkpsdlBHV0ZoRW1FbmVWS2Z0SUJyRzEwbDVu",
+      "crawledAt": "2026-10-20T00:04:04.495Z"
+    },
+    {
       "title": "Kızıltepe Ticaret Borsası’ndan Hisarcıklıoğlu’na ziyaret",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UYkVMNE54amlITXd2ZzdEZXBZMFhUT2JKcUlIM1FsbVItYlkzbmpJUzF6SjkyaXZLc2Y4RC1JN2h1N1BoQUJ4d3d6QU1qTWxTYTFiVFNacEVsRDBwbW1ZM1hHcnNFUng3c3czU0lYc0Fha1ozQ0ZyOEpR?oc=5",
       "pubDate": "Mon, 19 Oct 2026 13:47:46 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Sabah",
       "id": "CBMimAFBVV95cUxNUGZlbzFBNXYzVEIyRl80RWJEdTVDVi1mZHVNdGJwRmFiR2RWRWJZVVhwa1BRWGFEVFRxaFB0Qmxicmhpc1lPcllpOHdlOHVlcjB2Yy0taXFId1JzR2dKWl9VLWxfZFljTmZBSi1YbENBc0p1VUZ3cHBQLXJYRUpyVUIwVG9lX1NDOFhnWXdjUWJBRG9yOXBMTA",
       "crawledAt": "2026-09-27T19:27:17.474Z"
-    },
-    {
-      "title": "Taşlar, sopalar, yumruklar: Akrabaların kavgasında kan aktı",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRDZvSnlLcVQ0eE5iVDZyZkN0Wl9iSE9Db1g0VkhQQmpqVzVvUW11U25wWF9hVno5Nld5blBSWjVVVkM4REhGQWh6a1JCN05VYXJPeDBlQzBtY2FIV3d0U05rN3NvWjFoNkhZUERkNlJId3BaV3Nhc3l1eHh0TjhRdTBIQW96MHRXYzRDd3JkU2hoQTlkZXNqYTJXbktaX0p5Q3VV?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 11:34:33 GMT",
-      "guid": "CBMiowFBVV95cUxNRDZvSnlLcVQ0eE5iVDZyZkN0Wl9iSE9Db1g0VkhQQmpqVzVvUW11U25wWF9hVno5Nld5blBSWjVVVkM4REhGQWh6a1JCN05VYXJPeDBlQzBtY2FIV3d0U05rN3NvWjFoNkhZUERkNlJId3BaV3Nhc3l1eHh0TjhRdTBIQW96MHRXYzRDd3JkU2hoQTlkZXNqYTJXbktaX0p5Q3VV",
-      "source": "Yeniçağ Gazetesi",
-      "id": "CBMiowFBVV95cUxNRDZvSnlLcVQ0eE5iVDZyZkN0Wl9iSE9Db1g0VkhQQmpqVzVvUW11U25wWF9hVno5Nld5blBSWjVVVkM4REhGQWh6a1JCN05VYXJPeDBlQzBtY2FIV3d0U05rN3NvWjFoNkhZUERkNlJId3BaV3Nhc3l1eHh0TjhRdTBIQW96MHRXYzRDd3JkU2hoQTlkZXNqYTJXbktaX0p5Q3VV",
-      "crawledAt": "2026-09-27T19:27:17.474Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-10-19"
   },
   "logs": [
+    {
+      "id": "52aozpkbi",
+      "timestamp": "2026-10-20T00:04:05.049Z",
+      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Gruplar Arasında Kavga: 4 Y...\"",
+      "type": "info"
+    },
+    {
+      "id": "u4fnmsvvh",
+      "timestamp": "2026-10-20T00:04:04.502Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "fovbq3s5z",
+      "timestamp": "2026-10-20T00:04:04.498Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "tjaogmx95",
+      "timestamp": "2026-10-20T00:04:04.486Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "jsj312v9e",
+      "timestamp": "2026-10-20T00:04:03.831Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "bdmyzseyu",
+      "timestamp": "2026-10-20T00:04:03.822Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "gxi5myc87",
       "timestamp": "2026-10-19T20:49:57.686Z",
@@ -5375,42 +5411,6 @@
       "id": "tnb3i9wd1",
       "timestamp": "2026-10-17T19:58:19.404Z",
       "message": "Telegram bildirimi gönderildi: \"Arıklı, Kızıltepe, Mardin için Hava Tahm...\"",
-      "type": "info"
-    },
-    {
-      "id": "5io7xaah8",
-      "timestamp": "2026-10-17T19:58:18.609Z",
-      "message": "Telegram bildirimi gönderildi: \"Otomobilin çarptığı yaya öldü - Mardin K...\"",
-      "type": "info"
-    },
-    {
-      "id": "0gcg03h3a",
-      "timestamp": "2026-10-17T19:58:18.080Z",
-      "message": "10 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "qh1ymsza2",
-      "timestamp": "2026-10-17T19:58:18.075Z",
-      "message": "Veritabanına 10 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "76hb42nyo",
-      "timestamp": "2026-10-17T19:58:18.058Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "6dhecrrv0",
-      "timestamp": "2026-10-17T19:58:17.405Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "g2ndxzzim",
-      "timestamp": "2026-10-17T19:58:17.392Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
