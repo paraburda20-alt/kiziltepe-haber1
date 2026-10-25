@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "0ywvyaeia",
+      "timestamp": "2026-10-25T14:11:03.960Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "fiytx47b3",
+      "timestamp": "2026-10-25T14:11:03.949Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "zzq3i1j4t",
+      "timestamp": "2026-10-25T14:11:01.748Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "vh0wx20i6",
+      "timestamp": "2026-10-25T14:11:01.738Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "rcqcttu8o",
       "timestamp": "2026-10-25T09:58:46.781Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de iş yerine silahlı saldırı y...\"",
@@ -5387,30 +5411,6 @@
       "id": "agrsu0vhe",
       "timestamp": "2026-10-23T10:20:39.312Z",
       "message": "Telegram bildirimi gönderildi: \"Husumetlileri tarafından tabancayla vuru...\"",
-      "type": "info"
-    },
-    {
-      "id": "rzkyzgby2",
-      "timestamp": "2026-10-23T10:20:38.628Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe’de bıçaklı kavga: 1’i ç...\"",
-      "type": "info"
-    },
-    {
-      "id": "ysk6jne0a",
-      "timestamp": "2026-10-23T10:20:37.899Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de silahlı kavga: 1 ölü, 2 yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "xd5261vln",
-      "timestamp": "2026-10-23T10:20:37.311Z",
-      "message": "11 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "68qahieep",
-      "timestamp": "2026-10-23T10:20:37.306Z",
-      "message": "Veritabanına 11 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
