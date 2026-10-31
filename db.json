@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "p95ok9wwq",
+      "timestamp": "2026-10-31T23:54:19.323Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "bljafwkm1",
+      "timestamp": "2026-10-31T23:54:19.307Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "z974wvhaa",
+      "timestamp": "2026-10-31T23:54:18.731Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "8pvs2zk5w",
+      "timestamp": "2026-10-31T23:54:18.718Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "0a7dscrsi",
       "timestamp": "2026-10-31T20:37:23.051Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de elektrik direğine çarpan ka...\"",
@@ -5387,30 +5411,6 @@
       "id": "uikdgcga2",
       "timestamp": "2026-10-29T23:28:13.161Z",
       "message": "Telegram bildirimi gönderildi: \"Asansör kabini çöktü; 2 yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "8z9s5yrt7",
-      "timestamp": "2026-10-29T23:28:12.487Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de iki ilçedeki narkotik çalışmal...\"",
-      "type": "info"
-    },
-    {
-      "id": "ue0z5wslg",
-      "timestamp": "2026-10-29T23:28:11.814Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de uçuruma yuvarlanan o...\"",
-      "type": "info"
-    },
-    {
-      "id": "r7eh093km",
-      "timestamp": "2026-10-29T23:28:11.296Z",
-      "message": "6 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "xjlmkdcq2",
-      "timestamp": "2026-10-29T23:28:11.291Z",
-      "message": "Veritabanına 6 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
