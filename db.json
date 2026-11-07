@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "fa7tww07j",
+      "timestamp": "2026-11-07T23:45:47.748Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "add3wpn8n",
+      "timestamp": "2026-11-07T23:45:47.734Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 69 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "42ls82di1",
+      "timestamp": "2026-11-07T23:45:46.404Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "l8hrmiz7r",
+      "timestamp": "2026-11-07T23:45:46.392Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "r59a1uznq",
       "timestamp": "2026-11-07T20:23:05.512Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe Ticaret ve Sanayi Odası’ndan H...\"",
@@ -5387,30 +5411,6 @@
       "id": "5h4w65pgd",
       "timestamp": "2026-11-04T07:10:06.623Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin’de çocuklara sağlıklı yaşam için ...\"",
-      "type": "info"
-    },
-    {
-      "id": "zh3hotmu8",
-      "timestamp": "2026-11-04T07:10:05.929Z",
-      "message": "Telegram bildirimi gönderildi: \"Sağlıklı yaşam için çocuklara bisiklet d...\"",
-      "type": "info"
-    },
-    {
-      "id": "u0zg51d6g",
-      "timestamp": "2026-11-04T07:10:05.253Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de 4 araçlı zincirleme kaza: 3 ya...\"",
-      "type": "info"
-    },
-    {
-      "id": "p9eex4yc6",
-      "timestamp": "2026-11-04T07:10:04.758Z",
-      "message": "6 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "avj2cnbaz",
-      "timestamp": "2026-11-04T07:10:04.753Z",
-      "message": "Veritabanına 6 adet yeni haber eklendi.",
       "type": "info"
     }
   ]
