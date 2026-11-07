@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "xg2dxg83a",
+      "timestamp": "2026-11-07T02:58:52.064Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "1ro3irehl",
+      "timestamp": "2026-11-07T02:58:52.056Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 70 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "fmze9ebl2",
+      "timestamp": "2026-11-07T02:58:51.481Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "5jvxwdg2e",
+      "timestamp": "2026-11-07T02:58:51.473Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "jp89dufj0",
       "timestamp": "2026-11-06T23:21:50.698Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de otomobil ile hafif t...\"",
@@ -5387,30 +5411,6 @@
       "id": "kw46mpm2v",
       "timestamp": "2026-11-03T20:13:42.636Z",
       "message": "Telegram bildirimi gönderildi: \"MTDF’den Takdir Ziyaretleri...\"",
-      "type": "info"
-    },
-    {
-      "id": "g3x0j7uw0",
-      "timestamp": "2026-11-03T20:13:41.953Z",
-      "message": "Telegram bildirimi gönderildi: \"TÜRKİYE BASIN FEDERASYONU’NDAN DEZENFORM...\"",
-      "type": "info"
-    },
-    {
-      "id": "tned5pgjd",
-      "timestamp": "2026-11-03T20:13:41.262Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de Kadınlar Sporla Güçleniyor...\"",
-      "type": "info"
-    },
-    {
-      "id": "vxoa23jjz",
-      "timestamp": "2026-11-03T20:13:40.548Z",
-      "message": "Telegram bildirimi gönderildi: \"Yenidoğan Canlandırma Programı Eğitimi B...\"",
-      "type": "info"
-    },
-    {
-      "id": "qzfvh86nu",
-      "timestamp": "2026-11-03T20:13:39.879Z",
-      "message": "Telegram bildirimi gönderildi: \"Zincirleme trafik kazasında 6 araç birbi...\"",
       "type": "info"
     }
   ]
