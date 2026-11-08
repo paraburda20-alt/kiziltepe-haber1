@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "6jy5s82nf",
+      "timestamp": "2026-11-08T03:55:33.539Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "ai6wmfgnc",
+      "timestamp": "2026-11-08T03:55:33.520Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 65 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "29j6v2hgd",
+      "timestamp": "2026-11-08T03:55:33.003Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "bfj8zsg3q",
+      "timestamp": "2026-11-08T03:55:32.991Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "fa7tww07j",
       "timestamp": "2026-11-07T23:45:47.748Z",
       "message": "Veritabanına 0 adet yeni haber eklendi.",
@@ -5387,30 +5411,6 @@
       "id": "i78lron0v",
       "timestamp": "2026-11-04T07:10:09.139Z",
       "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "prqmywcro",
-      "timestamp": "2026-11-04T07:10:08.629Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de polisin yere fırlattığı çoc...\"",
-      "type": "info"
-    },
-    {
-      "id": "rv491d6so",
-      "timestamp": "2026-11-04T07:10:07.948Z",
-      "message": "Telegram bildirimi gönderildi: \"270 Bin Nüfuslu Kızıltepe’ye İl Olma Çağ...\"",
-      "type": "info"
-    },
-    {
-      "id": "4v4ndv40c",
-      "timestamp": "2026-11-04T07:10:07.281Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de Yol Tepkisi: Patlak Boru On...\"",
-      "type": "info"
-    },
-    {
-      "id": "5h4w65pgd",
-      "timestamp": "2026-11-04T07:10:06.623Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de çocuklara sağlıklı yaşam için ...\"",
       "type": "info"
     }
   ]
