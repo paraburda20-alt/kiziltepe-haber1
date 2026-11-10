@@ -4514,6 +4514,24 @@
   },
   "logs": [
     {
+      "id": "i027s8ezy",
+      "timestamp": "2026-11-10T01:41:41.356Z",
+      "message": "Tarama hatası: Google News RSS feed error: Status 503",
+      "type": "error"
+    },
+    {
+      "id": "8aeryu0xv",
+      "timestamp": "2026-11-10T01:41:34.972Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "rbzei5xco",
+      "timestamp": "2026-11-10T01:41:34.944Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "c4lnepktl",
       "timestamp": "2026-11-09T18:09:24.038Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5393,24 +5411,6 @@
       "id": "ew499g7lh",
       "timestamp": "2026-11-05T17:11:00.886Z",
       "message": "Günlük nöbetçi eczaneler raporu (Kızıltepe Nöbetçi Eczaneleri) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "p6bl1116h",
-      "timestamp": "2026-11-05T17:11:00.380Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de okuldan bisikletiyle çıkan öğr...\"",
-      "type": "info"
-    },
-    {
-      "id": "vbowv0k69",
-      "timestamp": "2026-11-05T17:10:59.734Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de okul çıkışı yorgun mermi şo...\"",
-      "type": "info"
-    },
-    {
-      "id": "9n5kudos2",
-      "timestamp": "2026-11-05T17:10:59.086Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de bisikletle ilerlerken bacağına...\"",
       "type": "info"
     }
   ]
