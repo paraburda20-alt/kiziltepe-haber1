@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Vefat: Atiye Orhan",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GTnJHRmR1TkU5elB3TnJWMzY2Y19GeW9IRXlfUGJFdnZXQjJpX092akFFSEtkdUZyZmJzaHo3a2JwLVB0cFN3NmZfTUNWLUd6Q2hkOC1fV2FsUUN5WFBCZUl2QzBBdVhq?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 19:24:47 GMT",
+      "guid": "CBMiaEFVX3lxTE9GTnJHRmR1TkU5elB3TnJWMzY2Y19GeW9IRXlfUGJFdnZXQjJpX092akFFSEtkdUZyZmJzaHo3a2JwLVB0cFN3NmZfTUNWLUd6Q2hkOC1fV2FsUUN5WFBCZUl2QzBBdVhq",
+      "source": "Kızıltepe Ekspres Haber",
+      "id": "CBMiaEFVX3lxTE9GTnJHRmR1TkU5elB3TnJWMzY2Y19GeW9IRXlfUGJFdnZXQjJpX092akFFSEtkdUZyZmJzaHo3a2JwLVB0cFN3NmZfTUNWLUd6Q2hkOC1fV2FsUUN5WFBCZUl2QzBBdVhq",
+      "crawledAt": "2026-11-10T22:26:59.689Z"
+    },
+    {
       "title": "10 Kasım'da Kırşehir'den Türkiye'ye Anlamlı Mesaj!",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZXFmMTVZSXNjbm0zZmlFcDBEcnhyUWNBc3VkZU8tcXdNRWh6ZkJGdmVIblplRnVwVS1mam03d0xqa1FocTczZHUtZDlBZTRrUXFOUzViM3R2aGpyM2RQTktaY3hzc2NhUUlLb1hmMmNmV2IyMGRvdTBlMFNEUjB3V3VKMA?oc=5",
       "pubDate": "Tue, 10 Nov 2026 13:30:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Evrensel",
       "id": "CBMi3AFBVV95cUxNblRUdUNyZFBQUjVJQmhNUG8wRXZ0N1BmSkduc2cwSXlUMjF2aVg0bGQ3RjB6V0taWE5pcFVXTFFaSkltZkpXOEFsQk9ianU3eEdhV1dUNTRqTlg5RDQ5VnBFYUstMk1QaklnQjRuZ1cxZlM2VDc0YnNuMjB4N2g3WG1Gai1wcl9wdjNUUklZTUdFc2Y0RmJVVjk5T1NtaGlUSXd2M1dYak9uQjJMTzVFQVV5Z3A2VEVQY1JuNjNuZXVNMi1BNUNybjhSU1hYc1BaWXhZdGswTFo3WjNQ",
       "crawledAt": "2026-10-24T13:47:24.131Z"
-    },
-    {
-      "title": "Aile katliamı aydınlatacak yeni delil! Altın konuşmaları ortaya çıktı",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcGt4QXhRanFNNURsWW5YZjNNSUQtdEFLV1lnUFRqZHNja3BZaV9nVEtzS0N4WXRTWXBDX2JBV195c3VmT29rQi1fLVF3WGJ3bzJXSnpqQ3RpWDNodjhabnZyMU9CbGpFTy1MX3hzZXBobjVwUnZkdV92bVM2WldReWVFdHpxbDk2QkozNms0dlljUWowczdHOUZ6NA?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 12:07:34 GMT",
-      "guid": "CBMimwFBVV95cUxNcGt4QXhRanFNNURsWW5YZjNNSUQtdEFLV1lnUFRqZHNja3BZaV9nVEtzS0N4WXRTWXBDX2JBV195c3VmT29rQi1fLVF3WGJ3bzJXSnpqQ3RpWDNodjhabnZyMU9CbGpFTy1MX3hzZXBobjVwUnZkdV92bVM2WldReWVFdHpxbDk2QkozNms0dlljUWowczdHOUZ6NA",
-      "source": "Haberler",
-      "id": "CBMimwFBVV95cUxNcGt4QXhRanFNNURsWW5YZjNNSUQtdEFLV1lnUFRqZHNja3BZaV9nVEtzS0N4WXRTWXBDX2JBV195c3VmT29rQi1fLVF3WGJ3bzJXSnpqQ3RpWDNodjhabnZyMU9CbGpFTy1MX3hzZXBobjVwUnZkdV92bVM2WldReWVFdHpxbDk2QkozNms0dlljUWowczdHOUZ6NA",
-      "crawledAt": "2026-10-24T13:47:24.131Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-11-10"
   },
   "logs": [
+    {
+      "id": "jt9d9rjme",
+      "timestamp": "2026-11-10T22:27:00.183Z",
+      "message": "Telegram bildirimi gönderildi: \"Vefat: Atiye Orhan...\"",
+      "type": "info"
+    },
+    {
+      "id": "7bktg98mq",
+      "timestamp": "2026-11-10T22:26:59.696Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "v0gxm4spf",
+      "timestamp": "2026-11-10T22:26:59.693Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "77vh3lp9x",
+      "timestamp": "2026-11-10T22:26:59.682Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 79 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "vbw0uexs0",
+      "timestamp": "2026-11-10T22:26:59.033Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "r7wa41syd",
+      "timestamp": "2026-11-10T22:26:59.025Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "a3kos4kg4",
       "timestamp": "2026-11-10T17:10:52.226Z",
@@ -5375,42 +5411,6 @@
       "id": "23qjsfcep",
       "timestamp": "2026-11-06T18:10:45.230Z",
       "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
-      "type": "info"
-    },
-    {
-      "id": "jdvwl197j",
-      "timestamp": "2026-11-06T11:16:26.791Z",
-      "message": "Günlük sabah raporu başarıyla gönderildi.",
-      "type": "info"
-    },
-    {
-      "id": "h1iltt5s7",
-      "timestamp": "2026-11-06T11:16:25.604Z",
-      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "mx0bjq7sq",
-      "timestamp": "2026-11-06T11:16:25.098Z",
-      "message": "Telegram bildirimi gönderildi: \"İhale Dergisi | İhale Haberleri | İhale ...\"",
-      "type": "info"
-    },
-    {
-      "id": "xz0uu1zt2",
-      "timestamp": "2026-11-06T11:16:24.441Z",
-      "message": "Telegram bildirimi gönderildi: \"MOD, Mardin’in turizm denklemine ticaret...\"",
-      "type": "info"
-    },
-    {
-      "id": "cic08ksms",
-      "timestamp": "2026-11-06T11:16:23.795Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe’de 7 Kasım’da Elektrik ...\"",
-      "type": "info"
-    },
-    {
-      "id": "4p1mp81wt",
-      "timestamp": "2026-11-06T11:16:23.135Z",
-      "message": "Telegram bildirimi gönderildi: \"Ahes İnşaat Mardin Şehir Hastanesi ve Kı...\"",
       "type": "info"
     }
   ]
