@@ -4514,6 +4514,30 @@
   },
   "logs": [
     {
+      "id": "ydvyxjk17",
+      "timestamp": "2026-11-11T02:04:32.189Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "h0sqafx7m",
+      "timestamp": "2026-11-11T02:04:32.175Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 79 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "xd4s64lcy",
+      "timestamp": "2026-11-11T02:04:31.649Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "6kqm66o3i",
+      "timestamp": "2026-11-11T02:04:31.636Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "jt9d9rjme",
       "timestamp": "2026-11-10T22:27:00.183Z",
       "message": "Telegram bildirimi gönderildi: \"Vefat: Atiye Orhan...\"",
@@ -5387,30 +5411,6 @@
       "id": "ihyxtrll3",
       "timestamp": "2026-11-06T18:10:45.936Z",
       "message": "2 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "h6hxyshsc",
-      "timestamp": "2026-11-06T18:10:45.931Z",
-      "message": "Veritabanına 2 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "75kv46gd5",
-      "timestamp": "2026-11-06T18:10:45.917Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 76 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "864rhaorm",
-      "timestamp": "2026-11-06T18:10:45.242Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
-      "type": "info"
-    },
-    {
-      "id": "23qjsfcep",
-      "timestamp": "2026-11-06T18:10:45.230Z",
-      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
       "type": "info"
     }
   ]
