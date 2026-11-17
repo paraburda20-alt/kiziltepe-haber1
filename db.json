@@ -4514,6 +4514,24 @@
   },
   "logs": [
     {
+      "id": "xuyg8orxq",
+      "timestamp": "2026-11-17T00:37:14.989Z",
+      "message": "Tarama hatası: Google News RSS feed error: Status 429",
+      "type": "error"
+    },
+    {
+      "id": "08buuvt4k",
+      "timestamp": "2026-11-17T00:37:14.453Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "pwhb3nxai",
+      "timestamp": "2026-11-17T00:37:14.444Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
+    {
       "id": "z8th8jqrb",
       "timestamp": "2026-11-16T16:54:00.057Z",
       "message": "Nöbetçi eczaneler raporu başarıyla gönderildi.",
@@ -5393,24 +5411,6 @@
       "id": "t0bxvyqlc",
       "timestamp": "2026-11-13T17:27:36.570Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de konteynerde çıkan yangın söndü...\"",
-      "type": "info"
-    },
-    {
-      "id": "t53p773bj",
-      "timestamp": "2026-11-13T17:27:35.845Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de müstakil evde çıkan yangın sön...\"",
-      "type": "info"
-    },
-    {
-      "id": "sgz1qnf43",
-      "timestamp": "2026-11-13T17:27:35.146Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de Şahkulubey Mahallesi...\"",
-      "type": "info"
-    },
-    {
-      "id": "huhpfq2k3",
-      "timestamp": "2026-11-13T17:27:34.437Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de 2 katlı evdeki yangı...\"",
       "type": "info"
     }
   ]
