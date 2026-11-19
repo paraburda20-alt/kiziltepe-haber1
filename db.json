@@ -4509,10 +4509,46 @@
     "enableTelegram": false,
     "discordWebhook": "",
     "enableDiscord": false,
-    "lastMorningReportDate": "2026-11-18",
+    "lastMorningReportDate": "2026-11-19",
     "lastPharmaciesDate": "2026-11-18"
   },
   "logs": [
+    {
+      "id": "d001yhly7",
+      "timestamp": "2026-11-19T05:33:32.319Z",
+      "message": "Günlük sabah raporu başarıyla gönderildi.",
+      "type": "info"
+    },
+    {
+      "id": "dgb11a55x",
+      "timestamp": "2026-11-19T05:33:31.712Z",
+      "message": "Günlük sabah raporu (Kızıltepe Hava Durumu & Günün Özeti) gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "c5q11v1t8",
+      "timestamp": "2026-11-19T05:33:31.703Z",
+      "message": "Veritabanına 0 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "j350zwjzv",
+      "timestamp": "2026-11-19T05:33:31.690Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 94 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "s8gfraren",
+      "timestamp": "2026-11-19T05:33:31.104Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "mvcqhascd",
+      "timestamp": "2026-11-19T05:33:31.092Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "45x2j14gl",
       "timestamp": "2026-11-18T23:47:55.495Z",
@@ -5375,42 +5411,6 @@
       "id": "cgb7ygkh4",
       "timestamp": "2026-11-15T14:54:31.943Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin'de konteynerde çıkan yangın söndü...\"",
-      "type": "info"
-    },
-    {
-      "id": "y9be1qd4v",
-      "timestamp": "2026-11-15T14:54:31.256Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de müstakil evde çıkan yangın sön...\"",
-      "type": "info"
-    },
-    {
-      "id": "lbgyol17o",
-      "timestamp": "2026-11-15T14:54:30.592Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de müstakil evde çıkan yangın sön...\"",
-      "type": "info"
-    },
-    {
-      "id": "8cnr56j9s",
-      "timestamp": "2026-11-15T14:54:30.091Z",
-      "message": "15 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "ko38c6wvh",
-      "timestamp": "2026-11-15T14:54:30.087Z",
-      "message": "Veritabanına 15 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "w45p3ea7w",
-      "timestamp": "2026-11-15T14:54:30.028Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 99 adet haber başlığı bulundu.",
-      "type": "info"
-    },
-    {
-      "id": "4bp654luw",
-      "timestamp": "2026-11-15T14:54:29.346Z",
-      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
       "type": "info"
     }
   ]
