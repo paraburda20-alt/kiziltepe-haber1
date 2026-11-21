@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Mardin'de hafta sonu elektrik kesintisi! Kızıltepe, Artuklu ve Midyat'a dikkat",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFdmMTZpdDd1dmRteTBJQjNPYkRyT1ZmNnRRVFZxLXY0TzVrQkd4aU5lNDg5bUJ5R1dwaWl2aXUyTHdGdXV4Rk5Ra0h2bWczTWprOVdSMzgwZzVsTFF0STJPX1Q2bDc3ZHVLdXpZaDkzd3ExN2xYY0xGNVdyZFJiWHJCUk54TTA0eVR3b2lLYTZBTlkxanN5STM0dmY1SUZKNFE?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 22:27:00 GMT",
+      "guid": "CBMiogFBVV95cUxOaFdmMTZpdDd1dmRteTBJQjNPYkRyT1ZmNnRRVFZxLXY0TzVrQkd4aU5lNDg5bUJ5R1dwaWl2aXUyTHdGdXV4Rk5Ra0h2bWczTWprOVdSMzgwZzVsTFF0STJPX1Q2bDc3ZHVLdXpZaDkzd3ExN2xYY0xGNVdyZFJiWHJCUk54TTA0eVR3b2lLYTZBTlkxanN5STM0dmY1SUZKNFE",
+      "source": "Amed Haber",
+      "id": "CBMiogFBVV95cUxOaFdmMTZpdDd1dmRteTBJQjNPYkRyT1ZmNnRRVFZxLXY0TzVrQkd4aU5lNDg5bUJ5R1dwaWl2aXUyTHdGdXV4Rk5Ra0h2bWczTWprOVdSMzgwZzVsTFF0STJPX1Q2bDc3ZHVLdXpZaDkzd3ExN2xYY0xGNVdyZFJiWHJCUk54TTA0eVR3b2lLYTZBTlkxanN5STM0dmY1SUZKNFE",
+      "crawledAt": "2026-11-21T01:55:29.263Z"
+    },
+    {
+      "title": "Vefat: Ahmet Asan",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JSHc1Rm9JUkp5Z2pNaUxqT1NwbENvdDZDdF9QUjJwOWczZ09CR2dJcXVtUkx2UDdPNmdfb1NiNmJmcnl2dUp4a3E2MnpNczFETkdidWVDZklVejNBT0JpeDlFdnVlZlE?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 18:08:29 GMT",
+      "guid": "CBMiZ0FVX3lxTE1JSHc1Rm9JUkp5Z2pNaUxqT1NwbENvdDZDdF9QUjJwOWczZ09CR2dJcXVtUkx2UDdPNmdfb1NiNmJmcnl2dUp4a3E2MnpNczFETkdidWVDZklVejNBT0JpeDlFdnVlZlE",
+      "source": "Kızıltepe Ekspres Haber",
+      "id": "CBMiZ0FVX3lxTE1JSHc1Rm9JUkp5Z2pNaUxqT1NwbENvdDZDdF9QUjJwOWczZ09CR2dJcXVtUkx2UDdPNmdfb1NiNmJmcnl2dUp4a3E2MnpNczFETkdidWVDZklVejNBT0JpeDlFdnVlZlE",
+      "crawledAt": "2026-11-21T01:55:29.263Z"
+    },
+    {
+      "title": "Vefat: Mehmet Ayhan",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HS1RMdjhMYjhfbktGLTJBTjVVaTRpWXR1X0NsOXZtWkdkSy1vbEdhNHJoYl9yM0lDUHh1S3BoUGhGYjNGcGUzUGE4UWpKbHZfbEUtLThSNzZHdTJqdTE3UEJVck9UdVFfa0E?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 15:15:25 GMT",
+      "guid": "CBMiakFVX3lxTE9HS1RMdjhMYjhfbktGLTJBTjVVaTRpWXR1X0NsOXZtWkdkSy1vbEdhNHJoYl9yM0lDUHh1S3BoUGhGYjNGcGUzUGE4UWpKbHZfbEUtLThSNzZHdTJqdTE3UEJVck9UdVFfa0E",
+      "source": "Kızıltepe Ekspres Haber",
+      "id": "CBMiakFVX3lxTE9HS1RMdjhMYjhfbktGLTJBTjVVaTRpWXR1X0NsOXZtWkdkSy1vbEdhNHJoYl9yM0lDUHh1S3BoUGhGYjNGcGUzUGE4UWpKbHZfbEUtLThSNzZHdTJqdTE3UEJVck9UdVFfa0E",
+      "crawledAt": "2026-11-21T01:55:29.263Z"
+    },
+    {
       "title": "Mardin'de meydana gelen zincirleme trafik kazasında 1 kişi yaralandı",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRXEyaERUMmxBam1ieWRwOGg5VVlWbDFkcG9mSTN2OVZDcmtSVU0xenZqbDhYSzlIVUg1a3FpeDhKMlpMYUpMV1c5VmRyX3EzeTktQ3lCSFhYS3hybENfd1dqVkhNQkEzUldkNV81dHREYnFGVlpINjVpVTM5MVpKcS1aVm1XZlNjenRLcHR4Ry1CQlVJRndhZ1U3TDVCUjdnTnZOVmlwRkNCX0h4WXVpdTlkRmRHZm01c3o0YWQ1OVY2YmE2UU9FMVk3dw?oc=5",
       "pubDate": "Fri, 20 Nov 2026 08:20:00 GMT",
@@ -4472,33 +4499,6 @@
       "source": "Habertürk",
       "id": "CBMirgFBVV95cUxPdG5Ic2JmQzJLeGxhX2tLYUUydWlFS3pqU1JzN0Fqc1IyY3VHbWFYLWNSazRXQnk1Tm05ZUxwQ1FRNEgwVi1tbHVNY09LWG5HU3VCZnR1azRxNTNLNDJTREswUU00TFZmNW1RWTVGY1lpamJtUFU5YzdtX1NYbXlEVWJjVHhEYWY1QnJkVHFNakJPTENMWDJSWUxZcVQ0bTZqMFVEM1NvOVYxQWtaM2c",
       "crawledAt": "2026-10-30T16:08:32.352Z"
-    },
-    {
-      "title": "Mardin'de uyuşturucu operasyonunda yakalanan 5 şüpheli hakkında adli işlem yapıldı",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOXzNhWXd5T1pWRmllYlZJRTA5azlJYS1SeTItbHFyNEpkdDJaZjU2Q09oZU03cjJUWU5sUV8xeklhQU5UVzl0cWx3VjVlNmw3b0djZE90NUlHRlpHWEp2WXdFWkg5TFoxZGhHMG1UaGdxWlRDemIwT21QTUpCUGYxdmlGRC0zX09jVlNkb2MzeXNQSDR1Tl93cjhiUDRFaXdXUENEckhxb29wb2E5a09QY0ZDbTBQNEV2ZjV3a195enQ4OEhnQWNZeDB3cUlsV3Bxc0VVWGttdGxWZ0N0TFE?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 13:42:23 GMT",
-      "guid": "CBMi3gFBVV95cUxOXzNhWXd5T1pWRmllYlZJRTA5azlJYS1SeTItbHFyNEpkdDJaZjU2Q09oZU03cjJUWU5sUV8xeklhQU5UVzl0cWx3VjVlNmw3b0djZE90NUlHRlpHWEp2WXdFWkg5TFoxZGhHMG1UaGdxWlRDemIwT21QTUpCUGYxdmlGRC0zX09jVlNkb2MzeXNQSDR1Tl93cjhiUDRFaXdXUENEckhxb29wb2E5a09QY0ZDbTBQNEV2ZjV3a195enQ4OEhnQWNZeDB3cUlsV3Bxc0VVWGttdGxWZ0N0TFE",
-      "source": "Habertürk",
-      "id": "CBMi3gFBVV95cUxOXzNhWXd5T1pWRmllYlZJRTA5azlJYS1SeTItbHFyNEpkdDJaZjU2Q09oZU03cjJUWU5sUV8xeklhQU5UVzl0cWx3VjVlNmw3b0djZE90NUlHRlpHWEp2WXdFWkg5TFoxZGhHMG1UaGdxWlRDemIwT21QTUpCUGYxdmlGRC0zX09jVlNkb2MzeXNQSDR1Tl93cjhiUDRFaXdXUENEckhxb29wb2E5a09QY0ZDbTBQNEV2ZjV3a195enQ4OEhnQWNZeDB3cUlsV3Bxc0VVWGttdGxWZ0N0TFE",
-      "crawledAt": "2026-10-30T16:08:32.352Z"
-    },
-    {
-      "title": "Zincirleme kaza: 6 araç birbirine girdi!",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTldRMk5KUGs1UHNfOHNxMElfZmhYdUViLVZzeXlPSEJvQWw3ZlFLUmlGaXJGODk4WXNkeDJ6YjFlNTg0Qm5uWUJtdnFydlc2WTRBUWhXeF81OXFqZE5DbmlQRzhTenV1N04zVm1vd0ZoeThpaUhLdjlUaGVDdXROa3pXVU80TkpN0gGLAUFVX3lxTFB2eXpiNmNBcXZUUkM4Q2ppWlY1YndvS1d0T0g3U19nR0lDcjQxOE5ZNlQ4bGRyTHJqWHM3OU5GT0RjTG9TOGo3Yk1CSmFDWkotLXR0N2tiZ2RBT2s1bnJIVTVEd2VjbjlyTEJrdHk2eHRvV3ZpalJwVnZ2V3czZTF3MFNoNTFXWjFmWWM?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 09:52:49 GMT",
-      "guid": "CBMiiAFBVV95cUxOTldRMk5KUGs1UHNfOHNxMElfZmhYdUViLVZzeXlPSEJvQWw3ZlFLUmlGaXJGODk4WXNkeDJ6YjFlNTg0Qm5uWUJtdnFydlc2WTRBUWhXeF81OXFqZE5DbmlQRzhTenV1N04zVm1vd0ZoeThpaUhLdjlUaGVDdXROa3pXVU80TkpN0gGLAUFVX3lxTFB2eXpiNmNBcXZUUkM4Q2ppWlY1YndvS1d0T0g3U19nR0lDcjQxOE5ZNlQ4bGRyTHJqWHM3OU5GT0RjTG9TOGo3Yk1CSmFDWkotLXR0N2tiZ2RBT2s1bnJIVTVEd2VjbjlyTEJrdHk2eHRvV3ZpalJwVnZ2V3czZTF3MFNoNTFXWjFmWWM",
-      "source": "Sabah",
-      "id": "CBMiiAFBVV95cUxOTldRMk5KUGs1UHNfOHNxMElfZmhYdUViLVZzeXlPSEJvQWw3ZlFLUmlGaXJGODk4WXNkeDJ6YjFlNTg0Qm5uWUJtdnFydlc2WTRBUWhXeF81OXFqZE5DbmlQRzhTenV1N04zVm1vd0ZoeThpaUhLdjlUaGVDdXROa3pXVU80TkpN0gGLAUFVX3lxTFB2eXpiNmNBcXZUUkM4Q2ppWlY1YndvS1d0T0g3U19nR0lDcjQxOE5ZNlQ4bGRyTHJqWHM3OU5GT0RjTG9TOGo3Yk1CSmFDWkotLXR0N2tiZ2RBT2s1bnJIVTVEd2VjbjlyTEJrdHk2eHRvV3ZpalJwVnZ2V3czZTF3MFNoNTFXWjFmWWM",
-      "crawledAt": "2026-10-30T16:08:32.352Z"
-    },
-    {
-      "title": "Mardin'de otomobil şarampole devrildi: 3 yaralı",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTUhUZmFaZmZORWtLeXBqTUxzUXFNNlU2SGJZbmNwd183MXA0WFJwaXVSQjJDaVhsbGs4UTAxUG9uRUZqTkhFQUlFY3VXcjB1Z2tDdnRmREtrQkVpSFdjMlY4Y1BXQ2dTM1VyakY1UHVnT1NRWWZwbE9LMkVvejBNa053cW54U1dLRVhkZWhVd2hTcUFDYUE?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 10:16:00 GMT",
-      "guid": "CBMilgFBVV95cUxPTUhUZmFaZmZORWtLeXBqTUxzUXFNNlU2SGJZbmNwd183MXA0WFJwaXVSQjJDaVhsbGs4UTAxUG9uRUZqTkhFQUlFY3VXcjB1Z2tDdnRmREtrQkVpSFdjMlY4Y1BXQ2dTM1VyakY1UHVnT1NRWWZwbE9LMkVvejBNa053cW54U1dLRVhkZWhVd2hTcUFDYUE",
-      "source": "Aydın Denge Haber",
-      "id": "CBMilgFBVV95cUxPTUhUZmFaZmZORWtLeXBqTUxzUXFNNlU2SGJZbmNwd183MXA0WFJwaXVSQjJDaVhsbGs4UTAxUG9uRUZqTkhFQUlFY3VXcjB1Z2tDdnRmREtrQkVpSFdjMlY4Y1BXQ2dTM1VyakY1UHVnT1NRWWZwbE9LMkVvejBNa053cW54U1dLRVhkZWhVd2hTcUFDYUE",
-      "crawledAt": "2026-10-30T16:08:32.352Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,54 @@
     "lastPharmaciesDate": "2026-11-20"
   },
   "logs": [
+    {
+      "id": "x85osclw9",
+      "timestamp": "2026-11-21T01:55:31.094Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'de hafta sonu elektrik kesintisi!...\"",
+      "type": "info"
+    },
+    {
+      "id": "vcp17bn62",
+      "timestamp": "2026-11-21T01:55:30.461Z",
+      "message": "Telegram bildirimi gönderildi: \"Vefat: Ahmet Asan...\"",
+      "type": "info"
+    },
+    {
+      "id": "l9bp709nx",
+      "timestamp": "2026-11-21T01:55:29.830Z",
+      "message": "Telegram bildirimi gönderildi: \"Vefat: Mehmet Ayhan...\"",
+      "type": "info"
+    },
+    {
+      "id": "i3lu35mya",
+      "timestamp": "2026-11-21T01:55:29.276Z",
+      "message": "3 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "f2trn0zyv",
+      "timestamp": "2026-11-21T01:55:29.269Z",
+      "message": "Veritabanına 3 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "zz8m1qa08",
+      "timestamp": "2026-11-21T01:55:29.249Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 100 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "af2wc9785",
+      "timestamp": "2026-11-21T01:55:28.393Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "h1cesoqwg",
+      "timestamp": "2026-11-21T01:55:28.380Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "c94pzlyia",
       "timestamp": "2026-11-20T20:37:38.363Z",
@@ -5363,54 +5411,6 @@
       "id": "mewgfczpj",
       "timestamp": "2026-11-17T08:44:37.909Z",
       "message": "Telegram bildirimi gönderildi: \"Kızıltepe Belediyesinde İhale Muamması...\"",
-      "type": "info"
-    },
-    {
-      "id": "ywzxnhw5g",
-      "timestamp": "2026-11-17T08:44:37.273Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Artuklu Üniversitesi’nin TÜBİTAK ...\"",
-      "type": "info"
-    },
-    {
-      "id": "mjfduuemv",
-      "timestamp": "2026-11-17T08:44:36.644Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de kazada 2 kişi yaralandı...\"",
-      "type": "info"
-    },
-    {
-      "id": "164k6kjck",
-      "timestamp": "2026-11-17T08:44:36.010Z",
-      "message": "Telegram bildirimi gönderildi: \"Vefat: Seyit Obuz...\"",
-      "type": "info"
-    },
-    {
-      "id": "g1ebjuas2",
-      "timestamp": "2026-11-17T08:44:35.360Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de 3 kişinin yaralandığı trafik k...\"",
-      "type": "info"
-    },
-    {
-      "id": "hhadw4i78",
-      "timestamp": "2026-11-17T08:44:34.693Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin’de konteynerde çıkan yangın söndü...\"",
-      "type": "info"
-    },
-    {
-      "id": "sveu8lqgo",
-      "timestamp": "2026-11-17T08:44:34.270Z",
-      "message": "10 adet yeni haber için bildirimler gönderiliyor...",
-      "type": "info"
-    },
-    {
-      "id": "ixx36jvl0",
-      "timestamp": "2026-11-17T08:44:34.267Z",
-      "message": "Veritabanına 10 adet yeni haber eklendi.",
-      "type": "info"
-    },
-    {
-      "id": "skpqfzy22",
-      "timestamp": "2026-11-17T08:44:34.258Z",
-      "message": "Tarama tamamlandı. Google News üzerinde 97 adet haber başlığı bulundu.",
       "type": "info"
     }
   ]
