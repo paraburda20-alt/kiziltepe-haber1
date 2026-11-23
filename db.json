@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Otomobiller kafa kafaya çarpıştı: 2 ölü, 5 yaralı",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkQ0SjQxUXBKX3AxQ01XcFlqSUw0VmlTNGphZDhjOTVPeG9ta0cyYnpsak1keGh1alloem9HYmptWmJfYlpRLUxfVVN6ODhxVXNrM3hNX19RNzV2c3ExZUtueHRrNzE2RnhvR0p3VVRtSU5VVW4yZlltWVZkSi0xUGtod0VVLTFBdFdEdnVEeHZsenY4anc?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 13:15:17 GMT",
+      "guid": "CBMilgFBVV95cUxNVkQ0SjQxUXBKX3AxQ01XcFlqSUw0VmlTNGphZDhjOTVPeG9ta0cyYnpsak1keGh1alloem9HYmptWmJfYlpRLUxfVVN6ODhxVXNrM3hNX19RNzV2c3ExZUtueHRrNzE2RnhvR0p3VVRtSU5VVW4yZlltWVZkSi0xUGtod0VVLTFBdFdEdnVEeHZsenY4anc",
+      "source": "Pusula Haber",
+      "id": "CBMilgFBVV95cUxNVkQ0SjQxUXBKX3AxQ01XcFlqSUw0VmlTNGphZDhjOTVPeG9ta0cyYnpsak1keGh1alloem9HYmptWmJfYlpRLUxfVVN6ODhxVXNrM3hNX19RNzV2c3ExZUtueHRrNzE2RnhvR0p3VVRtSU5VVW4yZlltWVZkSi0xUGtod0VVLTFBdFdEdnVEeHZsenY4anc",
+      "crawledAt": "2026-11-23T03:52:04.041Z"
+    },
+    {
       "title": "Kızıltepe’de bütçe protestosu: Çiftçiler traktörleriyle sokağa çıktı",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RdnRfZFU2LXhjdmFRNjkxY1ZXU255V2JWR0VObEItcWpOLS1nT2xyaG9ya1lyWlpDNTdYaWVYQ3BhVDhKOHA1MVRLdVRoQ1pJTHdIcFVEUHhVMHNxcTNKaDY0N1Rfdw?oc=5",
       "pubDate": "Sun, 22 Nov 2026 20:08:24 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Kızıltepe Ekspres Haber",
       "id": "CBMiiwFBVV95cUxPZEw0Sk5pUFJVaGEtWWJNd09jalhsdk1LSEltblEyajZ6amhoRXFlY1Y2dTlkX21RcEFlUEV5b05TZTN6ZjFmSEt0ZjJOOWFjUE5tWnpzY0FBMzV4elRSZ0dXaUZlWDhuTWlLMERxZ2ppbmRPMkdPVXh4NHI4aGVZNWRvWTRtS1o1TGRB",
       "crawledAt": "2026-11-05T17:10:51.484Z"
-    },
-    {
-      "title": "Mardin Haberleri - Kızıltepe'de zabıta ekipleri 500 kilogram çürük meyveyi imha etti - Yerel Haberler",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0lxNWZmYlQxbHlYU1pxLUVUMENaMWktNnBFcnpZM2lTVXVZbExqTi1IN0VqQ181X293bXJJWDB4UmJ5SGt4QWxFVGN1Mlc2YjUtcmd4UEJHS3dscTAtdmVKOWhQa1dyTU9YTnBSMjVZblA1QjlNSl9nV1MzRkN4alFvX1BDVF91aVloUG5vaklyTE1Qb1dtMGxMRXAxVFY0ZHF0Ulo2aFI?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 12:52:50 GMT",
-      "guid": "CBMiqAFBVV95cUxQV0lxNWZmYlQxbHlYU1pxLUVUMENaMWktNnBFcnpZM2lTVXVZbExqTi1IN0VqQ181X293bXJJWDB4UmJ5SGt4QWxFVGN1Mlc2YjUtcmd4UEJHS3dscTAtdmVKOWhQa1dyTU9YTnBSMjVZblA1QjlNSl9nV1MzRkN4alFvX1BDVF91aVloUG5vaklyTE1Qb1dtMGxMRXAxVFY0ZHF0Ulo2aFI",
-      "source": "Hürriyet",
-      "id": "CBMiqAFBVV95cUxQV0lxNWZmYlQxbHlYU1pxLUVUMENaMWktNnBFcnpZM2lTVXVZbExqTi1IN0VqQ181X293bXJJWDB4UmJ5SGt4QWxFVGN1Mlc2YjUtcmd4UEJHS3dscTAtdmVKOWhQa1dyTU9YTnBSMjVZblA1QjlNSl9nV1MzRkN4alFvX1BDVF91aVloUG5vaklyTE1Qb1dtMGxMRXAxVFY0ZHF0Ulo2aFI",
-      "crawledAt": "2026-11-05T08:58:20.932Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-11-22"
   },
   "logs": [
+    {
+      "id": "yplw51l0c",
+      "timestamp": "2026-11-23T03:52:04.410Z",
+      "message": "Telegram bildirimi gönderildi: \"Otomobiller kafa kafaya çarpıştı: 2 ölü,...\"",
+      "type": "info"
+    },
+    {
+      "id": "tdwy00jkx",
+      "timestamp": "2026-11-23T03:52:04.052Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "w8eryyss5",
+      "timestamp": "2026-11-23T03:52:04.045Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "4prlzujih",
+      "timestamp": "2026-11-23T03:52:04.026Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "2akwmwvrw",
+      "timestamp": "2026-11-23T03:52:03.408Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "10t5r1748",
+      "timestamp": "2026-11-23T03:52:03.396Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "xfg1b8wwv",
       "timestamp": "2026-11-22T23:06:20.652Z",
@@ -5375,42 +5411,6 @@
       "id": "t07ew165w",
       "timestamp": "2026-11-21T21:59:29.059Z",
       "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe'de bıçaklı kavga: 3 yar...\"",
-      "type": "info"
-    },
-    {
-      "id": "fq2jowl1f",
-      "timestamp": "2026-11-21T21:59:28.430Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe’de bıçaklı kavga: 1’i ç...\"",
-      "type": "info"
-    },
-    {
-      "id": "3ji5y8l0u",
-      "timestamp": "2026-11-21T21:59:27.803Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de zincirleme kaza: 1 yaralı...\"",
-      "type": "info"
-    },
-    {
-      "id": "7poldblj0",
-      "timestamp": "2026-11-21T21:59:27.185Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’de Asansör Çöktü, 1 İşçi Ağır ...\"",
-      "type": "info"
-    },
-    {
-      "id": "xxfskpakc",
-      "timestamp": "2026-11-21T21:59:26.564Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin'de otomobiller çarpıştı: 1 ölü, 4...\"",
-      "type": "info"
-    },
-    {
-      "id": "lqe7yot76",
-      "timestamp": "2026-11-21T21:59:25.944Z",
-      "message": "Telegram bildirimi gönderildi: \"Mardin Kızıltepe’de bıçaklı kavga: 1’i ç...\"",
-      "type": "info"
-    },
-    {
-      "id": "qa5cl0p24",
-      "timestamp": "2026-11-21T21:59:25.325Z",
-      "message": "Telegram bildirimi gönderildi: \"İki aile arasında çıkan 'yol verme' kavg...\"",
       "type": "info"
     }
   ]
