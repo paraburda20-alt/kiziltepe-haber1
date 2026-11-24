@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mardin'de deprem tatbikatı yapılacak",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXAzbmU2Q0pLOGRuY3hycnJpSGRKNUU0VXRwdzFwd2J0VWE1ejlSX3ktZ2VNTDJ0TktyNDFyZjB6THZfSGZxcVJRZlF2Z1ZpU0JnTE5oNnJYWnF1bnNZVVBNYUtBUzM4MlhnMHRiSkJraU5YT3RDX2N6RG56NUJnanRzSGFwNXhtNm9CbW5ETF9Xd2gySjNmcEN2T2w3MjJT?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 12:08:13 GMT",
+      "guid": "CBMioAFBVV95cUxOQXAzbmU2Q0pLOGRuY3hycnJpSGRKNUU0VXRwdzFwd2J0VWE1ejlSX3ktZ2VNTDJ0TktyNDFyZjB6THZfSGZxcVJRZlF2Z1ZpU0JnTE5oNnJYWnF1bnNZVVBNYUtBUzM4MlhnMHRiSkJraU5YT3RDX2N6RG56NUJnanRzSGFwNXhtNm9CbW5ETF9Xd2gySjNmcEN2T2w3MjJT",
+      "source": "Habertürk",
+      "id": "CBMioAFBVV95cUxOQXAzbmU2Q0pLOGRuY3hycnJpSGRKNUU0VXRwdzFwd2J0VWE1ejlSX3ktZ2VNTDJ0TktyNDFyZjB6THZfSGZxcVJRZlF2Z1ZpU0JnTE5oNnJYWnF1bnNZVVBNYUtBUzM4MlhnMHRiSkJraU5YT3RDX2N6RG56NUJnanRzSGFwNXhtNm9CbW5ETF9Xd2gySjNmcEN2T2w3MjJT",
+      "crawledAt": "2026-11-24T21:27:09.993Z"
+    },
+    {
       "title": "Mardin'de deprem tatbikatı gerçekleştirilecek",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMUQ2YTBUYldXU1Y0cmpRRTdnaWpOTENZREVNN0FTYWprRXE4MmgyeHByVExLSVBqUmtXLXQxNGdHZzk5bjNrOWsyREJlcnhVVTNkd0RKMmltTVB1WE5YUWw5TVEwZnY3OXhqTmZJNl8xUjFCeVczVk9Qcmx3VjVLWDhKSUNhaTgwRkpieV9Wc0k4VTlCVmFiM1V2S3lwQlFjamVualNvT21SdG1m?oc=5",
       "pubDate": "Tue, 24 Nov 2026 09:42:00 GMT",
@@ -4490,15 +4499,6 @@
       "source": "Cumhuriyet",
       "id": "CBMiqwFBVV95cUxOODVHbndSWTJ5SFdKeDhWNUExYWhKdko5eDFCT2p1WDY1bURNZzU1LXMzRDlFTFFEeWFIVWgzTUQ0YkRpNW8zaEJoRVpoOGYwVjdSd3E0YkpzU1ZSbWNibU9NMW5sUW5FUnIyWDd3Wk1DeHNUc1Jyd292NnFfckFrTjQ5VGp3cldnZnVkLVNoVnpOU1ZQa2lTWVBsWU45QU5sSUVmbmFIQVJhSGM",
       "crawledAt": "2026-11-07T16:01:49.541Z"
-    },
-    {
-      "title": "Mardin’de planlı elektrik kesintisi: Çok sayıda mahalle etkilenecek",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFh5SlVKWjJveFpKcWY5UzUyMUp6MkhtU3RvdlRPOFBoSkFkQnQxcHhZMXUwUkZyREM0VUFkR3c4WU9hbUtxODlkZ1hZeDZvRUV2LWFoYlpoYWZUUEZndmJieElaV2UxMVUzVVM5NWdRcldwT2xhSEh1NGZCV3JXVGZrTGd0T1F0aGYtTk16cWNmakswLWZ0UFRaQzFJWEl2MEJvMy1LeS1wY1HSAbABQVVfeXFMTTZoX01XT1RYUURLU1lXVzFkVVd2amd4elVUblV1SW1vZGJIQl9KMG4ydGNKQ0hjaWFCTloxSlFidi1zSGdOd1NzamtVMEgtdzJkTnE3YmdaelkwNGR5cGNpb0FOSHpLM1l5OGlDc0txOFN5b0MyTW5DbnUxc1JKYU5PYW94MjZnRjVGbDdyUzRYaElCWjlNcWZ4MGlvX1hCbEJSaTRZaGxzV0tJUWNXM1M?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 12:43:00 GMT",
-      "guid": "CBMiqwFBVV95cUxPWFh5SlVKWjJveFpKcWY5UzUyMUp6MkhtU3RvdlRPOFBoSkFkQnQxcHhZMXUwUkZyREM0VUFkR3c4WU9hbUtxODlkZ1hZeDZvRUV2LWFoYlpoYWZUUEZndmJieElaV2UxMVUzVVM5NWdRcldwT2xhSEh1NGZCV3JXVGZrTGd0T1F0aGYtTk16cWNmakswLWZ0UFRaQzFJWEl2MEJvMy1LeS1wY1HSAbABQVVfeXFMTTZoX01XT1RYUURLU1lXVzFkVVd2amd4elVUblV1SW1vZGJIQl9KMG4ydGNKQ0hjaWFCTloxSlFidi1zSGdOd1NzamtVMEgtdzJkTnE3YmdaelkwNGR5cGNpb0FOSHpLM1l5OGlDc0txOFN5b0MyTW5DbnUxc1JKYU5PYW94MjZnRjVGbDdyUzRYaElCWjlNcWZ4MGlvX1hCbEJSaTRZaGxzV0tJUWNXM1M",
-      "source": "Mardin Haber Gazetesi",
-      "id": "CBMiqwFBVV95cUxPWFh5SlVKWjJveFpKcWY5UzUyMUp6MkhtU3RvdlRPOFBoSkFkQnQxcHhZMXUwUkZyREM0VUFkR3c4WU9hbUtxODlkZ1hZeDZvRUV2LWFoYlpoYWZUUEZndmJieElaV2UxMVUzVVM5NWdRcldwT2xhSEh1NGZCV3JXVGZrTGd0T1F0aGYtTk16cWNmakswLWZ0UFRaQzFJWEl2MEJvMy1LeS1wY1HSAbABQVVfeXFMTTZoX01XT1RYUURLU1lXVzFkVVd2amd4elVUblV1SW1vZGJIQl9KMG4ydGNKQ0hjaWFCTloxSlFidi1zSGdOd1NzamtVMEgtdzJkTnE3YmdaelkwNGR5cGNpb0FOSHpLM1l5OGlDc0txOFN5b0MyTW5DbnUxc1JKYU5PYW94MjZnRjVGbDdyUzRYaElCWjlNcWZ4MGlvX1hCbEJSaTRZaGxzV0tJUWNXM1M",
-      "crawledAt": "2026-11-07T16:01:49.541Z"
     }
   ],
   "settings": {
@@ -4513,6 +4513,42 @@
     "lastPharmaciesDate": "2026-11-22"
   },
   "logs": [
+    {
+      "id": "q7s7mf5th",
+      "timestamp": "2026-11-24T21:27:10.453Z",
+      "message": "Telegram bildirimi gönderildi: \"Mardin'de deprem tatbikatı yapılacak...\"",
+      "type": "info"
+    },
+    {
+      "id": "n1fqvp7en",
+      "timestamp": "2026-11-24T21:27:09.999Z",
+      "message": "1 adet yeni haber için bildirimler gönderiliyor...",
+      "type": "info"
+    },
+    {
+      "id": "b8kxdsjh4",
+      "timestamp": "2026-11-24T21:27:09.996Z",
+      "message": "Veritabanına 1 adet yeni haber eklendi.",
+      "type": "info"
+    },
+    {
+      "id": "qbyx5kfgj",
+      "timestamp": "2026-11-24T21:27:09.985Z",
+      "message": "Tarama tamamlandı. Google News üzerinde 101 adet haber başlığı bulundu.",
+      "type": "info"
+    },
+    {
+      "id": "1vym4swj0",
+      "timestamp": "2026-11-24T21:27:09.331Z",
+      "message": "Tarama başlatıldı: \"Kızıltepe\" kelimesi taranıyor...",
+      "type": "info"
+    },
+    {
+      "id": "tbe4gcoji",
+      "timestamp": "2026-11-24T21:27:09.323Z",
+      "message": "GitHub Actions ortamında otomatik tarama başlatıldı.",
+      "type": "info"
+    },
     {
       "id": "uljj9ta2e",
       "timestamp": "2026-11-24T11:28:33.050Z",
@@ -5375,42 +5411,6 @@
       "id": "18ybl5rml",
       "timestamp": "2026-11-22T01:58:56.217Z",
       "message": "Telegram bildirimi gönderildi: \"KIZILTEPE TOKİ İLKOKULU ÖĞRETMEN VE ÖĞRE...\"",
-      "type": "info"
-    },
-    {
-      "id": "z9sfc1row",
-      "timestamp": "2026-11-22T01:58:55.584Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe Şubesi ve Eğitim Merkezi Açıld...\"",
-      "type": "info"
-    },
-    {
-      "id": "l4g7pfyms",
-      "timestamp": "2026-11-22T01:58:54.945Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe'de Kaçırılan Yusuf Tunç'dan 16...\"",
-      "type": "info"
-    },
-    {
-      "id": "bbm0n2w13",
-      "timestamp": "2026-11-22T01:58:54.314Z",
-      "message": "Telegram bildirimi gönderildi: \"İl Milli Eğitim Müdürümüz Murat Demir, K...\"",
-      "type": "info"
-    },
-    {
-      "id": "exebhsqwc",
-      "timestamp": "2026-11-22T01:58:53.677Z",
-      "message": "Telegram bildirimi gönderildi: \"Kızıltepe’ye Havanlı Saldırı...\"",
-      "type": "info"
-    },
-    {
-      "id": "56wwr9gj5",
-      "timestamp": "2026-11-22T01:58:53.043Z",
-      "message": "Telegram bildirimi gönderildi: \"KIZILTEPE SPOR LİSESİ, TÜRKİYE OKULLAR A...\"",
-      "type": "info"
-    },
-    {
-      "id": "lyrr92088",
-      "timestamp": "2026-11-22T01:58:52.406Z",
-      "message": "Telegram bildirimi gönderildi: \"İL MİLLİ EĞİTİM MÜDÜRÜMÜZ SAYIN MURAT DE...\"",
       "type": "info"
     }
   ]
